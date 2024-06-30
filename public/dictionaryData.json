@@ -1,0 +1,1146 @@
+[
+  {
+    "word": "a",
+    "lang": "volapuk",
+    "category": "preposition",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "per"
+      },
+      {
+        "lang": "english",
+        "text": "at"
+      }
+    ],
+    "examples": [
+      { "lang": "english", "text": "A düp = Per hour" },
+      { "lang": "english", "text": "A dolars tel = At 2 dollars each" }
+    ]
+  },
+  {
+    "word": "ad",
+    "lang": "volapuk",
+    "category": "preposition",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for"
+      },
+      {
+        "lang": "english",
+        "text": "in order to"
+      },
+      {
+        "lang": "english",
+        "text": "to"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "adas",
+    "lang": "volapuk",
+    "category": "conjunction",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "that"
+      },
+      {
+        "lang": "english",
+        "text": "to"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "(after positive) Binom tu liegik, adas vedom tifan = He is too rich to become a thief"
+      }
+    ]
+  },
+  {
+    "word": "adelo",
+    "roots": ["del"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "today"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Adelo binon del gudik = Today is a good day"
+      }
+    ]
+  },
+  {
+    "word": "adyö",
+    "lang": "volapuk",
+    "category": "interjection",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "goodbye"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Adyō! = Goodbye!"
+      }
+    ]
+  },
+  {
+    "word": "ag",
+    "lang": "volapuk",
+    "category": "interjection",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "oh"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Ag! = Oh!"
+      }
+    ]
+  },
+  {
+    "word": "agödo",
+    "roots": ["göd"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this morning"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Agödo no äfidob janedi = This morning I didn't eat breakfast."
+      }
+    ]
+  },
+  {
+    "word": "ai-",
+    "lang": "volapuk",
+    "category": "prefix",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "always"
+      },
+      {
+        "lang": "english",
+        "text": "ever"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Aidelik = Daily"
+      }
+    ]
+  },
+  {
+    "word": "aidelik",
+    "roots": ["ai-", "del"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "daily"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Nuns aidelik = Daily news"
+      }
+    ]
+  },
+  {
+    "word": "aipo",
+    "roots": ["ai-", "po"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "after each"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "aipos",
+    "roots": ["ai-", "po"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "after every"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Aipos dels tel = Every other day"
+      }
+    ]
+  },
+  {
+    "word": "al-",
+    "roots": ["al-"],
+    "lang": "volapuk",
+    "category": "prefix",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "each"
+      },
+      {
+        "lang": "english",
+        "text": "every"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "aldelik",
+    "roots": ["al-", "del"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "daily"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "alik",
+    "roots": ["al-"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "each"
+      },
+      {
+        "lang": "english",
+        "text": "every"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "almulik",
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "monthly"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "alna",
+    "roots": ["al-"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "each time"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "alo",
+    "roots": ["al-"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at any rate"
+      },
+      {
+        "lang": "english",
+        "text": "at any event"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "alseimik",
+    "roots": ["al-", "seim"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "any"
+      },
+      {
+        "lang": "english",
+        "text": "whatever"
+      },
+      {
+        "lang": "english",
+        "text": "whichever"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "alyelik",
+    "roots": ["al-", "yel"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "annual"
+      },
+      {
+        "lang": "english",
+        "text": "yearly"
+      }
+    ]
+  },
+  {
+    "word": "aneito",
+    "roots": ["neit"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tonight"
+      }
+    ]
+  },
+  {
+    "word": "anik",
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "several"
+      },
+      {
+        "lang": "english",
+        "text": "some"
+      }
+    ]
+  },
+  {
+    "word": "anu",
+    "lang": "volapuk",
+    "roots": ["nu"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at this moment"
+      },
+      {
+        "lang": "english",
+        "text": "now"
+      }
+    ]
+  },
+  {
+    "word": "aposzedelo",
+    "lang": "volapuk",
+    "roots": ["pos", "ze", "del"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this afternoon"
+      }
+    ]
+  },
+  {
+    "word": "as",
+    "lang": "volapuk",
+    "roots": ["as"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as"
+      }
+    ]
+  },
+  {
+    "word": "asā",
+    "lang": "volapuk",
+    "roots": ["as"],
+    "category": "conjunction",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as (conj.)"
+      }
+    ]
+  },
+  {
+    "word": "asoaro",
+    "lang": "volapuk",
+    "roots": ["soar"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this evening"
+      }
+    ]
+  },
+  {
+    "word": "at",
+    "lang": "volapuk",
+    "roots": ["at"],
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this (adj.)"
+      }
+    ]
+  },
+  {
+    "word": "atna",
+    "lang": "volapuk",
+    "roots": ["at"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this time"
+      }
+    ]
+  },
+  {
+    "word": "atimo",
+    "lang": "volapuk",
+    "roots": ["tim"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at present"
+      }
+    ]
+  },
+  {
+    "word": "atos",
+    "lang": "volapuk",
+    "roots": ["at"],
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "this (noun)"
+      }
+    ]
+  },
+  {
+    "word": "ädeadöl",
+    "lang": "volapuk",
+    "roots": ["dead"],
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deceased"
+      }
+    ]
+  },
+  {
+    "word": "ädelo",
+    "lang": "volapuk",
+    "roots": ["del"],
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "yesterday"
+      }
+    ]
+  },
+  {
+    "word": "äl",
+    "lang": "volapuk",
+    "roots": ["äl"],
+    "category": "preposition",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "toward"
+      },
+      {
+        "lang": "english",
+        "text": "towards"
+      }
+    ]
+  },
+  {
+    "word": "äneito",
+    "lang": "volapuk",
+    "roots": ["neit"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "last night"
+      }
+    ]
+  },
+  {
+    "word": "änu",
+    "lang": "volapuk",
+    "roots": ["nu"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "recently"
+      }
+    ]
+  },
+  {
+    "word": "äs",
+    "lang": "volapuk",
+    "roots": ["äs"],
+    "category": "preposition",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as (prep.)"
+      },
+      {
+        "lang": "english",
+        "text": "like"
+      }
+    ]
+  },
+  {
+    "word": "äsä",
+    "lang": "volapuk",
+    "roots": ["äs"],
+    "category": "conjunction",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as (conj.)"
+      },
+      {
+        "lang": "english",
+        "text": "like (conj.)"
+      }
+    ]
+  },
+  {
+    "word": "äsi",
+    "lang": "volapuk",
+    "roots": ["äs"],
+    "category": "conjunction",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as also"
+      }
+    ]
+  },
+  {
+    "word": "äsoaro",
+    "lang": "volapuk",
+    "roots": ["soar"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "last evening"
+      }
+    ]
+  },
+  {
+    "word": "äsva",
+    "lang": "volapuk",
+    "roots": ["äs", "va"],
+    "category": "conjunction",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as if"
+      },
+      {
+        "lang": "english",
+        "text": "as though"
+      }
+    ]
+  },
+  {
+    "word": "äsvo",
+    "lang": "volapuk",
+    "roots": ["äs", "vo"],
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as it were"
+      }
+    ]
+  },
+  {
+    "word": "ävigo",
+    "roots": ["vig"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "last week"
+      }
+    ]
+  },
+  {
+    "word": "äyelo",
+    "roots": ["yel"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "last year"
+      }
+    ]
+  },
+  {
+    "word": "ba",
+    "roots": ["ba"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "perhaps"
+      }
+    ]
+  },
+  {
+    "word": "babülonän",
+    "roots": ["babŭlon"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "babylonia"
+      }
+    ]
+  },
+  {
+    "word": "badik",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bad"
+      }
+    ]
+  },
+  {
+    "word": "badikum",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "worse"
+      }
+    ]
+  },
+  {
+    "word": "badikumo",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "worse"
+      }
+    ]
+  },
+  {
+    "word": "badikumön",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to deteriorate"
+      }
+    ]
+  },
+  {
+    "word": "badim",
+    "roots": ["bad", "im"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pessimism"
+      }
+    ]
+  },
+  {
+    "word": "badiman",
+    "roots": ["bad", "im"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pessimist"
+      }
+    ]
+  },
+  {
+    "word": "badimik",
+    "roots": ["bad", "im"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pessimistic"
+      }
+    ]
+  },
+  {
+    "word": "badinilud",
+    "roots": ["bad", "ni", "lüd"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a suspicion"
+      }
+    ]
+  },
+  {
+    "word": "badinilüdön (tefü)",
+    "roots": ["bad", "ni", "lüd"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to suspect"
+      }
+    ]
+  },
+  {
+    "word": "badocedön",
+    "roots": ["bad", "ced"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take amiss"
+      }
+    ]
+  },
+  {
+    "word": "badöf",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "malice"
+      },
+      {
+        "lang": "english",
+        "text": "spite"
+      }
+    ]
+  },
+  {
+    "word": "badöfafredik",
+    "roots": ["bad", "fred"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "frivolous"
+      },
+      {
+        "lang": "english",
+        "text": "mischievous"
+      }
+    ]
+  },
+  {
+    "word": "badöfil",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mischievousness"
+      }
+    ]
+  },
+  {
+    "word": "badükumam",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deterioration"
+      }
+    ]
+  },
+  {
+    "word": "bafod",
+    "roots": ["bafod"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a moustache"
+      }
+    ]
+  },
+  {
+    "word": "bagaf",
+    "roots": ["bagaf"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a paragraph"
+      }
+    ]
+  },
+  {
+    "word": "bai",
+    "lang": "volapuk",
+    "category": "preposition",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "according (to)"
+      }
+    ]
+  },
+  {
+    "word": "baiädiko",
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "accordingly, correspondingly"
+      }
+    ]
+  },
+  {
+    "word": "baiädön (bai)",
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to agree, to be in accordance (with), to correspond"
+      }
+    ]
+  },
+  {
+    "word": "baicedön (ko)",
+    "roots": ["ced"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to agree (with)"
+      }
+    ]
+  },
+  {
+    "word": "baik",
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eventual"
+      }
+    ]
+  },
+  {
+    "word": "baiko",
+    "lang": "volapuk",
+    "category": "adverb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "possibly"
+      }
+    ]
+  },
+  {
+    "word": "bailön",
+    "roots": ["bail"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to let (house, etc)"
+      }
+    ]
+  },
+  {
+    "word": "baiodön (ko)",
+    "roots": ["baiod"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to confer (with); to liaise (with)"
+      }
+    ]
+  },
+  {
+    "word": "baisenäl",
+    "roots": ["sen"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sympathy"
+      }
+    ]
+  },
+  {
+    "word": "baitimädik",
+    "roots": ["tim"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "up-to-date"
+      }
+    ]
+  },
+  {
+    "word": "baitonav",
+    "roots": ["ton"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harmony"
+      }
+    ]
+  },
+  {
+    "word": "baitonik",
+    "roots": ["ton"],
+    "lang": "volapuk",
+    "category": "adjective",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harmonious"
+      }
+    ]
+  },
+  {
+    "word": "baitonükön",
+    "roots": ["ton"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to tune (a musical instrument)"
+      }
+    ]
+  },
+  {
+    "word": "baivögön (bai, ko)",
+    "roots": ["vög"],
+    "lang": "volapuk",
+    "category": "verb",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to agree (with)"
+      }
+    ]
+  },
+  {
+    "word": "bakan",
+    "roots": ["bak"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a baker"
+      }
+    ]
+  },
+  {
+    "word": "bakaston",
+    "roots": ["bak", "ston"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a brick"
+      }
+    ]
+  },
+  {
+    "word": "baköp",
+    "roots": ["bak", "öp"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bakery"
+      }
+    ]
+  },
+  {
+    "word": "bakter",
+    "roots": ["bakter"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bacterium"
+      }
+    ]
+  },
+  {
+    "word": "bakterav",
+    "roots": ["bakter"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bacteriology"
+      }
+    ]
+  },
+  {
+    "word": "bakud",
+    "roots": ["bakud"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an abacus"
+      }
+    ]
+  },
+  {
+    "word": "bakun",
+    "roots": ["bakun"],
+    "lang": "volapuk",
+    "category": "noun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a balcony"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bakun balid = dress circle; Bakun telid = upper circle; Bakun kilid = (the) gallery."
+      }
+    ]
+  },
+  {
+    "word": "bal",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "numeral",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one (number)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bal len votik = next to each other."
+      }
+    ]
+  },
+  {
+    "word": "balan",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "pronoun",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one (person)"
+      }
+    ]
+  }
+]
