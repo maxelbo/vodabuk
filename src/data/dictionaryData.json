@@ -2,7 +2,7 @@
   {
     "word": "a",
     "lang": "volapuk",
-    "category": "preposition",
+    "category": "prep.",
     "translations": [
       {
         "lang": "english",
@@ -21,7 +21,7 @@
   {
     "word": "ad",
     "lang": "volapuk",
-    "category": "preposition",
+    "category": "prep.",
     "translations": [
       {
         "lang": "english",
@@ -41,7 +41,7 @@
   {
     "word": "adas",
     "lang": "volapuk",
-    "category": "conjunction",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
@@ -63,7 +63,7 @@
     "word": "adelo",
     "roots": ["del"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -80,7 +80,7 @@
   {
     "word": "adyö",
     "lang": "volapuk",
-    "category": "interjection",
+    "category": "interj.",
     "translations": [
       {
         "lang": "english",
@@ -97,7 +97,7 @@
   {
     "word": "ag",
     "lang": "volapuk",
-    "category": "interjection",
+    "category": "interj.",
     "translations": [
       {
         "lang": "english",
@@ -115,7 +115,7 @@
     "word": "agödo",
     "roots": ["göd"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -130,9 +130,9 @@
     ]
   },
   {
-    "word": "ai-",
+    "word": "ai",
     "lang": "volapuk",
-    "category": "prefix",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -152,9 +152,9 @@
   },
   {
     "word": "aidelik",
-    "roots": ["ai-", "del"],
+    "roots": ["ai", "del"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -170,9 +170,9 @@
   },
   {
     "word": "aipo",
-    "roots": ["ai-", "po"],
+    "roots": ["ai", "po"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -183,9 +183,9 @@
   },
   {
     "word": "aipos",
-    "roots": ["ai-", "po"],
+    "roots": ["ai", "po"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -200,10 +200,10 @@
     ]
   },
   {
-    "word": "al-",
-    "roots": ["al-"],
+    "word": "al",
+    "roots": ["al"],
     "lang": "volapuk",
-    "category": "prefix",
+    "category": "pron.",
     "translations": [
       {
         "lang": "english",
@@ -217,10 +217,27 @@
     "examples": []
   },
   {
-    "word": "aldelik",
-    "roots": ["al-", "del"],
+    "word": "alan",
+    "roots": ["al"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "everyone"
+      },
+      {
+        "lang": "english",
+        "text": "each person"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "aldelik",
+    "roots": ["al", "del"],
+    "lang": "volapuk",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -231,9 +248,9 @@
   },
   {
     "word": "alik",
-    "roots": ["al-"],
+    "roots": ["al"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -249,7 +266,7 @@
   {
     "word": "almulik",
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -260,9 +277,9 @@
   },
   {
     "word": "alna",
-    "roots": ["al-"],
+    "roots": ["al"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -273,9 +290,9 @@
   },
   {
     "word": "alo",
-    "roots": ["al-"],
+    "roots": ["al"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -290,9 +307,9 @@
   },
   {
     "word": "alseimik",
-    "roots": ["al-", "seim"],
+    "roots": ["al", "seim"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -311,9 +328,9 @@
   },
   {
     "word": "alyelik",
-    "roots": ["al-", "yel"],
+    "roots": ["al", "yel"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -329,7 +346,7 @@
     "word": "aneito",
     "roots": ["neit"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -340,7 +357,7 @@
   {
     "word": "anik",
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -356,7 +373,7 @@
     "word": "anu",
     "lang": "volapuk",
     "roots": ["nu"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -372,7 +389,7 @@
     "word": "aposzedelo",
     "lang": "volapuk",
     "roots": ["pos", "ze", "del"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -384,7 +401,7 @@
     "word": "as",
     "lang": "volapuk",
     "roots": ["as"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -396,7 +413,7 @@
     "word": "asā",
     "lang": "volapuk",
     "roots": ["as"],
-    "category": "conjunction",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
@@ -408,7 +425,7 @@
     "word": "asoaro",
     "lang": "volapuk",
     "roots": ["soar"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -420,7 +437,7 @@
     "word": "at",
     "lang": "volapuk",
     "roots": ["at"],
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -432,7 +449,7 @@
     "word": "atna",
     "lang": "volapuk",
     "roots": ["at"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -444,7 +461,7 @@
     "word": "atimo",
     "lang": "volapuk",
     "roots": ["tim"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -456,11 +473,11 @@
     "word": "atos",
     "lang": "volapuk",
     "roots": ["at"],
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "this (noun)"
+        "text": "this (n.)"
       }
     ]
   },
@@ -468,7 +485,7 @@
     "word": "ädeadöl",
     "lang": "volapuk",
     "roots": ["dead"],
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -480,7 +497,7 @@
     "word": "ädelo",
     "lang": "volapuk",
     "roots": ["del"],
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -492,7 +509,7 @@
     "word": "äl",
     "lang": "volapuk",
     "roots": ["äl"],
-    "category": "preposition",
+    "category": "prep.",
     "translations": [
       {
         "lang": "english",
@@ -508,7 +525,7 @@
     "word": "äneito",
     "lang": "volapuk",
     "roots": ["neit"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -520,7 +537,7 @@
     "word": "änu",
     "lang": "volapuk",
     "roots": ["nu"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -532,7 +549,7 @@
     "word": "äs",
     "lang": "volapuk",
     "roots": ["äs"],
-    "category": "preposition",
+    "category": "prep.",
     "translations": [
       {
         "lang": "english",
@@ -548,7 +565,7 @@
     "word": "äsä",
     "lang": "volapuk",
     "roots": ["äs"],
-    "category": "conjunction",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
@@ -564,7 +581,7 @@
     "word": "äsi",
     "lang": "volapuk",
     "roots": ["äs"],
-    "category": "conjunction",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
@@ -576,7 +593,7 @@
     "word": "äsoaro",
     "lang": "volapuk",
     "roots": ["soar"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -588,7 +605,7 @@
     "word": "äsva",
     "lang": "volapuk",
     "roots": ["äs", "va"],
-    "category": "conjunction",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -604,7 +621,7 @@
     "word": "äsvo",
     "lang": "volapuk",
     "roots": ["äs", "vo"],
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -616,7 +633,7 @@
     "word": "ävigo",
     "roots": ["vig"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -628,7 +645,7 @@
     "word": "äyelo",
     "roots": ["yel"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -640,7 +657,7 @@
     "word": "ba",
     "roots": ["ba"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -652,7 +669,7 @@
     "word": "babülonän",
     "roots": ["babŭlon"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -664,7 +681,7 @@
     "word": "badik",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -676,7 +693,7 @@
     "word": "badikum",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -688,7 +705,7 @@
     "word": "badikumo",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -700,7 +717,7 @@
     "word": "badikumön",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -710,9 +727,9 @@
   },
   {
     "word": "badim",
-    "roots": ["bad", "im"],
+    "roots": ["bad"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -722,9 +739,9 @@
   },
   {
     "word": "badiman",
-    "roots": ["bad", "im"],
+    "roots": ["bad"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -734,9 +751,9 @@
   },
   {
     "word": "badimik",
-    "roots": ["bad", "im"],
+    "roots": ["bad"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -746,9 +763,9 @@
   },
   {
     "word": "badinilud",
-    "roots": ["bad", "ni", "lüd"],
+    "roots": ["bad", "nilud"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -757,10 +774,10 @@
     ]
   },
   {
-    "word": "badinilüdön (tefü)",
-    "roots": ["bad", "ni", "lüd"],
+    "word": "badiniludön (tefü)",
+    "roots": ["bad", "nilud"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -772,7 +789,7 @@
     "word": "badocedön",
     "roots": ["bad", "ced"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -784,7 +801,7 @@
     "word": "badöf",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -800,7 +817,7 @@
     "word": "badöfafredik",
     "roots": ["bad", "fred"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -816,7 +833,7 @@
     "word": "badöfil",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -828,7 +845,7 @@
     "word": "badükumam",
     "roots": ["bad"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -840,7 +857,7 @@
     "word": "bafod",
     "roots": ["bafod"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -852,7 +869,7 @@
     "word": "bagaf",
     "roots": ["bagaf"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -862,8 +879,9 @@
   },
   {
     "word": "bai",
+    "roots": ["bai"],
     "lang": "volapuk",
-    "category": "preposition",
+    "category": "prep.",
     "translations": [
       {
         "lang": "english",
@@ -874,7 +892,7 @@
   {
     "word": "baiädiko",
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -884,8 +902,9 @@
   },
   {
     "word": "baiädön (bai)",
+    "roots": ["bai", "äd"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -895,9 +914,9 @@
   },
   {
     "word": "baicedön (ko)",
-    "roots": ["ced"],
+    "roots": ["bai", "ced"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -907,8 +926,9 @@
   },
   {
     "word": "baik",
+    "roots": ["ba"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -918,8 +938,9 @@
   },
   {
     "word": "baiko",
+    "roots": ["ba"],
     "lang": "volapuk",
-    "category": "adverb",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
@@ -931,7 +952,7 @@
     "word": "bailön",
     "roots": ["bail"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -941,9 +962,9 @@
   },
   {
     "word": "baiodön (ko)",
-    "roots": ["od"],
+    "roots": ["bai", "od"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -953,9 +974,9 @@
   },
   {
     "word": "baisenäl",
-    "roots": ["sen"],
+    "roots": ["bai", "sen"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -965,9 +986,9 @@
   },
   {
     "word": "baitimädik",
-    "roots": ["tim"],
+    "roots": ["bai", "tim"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -977,9 +998,9 @@
   },
   {
     "word": "baitonav",
-    "roots": ["ton"],
+    "roots": ["bai", "ton"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -989,9 +1010,9 @@
   },
   {
     "word": "baitonik",
-    "roots": ["ton"],
+    "roots": ["bai", "ton"],
     "lang": "volapuk",
-    "category": "adjective",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
@@ -1001,9 +1022,9 @@
   },
   {
     "word": "baitonükön",
-    "roots": ["ton"],
+    "roots": ["bai", "ton"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -1013,9 +1034,9 @@
   },
   {
     "word": "baivögön (bai, ko)",
-    "roots": ["vög"],
+    "roots": ["bai", "vög"],
     "lang": "volapuk",
-    "category": "verb",
+    "category": "v.",
     "translations": [
       {
         "lang": "english",
@@ -1027,7 +1048,7 @@
     "word": "bakan",
     "roots": ["bak"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1039,7 +1060,7 @@
     "word": "bakaston",
     "roots": ["bak", "ston"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1051,7 +1072,7 @@
     "word": "baköp",
     "roots": ["bak"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1063,7 +1084,7 @@
     "word": "bakter",
     "roots": ["bakter"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1075,7 +1096,7 @@
     "word": "bakterav",
     "roots": ["bakter"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1087,7 +1108,7 @@
     "word": "bakud",
     "roots": ["bakud"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1099,7 +1120,7 @@
     "word": "bakun",
     "roots": ["bakun"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -1135,7 +1156,7 @@
     "word": "balan",
     "roots": ["bal"],
     "lang": "volapuk",
-    "category": "noun",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
