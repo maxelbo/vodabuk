@@ -1,17 +1,21 @@
 import Search from '@/components/Search';
+// TEMP: Importing the data from the JSON file
+import dictionaryData from '@/data/dictionaryData.json';
 
-async function getDictionaryData() {
-  const res = await fetch(process.env.API_ENDPOINT!);
+// To fetch from the API
+// async function getDictionaryData() {
+//   const res = await fetch(process.env.API_ENDPOINT!);
 
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
+//   if (!res.ok) {
+//     throw new Error('Failed to fetch data');
+//   }
 
-  return res.json();
-}
+//   return res.json();
+// }
 
 export default async function Home() {
-  const dictionaryData = await getDictionaryData();
+  // TEMP: Fetching the data from the JSON file
+  // const dictionaryData = await getDictionaryData();
 
   return (
     <>
