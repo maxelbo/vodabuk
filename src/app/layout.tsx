@@ -5,9 +5,44 @@ import { ThemeProvider } from '@/components/ThemeProvider';
 
 const font = Libre_Baskerville({ subsets: ['latin'], weight: ['400', '700'] });
 
+const headTitle = 'Vödabuk';
+const headDesc = 'A Volapük Dictionary.';
+const headCreator = 'Max Elbo';
+
 export const metadata: Metadata = {
-  title: 'Vödabuk',
-  description: 'Vödabuk is a Volapük dictionary that uses the Vōdabuk API.',
+  title: headTitle,
+  description: headDesc,
+  creator: headCreator,
+  publisher: headCreator,
+  openGraph: {
+    type: 'website',
+    url: 'https://vodabuk.com',
+    title: headTitle,
+    description: headDesc,
+    siteName: headTitle,
+    images: [
+      {
+        url: 'https://vodabuk.com/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: headTitle,
+      },
+    ],
+  },
+  twitter: {
+    site: 'https://vodabuk.com',
+    title: headTitle,
+    description: headDesc,
+    creator: headCreator,
+    images: [
+      {
+        url: 'https://vodabuk.com/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: headTitle,
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
@@ -18,7 +53,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${font.className} flex h-screen flex-col justify-between bg-slate-900 text-white`}
+        className={`${font.className} flex h-dvh flex-col justify-between bg-slate-900 text-white`}
       >
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <header className="flex items-center justify-between bg-slate-800 p-4">
