@@ -51,19 +51,21 @@ export default function Search({ dictionaryData }: SearchProps) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Enter a word"
-          aria-label="Search for an English word in the Volapük dictionary"
+          placeholder="Search / Sukolös"
+          aria-label="Search a word in the Volapük dictionary."
         />
         <Button type="submit" aria-label="Search" className="rounded-md border-2 px-4">
           <SearchIcon />
         </Button>
       </form>
-      <div className="mt-4 h-[50vh] w-full overflow-auto rounded-md bg-slate-800 px-4 text-white">
+      <div className="mt-4 h-[65vh] w-full overflow-auto rounded-md bg-slate-800 px-4 text-white">
         {results.length > 0 ? (
           results.map((result, index) => <Result result={result} key={index} />)
         ) : (
-          <p className="flex h-full items-center justify-center">
-            No results found. Ätuvon sekis nonikis.
+          <p className="flex h-full items-center justify-center text-center">
+            No results found.
+            <br />
+            Seks nonik pätuvons.
           </p>
         )}
       </div>
