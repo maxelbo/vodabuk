@@ -5,7 +5,7 @@ async function getDictionaryData() {
   const endpoint = process.env.API_ENDPOINT!;
 
   try {
-    const res = await fetch(endpoint);
+    const res = await fetch(endpoint, { cache: 'no-store' });
 
     if (!res.ok) {
       throw new Error(`Failed to fetch data from ${endpoint}`);
