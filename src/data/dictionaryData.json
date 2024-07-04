@@ -15,7 +15,39 @@
     ],
     "examples": [
       { "lang": "english", "text": "A düp = Per hour" },
-      { "lang": "english", "text": "A dolars tel = At 2 dollars each" }
+      { "lang": "english", "text": "A dolars tel = At 2 dollars each" },
+      { "lang": "english", "text": "Balats tel a pänids kil = Two items at threepence." },
+      { "lang": "english", "text": "Pouns deg a pösod bal = Ten pounds per person." },
+      { "lang": "english", "text": "A mans kil = Per three men." },
+      { "lang": "english", "text": "A del = Per day." },
+      { "lang": "english", "text": "Ai a step = Step by step." },
+      { "lang": "english", "text": "Selön a met = To sell by the metre." }
+    ]
+  },
+  {
+    "word": "ab",
+    "lang": "volapuk",
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "but"
+      },
+      {
+        "lang": "english",
+        "text": "however"
+      }
+    ]
+  },
+  {
+    "word": "abi",
+    "lang": "volapuk",
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "but also"
+      }
     ]
   },
   {
@@ -69,12 +101,6 @@
         "lang": "english",
         "text": "today"
       }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "Adelo binon del gudik = Today is a good day"
-      }
     ]
   },
   {
@@ -102,6 +128,10 @@
       {
         "lang": "english",
         "text": "oh"
+      },
+      {
+        "lang": "english",
+        "text": "alas"
       }
     ],
     "examples": [
@@ -146,7 +176,31 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Aidelik = Daily"
+        "text": "Aidelik = Daily."
+      },
+      {
+        "lang": "english",
+        "text": "Ai dönu = Again and again."
+      },
+      {
+        "lang": "english",
+        "text": "Ai fovo = Just as before."
+      },
+      {
+        "lang": "english",
+        "text": "Ai neplu = less and less."
+      },
+      {
+        "lang": "english",
+        "text": "Ai no = Never ever."
+      },
+      {
+        "lang": "english",
+        "text": "Ai nog = Still."
+      },
+      {
+        "lang": "english",
+        "text": "Ai plu = More and more."
       }
     ]
   },
@@ -224,7 +278,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "everyone"
+        "text": "everybody"
       },
       {
         "lang": "english",
@@ -6713,6 +6767,17 @@
       {
         "lang": "english",
         "text": "a pear"
+      }
+    ]
+  },
+  {
+    "word": "bünep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pear tree"
       }
     ]
   },
@@ -18062,6 +18127,28 @@
       {
         "lang": "english",
         "text": "Friday"
+      }
+    ]
+  },
+  {
+    "word": "Frikop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Africa"
+      }
+    ]
+  },
+  {
+    "word": "Frikopan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an African person"
       }
     ]
   },
@@ -39048,6 +39135,17 @@
     ]
   },
   {
+    "word": "Linglän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "England"
+      }
+    ]
+  },
+  {
     "word": "linul",
     "lang": "volapuk",
     "category": "n.",
@@ -45547,6 +45645,28 @@
       {
         "lang": "english",
         "text": "to earn, to merit"
+      }
+    ]
+  },
+  {
+    "word": "Merop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "America (continent)"
+      }
+    ]
+  },
+  {
+    "word": "Meropan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an American person (from the American continent)"
       }
     ]
   },
@@ -55392,11 +55512,11020 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Gololös = Do (please) go (optative mood)"
+        "text": "Gololös = Do (please) go (optative mood)."
       },
       {
         "lang": "english",
         "text": "Logonsös! = Oh, that they may see!"
+      },
+      {
+        "lang": "english",
+        "text": "Kolkömolös famülans obik = Meed my family members."
+      }
+    ]
+  },
+  {
+    "word": "paan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "briefs, shorts (clothing)"
+      }
+    ]
+  },
+  {
+    "word": "paäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a stove"
+      }
+    ]
+  },
+  {
+    "word": "pab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a butterfly"
+      }
+    ]
+  },
+  {
+    "word": "pad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a page (of book)"
+      }
+    ]
+  },
+  {
+    "word": "padön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to browse (through)"
+      }
+    ]
+  },
+  {
+    "word": "padül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a column"
+      }
+    ]
+  },
+  {
+    "word": "paeän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a heath"
+      }
+    ]
+  },
+  {
+    "word": "paelik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pale, wan"
+      }
+    ]
+  },
+  {
+    "word": "paik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pike (fish)"
+      }
+    ]
+  },
+  {
+    "word": "pakön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to expand, to spread"
+      }
+    ]
+  },
+  {
+    "word": "pal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parent"
+      }
+    ]
+  },
+  {
+    "word": "palat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "palate"
+      }
+    ]
+  },
+  {
+    "word": "palet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a party (faction)"
+      }
+    ]
+  },
+  {
+    "word": "pam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a palm (tree)"
+      }
+    ]
+  },
+  {
+    "word": "pamotön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be born"
+      }
+    ]
+  },
+  {
+    "word": "pampelut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a grapefruit"
+      }
+    ]
+  },
+  {
+    "word": "panan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pawnbroker"
+      }
+    ]
+  },
+  {
+    "word": "panön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pawn"
+      }
+    ]
+  },
+  {
+    "word": "panemön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be called/named"
+      }
+    ]
+  },
+  {
+    "word": "pankreat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pancreas (gland)"
+      }
+    ]
+  },
+  {
+    "word": "pantär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a panther"
+      }
+    ]
+  },
+  {
+    "word": "pantuf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (carpet) slipper (leisure footwear)"
+      }
+    ]
+  },
+  {
+    "word": "paopläg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a stroke"
+      }
+    ]
+  },
+  {
+    "word": "paostolan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apostle"
+      }
+    ]
+  },
+  {
+    "word": "papag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parrot"
+      }
+    ]
+  },
+  {
+    "word": "papür",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "paper"
+      }
+    ]
+  },
+  {
+    "word": "papüracans",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stationery"
+      }
+    ]
+  },
+  {
+    "word": "papüramon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "currency (monetary)"
+      }
+    ]
+  },
+  {
+    "word": "papürod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "papyrus"
+      }
+    ]
+  },
+  {
+    "word": "parad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "heaven, paradise"
+      }
+    ]
+  },
+  {
+    "word": "parafin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "kerosene, paraffin"
+      }
+    ]
+  },
+  {
+    "word": "paralüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "paralysis"
+      }
+    ]
+  },
+  {
+    "word": "pararg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a butterfly of species: Pararge megaera"
+      }
+    ]
+  },
+  {
+    "word": "parasit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parasite"
+      }
+    ]
+  },
+  {
+    "word": "parat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "apparatus"
+      }
+    ]
+  },
+  {
+    "word": "paratül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "device, gadget"
+      }
+    ]
+  },
+  {
+    "word": "pardön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to forgive (someone something)"
+      }
+    ]
+  },
+  {
+    "word": "parket",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(theatre) circle"
+      }
+    ]
+  },
+  {
+    "word": "parkön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to part (vehicles)"
+      }
+    ]
+  },
+  {
+    "word": "parköp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a park (for vehicles)"
+      }
+    ]
+  },
+  {
+    "word": "partär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(cinema/theatre) stalls"
+      }
+    ]
+  },
+  {
+    "word": "pas",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "not until now; only just"
+      }
+    ]
+  },
+  {
+    "word": "pasetaledesir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nostalgia"
+      }
+    ]
+  },
+  {
+    "word": "pasetik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "past"
+      }
+    ]
+  },
+  {
+    "word": "pasetikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) pass"
+      }
+    ]
+  },
+  {
+    "word": "pastan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an (evangelical) minister"
+      }
+    ]
+  },
+  {
+    "word": "pat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a detail"
+      }
+    ]
+  },
+  {
+    "word": "patäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a characteristic"
+      }
+    ]
+  },
+  {
+    "word": "patädan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a specialist"
+      }
+    ]
+  },
+  {
+    "word": "patädapenäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a thesis"
+      }
+    ]
+  },
+  {
+    "word": "patädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "specific"
+      }
+    ]
+  },
+  {
+    "word": "patädodilön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(pö) to specialize (in)"
+      }
+    ]
+  },
+  {
+    "word": "pated",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a model, a type"
+      }
+    ]
+  },
+  {
+    "word": "patel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "patella"
+      }
+    ]
+  },
+  {
+    "word": "patik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exceptional, particular, special"
+      }
+    ]
+  },
+  {
+    "word": "pato",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "especially, mostly"
+      }
+    ]
+  },
+  {
+    "word": "patöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a quality"
+      }
+    ]
+  },
+  {
+    "word": "patön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to enumerate, to specify"
+      }
+    ]
+  },
+  {
+    "word": "patritan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an aristocrat"
+      }
+    ]
+  },
+  {
+    "word": "patronan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a patron (of arts, etc)"
+      }
+    ]
+  },
+  {
+    "word": "patrul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a patrol"
+      }
+    ]
+  },
+  {
+    "word": "paud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an interval, a pause"
+      }
+    ]
+  },
+  {
+    "word": "paun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pound"
+      }
+    ]
+  },
+  {
+    "word": "pädän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parish (area)"
+      }
+    ]
+  },
+  {
+    "word": "pädänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parishioner"
+      }
+    ]
+  },
+  {
+    "word": "pädrik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a partridge"
+      }
+    ]
+  },
+  {
+    "word": "päk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pack"
+      }
+    ]
+  },
+  {
+    "word": "päked",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parcel"
+      }
+    ]
+  },
+  {
+    "word": "päkedem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "baggage, luggage"
+      }
+    ]
+  },
+  {
+    "word": "päkedemaspat toda",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a car boot"
+      }
+    ]
+  },
+  {
+    "word": "päkedikipedöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Left Luggage Office"
+      }
+    ]
+  },
+  {
+    "word": "päkedipolan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a porter"
+      }
+    ]
+  },
+  {
+    "word": "päkil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a packet"
+      }
+    ]
+  },
+  {
+    "word": "päkön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pack"
+      }
+    ]
+  },
+  {
+    "word": "päköp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a luggage compartment"
+      }
+    ]
+  },
+  {
+    "word": "päm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a brochure, a notebook, a pamphlet"
+      }
+    ]
+  },
+  {
+    "word": "pämod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a brochure"
+      }
+    ]
+  },
+  {
+    "word": "pänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (portrait) painter"
+      }
+    ]
+  },
+  {
+    "word": "pänot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a painting, a picture"
+      }
+    ]
+  },
+  {
+    "word": "pänön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to paint (as an artist)"
+      }
+    ]
+  },
+  {
+    "word": "päntionäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pensioner"
+      }
+    ]
+  },
+  {
+    "word": "pär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a couple, a pair"
+      }
+    ]
+  },
+  {
+    "word": "päräd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parade"
+      }
+    ]
+  },
+  {
+    "word": "pärädiko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ostentatiously"
+      }
+    ]
+  },
+  {
+    "word": "päridikam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "destruction, ruin"
+      }
+    ]
+  },
+  {
+    "word": "päridikän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ruined (person)"
+      }
+    ]
+  },
+  {
+    "word": "päridikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to perish"
+      }
+    ]
+  },
+  {
+    "word": "päridükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to ruin, to destroy"
+      }
+    ]
+  },
+  {
+    "word": "pärjid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "parsley"
+      }
+    ]
+  },
+  {
+    "word": "pärsig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a peach"
+      }
+    ]
+  },
+  {
+    "word": "pärun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (railway) platform"
+      }
+    ]
+  },
+  {
+    "word": "pärunaveg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pavement, a sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "päskaran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an angler, a fisherman"
+      }
+    ]
+  },
+  {
+    "word": "päskarön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fish"
+      }
+    ]
+  },
+  {
+    "word": "päst",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "plague"
+      }
+    ]
+  },
+  {
+    "word": "pästö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bother! damn it!"
+      }
+    ]
+  },
+  {
+    "word": "peädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fat, stout, weighty"
+      }
+    ]
+  },
+  {
+    "word": "peän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pin"
+      }
+    ]
+  },
+  {
+    "word": "peb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pulse"
+      }
+    ]
+  },
+  {
+    "word": "pebluvüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "flabbergasted"
+      }
+    ]
+  },
+  {
+    "word": "pebön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) throb"
+      }
+    ]
+  },
+  {
+    "word": "pebuüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "preferred"
+      }
+    ]
+  },
+  {
+    "word": "ped",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pressure (physical)"
+      }
+    ]
+  },
+  {
+    "word": "pedäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pressure (mental)"
+      }
+    ]
+  },
+  {
+    "word": "pedanulüdöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "well-fed"
+      }
+    ]
+  },
+  {
+    "word": "pedeteilöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fenced off, partitioned"
+      }
+    ]
+  },
+  {
+    "word": "pedafomöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "trained"
+      }
+    ]
+  },
+  {
+    "word": "pedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to press"
+      }
+    ]
+  },
+  {
+    "word": "pedälön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exert pressure (on someone)"
+      }
+    ]
+  },
+  {
+    "word": "pedütülöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deductive"
+      }
+    ]
+  },
+  {
+    "word": "pefärmüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "closed"
+      }
+    ]
+  },
+  {
+    "word": "pefeimöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ostracized"
+      }
+    ]
+  },
+  {
+    "word": "pefibiköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "senile"
+      }
+    ]
+  },
+  {
+    "word": "pefledülöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "charged (physics)"
+      }
+    ]
+  },
+  {
+    "word": "peiläp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "epilepsy"
+      }
+    ]
+  },
+  {
+    "word": "peilog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "epilogue"
+      }
+    ]
+  },
+  {
+    "word": "pein",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pine (tree)"
+      }
+    ]
+  },
+  {
+    "word": "pekvisinöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cooked"
+      }
+    ]
+  },
+  {
+    "word": "pel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "payment"
+      }
+    ]
+  },
+  {
+    "word": "pelal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a paymaster, a purser"
+      }
+    ]
+  },
+  {
+    "word": "peläsüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reduced (in price)"
+      }
+    ]
+  },
+  {
+    "word": "pelek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pelican"
+      }
+    ]
+  },
+  {
+    "word": "pelön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pay"
+      }
+    ]
+  },
+  {
+    "word": "pemiedükumöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "determinative"
+      }
+    ]
+  },
+  {
+    "word": "pemigöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mixed"
+      }
+    ]
+  },
+  {
+    "word": "pemik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "higgledy-piggledy (in no kind of order)"
+      }
+    ]
+  },
+  {
+    "word": "pemitulöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mutilated"
+      }
+    ]
+  },
+  {
+    "word": "pemotöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "born"
+      }
+    ]
+  },
+  {
+    "word": "pen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pen"
+      }
+    ]
+  },
+  {
+    "word": "penamacín",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a typewriter"
+      }
+    ]
+  },
+  {
+    "word": "penamacínaklavem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a typewriter keyboard"
+      }
+    ]
+  },
+  {
+    "word": "penäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a writing, a document"
+      }
+    ]
+  },
+  {
+    "word": "penädafenätil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "browser (computer)"
+      }
+    ]
+  },
+  {
+    "word": "penädasakäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "briefcase"
+      }
+    ]
+  },
+  {
+    "word": "penämüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reinforced"
+      }
+    ]
+  },
+  {
+    "word": "penät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grapheme, handwriting"
+      }
+    ]
+  },
+  {
+    "word": "penätav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "graphology"
+      }
+    ]
+  },
+  {
+    "word": "pendül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pendulum"
+      }
+    ]
+  },
+  {
+    "word": "pened",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a letter"
+      }
+    ]
+  },
+  {
+    "word": "penedabog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a letter box"
+      }
+    ]
+  },
+  {
+    "word": "pendülöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (children's) swing"
+      }
+    ]
+  },
+  {
+    "word": "pendülön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to swing"
+      }
+    ]
+  },
+  {
+    "word": "penedabog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a postbox"
+      }
+    ]
+  },
+  {
+    "word": "penedamäk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (postage) stamp"
+      }
+    ]
+  },
+  {
+    "word": "penediblinan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a postman"
+      }
+    ]
+  },
+  {
+    "word": "penedil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a notelet (= a short letter)"
+      }
+    ]
+  },
+  {
+    "word": "penegenüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "neutered"
+      }
+    ]
+  },
+  {
+    "word": "penet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a note, a notice"
+      }
+    ]
+  },
+  {
+    "word": "penetabukil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a note-book"
+      }
+    ]
+  },
+  {
+    "word": "penetön",
+    "roots": ["pen"],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to commit to paper, to note"
+      }
+    ]
+  },
+  {
+    "word": "penikipian",
+    "roots": ["pen", "kip"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pen holder"
+      }
+    ]
+  },
+  {
+    "word": "penot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dissertation"
+      }
+    ]
+  },
+  {
+    "word": "penotel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a compiler"
+      }
+    ]
+  },
+  {
+    "word": "penömaselidöp",
+    "roots": ["pen", "sel"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a stationer's shop"
+      }
+    ]
+  },
+  {
+    "word": "penön",
+    "roots": ["pen"],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to write"
+      }
+    ]
+  },
+  {
+    "word": "pensit",
+    "roots": ["pen"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a paintbrush"
+      }
+    ]
+  },
+  {
+    "word": "penul",
+    "roots": ["pen"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "transcription, transliteration"
+      }
+    ]
+  },
+  {
+    "word": "peolät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an epaulette"
+      }
+    ]
+  },
+  {
+    "word": "peopik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "epic(al)"
+      }
+    ]
+  },
+  {
+    "word": "pep",
+    "roots": ["pep"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pepper"
+      }
+    ]
+  },
+  {
+    "word": "peperöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lost"
+      }
+    ]
+  },
+  {
+    "word": "pepiär",
+    "roots": ["pep"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pepper pot"
+      }
+    ]
+  },
+  {
+    "word": "pepun",
+    "roots": ["pepun"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a gourd, a marrow"
+      }
+    ]
+  },
+  {
+    "word": "pepun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a gourd, a marrow"
+      }
+    ]
+  },
+  {
+    "word": "per",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "loss"
+      }
+    ]
+  },
+  {
+    "word": "peräd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a defeat, a rout"
+      }
+    ]
+  },
+  {
+    "word": "perot",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lost (item)"
+      }
+    ]
+  },
+  {
+    "word": "perön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lose"
+      }
+    ]
+  },
+  {
+    "word": "pesäsienüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "numb(ed)"
+      }
+    ]
+  },
+  {
+    "word": "pested",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "noodle"
+      }
+    ]
+  },
+  {
+    "word": "pestunüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "awe-stricken"
+      }
+    ]
+  },
+  {
+    "word": "petegöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "covered"
+      }
+    ]
+  },
+  {
+    "word": "petiol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a petal"
+      }
+    ]
+  },
+  {
+    "word": "petrol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "petroleum"
+      }
+    ]
+  },
+  {
+    "word": "pevietüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "whitewashed"
+      }
+    ]
+  },
+  {
+    "word": "piad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a piazza, a town/city square"
+      }
+    ]
+  },
+  {
+    "word": "pianiko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gradually"
+      }
+    ]
+  },
+  {
+    "word": "pianodaharmonöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a piano-accordeon"
+      }
+    ]
+  },
+  {
+    "word": "pianodön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to play the piano"
+      }
+    ]
+  },
+  {
+    "word": "piäf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "core, essence"
+      }
+    ]
+  },
+  {
+    "word": "pid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pity, regret, sorrow"
+      }
+    ]
+  },
+  {
+    "word": "pideädöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sprawled, straddled"
+      }
+    ]
+  },
+  {
+    "word": "pidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be sorry, to regret"
+      }
+    ]
+  },
+  {
+    "word": "pied",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a foot (= measure)"
+      }
+    ]
+  },
+  {
+    "word": "piet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "piety"
+      }
+    ]
+  },
+  {
+    "word": "pif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bone marrow"
+      }
+    ]
+  },
+  {
+    "word": "pigmin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "parchment"
+      }
+    ]
+  },
+  {
+    "word": "pigön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pick (= of birds)"
+      }
+    ]
+  },
+  {
+    "word": "pijun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pigeon"
+      }
+    ]
+  },
+  {
+    "word": "pik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a spade (card games)"
+      }
+    ]
+  },
+  {
+    "word": "pikit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a woodpecker"
+      }
+    ]
+  },
+  {
+    "word": "pil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an eel"
+      }
+    ]
+  },
+  {
+    "word": "pilgriman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pilgrim"
+      }
+    ]
+  },
+  {
+    "word": "pinäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fat, grease"
+      }
+    ]
+  },
+  {
+    "word": "pinädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fat, stout"
+      }
+    ]
+  },
+  {
+    "word": "pined",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lard"
+      }
+    ]
+  },
+  {
+    "word": "pinguin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a penguin"
+      }
+    ]
+  },
+  {
+    "word": "pinön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to grease"
+      }
+    ]
+  },
+  {
+    "word": "pint",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Pentecost"
+      }
+    ]
+  },
+  {
+    "word": "pionir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pioneer"
+      }
+    ]
+  },
+  {
+    "word": "pip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (tobacco) pipe"
+      }
+    ]
+  },
+  {
+    "word": "pir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (radio) valve"
+      }
+    ]
+  },
+  {
+    "word": "piramid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pyramid"
+      }
+    ]
+  },
+  {
+    "word": "piratan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pirate, a privateer"
+      }
+    ]
+  },
+  {
+    "word": "pirog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (ship's) prow"
+      }
+    ]
+  },
+  {
+    "word": "pisäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pea"
+      }
+    ]
+  },
+  {
+    "word": "pistag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pistachio tree"
+      }
+    ]
+  },
+  {
+    "word": "pistaganöt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pistachio nut"
+      }
+    ]
+  },
+  {
+    "word": "pisustürülöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "scattered, sprinkled"
+      }
+    ]
+  },
+  {
+    "word": "pitaetöl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "repressed, stifled"
+      }
+    ]
+  },
+  {
+    "word": "pit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "spice"
+      }
+    ]
+  },
+  {
+    "word": "pitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to season"
+      }
+    ]
+  },
+  {
+    "word": "piyam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pyjamas"
+      }
+    ]
+  },
+  {
+    "word": "pizza",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "el Pizza"
+      }
+    ]
+  },
+  {
+    "word": "pla",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "besides"
+      }
+    ]
+  },
+  {
+    "word": "plaädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to replace, to substitute"
+      }
+    ]
+  },
+  {
+    "word": "pladulön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to represent"
+      }
+    ]
+  },
+  {
+    "word": "plad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a place, a seat (on bus/train), a spot, whereabouts"
+      }
+    ]
+  },
+  {
+    "word": "pladön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to place, to put, to set (in position)"
+      }
+    ]
+  },
+  {
+    "word": "pladulan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a representative (person)"
+      }
+    ]
+  },
+  {
+    "word": "plagik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "practical"
+      }
+    ]
+  },
+  {
+    "word": "plaf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "timidity"
+      }
+    ]
+  },
+  {
+    "word": "plafik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nervous, timid"
+      }
+    ]
+  },
+  {
+    "word": "plak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an experience"
+      }
+    ]
+  },
+  {
+    "word": "plakiko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "practically"
+      }
+    ]
+  },
+  {
+    "word": "plakilabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "experienced, mature"
+      }
+    ]
+  },
+  {
+    "word": "plakminep",
+    "roots": ["plakmin"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "persimmon (tree)"
+      }
+    ]
+  },
+  {
+    "word": "plakminepafluk",
+    "roots": ["plakmin"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "persimmon (fruit)"
+      }
+    ]
+  },
+  {
+    "word": "plakön",
+    "roots": ["plak"],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to experience"
+      }
+    ]
+  },
+  {
+    "word": "plan",
+    "roots": ["plan"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (garden/wild) plant"
+      }
+    ]
+  },
+  {
+    "word": "planaglätdom(il)",
+    "roots": ["plan", "glät", "dom"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a greenhouse"
+      }
+    ]
+  },
+  {
+    "word": "planav",
+    "roots": ["plan"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "botany"
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "roots": ["planet"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a planet"
+      }
+    ]
+  },
+  {
+    "word": "planön",
+    "roots": ["plan"],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to plant"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sole (of the foot)"
+      }
+    ]
+  },
+  {
+    "word": "plas",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "instead (of)"
+      }
+    ]
+  },
+  {
+    "word": "plastätik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "plastic"
+      }
+    ]
+  },
+  {
+    "word": "platäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plate, a sign (for information)"
+      }
+    ]
+  },
+  {
+    "word": "plated",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a platform (in general)"
+      }
+    ]
+  },
+  {
+    "word": "platik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "flat"
+      }
+    ]
+  },
+  {
+    "word": "platot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (flat) surface"
+      }
+    ]
+  },
+  {
+    "word": "plaud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plough"
+      }
+    ]
+  },
+  {
+    "word": "plaudön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to plough"
+      }
+    ]
+  },
+  {
+    "word": "plaükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to replace"
+      }
+    ]
+  },
+  {
+    "word": "plä",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "apart (from), besides"
+      }
+    ]
+  },
+  {
+    "word": "pläam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an exception"
+      }
+    ]
+  },
+  {
+    "word": "pläamü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "except, with the exception of..."
+      }
+    ]
+  },
+  {
+    "word": "pläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an (animal) skin, a pelt"
+      }
+    ]
+  },
+  {
+    "word": "plädot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a fur coat"
+      }
+    ]
+  },
+  {
+    "word": "pläg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "physical exercise, practice"
+      }
+    ]
+  },
+  {
+    "word": "plägön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to practise, to exercise (physically)"
+      }
+    ]
+  },
+  {
+    "word": "pläidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to plead"
+      }
+    ]
+  },
+  {
+    "word": "plän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a definition, an explanation"
+      }
+    ]
+  },
+  {
+    "word": "plänädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to explain (in detail); to interpret (dreams, etc)"
+      }
+    ]
+  },
+  {
+    "word": "plänön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to explain"
+      }
+    ]
+  },
+  {
+    "word": "pläo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "otherwise"
+      }
+    ]
+  },
+  {
+    "word": "pläot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an exception"
+      }
+    ]
+  },
+  {
+    "word": "pläön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to except, to make an exception"
+      }
+    ]
+  },
+  {
+    "word": "pläsif",
+    "lang": "volapuk",
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "unless"
+      }
+    ]
+  },
+  {
+    "word": "platot (leäktronik)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an (electronic) circuit"
+      }
+    ]
+  },
+  {
+    "word": "pläyön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to play (musical instrument)"
+      }
+    ]
+  },
+  {
+    "word": "pled",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a game"
+      }
+    ]
+  },
+  {
+    "word": "pledadin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plaything, a toy"
+      }
+    ]
+  },
+  {
+    "word": "pledakadem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pack (deck) of cards"
+      }
+    ]
+  },
+  {
+    "word": "pledön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to play"
+      }
+    ]
+  },
+  {
+    "word": "pleid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pride"
+      }
+    ]
+  },
+  {
+    "word": "pleidälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "haughty"
+      }
+    ]
+  },
+  {
+    "word": "pleidik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "proud"
+      }
+    ]
+  },
+  {
+    "word": "pleidülan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a show-off"
+      }
+    ]
+  },
+  {
+    "word": "pleidülaspikan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a braggart"
+      }
+    ]
+  },
+  {
+    "word": "pleidülön (demü)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to boast (about)"
+      }
+    ]
+  },
+  {
+    "word": "pleifön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to push back"
+      }
+    ]
+  },
+  {
+    "word": "plekön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pray"
+      }
+    ]
+  },
+  {
+    "word": "plen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plain, flat terrain"
+      }
+    ]
+  },
+  {
+    "word": "plenöf",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "flat, level"
+      }
+    ]
+  },
+  {
+    "word": "plidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to like (plidö! = if you like!)"
+      }
+    ]
+  },
+  {
+    "word": "plidükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to please"
+      }
+    ]
+  },
+  {
+    "word": "plif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a crease, a fold"
+      }
+    ]
+  },
+  {
+    "word": "plifädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pleated (clothes)"
+      }
+    ]
+  },
+  {
+    "word": "plifiär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "folder"
+      }
+    ]
+  },
+  {
+    "word": "plifön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to crease, to fold"
+      }
+    ]
+  },
+  {
+    "word": "plimön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to compliment"
+      }
+    ]
+  },
+  {
+    "word": "plin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a prince"
+      }
+    ]
+  },
+  {
+    "word": "plitiälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nice (disposition)"
+      }
+    ]
+  },
+  {
+    "word": "plitik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agreeable, pleasant"
+      }
+    ]
+  },
+  {
+    "word": "plitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to please"
+      }
+    ]
+  },
+  {
+    "word": "plitü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for the pleasure of (plitü of = to please her)"
+      }
+    ]
+  },
+  {
+    "word": "plitülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "attractive, nice, pretty"
+      }
+    ]
+  },
+  {
+    "word": "plobik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "experienced, proven"
+      }
+    ]
+  },
+  {
+    "word": "plobön (ta)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be a match (for)"
+      }
+    ]
+  },
+  {
+    "word": "plodön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to applaud"
+      }
+    ]
+  },
+  {
+    "word": "plon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a complaint"
+      }
+    ]
+  },
+  {
+    "word": "plonön (eke bosi)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to complain (to someone about something)"
+      }
+    ]
+  },
+  {
+    "word": "plop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a poplar (tree)"
+      }
+    ]
+  },
+  {
+    "word": "plotön (ta)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to conspire/plot (against)"
+      }
+    ]
+  },
+  {
+    "word": "plödaharat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a suburb"
+      }
+    ]
+  },
+  {
+    "word": "plödo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "outside"
+      }
+    ]
+  },
+  {
+    "word": "plödakipön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exclude, to keep out, to shut out"
+      }
+    ]
+  },
+  {
+    "word": "plödik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "external, outer, outside, outward"
+      }
+    ]
+  },
+  {
+    "word": "plödikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go out"
+      }
+    ]
+  },
+  {
+    "word": "plödükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to put out (of one place into another)"
+      }
+    ]
+  },
+  {
+    "word": "plögun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an overcoat"
+      }
+    ]
+  },
+  {
+    "word": "plöjal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bark (of tree), crust (of bread), rind (of meat)"
+      }
+    ]
+  },
+  {
+    "word": "plökön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to gather, to pluck"
+      }
+    ]
+  },
+  {
+    "word": "plöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plum"
+      }
+    ]
+  },
+  {
+    "word": "plömäned",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an overcoat"
+      }
+    ]
+  },
+  {
+    "word": "plöpön (ad)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to succeed (in) (plöpön ad dunön bosi = to manage to do something)"
+      }
+    ]
+  },
+  {
+    "word": "plöraflamat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pleurisy (medical)"
+      }
+    ]
+  },
+  {
+    "word": "plösen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (stage) performance"
+      }
+    ]
+  },
+  {
+    "word": "plösenön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to perform, to present"
+      }
+    ]
+  },
+  {
+    "word": "plu",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "more (no longer = no plu, no fovo)"
+      }
+    ]
+  },
+  {
+    "word": "pluamanum",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a majority"
+      }
+    ]
+  },
+  {
+    "word": "pluik",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "further"
+      }
+    ]
+  },
+  {
+    "word": "pluikam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an increase"
+      }
+    ]
+  },
+  {
+    "word": "pluikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to increase"
+      }
+    ]
+  },
+  {
+    "word": "plumafik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "excessive"
+      }
+    ]
+  },
+  {
+    "word": "plumbafülükot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a filling (dentistry)"
+      }
+    ]
+  },
+  {
+    "word": "plumps!",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thump!"
+      }
+    ]
+  },
+  {
+    "word": "pluna",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "several times"
+      }
+    ]
+  },
+  {
+    "word": "plunätöfo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "amply (Labom bäldoti lifayelas plunätöfo foldegas = He’s well on in his forties.)"
+      }
+    ]
+  },
+  {
+    "word": "plut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ball (of wool, etc)"
+      }
+    ]
+  },
+  {
+    "word": "pluton",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Pluto (planet)"
+      }
+    ]
+  },
+  {
+    "word": "pluön (lä)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to excel (at/in); to exceed expectations"
+      }
+    ]
+  },
+  {
+    "word": "pluükam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an increase"
+      }
+    ]
+  },
+  {
+    "word": "pluükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to increase"
+      }
+    ]
+  },
+  {
+    "word": "pluuneplu",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "more or less"
+      }
+    ]
+  },
+  {
+    "word": "pluvät",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "overweight"
+      }
+    ]
+  },
+  {
+    "word": "plü . . . . plü",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the more ..... the more"
+      }
+    ]
+  },
+  {
+    "word": "plüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "goodwill (if plüdol = if you please)"
+      }
+    ]
+  },
+  {
+    "word": "plüm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a feather, a plume"
+      }
+    ]
+  },
+  {
+    "word": "plümäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (decorative) plume"
+      }
+    ]
+  },
+  {
+    "word": "plümilabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "feathere"
+      }
+    ]
+  },
+  {
+    "word": "plüo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "all the more (because)"
+      }
+    ]
+  },
+  {
+    "word": "plüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "politeness"
+      }
+    ]
+  },
+  {
+    "word": "plütik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "polite"
+      }
+    ]
+  },
+  {
+    "word": "po",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "after, behind (spatial)"
+      }
+    ]
+  },
+  {
+    "word": "poalain",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "opal"
+      }
+    ]
+  },
+  {
+    "word": "poaloin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "opal"
+      }
+    ]
+  },
+  {
+    "word": "poalön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) opalise"
+      }
+    ]
+  },
+  {
+    "word": "pod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apple"
+      }
+    ]
+  },
+  {
+    "word": "podamust",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cider"
+      }
+    ]
+  },
+  {
+    "word": "podor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tomato"
+      }
+    ]
+  },
+  {
+    "word": "poedav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "poetry"
+      }
+    ]
+  },
+  {
+    "word": "poedot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a poem (poedot degfolliänik = sonnet, poedotakonlet = anthology)"
+      }
+    ]
+  },
+  {
+    "word": "pof",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (sea)port"
+      }
+    ]
+  },
+  {
+    "word": "pogolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to follow"
+      }
+    ]
+  },
+  {
+    "word": "pok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pocket"
+      }
+    ]
+  },
+  {
+    "word": "pokalampad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a flashlight"
+      }
+    ]
+  },
+  {
+    "word": "pokasärvätül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (pocket) handkerchief"
+      }
+    ]
+  },
+  {
+    "word": "polan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a porter"
+      }
+    ]
+  },
+  {
+    "word": "poldabür",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a police station"
+      }
+    ]
+  },
+  {
+    "word": "poldanef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "police (force)"
+      }
+    ]
+  },
+  {
+    "word": "poliomül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "polio (medical)"
+      }
+    ]
+  },
+  {
+    "word": "polip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a polyp (medical)"
+      }
+    ]
+  },
+  {
+    "word": "polkat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a polka (dance)"
+      }
+    ]
+  },
+  {
+    "word": "polön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bear, to carry"
+      }
+    ]
+  },
+  {
+    "word": "polüglot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a linguist, a polyglot"
+      }
+    ]
+  },
+  {
+    "word": "polüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an octopus"
+      }
+    ]
+  },
+  {
+    "word": "pomad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (body) cream"
+      }
+    ]
+  },
+  {
+    "word": "pon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bridge"
+      }
+    ]
+  },
+  {
+    "word": "ponadaemod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bridgehead"
+      }
+    ]
+  },
+  {
+    "word": "poodked",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a queue"
+      }
+    ]
+  },
+  {
+    "word": "pop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a poppy"
+      }
+    ]
+  },
+  {
+    "word": "por",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ration"
+      }
+    ]
+  },
+  {
+    "word": "porniselidöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a porn shop"
+      }
+    ]
+  },
+  {
+    "word": "portat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a range (= reach)"
+      }
+    ]
+  },
+  {
+    "word": "portvin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "port"
+      }
+    ]
+  },
+  {
+    "word": "porud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a leek"
+      }
+    ]
+  },
+  {
+    "word": "pos",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "after, behind (time)"
+      }
+    ]
+  },
+  {
+    "word": "posbinükäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a descendant"
+      }
+    ]
+  },
+  {
+    "word": "posbinükot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "belongings, inheritance"
+      }
+    ]
+  },
+  {
+    "word": "posblibön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stay behind"
+      }
+    ]
+  },
+  {
+    "word": "posblibükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to leave behind"
+      }
+    ]
+  },
+  {
+    "word": "pos...",
+    "lang": "volapuk",
+    "category": "prefix",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grand-"
+      }
+    ]
+  },
+  {
+    "word": "posbinot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (legal) estate; a bequest"
+      }
+    ]
+  },
+  {
+    "word": "posbinükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to leave behind"
+      }
+    ]
+  },
+  {
+    "word": "poscils",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grandchildren"
+      }
+    ]
+  },
+  {
+    "word": "posdaut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a grand-daughter"
+      }
+    ]
+  },
+  {
+    "word": "positik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "positive"
+      }
+    ]
+  },
+  {
+    "word": "posson",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a grand-son"
+      }
+    ]
+  },
+  {
+    "word": "posun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a trumpet"
+      }
+    ]
+  },
+  {
+    "word": "poszedel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "afternoon"
+      }
+    ]
+  },
+  {
+    "word": "poszib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dessert"
+      }
+    ]
+  },
+  {
+    "word": "pot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mail, post"
+      }
+    ]
+  },
+  {
+    "word": "potagir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(post office) giro"
+      }
+    ]
+  },
+  {
+    "word": "potakad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postcard"
+      }
+    ]
+  },
+  {
+    "word": "potamon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postage"
+      }
+    ]
+  },
+  {
+    "word": "potaspälabank",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "post office savings bank"
+      }
+    ]
+  },
+  {
+    "word": "potatret",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postal order"
+      }
+    ]
+  },
+  {
+    "word": "potavab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stage-coach"
+      }
+    ]
+  },
+  {
+    "word": "potön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to mail, to post"
+      }
+    ]
+  },
+  {
+    "word": "polan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a porter"
+      }
+    ]
+  },
+  {
+    "word": "poldabür",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a police station"
+      }
+    ]
+  },
+  {
+    "word": "poldanef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "police (force)"
+      }
+    ]
+  },
+  {
+    "word": "poliomül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "polio (medical)"
+      }
+    ]
+  },
+  {
+    "word": "polip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a polyp (medical)"
+      }
+    ]
+  },
+  {
+    "word": "polkat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a polka (dance)"
+      }
+    ]
+  },
+  {
+    "word": "polön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bear, to carry"
+      }
+    ]
+  },
+  {
+    "word": "polüglot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a linguist, a polyglot"
+      }
+    ]
+  },
+  {
+    "word": "polüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an octopus"
+      }
+    ]
+  },
+  {
+    "word": "pomad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (body) cream"
+      }
+    ]
+  },
+  {
+    "word": "pon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bridge"
+      }
+    ]
+  },
+  {
+    "word": "ponadaemod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bridgehead"
+      }
+    ]
+  },
+  {
+    "word": "poodked",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a queue"
+      }
+    ]
+  },
+  {
+    "word": "pop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a poppy"
+      }
+    ]
+  },
+  {
+    "word": "por",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ration"
+      }
+    ]
+  },
+  {
+    "word": "porniselidöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a porn shop"
+      }
+    ]
+  },
+  {
+    "word": "portat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a range (= reach)"
+      }
+    ]
+  },
+  {
+    "word": "portvin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "port"
+      }
+    ]
+  },
+  {
+    "word": "porud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a leek"
+      }
+    ]
+  },
+  {
+    "word": "pos",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "after, behind (time)"
+      }
+    ]
+  },
+  {
+    "word": "posbinükäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a descendant"
+      }
+    ]
+  },
+  {
+    "word": "posbinükot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "belongings, inheritance"
+      }
+    ]
+  },
+  {
+    "word": "posblibön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stay behind"
+      }
+    ]
+  },
+  {
+    "word": "posblibükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to leave behind"
+      }
+    ]
+  },
+  {
+    "word": "pos...",
+    "lang": "volapuk",
+    "category": "prefix",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grand-"
+      }
+    ]
+  },
+  {
+    "word": "posbinot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (legal) estate; a bequest"
+      }
+    ]
+  },
+  {
+    "word": "posbinükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to leave behind"
+      }
+    ]
+  },
+  {
+    "word": "poscils",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grandchildren"
+      }
+    ]
+  },
+  {
+    "word": "posdaut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a grand-daughter"
+      }
+    ]
+  },
+  {
+    "word": "positik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "positive"
+      }
+    ]
+  },
+  {
+    "word": "posson",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a grand-son"
+      }
+    ]
+  },
+  {
+    "word": "posun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a trumpet"
+      }
+    ]
+  },
+  {
+    "word": "poszedel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "afternoon"
+      }
+    ]
+  },
+  {
+    "word": "poszib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dessert"
+      }
+    ]
+  },
+  {
+    "word": "pot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mail, post"
+      }
+    ]
+  },
+  {
+    "word": "potagir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(post office) giro"
+      }
+    ]
+  },
+  {
+    "word": "potakad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postcard"
+      }
+    ]
+  },
+  {
+    "word": "potamon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postage"
+      }
+    ]
+  },
+  {
+    "word": "potaspälabank",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "post office savings bank"
+      }
+    ]
+  },
+  {
+    "word": "potatret",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "postal order"
+      }
+    ]
+  },
+  {
+    "word": "potavab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stage-coach"
+      }
+    ]
+  },
+  {
+    "word": "potön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to mail, to post"
+      }
+    ]
+  },
+  {
+    "word": "potöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "post-office"
+      }
+    ]
+  },
+  {
+    "word": "pov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pole (geographical)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "volapuk",
+        "text": "povasirk nolüdik",
+        "translation": "north pole"
+      },
+      {
+        "lang": "volapuk",
+        "text": "povasirk sulüdik",
+        "translation": "south pole"
+      },
+      {
+        "lang": "volapuk",
+        "text": "nolüda-/sulüdapoviän",
+        "translation": "polar region"
+      }
+    ]
+  },
+  {
+    "word": "povöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "polarity"
+      }
+    ]
+  },
+  {
+    "word": "poyümot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "suffix (grammar)"
+      }
+    ]
+  },
+  {
+    "word": "pö",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at"
+      }
+    ]
+  },
+  {
+    "word": "pöb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a public house, a tavern"
+      }
+    ]
+  },
+  {
+    "word": "pödablibön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall short (of)"
+      }
+    ]
+  },
+  {
+    "word": "pödaglun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a backdrop, background"
+      }
+    ]
+  },
+  {
+    "word": "pödakösömedan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an esotericist"
+      }
+    ]
+  },
+  {
+    "word": "pödanaf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(ship's) stern"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "volapuk",
+        "text": "pödastev",
+        "translation": "(ship's) stern"
+      }
+    ]
+  },
+  {
+    "word": "pödik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "back, rear"
+      }
+    ]
+  },
+  {
+    "word": "pödikam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "regression"
+      }
+    ]
+  },
+  {
+    "word": "pödio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "backwards"
+      }
+    ]
+  },
+  {
+    "word": "pöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "poverty"
+      }
+    ]
+  },
+  {
+    "word": "pöfädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pitiable"
+      }
+    ]
+  },
+  {
+    "word": "pöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "poor"
+      }
+    ]
+  },
+  {
+    "word": "pöjin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "punch (alcohol)"
+      }
+    ]
+  },
+  {
+    "word": "pöjutan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pursuer"
+      }
+    ]
+  },
+  {
+    "word": "pöjutaspikäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a diatribe"
+      }
+    ]
+  },
+  {
+    "word": "pöjutön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chase away, to pursue"
+      }
+    ]
+  },
+  {
+    "word": "pök",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mistake"
+      }
+    ]
+  },
+  {
+    "word": "pökagad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a maze"
+      }
+    ]
+  },
+  {
+    "word": "pökön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make a mistake"
+      }
+    ]
+  },
+  {
+    "word": "pöl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an aberration, an error"
+      }
+    ]
+  },
+  {
+    "word": "pölaced",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an illusion"
+      }
+    ]
+  },
+  {
+    "word": "pölacedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) mistake (for)"
+      }
+    ]
+  },
+  {
+    "word": "pölaformälam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hallucination"
+      }
+    ]
+  },
+  {
+    "word": "pölakalkulön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to miscalculate"
+      }
+    ]
+  },
+  {
+    "word": "pölaspikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to say wrongly"
+      }
+    ]
+  },
+  {
+    "word": "pölatimed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an anachronism"
+      }
+    ]
+  },
+  {
+    "word": "pölatülön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) distort"
+      }
+    ]
+  },
+  {
+    "word": "pölavegön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lose the way, to get lost"
+      }
+    ]
+  },
+  {
+    "word": "pölik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "erratic"
+      }
+    ]
+  },
+  {
+    "word": "pölikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go wrong"
+      }
+    ]
+  },
+  {
+    "word": "pölön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to err, to make an error"
+      }
+    ]
+  },
+  {
+    "word": "pömanef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "firemen"
+      }
+    ]
+  },
+  {
+    "word": "pömöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pump"
+      }
+    ]
+  },
+  {
+    "word": "pömön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pump"
+      }
+    ]
+  },
+  {
+    "word": "pön",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a punishment"
+      }
+    ]
+  },
+  {
+    "word": "pönarejimen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a disciplinary corps (army)"
+      }
+    ]
+  },
+  {
+    "word": "pönidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to repent"
+      }
+    ]
+  },
+  {
+    "word": "pönön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to punish"
+      }
+    ]
+  },
+  {
+    "word": "pöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a people (= a community); population"
+      }
+    ]
+  },
+  {
+    "word": "pöpanumäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "census"
+      }
+    ]
+  },
+  {
+    "word": "pöpedik/pöpik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "popular"
+      }
+    ]
+  },
+  {
+    "word": "pöpinümäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "census"
+      }
+    ]
+  },
+  {
+    "word": "pöpön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be inhabited (by)"
+      }
+    ]
+  },
+  {
+    "word": "pösod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a person"
+      }
+    ]
+  },
+  {
+    "word": "pösodanem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a forename"
+      }
+    ]
+  },
+  {
+    "word": "pösodef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "personnel, staff"
+      }
+    ]
+  },
+  {
+    "word": "pösodik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "personal"
+      }
+    ]
+  },
+  {
+    "word": "pösodöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "personality"
+      }
+    ]
+  },
+  {
+    "word": "pöt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an occasion, an opportunity"
+      }
+    ]
+  },
+  {
+    "word": "pötatimo",
+    "lang": "volapuk",
+    "category": "phr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in (due) time"
+      }
+    ]
+  },
+  {
+    "word": "pötekan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (pharmaceutical) chemist"
+      }
+    ]
+  },
+  {
+    "word": "pötet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a potato"
+      }
+    ]
+  },
+  {
+    "word": "pötetacips",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "potato crisps"
+      }
+    ]
+  },
+  {
+    "word": "pötik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "opportune, suitable"
+      }
+    ]
+  },
+  {
+    "word": "pötit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an appetite"
+      }
+    ]
+  },
+  {
+    "word": "pötöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "feasibility"
+      }
+    ]
+  },
+  {
+    "word": "pötöfiko",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "applicable, practical, suitable"
+      }
+    ]
+  },
+  {
+    "word": "pötöfön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be applicable, to be practicable, to be suitable"
+      }
+    ]
+  },
+  {
+    "word": "pötön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be convenient, to be fitting"
+      }
+    ]
+  },
+  {
+    "word": "pötü",
+    "lang": "volapuk",
+    "category": "phr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on the occasion of"
+      }
+    ]
+  },
+  {
+    "word": "pöträt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a portrait"
+      }
+    ]
+  },
+  {
+    "word": "prafad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a paraphrase"
+      }
+    ]
+  },
+  {
+    "word": "prägenön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to impregnate"
+      }
+    ]
+  },
+  {
+    "word": "prästig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prestige"
+      }
+    ]
+  },
+  {
+    "word": "pred",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a homily, a sermon"
+      }
+    ]
+  },
+  {
+    "word": "predan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a preacher"
+      }
+    ]
+  },
+  {
+    "word": "predön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to preach"
+      }
+    ]
+  },
+  {
+    "word": "prem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a prize, a reward"
+      }
+    ]
+  },
+  {
+    "word": "premön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reward"
+      }
+    ]
+  },
+  {
+    "word": "preparön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to prepare"
+      }
+    ]
+  },
+  {
+    "word": "presenik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the present (time)"
+      }
+    ]
+  },
+  {
+    "word": "prid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "booty"
+      }
+    ]
+  },
+  {
+    "word": "priel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an arbour"
+      }
+    ]
+  },
+  {
+    "word": "prifet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "W.C. (= a toilet on buses, trains)"
+      }
+    ]
+  },
+  {
+    "word": "prilul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "April"
+      }
+    ]
+  },
+  {
+    "word": "prim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a beginning, a start"
+      }
+    ]
+  },
+  {
+    "word": "primät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "initiative"
+      }
+    ]
+  },
+  {
+    "word": "primätabluf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an initiative test"
+      }
+    ]
+  },
+  {
+    "word": "primikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be about to; to be on the point of"
+      }
+    ]
+  },
+  {
+    "word": "primöf",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "primitive"
+      }
+    ]
+  },
+  {
+    "word": "primön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to begin, to commence, to start (to)"
+      }
+    ]
+  },
+  {
+    "word": "primul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a polyanthus"
+      }
+    ]
+  },
+  {
+    "word": "primüm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (musical) overture"
+      }
+    ]
+  },
+  {
+    "word": "prinsip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a maxim, a principle"
+      }
+    ]
+  },
+  {
+    "word": "prinsipü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on the lines of"
+      }
+    ]
+  },
+  {
+    "word": "priomalidil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (short) satirical ditty"
+      }
+    ]
+  },
+  {
+    "word": "prismat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a prism"
+      }
+    ]
+  },
+  {
+    "word": "privatik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "confidential, private"
+      }
+    ]
+  },
+  {
+    "word": "privileg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a privilege"
+      }
+    ]
+  },
+  {
+    "word": "pro",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for"
+      }
+    ]
+  },
+  {
+    "word": "proan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a supporter"
+      }
+    ]
+  },
+  {
+    "word": "proädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to tune into (radio/TV station)"
+      }
+    ]
+  },
+  {
+    "word": "prod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "outcome, produce"
+      }
+    ]
+  },
+  {
+    "word": "prodäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a product"
+      }
+    ]
+  },
+  {
+    "word": "prodät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(putting on) an act"
+      }
+    ]
+  },
+  {
+    "word": "prodön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to produce"
+      }
+    ]
+  },
+  {
+    "word": "profäsor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a professor"
+      }
+    ]
+  },
+  {
+    "word": "profet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a prophet"
+      }
+    ]
+  },
+  {
+    "word": "profül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a profile"
+      }
+    ]
+  },
+  {
+    "word": "proged",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "progress"
+      }
+    ]
+  },
+  {
+    "word": "progedöfiko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "progressively"
+      }
+    ]
+  },
+  {
+    "word": "program",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a programme"
+      }
+    ]
+  },
+  {
+    "word": "proibön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to forbid, to prohibit"
+      }
+    ]
+  },
+  {
+    "word": "prokonsulan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a proconsul"
+      }
+    ]
+  },
+  {
+    "word": "prolidik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(more) detailed"
+      }
+    ]
+  },
+  {
+    "word": "prom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a promise"
+      }
+    ]
+  },
+  {
+    "word": "promön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to promise"
+      }
+    ]
+  },
+  {
+    "word": "pronön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pronounce"
+      }
+    ]
+  },
+  {
+    "word": "propagid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "propaganda"
+      }
+    ]
+  },
+  {
+    "word": "propor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "proportion"
+      }
+    ]
+  },
+  {
+    "word": "prosad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prose"
+      }
+    ]
+  },
+  {
+    "word": "prostat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prostate (gland)"
+      }
+    ]
+  },
+  {
+    "word": "protästán",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a protestant (religion)"
+      }
+    ]
+  },
+  {
+    "word": "protein",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a protein"
+      }
+    ]
+  },
+  {
+    "word": "protestön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to protest (against)"
+      }
+    ]
+  },
+  {
+    "word": "protok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "minutes (of meeting), a report, a summary"
+      }
+    ]
+  },
+  {
+    "word": "provid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "provision, supply"
+      }
+    ]
+  },
+  {
+    "word": "provin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a province"
+      }
+    ]
+  },
+  {
+    "word": "proyek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a project"
+      }
+    ]
+  },
+  {
+    "word": "prozed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a procession"
+      }
+    ]
+  },
+  {
+    "word": "prüdiko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cautiously"
+      }
+    ]
+  },
+  {
+    "word": "prulön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pout"
+      }
+    ]
+  },
+  {
+    "word": "prüdik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "attentive, cautious, discreet"
+      }
+    ]
+  },
+  {
+    "word": "prüdö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Look out! Pay attention!"
+      }
+    ]
+  },
+  {
+    "word": "prüdön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take care"
+      }
+    ]
+  },
+  {
+    "word": "prüön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lend (something to someone)"
+      }
+    ]
+  },
+  {
+    "word": "psam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a psalm"
+      }
+    ]
+  },
+  {
+    "word": "psitak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parrot"
+      }
+    ]
+  },
+  {
+    "word": "pu",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at the very least"
+      }
+    ]
+  },
+  {
+    "word": "publüg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the (general) public"
+      }
+    ]
+  },
+  {
+    "word": "pubön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to appear"
+      }
+    ]
+  },
+  {
+    "word": "pued",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "chastity, purity"
+      }
+    ]
+  },
+  {
+    "word": "puf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a louse (= insect)"
+      }
+    ]
+  },
+  {
+    "word": "pugön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to put down, to slaughter"
+      }
+    ]
+  },
+  {
+    "word": "puid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an inch"
+      }
+    ]
+  },
+  {
+    "word": "puin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (cosmetic) powder"
+      }
+    ]
+  },
+  {
+    "word": "pulp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pith (of fruit)"
+      }
+    ]
+  },
+  {
+    "word": "pul(s)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "boy(s) and girl(s)"
+      }
+    ]
+  },
+  {
+    "word": "pun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a fist"
+      }
+    ]
+  },
+  {
+    "word": "punc",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "punch (alcoholic drink)"
+      }
+    ]
+  },
+  {
+    "word": "pup",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a doll"
+      }
+    ]
+  },
+  {
+    "word": "pur",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gunpowder"
+      }
+    ]
+  },
+  {
+    "word": "puridikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become rotten, to decay (= teeth)"
+      }
+    ]
+  },
+  {
+    "word": "puridükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make rotten"
+      }
+    ]
+  },
+  {
+    "word": "purul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pus (medical)"
+      }
+    ]
+  },
+  {
+    "word": "put (hi/ji)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (small) child"
+      }
+    ]
+  },
+  {
+    "word": "putajul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a kindergarten, a play-school"
+      }
+    ]
+  },
+  {
+    "word": "putül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a baby"
+      }
+    ]
+  },
+  {
+    "word": "püber",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "adolescence, puberty"
+      }
+    ]
+  },
+  {
+    "word": "pübot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a publication"
+      }
+    ]
+  },
+  {
+    "word": "püd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "peace (= not war)"
+      }
+    ]
+  },
+  {
+    "word": "püduk",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "peaceful"
+      }
+    ]
+  },
+  {
+    "word": "püfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dusty"
+      }
+    ]
+  },
+  {
+    "word": "püfisugian",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a vacuum-cleaner"
+      }
+    ]
+  },
+  {
+    "word": "pügmen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pygmy"
+      }
+    ]
+  },
+  {
+    "word": "pük",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a language"
+      }
+    ]
+  },
+  {
+    "word": "pükalönik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "idiomatic"
+      }
+    ]
+  },
+  {
+    "word": "pükasotül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an accent (oral)"
+      }
+    ]
+  },
+  {
+    "word": "pül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the insignificant"
+      }
+    ]
+  },
+  {
+    "word": "pülatimil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a moment, a split second"
+      }
+    ]
+  },
+  {
+    "word": "pülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modest, unassuming"
+      }
+    ]
+  },
+  {
+    "word": "pülikün",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "least"
+      }
+    ]
+  },
+  {
+    "word": "pülot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "something unimportant"
+      }
+    ]
+  },
+  {
+    "word": "pülsif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an outburst, a surge (of emotion)"
+      }
+    ]
+  },
+  {
+    "word": "pün",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dot, a point"
+      }
+    ]
+  },
+  {
+    "word": "pünön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to punctuate"
+      }
+    ]
+  },
+  {
+    "word": "püpil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pupil (of eye)"
+      }
+    ]
+  },
+  {
+    "word": "püpit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a desk, a pulpit"
+      }
+    ]
+  },
+  {
+    "word": "püt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (fruit) stone"
+      }
+    ]
+  },
+  {
+    "word": "pütonasnek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a python"
+      }
+    ]
+  },
+  {
+    "word": "raagid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a groundnut, a peanut"
+      }
+    ]
+  },
+  {
+    "word": "raänid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a spider"
+      }
+    ]
+  },
+  {
+    "word": "rab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a raven"
+      }
+    ]
+  },
+  {
+    "word": "rabarb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rhubarb"
+      }
+    ]
+  },
+  {
+    "word": "rabat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a discount, a rebate"
+      }
+    ]
+  },
+  {
+    "word": "rabiätik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "furious"
+      }
+    ]
+  },
+  {
+    "word": "rabitan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an arbiter, an umpire"
+      }
+    ]
+  },
+  {
+    "word": "rabot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plane (= tool)"
+      }
+    ]
+  },
+  {
+    "word": "radagum",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an eraser"
+      }
+    ]
+  },
+  {
+    "word": "radionalanten",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a radio aerial"
+      }
+    ]
+  },
+  {
+    "word": "radionaparat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wireless set; a radio"
+      }
+    ]
+  },
+  {
+    "word": "radionasedöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a radio transmitter"
+      }
+    ]
+  },
+  {
+    "word": "radionastajon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a radio station"
+      }
+    ]
+  },
+  {
+    "word": "radiut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "radius"
+      }
+    ]
+  },
+  {
+    "word": "radön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to erase"
+      }
+    ]
+  },
+  {
+    "word": "raf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a radish"
+      }
+    ]
+  },
+  {
+    "word": "rafinik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pure, refined"
+      }
+    ]
+  },
+  {
+    "word": "ragipelag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an archipelago"
+      }
+    ]
+  },
+  {
+    "word": "ragiv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an archive"
+      }
+    ]
+  },
+  {
+    "word": "ragud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ragoût, a stew"
+      }
+    ]
+  },
+  {
+    "word": "raid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a radius"
+      }
+    ]
+  },
+  {
+    "word": "raistokrat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the aristocracy"
+      }
+    ]
+  },
+  {
+    "word": "rajan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an appointment, arrangement"
+      }
+    ]
+  },
+  {
+    "word": "rajanö!",
+    "lang": "volapuk",
+    "category": "interjection",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agreed! done!"
+      }
+    ]
+  },
+  {
+    "word": "rajanön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to arrange"
+      }
+    ]
+  },
+  {
+    "word": "rak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an ark"
+      }
+    ]
+  },
+  {
+    "word": "raket",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rocket"
+      }
+    ]
+  },
+  {
+    "word": "ramar",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cupboard"
+      }
+    ]
+  },
+  {
+    "word": "rampar",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rampart"
+      }
+    ]
+  },
+  {
+    "word": "ramenön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fetch, to get"
+      }
+    ]
+  },
+  {
+    "word": "ranül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tadpole"
+      }
+    ]
+  },
+  {
+    "word": "raodik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "coarse, rough"
+      }
+    ]
+  },
+  {
+    "word": "rap",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a turnip"
+      }
+    ]
+  },
+  {
+    "word": "rat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rat"
+      }
+    ]
+  },
+  {
+    "word": "ratär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an artery (anatomy)"
+      }
+    ]
+  },
+  {
+    "word": "ratid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Artillery"
+      }
+    ]
+  },
+  {
+    "word": "raudik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hoarse"
+      }
+    ]
+  },
+  {
+    "word": "ravan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a burglar, a robber, a thief"
+      }
+    ]
+  },
+  {
+    "word": "ravanim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a predator"
+      }
+    ]
+  },
+  {
+    "word": "ravülön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to abduct, to kidnap, to hijack"
+      }
+    ]
+  },
+  {
+    "word": "räfor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a horse-radish"
+      }
+    ]
+  },
+  {
+    "word": "räg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rag, a remnant"
+      }
+    ]
+  },
+  {
+    "word": "räkät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (tennis) racket"
+      }
+    ]
+  },
+  {
+    "word": "räkön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to rake"
+      }
+    ]
+  },
+  {
+    "word": "räp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a file (= tool)"
+      }
+    ]
+  },
+  {
+    "word": "räplig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a replica"
+      }
+    ]
+  },
+  {
+    "word": "räptul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a reptile"
+      }
+    ]
+  },
+  {
+    "word": "rät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a puzzle, a riddle"
+      }
+    ]
+  },
+  {
+    "word": "rätöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mystery"
+      }
+    ]
+  },
+  {
+    "word": "rätöf",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "enigmatic"
+      }
+    ]
+  },
+  {
+    "word": "räyastrals",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "X-rays"
+      }
+    ]
+  },
+  {
+    "word": "räyön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to (do an) X-ray"
+      }
+    ]
+  },
+  {
+    "word": "räyun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (distinctive) characteristic, a department, a domain"
+      }
+    ]
+  },
+  {
+    "word": "reaf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a record (= achievement)"
+      }
+    ]
+  },
+  {
+    "word": "reafön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to arrive, to attain, to get to, to manage (to do something)"
+      }
+    ]
+  },
+  {
+    "word": "redabetad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a beetroot"
+      }
+    ]
+  },
+  {
+    "word": "redabrasid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a red cabbage"
+      }
+    ]
+  },
+  {
+    "word": "redakan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an editor"
+      }
+    ]
+  },
+  {
+    "word": "redaribedabäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "redcurrant"
+      }
+    ]
+  },
+  {
+    "word": "redavaxen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cranberry"
+      }
+    ]
+  },
+  {
+    "word": "redik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "red"
+      }
+    ]
+  },
+  {
+    "word": "redikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to blush, to become flushed"
+      }
+    ]
+  },
+  {
+    "word": "redülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pink"
+      }
+    ]
+  },
+  {
+    "word": "ref",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a reef"
+      }
+    ]
+  },
+  {
+    "word": "reformat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the Reformation"
+      }
+    ]
+  },
+  {
+    "word": "refud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a refusal"
+      }
+    ]
+  },
+  {
+    "word": "refudön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to decline, to refuse"
+      }
+    ]
+  },
+  {
+    "word": "registarön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to record (on disc, etc)"
+      }
+    ]
+  },
+  {
+    "word": "reig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reign"
+      }
+    ]
+  },
+  {
+    "word": "reigön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to control, to rule"
+      }
+    ]
+  },
+  {
+    "word": "reg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a king, a queen"
+      }
+    ]
+  },
+  {
+    "word": "regadom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a palace"
+      }
+    ]
+  },
+  {
+    "word": "regat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a regatta"
+      }
+    ]
+  },
+  {
+    "word": "regän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a kingdom"
+      }
+    ]
+  },
+  {
+    "word": "regik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "regal, royal"
+      }
+    ]
+  },
+  {
+    "word": "registaram",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "registration (of letter/parcel)"
+      }
+    ]
+  },
+  {
+    "word": "registaron",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to record"
+      }
+    ]
+  },
+  {
+    "word": "reided",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a reading (= passage)"
+      }
+    ]
+  },
+  {
+    "word": "reidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to read"
+      }
+    ]
+  },
+  {
+    "word": "reifön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reach out"
+      }
+    ]
+  },
+  {
+    "word": "reigamod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a regime"
+      }
+    ]
+  },
+  {
+    "word": "reiganef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a government (= persons)"
+      }
+    ]
+  },
+  {
+    "word": "reigäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a subject"
+      }
+    ]
+  },
+  {
+    "word": "reigän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an empire"
+      }
+    ]
+  },
+  {
+    "word": "reigänadail",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "parliament"
+      }
+    ]
+  },
+  {
+    "word": "rein",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "word": "reinabob",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rainbow"
+      }
+    ]
+  },
+  {
+    "word": "reinajelöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an umbrella"
+      }
+    ]
+  },
+  {
+    "word": "reinamäned",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a raincoat"
+      }
+    ]
+  },
+  {
+    "word": "reinöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rainy"
+      }
+    ]
+  },
+  {
+    "word": "reinön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to rain"
+      }
+    ]
+  },
+  {
+    "word": "reitak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a nightingale"
+      }
+    ]
+  },
+  {
+    "word": "reivön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to overtake"
+      }
+    ]
+  },
+  {
+    "word": "reklamön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to advertise"
+      }
+    ]
+  },
+  {
+    "word": "rekord",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (competitive) record"
+      },
+      {
+        "lang": "english",
+        "text": "Volarekord = a world record"
+      }
+    ]
+  },
+  {
+    "word": "rekosilön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to forgive, to reconcile"
+      }
+    ]
+  },
+  {
+    "word": "rekrutäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a recruit"
+      }
+    ]
+  },
+  {
+    "word": "reledik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "denominational"
+      }
+    ]
+  },
+  {
+    "word": "relikid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a relic"
+      }
+    ]
+  },
+  {
+    "word": "reman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a buyer, a customer"
+      }
+    ]
+  },
+  {
+    "word": "remäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bribery, corruption"
+      }
+    ]
+  },
+  {
+    "word": "remoti(s)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shopping"
+      }
+    ]
+  },
+  {
+    "word": "remön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to buy, to purchase"
+      }
+    ]
+  },
+  {
+    "word": "renaküir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reindeer skin"
+      }
+    ]
+  },
+  {
+    "word": "renar",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a fox"
+      }
+    ]
+  },
+  {
+    "word": "renarapläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fox fur"
+      }
+    ]
+  },
+  {
+    "word": "renäsan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the renaissance"
+      }
+    ]
+  },
+  {
+    "word": "repüblikän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a republic"
+      }
+    ]
+  },
+  {
+    "word": "repüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a reputation"
+      }
+    ]
+  },
+  {
+    "word": "resärfarif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a spare tyre"
+      }
+    ]
+  },
+  {
+    "word": "resärfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reserve, spare"
+      }
+    ]
+  },
+  {
+    "word": "resärfön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reserve"
+      }
+    ]
+  },
+  {
+    "word": "resitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to declaim, to recite"
+      }
+    ]
+  },
+  {
+    "word": "rolatridem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an escalator"
+      }
+    ]
+  },
+  {
+    "word": "rolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to roll"
+      }
+    ]
+  },
+  {
+    "word": "rölön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to roll"
+      }
+    ]
+  },
+  {
+    "word": "rom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rum"
+      }
+    ]
+  },
+  {
+    "word": "romatik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "romantic"
+      }
+    ]
+  },
+  {
+    "word": "ronät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a faucet, a tap"
+      }
+    ]
+  },
+  {
+    "word": "rood",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a category"
+      }
+    ]
+  },
+  {
+    "word": "ropön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to interrupt"
+      }
+    ]
+  },
+  {
+    "word": "ror",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a roar"
+      }
+    ]
+  },
+  {
+    "word": "rorön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to roar"
+      }
+    ]
+  },
+  {
+    "word": "rorud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arrowroot"
+      }
+    ]
+  },
+  {
+    "word": "rosad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rose"
+      }
+    ]
+  },
+  {
+    "word": "rosin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a raisin"
+      }
+    ]
+  },
+  {
+    "word": "rot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a routine, a template (computer)"
+      }
+    ]
+  },
+  {
+    "word": "roul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a part, a role (in play)"
+      }
+    ]
+  },
+  {
+    "word": "rovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "narrow"
+      }
+    ]
+  },
+  {
+    "word": "röbön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to rub"
+      }
+    ]
+  },
+  {
+    "word": "röbülön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to caress, to stroke"
+      }
+    ]
+  },
+  {
+    "word": "röletan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a relative, a relation"
+      }
+    ]
+  },
+  {
+    "word": "rölastul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wheelchair"
+      }
+    ]
+  },
+  {
+    "word": "rönajevod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a race-horse"
+      }
+    ]
+  },
+  {
+    "word": "rönilön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) jog"
+      }
+    ]
+  },
+  {
+    "word": "rönön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to race, to run"
+      }
+    ]
+  },
+  {
+    "word": "rövüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (musical) revue"
+      }
+    ]
+  },
+  {
+    "word": "rubrig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rubric"
+      }
+    ]
+  },
+  {
+    "word": "rugby football",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rugby"
+      }
+    ]
+  },
+  {
+    "word": "ruilik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rusty"
+      }
+    ]
+  },
+  {
+    "word": "rukulön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) coo (like a pigeon/dove)"
+      }
+    ]
+  },
+  {
+    "word": "rul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (roller) blind"
+      }
+    ]
+  },
+  {
+    "word": "ruläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a roll"
+      }
+    ]
+  },
+  {
+    "word": "rulät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "roulette (game of chance)"
+      }
+    ]
+  },
+  {
+    "word": "runäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rush (of animals/people)"
+      }
+    ]
+  },
+  {
+    "word": "runülan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a jogger"
+      }
+    ]
+  },
+  {
+    "word": "rupäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an eruption, an outbreak"
+      }
+    ]
+  },
+  {
+    "word": "rupädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to break out (e.g. war, storm)"
+      }
+    ]
+  },
+  {
+    "word": "rupön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(to) erupt"
+      }
+    ]
+  },
+  {
+    "word": "rur",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dysentery"
+      }
+    ]
+  },
+  {
+    "word": "rutid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a nettle"
+      }
+    ]
+  },
+  {
+    "word": "rutim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prehistoric era"
+      }
+    ]
+  },
+  {
+    "word": "rübälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "perverse"
+      }
+    ]
+  },
+  {
+    "word": "rübik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "decadent"
+      }
+    ]
+  },
+  {
+    "word": "rübikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to decay, to spoil"
+      }
+    ]
+  },
+  {
+    "word": "rübüköl",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pernicious"
+      }
+    ]
+  },
+  {
+    "word": "rübükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to corrupt"
+      }
+    ]
+  },
+  {
+    "word": "rüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pipe, a tube (for toothpaste)"
+      }
+    ]
+  },
+  {
+    "word": "rüdil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (toothpaste) tube"
+      }
+    ]
+  },
+  {
+    "word": "rüdan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a plumber"
+      }
+    ]
+  },
+  {
+    "word": "rün",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a herring"
+      }
+    ]
+  },
+  {
+    "word": "rüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lust (sexual desire)"
+      }
+    ]
+  },
+  {
+    "word": "rütön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lust (for), to be on heat (animals)"
+      }
+    ]
+  },
+  {
+    "word": "sa",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "together with"
+      }
+    ]
+  },
+  {
+    "word": "sab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sand"
+      }
+    ]
+  },
+  {
+    "word": "sabot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sabotage"
+      }
+    ]
+  },
+  {
+    "word": "saböm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (sand) timer"
+      }
+    ]
+  },
+  {
+    "word": "sadin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "silk"
+      }
+    ]
+  },
+  {
+    "word": "sadön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sink"
+      }
+    ]
+  },
+  {
+    "word": "saedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to add (maths)"
+      }
+    ]
+  },
+  {
+    "word": "saf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hoof"
+      }
+    ]
+  },
+  {
+    "word": "safafer",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a horseshoe"
+      }
+    ]
+  },
+  {
+    "word": "safirain",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sapphire"
+      }
+    ]
+  },
+  {
+    "word": "safran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "saffron"
+      }
+    ]
+  },
+  {
+    "word": "sagatik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "intelligent"
+      }
+    ]
+  },
+  {
+    "word": "sagäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rumour (= gossip)"
+      }
+    ]
+  },
+  {
+    "word": "sagit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an arrow"
+      }
+    ]
+  },
+  {
+    "word": "sagliad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (wild) boar"
+      }
+    ]
+  },
+  {
+    "word": "sagön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to say, to tell (something to someone)"
+      }
+    ]
+  },
+  {
+    "word": "sagud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sago"
+      }
+    ]
+  },
+  {
+    "word": "saidäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "self-confidence"
+      }
+    ]
+  },
+  {
+    "word": "saidik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "enough, sufficient"
+      }
+    ]
+  },
+  {
+    "word": "saidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to suffice"
+      }
+    ]
+  },
+  {
+    "word": "saikul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bicycle"
+      }
+    ]
+  },
+  {
+    "word": "saikulön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cycle"
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sail"
+      }
+    ]
+  },
+  {
+    "word": "sailön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sail"
+      }
+    ]
+  },
+  {
+    "word": "saitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cite, to quote"
+      }
+    ]
+  },
+  {
+    "word": "sak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sack"
+      }
+    ]
+  },
+  {
+    "word": "sakalusüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cul-de-sac"
+      }
+    ]
+  },
+  {
+    "word": "sakäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bag, a pack, a satchel"
+      }
+    ]
+  },
+  {
+    "word": "saked",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (lady's) handbag"
+      }
+    ]
+  },
+  {
+    "word": "sakram",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sacrament"
+      }
+    ]
+  },
+  {
+    "word": "sal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "salt"
+      }
+    ]
+  },
+  {
+    "word": "salad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lettuce, salad"
+      }
+    ]
+  },
+  {
+    "word": "salb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sage (herb)"
+      }
+    ]
+  },
+  {
+    "word": "saliär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a salt- cellar"
+      }
+    ]
+  },
+  {
+    "word": "salif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "saliva"
+      }
+    ]
+  },
+  {
+    "word": "salifameat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "saliva duct"
+      }
+    ]
+  },
+  {
+    "word": "salig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a willow (tree)"
+      }
+    ]
+  },
+  {
+    "word": "salm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a salmon"
+      }
+    ]
+  },
+  {
+    "word": "salmün",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a newt, a salamander"
+      }
+    ]
+  },
+  {
+    "word": "salöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "salty"
+      }
+    ]
+  },
+  {
+    "word": "saludabuk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "holy scripture"
+      }
+    ]
+  },
+  {
+    "word": "saludan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a saint"
+      }
+    ]
+  },
+  {
+    "word": "saludik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "holy, sacred"
+      }
+    ]
+  },
+  {
+    "word": "saludükik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hallowed"
+      }
+    ]
+  },
+  {
+    "word": "sam",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for example"
+      }
+    ]
+  },
+  {
+    "word": "samäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a copy (of book); a specimen, a trial"
+      }
+    ]
+  },
+  {
+    "word": "sambukabäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "elderberry"
+      }
+    ]
+  },
+  {
+    "word": "samed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sample"
+      }
+    ]
+  },
+  {
+    "word": "samik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "patterned"
+      }
+    ]
+  },
+  {
+    "word": "sanakäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "health care"
+      }
+    ]
+  },
+  {
+    "word": "sanan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a doctor, a medic"
+      }
+    ]
+  },
+  {
+    "word": "sanav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "medicine (science)"
+      }
+    ]
+  },
+  {
+    "word": "sanavik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "medical"
+      }
+    ]
+  },
+  {
+    "word": "sandal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sandal"
+      }
+    ]
+  },
+  {
+    "word": "sanön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cure, to heal"
+      }
+    ]
+  },
+  {
+    "word": "saov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a saw"
+      }
+    ]
+  },
+  {
+    "word": "saovön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to saw"
+      }
+    ]
+  },
+  {
+    "word": "sapiK",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wise"
+      }
+    ]
+  },
+  {
+    "word": "sarden",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sardine"
+      }
+    ]
+  },
+  {
+    "word": "sark",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a coffin"
+      }
+    ]
+  },
+  {
+    "word": "sarkad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sarcasm"
+      }
+    ]
+  },
+  {
+    "word": "sasenön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to assassinate, to murder"
+      }
+    ]
+  },
+  {
+    "word": "satik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "satisfied, satiated"
+      }
+    ]
+  },
+  {
+    "word": "satinik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "satin"
+      }
+    ]
+  },
+  {
+    "word": "satir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a satire"
+      }
+    ]
+  },
+  {
+    "word": "satön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to have enough (of)"
+      }
+    ]
+  },
+  {
+    "word": "saturn",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Saturn"
+      }
+    ]
+  },
+  {
+    "word": "satü̈rik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "satirical"
+      }
+    ]
+  },
+  {
+    "word": "saun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "health"
+      }
+    ]
+  },
+  {
+    "word": "saunad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sauna"
+      }
+    ]
+  },
+  {
+    "word": "saunik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "healthy, well"
+      }
+    ]
+  },
+  {
+    "word": "saunikäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hygiene"
+      }
+    ]
+  },
+  {
+    "word": "saunikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to recover"
+      }
+    ]
+  },
+  {
+    "word": "savabot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a lifeboat"
+      }
+    ]
+  },
+  {
+    "word": "savön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to save (from)"
+      }
+    ]
+  },
+  {
+    "word": "saxofon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a saxophone"
+      }
+    ]
+  },
+  {
+    "word": "säbledemamed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "defoliant"
+      }
+    ]
+  },
+  {
+    "word": "säblimön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dismantle"
+      }
+    ]
+  },
+  {
+    "word": "säboidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disembark"
+      }
+    ]
+  },
+  {
+    "word": "säbrietikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sober up"
+      }
+    ]
+  },
+  {
+    "word": "säbrietükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sober (someone) up"
+      }
+    ]
+  },
+  {
+    "word": "sädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to (make) sink, to submerge"
+      }
+    ]
+  },
+  {
+    "word": "sädunön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to undo"
+      }
+    ]
+  },
+  {
+    "word": "sädünikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to resign"
+      }
+    ]
+  },
+  {
+    "word": "sädünü̈kön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to abdicate, to discharge, to dismiss, to sack"
+      }
+    ]
+  },
+  {
+    "word": "sädütön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to deprive (someone of something)"
+      }
+    ]
+  },
+  {
+    "word": "säed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a saddle"
+      }
+    ]
+  },
+  {
+    "word": "säfärmükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to open, to unlock"
+      }
+    ]
+  },
+  {
+    "word": "säfledäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relief (mental)"
+      }
+    ]
+  },
+  {
+    "word": "säfledön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to download, to unload"
+      }
+    ]
+  },
+  {
+    "word": "säg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dryness"
+      }
+    ]
+  },
+  {
+    "word": "säkerükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disinherit"
+      }
+    ]
+  },
+  {
+    "word": "sägik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dry"
+      }
+    ]
+  },
+  {
+    "word": "sägleipön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to let go"
+      }
+    ]
+  },
+  {
+    "word": "säglumükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cheer up"
+      }
+    ]
+  },
+  {
+    "word": "sägükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dry"
+      }
+    ]
+  },
+  {
+    "word": "sägul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rye"
+      }
+    ]
+  },
+  {
+    "word": "säjadön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to shade off"
+      }
+    ]
+  },
+  {
+    "word": "säjäfälükam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "entertainment, leisure activity"
+      }
+    ]
+  },
+  {
+    "word": "säjalön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to peel"
+      }
+    ]
+  },
+  {
+    "word": "säk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a query, a question"
+      }
+    ]
+  },
+  {
+    "word": "säkablog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a questionnaire, a survey"
+      }
+    ]
+  },
+  {
+    "word": "säkalükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to deduct, to subtract"
+      }
+    ]
+  },
+  {
+    "word": "säkäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a problem"
+      }
+    ]
+  },
+  {
+    "word": "säkiälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "quizzical"
+      }
+    ]
+  },
+  {
+    "word": "säkibön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to abolish, to dispense with, to get rid of"
+      }
+    ]
+  },
+  {
+    "word": "säkikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to decipher"
+      }
+    ]
+  },
+  {
+    "word": "säklänedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bring to light"
+      }
+    ]
+  },
+  {
+    "word": "säklöätön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unsneck"
+      }
+    ]
+  },
+  {
+    "word": "säklotamacem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a changing room"
+      }
+    ]
+  },
+  {
+    "word": "säklotön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to undress (oneself)"
+      }
+    ]
+  },
+  {
+    "word": "säknopön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unbutton"
+      }
+    ]
+  },
+  {
+    "word": "säkölikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to tarnish"
+      }
+    ]
+  },
+  {
+    "word": "säkölän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an inquirer"
+      }
+    ]
+  },
+  {
+    "word": "säkön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to ask (a question)"
+      },
+      {
+        "lang": "english",
+        "text": "to wonder"
+      }
+    ]
+  },
+  {
+    "word": "säküradükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to discourage"
+      }
+    ]
+  },
+  {
+    "word": "säküsad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an excuse, an apology"
+      }
+    ]
+  },
+  {
+    "word": "säküsadibeg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apology"
+      }
+    ]
+  },
+  {
+    "word": "säküsadön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to excuse, to pardon"
+      }
+    ]
+  },
+  {
+    "word": "sälärid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "celery"
+      }
+    ]
+  },
+  {
+    "word": "sälenükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take off (clothes/shoes)"
+      }
+    ]
+  },
+  {
+    "word": "säleodükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to upset"
+      }
+    ]
+  },
+  {
+    "word": "sälödön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unload"
+      }
+    ]
+  },
+  {
+    "word": "säluimükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dry (oneself)"
+      }
+    ]
+  },
+  {
+    "word": "sälun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a drawing-room, a sitting-room"
+      }
+    ]
+  },
+  {
+    "word": "sämenikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become dehumanized"
+      }
+    ]
+  },
+  {
+    "word": "sämenükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dehumanize"
+      }
+    ]
+  },
+  {
+    "word": "sändvig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sandwich"
+      }
+    ]
+  },
+  {
+    "word": "sänäfätön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disinfect"
+      }
+    ]
+  },
+  {
+    "word": "säned",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an evening meal, supper"
+      }
+    ]
+  },
+  {
+    "word": "sänedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to have supper"
+      }
+    ]
+  },
+  {
+    "word": "säniflat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deflation"
+      }
+    ]
+  },
+  {
+    "word": "sänsur",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "censorship"
+      }
+    ]
+  },
+  {
+    "word": "säntretükäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "concentration"
+      }
+    ]
+  },
+  {
+    "word": "säntretükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to concentrate"
+      }
+    ]
+  },
+  {
+    "word": "säntretik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "concentrated"
+      }
+    ]
+  },
+  {
+    "word": "säpäkön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unpack"
+      }
+    ]
+  },
+  {
+    "word": "säplanön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dig up, to root up"
+      }
+    ]
+  },
+  {
+    "word": "säpöpön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to depopulate"
+      }
+    ]
+  },
+  {
+    "word": "sären",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mermaid, a siren"
+      }
+    ]
+  },
+  {
+    "word": "särjan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sergeant"
+      }
+    ]
+  },
+  {
+    "word": "särvät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a napkin, a serviette"
+      }
+    ]
+  },
+  {
+    "word": "särvätül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cloth (bovülasärvätül = a dish-cloth)"
+      }
+    ]
+  },
+  {
+    "word": "särvig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a neck"
+      }
+    ]
+  },
+  {
+    "word": "särvigakravat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a (neck)tie"
+      }
+    ]
+  },
+  {
+    "word": "särvigastofäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a scarf"
+      }
+    ]
+  },
+  {
+    "word": "säsloan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apostate"
+      }
+    ]
+  },
+  {
+    "word": "säsoafükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to quench (thirst)"
+      }
+    ]
+  },
+  {
+    "word": "säspetükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disappoint (someone)"
+      }
+    ]
+  },
+  {
+    "word": "sästimön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dishonour"
+      }
+    ]
+  },
+  {
+    "word": "sästitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disestablish"
+      }
+    ]
+  },
+  {
+    "word": "sästopön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to come to a standstill"
+      }
+    ]
+  },
+  {
+    "word": "säsun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a season (of year)"
+      }
+    ]
+  },
+  {
+    "word": "sätenidükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to relax, to unwind"
+      }
+    ]
+  },
+  {
+    "word": "sätratükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to extract"
+      }
+    ]
+  },
+  {
+    "word": "sätülön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unwind"
+      }
+    ]
+  },
+  {
+    "word": "sävaetükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sap"
+      }
+    ]
+  },
+  {
+    "word": "sävafön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disarm"
+      }
+    ]
+  },
+  {
+    "word": "säveadön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unsheath"
+      }
+    ]
+  },
+  {
+    "word": "sävealön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reveal, to unveil"
+      }
+    ]
+  },
+  {
+    "word": "sävilupön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to develop (photos); to reveal; to unfold (figuratively)"
+      }
+    ]
+  },
+  {
+    "word": "säyön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lisp"
+      }
+    ]
+  },
+  {
+    "word": "se",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "out (of)"
+      }
+    ]
+  },
+  {
+    "word": "seablimön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disassemble, take apart"
+      }
+    ]
+  },
+  {
+    "word": "seadäm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "seating"
+      }
+    ]
+  },
+  {
+    "word": "seadöfön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fit (of clothes, shoes, etc.)"
+      }
+    ]
+  },
+  {
+    "word": "seadön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sit"
+      }
+    ]
+  },
+  {
+    "word": "seadöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a seat"
+      }
+    ]
+  },
+  {
+    "word": "seafalön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall apart"
+      }
+    ]
+  },
+  {
+    "word": "seagivön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to allot, to distribute"
+      }
+    ]
+  },
+  {
+    "word": "seaikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to disperse, to scatter"
+      }
+    ]
+  },
+  {
+    "word": "sean",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an ocean"
+      }
+    ]
+  },
+  {
+    "word": "seatön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lie (down), (lay, lain)"
+      }
+    ]
+  },
+  {
+    "word": "seatöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a storehouse"
+      }
+    ]
+  },
+  {
+    "word": "seädön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to jut out, to protrude"
+      }
+    ]
+  },
+  {
+    "word": "sebön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dig"
+      }
+    ]
+  },
+  {
+    "word": "sebrad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a zebra"
+      }
+    ]
+  },
+  {
+    "word": "sedanef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an expedition"
+      }
+    ]
+  },
+  {
+    "word": "sedit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a departure, a resignation"
+      }
+    ]
+  },
+  {
+    "word": "sedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to send"
+      }
+    ]
+  },
+  {
+    "word": "sef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "safety"
+      }
+    ]
+  },
+  {
+    "word": "sefanad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a safety-pin"
+      }
+    ]
+  },
+  {
+    "word": "sefa-prüdamesüls",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "safety precautions"
+      }
+    ]
+  },
+  {
+    "word": "sefazönül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a safety belt"
+      }
+    ]
+  },
+  {
+    "word": "sefädöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a place of safety, a refuge"
+      }
+    ]
+  },
+  {
+    "word": "sefik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "safe"
+      }
+    ]
+  },
+  {
+    "word": "seflum",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mouth (of a river)"
+      }
+    ]
+  },
+  {
+    "word": "seg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sect"
+      }
+    ]
+  },
+  {
+    "word": "segivön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to spend (money)"
+      }
+    ]
+  },
+  {
+    "word": "segolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go out"
+      }
+    ]
+  },
+  {
+    "word": "segolöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an exit"
+      }
+    ]
+  },
+  {
+    "word": "seidetöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a display (of goods)"
+      }
+    ]
+  },
+  {
+    "word": "seidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sit down, to take a seat"
+      }
+    ]
+  },
+  {
+    "word": "seifön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to sigh"
+      }
+    ]
+  },
+  {
+    "word": "seikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to get out (of)"
+      }
+    ]
+  },
+  {
+    "word": "seiman",
+    "lang": "volapuk",
+    "category": "pron.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "anybody, anyone, whoever"
+      }
+    ]
+  },
+  {
+    "word": "seimik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "any, some kind of, whichever"
+      }
+    ]
+  },
+  {
+    "word": "seimikna",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "some time (or other)"
+      }
+    ]
+  },
+  {
+    "word": "seimna",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "once"
+      }
+    ]
+  },
+  {
+    "word": "seimio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wherever"
+      }
+    ]
+  },
+  {
+    "word": "seimo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "anywhere, somewhere, wherever"
+      }
+    ]
+  },
+  {
+    "word": "seimüpo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "whenever"
+      }
+    ]
+  },
+  {
+    "word": "seimos",
+    "lang": "volapuk",
+    "category": "pron.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "anything"
+      }
+    ]
+  },
+  {
+    "word": "seitön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lay, to place"
+      }
+    ]
+  },
+  {
+    "word": "seiv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "recognition"
+      }
+    ]
+  },
+  {
+    "word": "seividön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to inquire (about), to obtain information"
+      }
+    ]
+  },
+  {
+    "word": "seividan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an enquirer"
+      }
+    ]
+  },
+  {
+    "word": "seivön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to get to know (people and places)"
+      }
+    ]
+  },
+  {
+    "word": "sejedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to eject, to throw out"
+      }
+    ]
+  },
+  {
+    "word": "sek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an outcome, a result"
+      }
+    ]
+  },
+  {
+    "word": "sekaliegik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "successful"
+      }
+    ]
+  },
+  {
+    "word": "sekät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a function (maths)"
+      }
+    ]
+  },
+  {
+    "word": "sekidan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hanger-on"
+      }
+    ]
+  },
+  {
+    "word": "sekidön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to depend (on)"
+      }
+    ]
+  },
+  {
+    "word": "sekik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eventual"
+      }
+    ]
+  },
+  {
+    "word": "sekomön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to emerge (from)"
+      }
+    ]
+  },
+  {
+    "word": "sekön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to result"
+      }
+    ]
+  },
+  {
+    "word": "sekretan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a secretary"
+      }
+    ]
+  },
+  {
+    "word": "seskrubön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to unscrew"
+      }
+    ]
+  },
+  {
+    "word": "sekun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a second (= time)"
+      }
+    ]
+  },
+  {
+    "word": "sekurbön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to switch off"
+      }
+    ]
+  },
+  {
+    "word": "sekü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "as a result of"
+      }
+    ]
+  },
+  {
+    "word": "sel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sale"
+      }
+    ]
+  },
+  {
+    "word": "selan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a salesperson"
+      }
+    ]
+  },
+  {
+    "word": "seledik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rare"
+      }
+    ]
+  },
+  {
+    "word": "seledo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "seldom"
       }
     ]
   }
