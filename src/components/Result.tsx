@@ -1,31 +1,29 @@
 import { Badge } from '@/components/ui/badge';
-import { DictionaryEntryType } from '@/types';
+import { DictionaryEntryType } from '@/lib/types';
+// TODO: move capitalizer to utils
+// import { capitalizer } from '@/lib/utils';
 
-function capitalizer(string: string) {
+export function capitalizer(string: string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
 export default function Result({ result }: { result: DictionaryEntryType }) {
   return (
-    <div className="border-b-2 py-4 text-left">
-      <p className="flex justify-between gap-5 capitalize">
-        {result.word} <Badge className="capitalize">{result.category}</Badge>
-      </p>
+    <div className="border-b-2 border-white py-4 text-left last:border-b-0">
+      <div className="flex justify-between gap-5 pb-1">
+        <span className="text-xl font-bold">{capitalizer(result.word)}</span>
+        <Badge className="flex min-w-10 justify-center italic">{result.category}</Badge>
+      </div>
       <div>
-        <p>
-          <span className="font-bold">Translations:&nbsp;</span>
-          <span>
-            {result.translations.map((translation) => capitalizer(translation.text)).join(', ')}
-          </span>
-        </p>
+        {result.translations.map((translation) => capitalizer(translation.text)).join(', ')}
       </div>
       {result.examples && result.examples.length > 0 && (
         <div>
           <p className="font-bold">Examples:</p>
           <ul className="list-inside">
-            {result.examples.map((example, idx) => (
-              <li key={idx}>
-                <span>{example.text}.</span>
+            {result.examples.map((example, i) => (
+              <li key={i} className="pl-4">
+                <span>{example.text}</span>
               </li>
             ))}
           </ul>
