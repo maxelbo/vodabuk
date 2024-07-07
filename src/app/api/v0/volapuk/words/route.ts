@@ -1,7 +1,7 @@
 import path from 'path';
 import { promises as fs } from 'fs';
 import { NextRequest, NextResponse } from 'next/server';
-import { DictionaryEntryType } from '@/types';
+import { DictionaryEntryType } from '@/lib/types';
 
 export async function GET(req: NextRequest) {
   try {
