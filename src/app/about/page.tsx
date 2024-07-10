@@ -1,26 +1,27 @@
 import Link from 'next/link';
 import { buttonVariants } from '@/components/ui/button';
-// TODO: Implement WordCount component
 // import WordCount from '@/components/WordCount';
 
-// async function getWordCount() {
-//   const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/word-count`;
+async function getWordCount() {
+  const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/word-count`;
 
-//   try {
-//     const res = await fetch(endpoint, { cache: 'no-store' });
+  try {
+    const res = await fetch(endpoint, { cache: 'no-store' });
 
-//     if (!res.ok) {
-//       throw new Error(`Failed to fetch data from ${endpoint}`);
-//     }
+    if (!res.ok) {
+      throw new Error(`Failed to fetch data from ${endpoint}`);
+    }
 
-//     return res.json();
-//   } catch {
-//     throw new Error(`Failed to fetch data from ${endpoint}`);
-//   }
-// }
+    const data = await res.json();
+    return data.volapukWordsCount;
+  } catch {
+    return 0;
+  }
+}
 
 export default async function About() {
-  // const totalWordCount = await getWordCount();
+  const count = await getWordCount();
+  const formattedCount = new Intl.NumberFormat('en-US').format(count);
 
   return (
     <div className="mx-auto max-w-3xl px-4 text-center">
@@ -28,7 +29,13 @@ export default async function About() {
       <p>
         Vödabuk is an open-source Volapük dictionary application designed to make the Volapük
         language more accessible to everyone.
-        {/* <WordCount totalWordCount={totalWordCount} /> */}
+        {count > 0 && (
+          <p>
+            It currenlty has <span className="font-bold">{formattedCount}</span> Volapük words in
+            its database.
+            {/* It currenlty has <WordCount count={count} /> Volapük words in its database. */}
+          </p>
+        )}
         <br />
         <br />
         The dictionary is in continious development. If you find any errors or have suggestions for
