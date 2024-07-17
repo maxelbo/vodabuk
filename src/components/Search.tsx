@@ -6,6 +6,8 @@ import { Button } from '@/components/ui/button';
 import Result from '@/components/Result';
 import { Search as SearchIcon } from 'lucide-react';
 import { DictionaryEntryType } from '@/lib/types';
+import { useLangContext } from '@/context/LanguageContext';
+import type { LangContextProps } from '@/lib/types';
 
 interface SearchProps {
   dictionaryData: DictionaryEntryType[];
@@ -14,6 +16,7 @@ interface SearchProps {
 export default function Search({ dictionaryData }: SearchProps) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<DictionaryEntryType[]>([]);
+  const { lang: translationLang } = useLangContext() as LangContextProps;
 
   // List of excluded words in English translations
   const excludeWordList = ['a', 'an', 'to', 'the'];
@@ -73,10 +76,7 @@ export default function Search({ dictionaryData }: SearchProps) {
         const translationWords = cleanedTranslationText.split(/,\s*/).map(cleanTranslationText);
 
         // Check if any of the separated words or phrases match the query
-        return (
-          translationWords.some((word) => isWholeWordOrPhraseMatch(word, trimmedQuery)) &&
-          translation.lang === 'english'
-        );
+        return translationWords.some((word) => isWholeWordOrPhraseMatch(word, trimmedQuery));
       });
 
       return wordMatch || translationMatch;
@@ -92,6 +92,10 @@ export default function Search({ dictionaryData }: SearchProps) {
 
     setResults(searchResults);
   }
+
+  const filteredResults = results.filter((result) => {
+    return result.translations.some((translation) => translation.lang === translationLang);
+  });
 
   return (
     <div className="mx-auto w-full max-w-3xl py-4">
@@ -109,8 +113,8 @@ export default function Search({ dictionaryData }: SearchProps) {
         </Button>
       </form>
       <div className="mt-4 h-[65vh] w-full overflow-auto rounded-md bg-slate-800 px-4 text-white">
-        {results.length > 0 ? (
-          results.map((result, index) => <Result result={result} key={index} />)
+        {filteredResults.length > 0 ? (
+          filteredResults.map((result, index) => <Result result={result} key={index} />)
         ) : (
           <p className="flex h-full items-center justify-center text-center">
             No results found.
