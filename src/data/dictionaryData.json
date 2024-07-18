@@ -6,11 +6,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "per"
+        "text": "per, at"
       },
       {
-        "lang": "english",
-        "text": "at"
+        "lang": "esperanto",
+        "text": "po"
       }
     ],
     "examples": [
@@ -31,11 +31,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "but"
+        "text": "but, however"
       },
       {
-        "lang": "english",
-        "text": "however"
+        "lang": "esperanto",
+        "text": "sed"
       }
     ]
   },
@@ -47,6 +47,10 @@
       {
         "lang": "english",
         "text": "but also"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sed ankaŭ"
       }
     ]
   },
@@ -57,18 +61,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "for"
+        "text": "for, in order to, to"
       },
       {
-        "lang": "english",
-        "text": "in order to"
-      },
-      {
-        "lang": "english",
-        "text": "to"
+        "lang": "esperanto",
+        "text": "por"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "adas",
@@ -77,17 +76,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "that, to"
+        "text": "that, to, than that (after the positive degree of comparison, but sometimes used by adj. after the comparative degree)"
       },
       {
-        "lang": "english",
-        "text": "than that (after the positive degree of comparison but sometimes used by adj. after the comparative degree)"
+        "lang": "esperanto",
+        "text": "por"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "(after positive) Binom tu liegik, adas vedom tifan = He is too rich to become a thief"
+        "text": "(after positive) Binom tu liegik, adas vedom tifan = He is too rich to become a thief."
       }
     ]
   },
@@ -134,6 +133,10 @@
       {
         "lang": "english",
         "text": "today"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hodiaŭ"
       }
     ]
   },
@@ -146,6 +149,10 @@
       {
         "lang": "english",
         "text": "from today"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekde hodiaŭ"
       }
     ]
   },
@@ -157,12 +164,20 @@
       {
         "lang": "english",
         "text": "goodbye"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adiaŭ"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Adyō! = Goodbye!"
+      },
+      {
+        "lang": "english",
+        "text": "Adyō! = Adiaŭ!"
       }
     ]
   },
@@ -212,11 +227,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "always"
+        "text": "always, ever"
       },
       {
-        "lang": "english",
-        "text": "ever"
+        "lang": "esperanto",
+        "text": "ĉiam"
       }
     ],
     "examples": [
@@ -247,6 +262,10 @@
       {
         "lang": "english",
         "text": "Ai plu = More and more."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ai nog = Ankoraŭ."
       }
     ]
   },
@@ -278,8 +297,7 @@
         "lang": "english",
         "text": "after each"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "aipos",
@@ -307,14 +325,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "each"
+        "text": "each, every"
       },
       {
-        "lang": "english",
-        "text": "every"
+        "lang": "esperanto",
+        "text": "ĉiu"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alan",
@@ -330,8 +347,7 @@
         "lang": "english",
         "text": "each person"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "aldelik",
@@ -342,9 +358,12 @@
       {
         "lang": "english",
         "text": "daily"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiutaga"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alik",
@@ -360,8 +379,7 @@
         "lang": "english",
         "text": "every"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "almulik",
@@ -371,9 +389,12 @@
       {
         "lang": "english",
         "text": "monthly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiumonata"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alna",
@@ -385,8 +406,7 @@
         "lang": "english",
         "text": "each time"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alo",
@@ -402,8 +422,7 @@
         "lang": "english",
         "text": "at any event"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alseimik",
@@ -423,8 +442,7 @@
         "lang": "english",
         "text": "whichever"
       }
-    ],
-    "examples": []
+    ]
   },
   {
     "word": "alyelik",
@@ -434,11 +452,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "annual"
+        "text": "annual, yearly"
       },
       {
-        "lang": "english",
-        "text": "yearly"
+        "lang": "esperanto",
+        "text": "ĉiujara"
       }
     ]
   },
@@ -451,6 +469,10 @@
       {
         "lang": "english",
         "text": "tonight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-nokte"
       }
     ]
   },
@@ -477,11 +499,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "at this moment"
+        "text": "at this moment, now"
       },
       {
-        "lang": "english",
-        "text": "now"
+        "lang": "esperanto",
+        "text": "nun"
       }
     ]
   },
@@ -494,6 +516,10 @@
       {
         "lang": "english",
         "text": "this afternoon"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-posttagmeze"
       }
     ]
   },
@@ -506,6 +532,10 @@
       {
         "lang": "english",
         "text": "as"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiel"
       }
     ]
   },
@@ -530,6 +560,10 @@
       {
         "lang": "english",
         "text": "this evening"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-vespere"
       }
     ]
   },
@@ -537,11 +571,29 @@
     "word": "at",
     "lang": "volapuk",
     "roots": ["at"],
-    "category": "adj.",
+    "category": "dem. pron.",
     "translations": [
       {
         "lang": "english",
-        "text": "this (adj.)"
+        "text": "this (demonstrative pronoun)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tiu ĉi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bai at = According to this."
+      },
+      {
+        "lang": "english",
+        "text": "In at = In this."
+      },
+      {
+        "lang": "english",
+        "text": "Len at = At this; lü at = in addition to this; pla at = instead of this; pro at = for this reason; su at = on this; to at = against this; zü at = around this."
       }
     ]
   },
@@ -577,7 +629,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "this (n.)"
+        "text": "this (idea, notion)"
       }
     ]
   },
@@ -585,11 +637,15 @@
     "word": "ädeadöl",
     "lang": "volapuk",
     "roots": ["dead"],
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
         "text": "deceased"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortinta"
       }
     ]
   },
@@ -602,6 +658,10 @@
       {
         "lang": "english",
         "text": "yesterday"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hieraŭ"
       }
     ]
   },
@@ -613,11 +673,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "toward"
+        "text": "toward, towards"
       },
       {
-        "lang": "english",
-        "text": "towards"
+        "lang": "esperanto",
+        "text": "al"
       }
     ]
   },
@@ -653,11 +713,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "as (prep.)"
+        "text": "as (prep.), like"
       },
       {
-        "lang": "english",
-        "text": "like"
+        "lang": "esperanto",
+        "text": "kiel"
       }
     ]
   },
@@ -669,11 +729,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "as (conj.)"
-      },
-      {
-        "lang": "english",
-        "text": "like (conj.)"
+        "text": "as (conj.), like (conj.)"
       }
     ]
   },
@@ -686,6 +742,10 @@
       {
         "lang": "english",
         "text": "as also"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiel ankaŭ"
       }
     ]
   },
@@ -705,15 +765,15 @@
     "word": "äsva",
     "lang": "volapuk",
     "roots": ["äs", "va"],
-    "category": "adv.",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
-        "text": "as if"
+        "text": "as if, as though"
       },
       {
-        "lang": "english",
-        "text": "as though"
+        "lang": "esperanto",
+        "text": "kvazaŭ"
       }
     ]
   },
@@ -725,7 +785,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "as it were"
+        "text": "as it were, so to say"
       }
     ]
   },
@@ -738,6 +798,26 @@
       {
         "lang": "english",
         "text": "last week"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasintsemajne"
+      }
+    ]
+  },
+  {
+    "word": "äyelik",
+    "roots": ["yel"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "last year's"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasintjara"
       }
     ]
   },
@@ -750,6 +830,10 @@
       {
         "lang": "english",
         "text": "last year"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasintjare"
       }
     ]
   },
@@ -778,6 +862,22 @@
     ]
   },
   {
+    "word": "bad",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "badness, evil"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbono"
+      }
+    ]
+  },
+  {
     "word": "badik",
     "roots": ["bad"],
     "lang": "volapuk",
@@ -786,6 +886,10 @@
       {
         "lang": "english",
         "text": "bad"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbona, mava"
       }
     ]
   },
@@ -798,6 +902,10 @@
       {
         "lang": "english",
         "text": "worse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pli malbona"
       }
     ]
   },
@@ -810,6 +918,10 @@
       {
         "lang": "english",
         "text": "worse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pli malbone"
       }
     ]
   },
@@ -822,6 +934,10 @@
       {
         "lang": "english",
         "text": "to deteriorate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malboniĝi"
       }
     ]
   },
@@ -834,6 +950,10 @@
       {
         "lang": "english",
         "text": "pessimism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pesimismo"
       }
     ]
   },
@@ -858,6 +978,10 @@
       {
         "lang": "english",
         "text": "pessimistic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pesimisma"
       }
     ]
   },
@@ -870,6 +994,10 @@
       {
         "lang": "english",
         "text": "a suspicion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suspekto"
       }
     ]
   },
@@ -882,6 +1010,10 @@
       {
         "lang": "english",
         "text": "to suspect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suspekti"
       }
     ]
   },
@@ -905,11 +1037,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "malice"
+        "text": "malice, spite"
       },
       {
-        "lang": "english",
-        "text": "spite"
+        "lang": "esperanto",
+        "text": "malboneco"
       }
     ]
   },
@@ -921,11 +1053,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "frivolous"
+        "text": "frivolous, mischievous"
       },
       {
-        "lang": "english",
-        "text": "mischievous"
+        "lang": "esperanto",
+        "text": "petolema"
       }
     ]
   },
@@ -938,6 +1070,10 @@
       {
         "lang": "english",
         "text": "mischievousness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "petolemo"
       }
     ]
   },
@@ -950,6 +1086,10 @@
       {
         "lang": "english",
         "text": "deterioration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malboniĝo"
       }
     ]
   },
@@ -962,6 +1102,10 @@
       {
         "lang": "english",
         "text": "a moustache"
+      },
+      {
+        "lang": "esperanto",
+        "text": "liphararo"
       }
     ]
   },
@@ -974,6 +1118,10 @@
       {
         "lang": "english",
         "text": "a paragraph"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paragrafo"
       }
     ]
   },
@@ -986,6 +1134,10 @@
       {
         "lang": "english",
         "text": "according (to)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laŭ"
       }
     ]
   },
@@ -1010,6 +1162,10 @@
       {
         "lang": "english",
         "text": "to agree, to be in accordance (with), to correspond"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kongrui"
       }
     ]
   },
@@ -1022,6 +1178,10 @@
       {
         "lang": "english",
         "text": "to agree (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsenti"
       }
     ]
   },
@@ -1034,6 +1194,10 @@
       {
         "lang": "english",
         "text": "eventual"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eventuala"
       }
     ]
   },
@@ -1057,7 +1221,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to let (house, etc)"
+        "text": "rent out, lease, to let (house, etc)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "luigi, ludoni"
       }
     ]
   },
@@ -1070,6 +1238,10 @@
       {
         "lang": "english",
         "text": "to confer (with); to liaise (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsiliĝi"
       }
     ]
   },
@@ -1082,6 +1254,10 @@
       {
         "lang": "english",
         "text": "sympathy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpatio"
       }
     ]
   },
@@ -1094,6 +1270,10 @@
       {
         "lang": "english",
         "text": "up-to-date"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝisdata, aktuala"
       }
     ]
   },
@@ -1106,6 +1286,10 @@
       {
         "lang": "english",
         "text": "harmony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "harmonio"
       }
     ]
   },
@@ -1118,6 +1302,10 @@
       {
         "lang": "english",
         "text": "harmonious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "harmonia"
       }
     ]
   },
@@ -1130,6 +1318,10 @@
       {
         "lang": "english",
         "text": "to tune (a musical instrument)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "agordi, harmoniigi"
       }
     ]
   },
@@ -1142,6 +1334,10 @@
       {
         "lang": "english",
         "text": "to agree (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akordi, konformi, kongrui"
       }
     ]
   },
@@ -1154,6 +1350,10 @@
       {
         "lang": "english",
         "text": "a baker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakisto"
       }
     ]
   },
@@ -1166,6 +1366,10 @@
       {
         "lang": "english",
         "text": "a brick"
+      },
+      {
+        "lang": "esperanto",
+        "text": "briko"
       }
     ]
   },
@@ -1178,6 +1382,10 @@
       {
         "lang": "english",
         "text": "a bakery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakejo"
       }
     ]
   },
@@ -1190,6 +1398,10 @@
       {
         "lang": "english",
         "text": "a bacterium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakterio"
       }
     ]
   },
@@ -1202,6 +1414,10 @@
       {
         "lang": "english",
         "text": "bacteriology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakteriologio"
       }
     ]
   },
@@ -1214,6 +1430,10 @@
       {
         "lang": "english",
         "text": "an abacus"
+      },
+      {
+        "lang": "esperanto",
+        "text": "abako"
       }
     ]
   },
@@ -1226,12 +1446,16 @@
       {
         "lang": "english",
         "text": "a balcony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "balkono"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "Bakun balid = dress circle; Bakun telid = upper circle; Bakun kilid = (the) gallery."
+        "text": "Bakun balid = dress circle; Bakun telid = Upper circle; Bakun kilid = (the) gallery."
       }
     ]
   },
@@ -1244,12 +1468,16 @@
       {
         "lang": "english",
         "text": "one (number)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unu"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "Bal len votik = next to each other."
+        "text": "Bal len votik = Next to each other."
       }
     ]
   },
@@ -1262,6 +1490,10 @@
       {
         "lang": "english",
         "text": "one (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unu persono"
       }
     ]
   },
@@ -1273,11 +1505,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a piece"
+        "text": "a piece, a unit"
       },
       {
-        "lang": "english",
-        "text": "a unit"
+        "lang": "esperanto",
+        "text": "unuo"
       }
     ]
   },
@@ -1290,6 +1522,10 @@
       {
         "lang": "english",
         "text": "single"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuopa"
       }
     ]
   },
@@ -1301,21 +1537,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a contract"
+        "text": "a contract, an essay, a treaty"
       },
       {
-        "lang": "english",
-        "text": "an essay"
-      },
-      {
-        "lang": "english",
-        "text": "a treaty"
+        "lang": "esperanto",
+        "text": "kontrakto"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "bai baläd = on a contract"
+        "text": "Bai baläd = On a contract."
       }
     ]
   },
@@ -1340,6 +1572,10 @@
       {
         "lang": "english",
         "text": "to come to terms (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interkonsenti"
       }
     ]
   },
@@ -1351,11 +1587,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to arrange (by mutual consent)"
-      },
-      {
-        "lang": "english",
-        "text": "to reconcile"
+        "text": "to arrange (by mutual consent), to reconcile"
       }
     ]
   },
@@ -1368,6 +1600,10 @@
       {
         "lang": "english",
         "text": "unity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unueco"
       }
     ]
   },
@@ -1380,6 +1616,10 @@
       {
         "lang": "english",
         "text": "a unicorn"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unukornulo, unikorno"
       }
     ]
   },
@@ -1392,6 +1632,10 @@
       {
         "lang": "english",
         "text": "a beard"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbo"
       }
     ]
   },
@@ -1899,7 +2143,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an apron, a pinafore"
+        "text": "an apron"
+      },
+      {
+        "lang": "english",
+        "text": "a pinafore"
       }
     ]
   },
@@ -1911,7 +2159,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bacillus, a germ"
+        "text": "a bacillus"
+      },
+      {
+        "lang": "english",
+        "text": "a germ"
       }
     ]
   },
@@ -2071,7 +2323,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an old pal (= a mate)"
+        "text": "an old pal (a mate)"
       }
     ]
   },
@@ -2566,7 +2818,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bite, a snack"
+        "text": "a snack"
+      },
+      {
+        "lang": "english",
+        "text": "a snack"
       }
     ]
   },
@@ -2931,7 +3187,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a 'hit', a success"
+        "text": "a hit"
+      },
+      {
+        "lang": "english",
+        "text": "a success"
       }
     ]
   },
@@ -3332,6 +3592,18 @@
     ]
   },
   {
+    "word": "bevünetik",
+    "roots": ["bevü", "net"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "international"
+      }
+    ]
+  },
+  {
     "word": "bevüsagön",
     "lang": "volapuk",
     "category": "v.",
@@ -3421,7 +3693,19 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a kind, a race, a sort, species"
+        "text": "a kind"
+      },
+      {
+        "lang": "english",
+        "text": "a race"
+      },
+      {
+        "lang": "english",
+        "text": "a sort"
+      },
+      {
+        "lang": "english",
+        "text": "a species"
       }
     ]
   },
@@ -3432,7 +3716,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a breed, a race"
+        "text": "a breed"
+      },
+      {
+        "lang": "english",
+        "text": "a race"
       }
     ]
   },
@@ -3493,7 +3781,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "* bienadomil = a beehive"
+        "text": "Bienadomil = A beehive."
       }
     ]
   },
@@ -3647,7 +3935,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a component, an ingredient"
+        "text": "a component"
+      },
+      {
+        "lang": "english",
+        "text": "an ingredient"
       }
     ]
   },
@@ -3671,7 +3963,7 @@
   {
     "word": "binädöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -3747,7 +4039,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "* Kis binos-li? = What’s the matter?"
+        "text": "Kis binos-li? = What’s the matter?"
       }
     ]
   },
@@ -3851,6 +4143,17 @@
     ]
   },
   {
+    "word": "bisarö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "that's odd!"
+      }
+    ]
+  },
+  {
     "word": "biskit",
     "lang": "volapuk",
     "category": "n.",
@@ -3879,18 +4182,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a process"
+        "text": "way of acting/behaving, appearance (theater, etc.), comportment, deportment, performance"
       }
     ]
   },
   {
     "word": "bitikam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
-        "text": "behavior, conduct"
+        "text": "entrance, appearance (e. g. at a presentation)"
       }
     ]
   },
@@ -4143,7 +4446,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "blind man's buff (= game)"
+        "text": "blind man's buff (game)"
       }
     ]
   },
@@ -4220,7 +4523,19 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an authorization, an exercise, a lesson, a task"
+        "text": "an authorization"
+      },
+      {
+        "lang": "english",
+        "text": "an exercise"
+      },
+      {
+        "lang": "english",
+        "text": "a lesson"
+      },
+      {
+        "lang": "english",
+        "text": "a task"
       }
     ]
   },
@@ -4451,7 +4766,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a clod, a clump"
+        "text": "a clod"
+      },
+      {
+        "lang": "english",
+        "text": "a clump"
       }
     ]
   },
@@ -4462,7 +4781,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bosom, a breast, a chest"
+        "text": "a bosom"
+      },
+      {
+        "lang": "english",
+        "text": "a breast"
+      },
+      {
+        "lang": "english",
+        "text": "a chest"
       }
     ]
   },
@@ -4550,7 +4877,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a test, a trial"
+        "text": "a test"
+      },
+      {
+        "lang": "english",
+        "text": "a trial"
       }
     ]
   },
@@ -4561,7 +4892,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to prove, to test"
+        "text": "to prove"
+      },
+      {
+        "lang": "english",
+        "text": "to test"
       }
     ]
   },
@@ -4572,7 +4907,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a brook, a stream"
+        "text": "a brook"
+      },
+      {
+        "lang": "english",
+        "text": "a stream"
       }
     ]
   },
@@ -4595,61 +4934,6 @@
       {
         "lang": "english",
         "text": "to dip, to plunge"
-      }
-    ]
-  },
-  {
-    "word": "bluvik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "amazing"
-      }
-    ]
-  },
-  {
-    "word": "bluv",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "bewilderment"
-      }
-    ]
-  },
-  {
-    "word": "bluviko",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "in amazement"
-      }
-    ]
-  },
-  {
-    "word": "bluvön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to bewilder, to perplex"
-      }
-    ]
-  },
-  {
-    "word": "bluvükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to amaze"
       }
     ]
   },
@@ -4698,28 +4982,6 @@
     ]
   },
   {
-    "word": "blünots",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "supplies (= goods)"
-      }
-    ]
-  },
-  {
-    "word": "blunön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to plunge"
-      }
-    ]
-  },
-  {
     "word": "bluv",
     "lang": "volapuk",
     "category": "n.",
@@ -4727,6 +4989,10 @@
       {
         "lang": "english",
         "text": "consternation, dismay"
+      },
+      {
+        "lang": "english",
+        "text": "bewilderment"
       }
     ]
   },
@@ -4737,7 +5003,44 @@
     "translations": [
       {
         "lang": "english",
+        "text": "amazing"
+      },
+      {
+        "lang": "english",
         "text": "dumbfounded"
+      }
+    ]
+  },
+  {
+    "word": "bluviko",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in amazement"
+      }
+    ]
+  },
+  {
+    "word": "bluvön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bewilder, to perplex"
+      }
+    ]
+  },
+  {
+    "word": "bluvükön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to amaze"
       }
     ]
   },
@@ -4749,6 +5052,17 @@
       {
         "lang": "english",
         "text": "to prepare"
+      }
+    ]
+  },
+  {
+    "word": "blünots",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "supplies (goods)"
       }
     ]
   },
@@ -4797,6 +5111,17 @@
     ]
   },
   {
+    "word": "boadablög",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "log (of wood)"
+      }
+    ]
+  },
+  {
     "word": "boatagolön",
     "lang": "volapuk",
     "category": "v.",
@@ -4814,7 +5139,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cripple, a lame (person)"
+        "text": "a cripple"
+      },
+      {
+        "lang": "english",
+        "text": "a lame (person)"
       }
     ]
   },
@@ -4836,35 +5165,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an arch (= building)"
+        "text": "an arch (building)"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "bobädategöp = an arcade"
-      }
-    ]
-  },
-  {
-    "word": "boad",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wood"
-      }
-    ]
-  },
-  {
-    "word": "boadablög",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "log (of wood)"
+        "text": "Bobädategöp = An arcade"
       }
     ]
   },
@@ -4944,7 +5251,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a board, a plank"
+        "text": "a board"
+      },
+      {
+        "lang": "english",
+        "text": "a plank"
       }
     ]
   },
@@ -4988,7 +5299,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a box, a chest"
+        "text": "a box"
+      },
+      {
+        "lang": "english",
+        "text": "a chest"
       }
     ]
   },
@@ -5010,7 +5325,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a balustrade, a handrail"
+        "text": "a balustrade"
+      },
+      {
+        "lang": "english",
+        "text": "a handrail"
       }
     ]
   },
@@ -5109,7 +5428,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bonnet, a cap"
+        "text": "a bonnet"
+      },
+      {
+        "lang": "english",
+        "text": "a bonnet"
       }
     ]
   },
@@ -5142,7 +5465,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "board (= lodgings)"
+        "text": "board (lodgings)"
       }
     ]
   },
@@ -5395,7 +5718,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "annoying, bothersome, a nuisance"
+        "text": "annoying"
+      },
+      {
+        "lang": "english",
+        "text": "bothersome"
+      },
+      {
+        "lang": "english",
+        "text": "a nuisance"
       }
     ]
   },
@@ -5500,7 +5831,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "bötädöpatab = bar"
+        "text": "Bötädöpatab = Bar"
       }
     ]
   },
@@ -5742,7 +6073,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a break, a fracture"
+        "text": "a break"
+      },
+      {
+        "lang": "english",
+        "text": "a fracture"
       }
     ]
   },
@@ -5786,7 +6121,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to break (= become broken)"
+        "text": "to break (become broken)"
       }
     ]
   },
@@ -6375,7 +6710,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a jump, a leap, a spring"
+        "text": "a jump"
+      },
+      {
+        "lang": "english",
+        "text": "a leap"
+      },
+      {
+        "lang": "english",
+        "text": "a spring"
       }
     ]
   },
@@ -6430,7 +6773,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) pole vault (= athletics)"
+        "text": "(the) pole vault (athletics)"
       }
     ]
   },
@@ -6497,14 +6840,7 @@
       {
         "lang": "english",
         "text": "...ago (bü yels tel = two years ago)"
-      }
-    ]
-  },
-  {
-    "word": "bü",
-    "lang": "volapuk",
-    "category": "prep.",
-    "translations": [
+      },
       {
         "lang": "english",
         "text": "before"
@@ -6562,7 +6898,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a command, an order"
+        "text": "a command"
+      },
+      {
+        "lang": "english",
+        "text": "an order"
       }
     ]
   },
@@ -6667,7 +7007,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a can, a tin"
+        "text": "a can"
+      },
+      {
+        "lang": "english",
+        "text": "a tin"
       }
     ]
   },
@@ -6678,7 +7022,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a can-opener, a tin-opener"
+        "text": "a can-opener"
+      },
+      {
+        "lang": "english",
+        "text": "a tin-opener"
       }
     ]
   },
@@ -6689,7 +7037,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a harbinger, a herald"
+        "text": "a harbinger"
+      },
+      {
+        "lang": "english",
+        "text": "a herald"
       }
     ]
   },
@@ -6777,7 +7129,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a prerequisite, a sign"
+        "text": "a prerequisite"
+      },
+      {
+        "lang": "english",
+        "text": "a sign"
       }
     ]
   },
@@ -6843,7 +7199,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "before, formerly"
+        "text": "before"
+      },
+      {
+        "lang": "english",
+        "text": "formerly"
       }
     ]
   },
@@ -6854,7 +7214,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to suppose, to presuppose"
+        "text": "to suppose"
+      },
+      {
+        "lang": "english",
+        "text": "to presuppose"
       }
     ]
   },
@@ -7030,7 +7394,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an hors d'oeuvre, a starter"
+        "text": "an hors d'oeuvre"
+      },
+      {
+        "lang": "english",
+        "text": "a starter"
       }
     ]
   },
@@ -7052,7 +7420,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a casserole, a saucepan"
+        "text": "a casserole"
+      },
+      {
+        "lang": "english",
+        "text": "a saucepan"
       }
     ]
   },
@@ -7064,6 +7436,10 @@
       {
         "lang": "english",
         "text": "employment, occupation, profession"
+      },
+      {
+        "lang": "esperanto",
+        "text": "profesio, okupo, ofico, metio"
       }
     ]
   },
@@ -7097,6 +7473,10 @@
       {
         "lang": "english",
         "text": "a clerk, an official"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oficialulo, komisiito"
       }
     ]
   },
@@ -7350,6 +7730,10 @@
       {
         "lang": "english",
         "text": "a cherry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉerizo"
       }
     ]
   },
@@ -7360,7 +7744,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry-tree"
+        "text": "a cherry tree"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉerizujo"
       }
     ]
   },
@@ -7371,7 +7759,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry-tree"
+        "text": "a cherry tree"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉerizujo"
       }
     ]
   },
@@ -7382,7 +7774,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a room (in house)"
+        "text": "a room (in a house)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉambro (en domo)"
       }
     ]
   },
@@ -7427,6 +7823,10 @@
       {
         "lang": "english",
         "text": "to change (into), to turn (into)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝiĝi (en)"
       }
     ]
   },
@@ -7438,6 +7838,10 @@
       {
         "lang": "english",
         "text": "a gill (of fish)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "branko"
       }
     ]
   },
@@ -7449,6 +7853,10 @@
       {
         "lang": "english",
         "text": "a chief, a director, a head"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉefo, direktoro, estro"
       }
     ]
   },
@@ -7459,7 +7867,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "chief, main, principal"
+        "text": "capital (of a country)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉefurbo"
       }
     ]
   },
@@ -7470,7 +7882,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) authorities"
+        "text": "the authorities"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aŭtoritatoj, instancoj"
       }
     ]
   },
@@ -7482,6 +7898,10 @@
       {
         "lang": "english",
         "text": "a child, an infant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "infano"
       }
     ]
   },
@@ -7773,7 +8193,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to execute (= put to death)"
+        "text": "to execute (put to death)"
       }
     ]
   },
@@ -8027,28 +8447,6 @@
       {
         "lang": "english",
         "text": "blissfully"
-      }
-    ]
-  },
-  {
-    "word": "daif",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a banquet, a feast"
-      }
-    ]
-  },
-  {
-    "word": "dail",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a parliament"
       }
     ]
   },
@@ -8325,7 +8723,7 @@
   {
     "word": "dafredüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -8472,7 +8870,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "parliament"
+        "text": "a parliament"
       }
     ]
   },
@@ -8868,7 +9266,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to constitute (= to adopt constitution)"
+        "text": "to constitute (to adopt constitution)"
       }
     ]
   },
@@ -8879,14 +9277,14 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to be allowed to (= may)"
+        "text": "to be allowed to (may)"
       }
     ]
   },
   {
     "word": "daluimüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -8945,7 +9343,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) enforce"
+        "text": "to enforce"
       }
     ]
   },
@@ -9022,7 +9420,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to thank (danön demü/pro = to thank for)"
+        "text": "to thank"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Danön demü/pro = To thank for"
       }
     ]
   },
@@ -9352,7 +9756,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "down (=fluffy feathers)"
+        "text": "down (fluffy feathers)"
       }
     ]
   },
@@ -9529,6 +9933,10 @@
       {
         "lang": "english",
         "text": "a dagger"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ponardo"
       }
     ]
   },
@@ -9540,6 +9948,10 @@
       {
         "lang": "english",
         "text": "to stab"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ponardi"
       }
     ]
   },
@@ -9550,7 +9962,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a deck (on board ship)"
+        "text": "a deck (on a board ship)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ferdeko"
       }
     ]
   },
@@ -9562,6 +9978,10 @@
       {
         "lang": "english",
         "text": "permission, concession"
+      },
+      {
+        "lang": "esperanto",
+        "text": "permeso"
       }
     ]
   },
@@ -9573,6 +9993,10 @@
       {
         "lang": "english",
         "text": "charter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉarto"
       }
     ]
   },
@@ -9584,6 +10008,10 @@
       {
         "lang": "english",
         "text": "a deputy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vickomisaro, deputito"
       }
     ]
   },
@@ -9595,6 +10023,10 @@
       {
         "lang": "english",
         "text": "duly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "propre, konvene"
       }
     ]
   },
@@ -9606,6 +10038,10 @@
       {
         "lang": "english",
         "text": "indulgent, lenient, merciful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indulgema"
       }
     ]
   },
@@ -9617,6 +10053,10 @@
       {
         "lang": "english",
         "text": "(social) atmosphere"
+      },
+      {
+        "lang": "esperanto",
+        "text": "etoso"
       }
     ]
   },
@@ -9628,6 +10068,10 @@
       {
         "lang": "english",
         "text": "to allow, to permit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "permesi"
       }
     ]
   },
@@ -9803,7 +10247,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cartoon (= animated film)"
+        "text": "a cartoon (animated film)"
       }
     ]
   },
@@ -9859,6 +10303,10 @@
       {
         "lang": "english",
         "text": "a date (calendar)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dato"
       }
     ]
   },
@@ -9870,6 +10318,10 @@
       {
         "lang": "english",
         "text": "to trample down"
+      },
+      {
+        "lang": "esperanto",
+        "text": "treti, piedpremi"
       }
     ]
   },
@@ -9881,6 +10333,10 @@
       {
         "lang": "english",
         "text": "of, from"
+      },
+      {
+        "lang": "esperanto",
+        "text": "de"
       }
     ]
   },
@@ -9892,17 +10348,26 @@
       {
         "lang": "english",
         "text": "death"
+      },
+      {
+        "lang": "esperanto",
+        "text": "morto"
       }
     ]
   },
   {
-    "word": "deadandagäläd",
+    "word": "deadanagaläd",
+    "roots": ["dead", "gal"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "wake (after person’s death)"
+        "text": "wake (funeral), visitation (funeral), funeral reception"
+      },
+      {
+        "lang": "esperanto",
+        "text": "funebra vigilo"
       }
     ]
   },
@@ -9914,6 +10379,10 @@
       {
         "lang": "english",
         "text": "cemetery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tombejo"
       }
     ]
   },
@@ -9924,7 +10393,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) death penalty"
+        "text": "the death penalty, capital punishment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortpuno"
       }
     ]
   },
@@ -9936,6 +10409,10 @@
       {
         "lang": "english",
         "text": "dead"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortinta, morta"
       }
     ]
   },
@@ -9947,6 +10424,10 @@
       {
         "lang": "english",
         "text": "euthanasia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eŭtanazio"
       }
     ]
   },
@@ -9958,6 +10439,10 @@
       {
         "lang": "english",
         "text": "mortal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortema"
       }
     ]
   },
@@ -9969,6 +10454,10 @@
       {
         "lang": "english",
         "text": "to die"
+      },
+      {
+        "lang": "esperanto",
+        "text": "morti"
       }
     ]
   },
@@ -9980,6 +10469,10 @@
       {
         "lang": "english",
         "text": "a debt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝuldo"
       }
     ]
   },
@@ -9991,6 +10484,10 @@
       {
         "lang": "english",
         "text": "to owe (money)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝuldi (monon)"
       }
     ]
   },
@@ -10002,6 +10499,10 @@
       {
         "lang": "english",
         "text": "to owe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝuldi"
       }
     ]
   },
@@ -10013,6 +10514,10 @@
       {
         "lang": "english",
         "text": "a defect, a deficiency"
+      },
+      {
+        "lang": "esperanto",
+        "text": "difekto"
       }
     ]
   },
@@ -10024,6 +10529,10 @@
       {
         "lang": "english",
         "text": "litter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forĵetaĵo"
       }
     ]
   },
@@ -10046,6 +10555,10 @@
       {
         "lang": "english",
         "text": "a dustbin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rubujo"
       }
     ]
   },
@@ -10057,6 +10570,10 @@
       {
         "lang": "english",
         "text": "deficient, imperfect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "difektita"
       }
     ]
   },
@@ -10068,6 +10585,10 @@
       {
         "lang": "english",
         "text": "to be deficient, to be lacking, to fail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti difektita"
       }
     ]
   },
@@ -10079,6 +10600,10 @@
       {
         "lang": "english",
         "text": "ten"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dek"
       }
     ]
   },
@@ -10090,6 +10615,10 @@
       {
         "lang": "english",
         "text": "eleven"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dek unu"
       }
     ]
   },
@@ -10101,6 +10630,10 @@
       {
         "lang": "english",
         "text": "delivery, surrender (of goods)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "liverado"
       }
     ]
   },
@@ -10112,6 +10645,10 @@
       {
         "lang": "english",
         "text": "twelve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dek du"
       }
     ]
   },
@@ -10123,6 +10660,10 @@
       {
         "lang": "english",
         "text": "a dozen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dekduo, dekduopo"
       }
     ]
   },
@@ -10134,6 +10675,10 @@
       {
         "lang": "english",
         "text": "a decade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dekjaro"
       }
     ]
   },
@@ -10145,17 +10690,25 @@
       {
         "lang": "english",
         "text": "to sentence to death"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortpuni"
       }
     ]
   },
   {
     "word": "deidöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
         "text": "fatal, lethal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mortiga, letala"
       }
     ]
   },
@@ -10392,7 +10945,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "* no demön = (to) ignore"
+        "text": "No demön = (to) ignore"
       }
     ]
   },
@@ -10958,17 +11511,6 @@
     ]
   },
   {
-    "word": "digidön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to appreciate"
-      }
-    ]
-  },
-  {
     "word": "dikot",
     "lang": "volapuk",
     "category": "n.",
@@ -11294,7 +11836,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an aim, a plan"
+        "text": "an aim"
+      },
+      {
+        "lang": "english",
+        "text": "a plan"
       }
     ]
   },
@@ -11316,7 +11862,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a design, a plan"
+        "text": "a design"
+      },
+      {
+        "lang": "english",
+        "text": "a plan"
       }
     ]
   },
@@ -11338,7 +11888,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) discus throw (= Olympics)"
+        "text": "(the) discus throw (Olympics)"
       }
     ]
   },
@@ -11415,7 +11965,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a base, a plinth"
+        "text": "a base"
+      },
+      {
+        "lang": "english",
+        "text": "a plinth"
       }
     ]
   },
@@ -11437,7 +11991,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "underground (= general)"
+        "text": "underground (general)"
       }
     ]
   },
@@ -11569,13 +12123,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "distress, an emergency"
+        "text": "distress"
+      },
+      {
+        "lang": "english",
+        "text": "an emergency"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "* ditreto = in distress"
+        "text": "Ditreto = In distress."
       }
     ]
   },
@@ -12015,7 +12573,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "dominoes (= game)"
+        "text": "dominoes (game)"
       }
     ]
   },
@@ -12196,6 +12754,23 @@
     ]
   },
   {
+    "word": "dö",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "about"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Fredik dö bos = Glad about something."
+      }
+    ]
+  },
+  {
     "word": "döb",
     "lang": "volapuk",
     "category": "n.",
@@ -12263,7 +12838,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "(döbot duton lü ol = it's your fault !)"
+        "text": "Döbot duton lü ol = It's your fault!"
       }
     ]
   },
@@ -12302,7 +12877,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "(rif döfik = a flat tyre)"
+        "text": "Rif döfik = A flat tyre."
       }
     ]
   },
@@ -12434,7 +13009,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a refrain, a repetition"
+        "text": "a refrain"
+      },
+      {
+        "lang": "english",
+        "text": "a repetition"
       }
     ]
   },
@@ -12494,7 +13073,7 @@
     ]
   },
   {
-    "word": "dranäd an",
+    "word": "dranädan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -12516,17 +13095,6 @@
     ]
   },
   {
-    "word": "dranäl",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a compulsion"
-      }
-    ]
-  },
-  {
     "word": "dranöfik",
     "lang": "volapuk",
     "category": "adj.",
@@ -12534,17 +13102,6 @@
       {
         "lang": "english",
         "text": "urgent"
-      }
-    ]
-  },
-  {
-    "word": "dranön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to press, to rush (of blood, etc)"
       }
     ]
   },
@@ -12578,6 +13135,10 @@
       {
         "lang": "english",
         "text": "an affliction"
+      },
+      {
+        "lang": "english",
+        "text": "a compulsion"
       }
     ]
   },
@@ -12588,7 +13149,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to press, push, shove"
+        "text": "to press, push, shove, to rush (of blood, etc.)"
       }
     ]
   },
@@ -12599,7 +13160,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to train (= sports)"
+        "text": "to train (sports)"
       }
     ]
   },
@@ -12610,7 +13171,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to train (= animals)"
+        "text": "to train (animals)"
       }
     ]
   },
@@ -12654,7 +13215,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "apprehensive, anxious"
+        "text": "apprehensive"
+      },
+      {
+        "lang": "english",
+        "text": "anxious"
       }
     ]
   },
@@ -12724,7 +13289,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (human) subject, a victim"
+        "text": "a (human) subject"
+      },
+      {
+        "lang": "english",
+        "text": "a victim"
       }
     ]
   },
@@ -12823,7 +13392,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to distress, to upset (= to make cry)"
+        "text": "to distress, to upset (to make cry)"
       }
     ]
   },
@@ -12889,7 +13458,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a gratuity, a tip"
+        "text": "a gratuity"
+      },
+      {
+        "lang": "english",
+        "text": "a tip"
       }
     ]
   },
@@ -13120,7 +13693,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an attainment, a deed"
+        "text": "an attainment"
+      },
+      {
+        "lang": "english",
+        "text": "a deed"
       }
     ]
   },
@@ -13307,7 +13884,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a client, a customer"
+        "text": "a client"
+      },
+      {
+        "lang": "english",
+        "text": "a customer"
       }
     ]
   },
@@ -13385,17 +13966,6 @@
       {
         "lang": "english",
         "text": "duodenum"
-      }
-    ]
-  },
-  {
-    "word": "dubükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(to) reset (page) (computer)"
       }
     ]
   },
@@ -13621,7 +14191,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "* a düp = per hour"
+        "text": "A düp = Per hour."
       }
     ]
   },
@@ -13720,7 +14290,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "anybody, anyone"
+        "text": "anybody"
+      },
+      {
+        "lang": "english",
+        "text": "anyone"
       }
     ]
   },
@@ -13863,7 +14437,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) manufacture"
+        "text": "the manufacture"
       }
     ]
   },
@@ -14017,7 +14591,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) long jump (= athletics)"
+        "text": "the long jump (athletics)"
       }
     ]
   },
@@ -14072,7 +14646,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bankrupt"
+        "text": "a bankrupt (person)"
       }
     ]
   },
@@ -14116,7 +14690,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) languish, wither"
+        "text": "to languish, to wither"
       }
     ]
   },
@@ -14171,7 +14745,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a falcon, a hawk"
+        "text": "a falcon"
+      },
+      {
+        "lang": "english",
+        "text": "a hawk"
       }
     ]
   },
@@ -14500,7 +15078,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "no favolös tefü ob = don’t worry about me."
+        "text": "No favolös tefü ob = Don’t worry about me."
       }
     ]
   },
@@ -14512,13 +15090,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a chance event, a coincidence"
+        "text": "a chance event"
+      },
+      {
+        "lang": "english",
+        "text": "a coincidence"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "ma fäd = at random"
+        "text": "Ma fäd = At random."
       }
     ]
   },
@@ -14566,7 +15148,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an ability, a faculty"
+        "text": "an ability"
+      },
+      {
+        "lang": "english",
+        "text": "a faculty"
       }
     ]
   },
@@ -14790,7 +15376,7 @@
     "word": "fäküköl",
     "roots": ["fäk"],
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -14900,7 +15486,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "fäti läbik! = good luck!"
+        "text": "Fäti läbik! = Good luck!"
       }
     ]
   },
@@ -14981,7 +15567,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to remove (= move house)"
+        "text": "to remove (move house)"
       }
     ]
   },
@@ -15233,7 +15819,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a peasant, a rustic person"
+        "text": "a peasant"
+      },
+      {
+        "lang": "english",
+        "text": "a rustic person"
       }
     ]
   },
@@ -15273,7 +15863,7 @@
   {
     "word": "feinüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -15480,6 +16070,17 @@
     ]
   },
   {
+    "word": "fi",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nonsense!"
+      }
+    ]
+  },
+  {
     "word": "fibik",
     "lang": "volapuk",
     "category": "adj.",
@@ -15673,7 +16274,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a fever, a temperature"
+        "text": "a fever"
+      },
+      {
+        "lang": "english",
+        "text": "a temperature"
       }
     ]
   },
@@ -15684,7 +16289,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to have a fever, a temperature"
+        "text": "to have a fever"
+      },
+      {
+        "lang": "english",
+        "text": "a temperature"
       }
     ]
   },
@@ -15706,7 +16315,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a figure, a form"
+        "text": "a figure"
+      },
+      {
+        "lang": "english",
+        "text": "a form"
       }
     ]
   },
@@ -15888,7 +16501,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "filmastelan = a film star"
+        "text": "Filmastelan = A film star"
       }
     ]
   },
@@ -15987,7 +16600,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a conclusion, an end"
+        "text": "a conclusion"
+      },
+      {
+        "lang": "english",
+        "text": "an end"
       }
     ]
   },
@@ -16009,7 +16626,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to abolish, to bring to an end"
+        "text": "to abolish"
+      },
+      {
+        "lang": "english",
+        "text": "to bring to an end"
       }
     ]
   },
@@ -16031,7 +16652,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an (ultimate) end, an extremity"
+        "text": "an (ultimate) end"
+      },
+      {
+        "lang": "english",
+        "text": "an extremity"
       }
     ]
   },
@@ -16070,7 +16695,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "fish and chips = fit e pötetüls"
+        "text": "Fish and chips = Fit e pötetüls"
       }
     ]
   },
@@ -16147,7 +16772,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a flag, a standard"
+        "text": "a flag"
+      },
+      {
+        "lang": "english",
+        "text": "a standard"
       }
     ]
   },
@@ -16158,7 +16787,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to ask, to demand, to insist on"
+        "text": "to ask"
+      },
+      {
+        "lang": "english",
+        "text": "to demand"
+      },
+      {
+        "lang": "english",
+        "text": "to insist on"
       }
     ]
   },
@@ -16202,7 +16839,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a taper, a torch"
+        "text": "a taper"
+      },
+      {
+        "lang": "english",
+        "text": "a torch"
       }
     ]
   },
@@ -16213,7 +16854,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to flicker, to glimmer"
+        "text": "to flicker"
+      },
+      {
+        "lang": "english",
+        "text": "to glimmer"
       }
     ]
   },
@@ -16257,7 +16902,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a hit, a smack"
+        "text": "a hit"
+      },
+      {
+        "lang": "english",
+        "text": "a smack"
       }
     ]
   },
@@ -16268,7 +16917,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pat, a slap"
+        "text": "a pat"
+      },
+      {
+        "lang": "english",
+        "text": "a slap"
       }
     ]
   },
@@ -16499,7 +17152,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a rev, a turn"
+        "text": "a rev"
+      },
+      {
+        "lang": "english",
+        "text": "a turn"
       }
     ]
   },
@@ -16516,7 +17173,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "talaleflekam = rotation of the earth"
+        "text": "Talaleflekam = Rotation of the earth"
       }
     ]
   },
@@ -16582,7 +17239,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a comrade, a mate, a pal"
+        "text": "a comrade"
+      },
+      {
+        "lang": "english",
+        "text": "a mate"
+      },
+      {
+        "lang": "english",
+        "text": "a pal"
       }
     ]
   },
@@ -16622,7 +17287,7 @@
   {
     "word": "flifädüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -16670,7 +17335,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bat (= creature)"
+        "text": "a bat (creature)"
       }
     ]
   },
@@ -16714,13 +17379,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an aeroplane, aircraft"
+        "text": "an aeroplane"
+      },
+      {
+        "lang": "english",
+        "text": "an aircraft"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "flitömipolian = aircraft carrier"
+        "text": "Flitömipolian = Aircraft carrier"
       }
     ]
   },
@@ -16968,7 +17637,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "flud süpik = Spring tide"
+        "text": "Flud süpik = Spring tide."
       }
     ]
   },
@@ -17166,7 +17835,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a mist, a fog"
+        "text": "mist"
+      },
+      {
+        "lang": "english",
+        "text": "fog"
       }
     ]
   },
@@ -17188,7 +17861,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an outsider, a stranger"
+        "text": "an outsider"
+      },
+      {
+        "lang": "english",
+        "text": "a stranger"
       }
     ]
   },
@@ -17304,7 +17981,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "folo = in fours"
+        "text": "Folo = In fours."
       }
     ]
   },
@@ -17348,7 +18025,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a form, a shape"
+        "text": "a form"
+      },
+      {
+        "lang": "english",
+        "text": "a shape"
       }
     ]
   },
@@ -17409,7 +18090,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "No kanob fomälön osi = I have no idea"
+        "text": "No kanob fomälön osi = I have no idea."
       }
     ]
   },
@@ -17420,7 +18101,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a format, a size"
+        "text": "a format"
+      },
+      {
+        "lang": "english",
+        "text": "a size"
       }
     ]
   },
@@ -17453,7 +18138,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to form, to shape"
+        "text": "to form, to shape, to fashion"
       }
     ]
   },
@@ -17497,7 +18182,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a fountain, a well"
+        "text": "a fountain"
+      },
+      {
+        "lang": "english",
+        "text": "a well"
       }
     ]
   },
@@ -17508,7 +18197,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a source, a spring"
+        "text": "a source"
+      },
+      {
+        "lang": "english",
+        "text": "a spring"
       }
     ]
   },
@@ -17596,7 +18289,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a forest, a grove, a wood"
+        "text": "a forest"
+      },
+      {
+        "lang": "english",
+        "text": "a grove"
+      },
+      {
+        "lang": "english",
+        "text": "a wood"
       }
     ]
   },
@@ -17690,7 +18391,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "no fovo = no longer"
+        "text": "No fovo = No longer."
       }
     ]
   },
@@ -17849,28 +18550,6 @@
     ]
   },
   {
-    "word": "fomät",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a format"
-      }
-    ]
-  },
-  {
-    "word": "fomön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to fashion"
-      }
-    ]
-  },
-  {
     "word": "föd",
     "lang": "volapuk",
     "category": "n.",
@@ -17899,7 +18578,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a heater, a stove"
+        "text": "a heater"
+      },
+      {
+        "lang": "english",
+        "text": "a stove"
       }
     ]
   },
@@ -17921,7 +18604,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "at any time, ever"
+        "text": "at any time"
+      },
+      {
+        "lang": "english",
+        "text": "ever"
       }
     ]
   },
@@ -18064,7 +18751,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to cost (=have a price of...)"
+        "text": "to cost (have a price of...)"
       }
     ]
   },
@@ -18086,7 +18773,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "gladness, happiness, joy"
+        "text": "gladness"
+      },
+      {
+        "lang": "english",
+        "text": "happiness"
+      },
+      {
+        "lang": "english",
+        "text": "joy"
       }
     ]
   },
@@ -18108,7 +18803,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "glad, happy"
+        "text": "glad"
+      },
+      {
+        "lang": "english",
+        "text": "happy"
       }
     ]
   },
@@ -18455,7 +19154,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cadaver, a corpse"
+        "text": "a cadaver"
+      },
+      {
+        "lang": "english",
+        "text": "a corpse"
       }
     ]
   },
@@ -18521,7 +19224,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an oven, a stove"
+        "text": "an oven"
+      },
+      {
+        "lang": "english",
+        "text": "a stove"
       }
     ],
     "examples": [
@@ -18571,7 +19278,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "football (= game)"
+        "text": "football (game)"
       }
     ]
   },
@@ -18593,7 +19300,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "sole (= of foot)"
+        "text": "sole (of foot)"
       }
     ]
   },
@@ -18967,7 +19674,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a profit, a win"
+        "text": "a profit"
+      },
+      {
+        "lang": "english",
+        "text": "a win"
       }
     ]
   },
@@ -19501,7 +20212,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a vessel (= container)"
+        "text": "a vessel (container)"
       }
     ]
   },
@@ -19633,7 +20344,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the high jump (= athletics)"
+        "text": "the high jump (athletics)"
       }
     ]
   },
@@ -19749,7 +20460,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an antetype, a counterpart"
+        "text": "an antetype"
+      },
+      {
+        "lang": "english",
+        "text": "a counterpart"
       }
     ]
   },
@@ -20244,7 +20959,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a gum (= in mouth)"
+        "text": "a gum (in mouth)"
       }
     ]
   },
@@ -20822,7 +21537,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the shot-put (= Olympics)"
+        "text": "the shot-put (Olympics)"
       }
     ]
   },
@@ -20833,7 +21548,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to grow (= cultivate)"
+        "text": "to grow (cultivate)"
       }
     ]
   },
@@ -20910,7 +21625,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to play marbles (= game)"
+        "text": "to play marbles (game)"
       }
     ]
   },
@@ -21488,17 +22203,6 @@
     ]
   },
   {
-    "word": "gratön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to caw (like a raven)"
-      }
-    ]
-  },
-  {
     "word": "gräl",
     "lang": "volapuk",
     "category": "n.",
@@ -21549,7 +22253,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to caw, to croak"
+        "text": "to caw (like a raven), to croak"
       }
     ]
   },
@@ -22786,6 +23490,28 @@
     ]
   },
   {
+    "word": "hindän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "India"
+      }
+    ]
+  },
+  {
+    "word": "hindostän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Hindustan"
+      }
+    ]
+  },
+  {
     "word": "hindutan",
     "lang": "volapuk",
     "category": "n.",
@@ -23639,8 +24365,14 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a field (of knowledge), a product"
+        "text": "a field (of knowledge)"
       },
+      {
+        "lang": "english",
+        "text": "a product"
+      }
+    ],
+    "examples": [
       {
         "lang": "english",
         "text": "Bolif no binon jäfüd oba = Politics isn't my strong point."
@@ -23665,7 +24397,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a clothes line, a cord, a rope"
+        "text": "a clothes line"
+      },
+      {
+        "lang": "english",
+        "text": "a cord"
+      },
+      {
+        "lang": "english",
+        "text": "a rope"
       }
     ]
   },
@@ -23742,7 +24482,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a longboat, a sloop"
+        "text": "a longboat"
+      },
+      {
+        "lang": "english",
+        "text": "a sloop"
       }
     ]
   },
@@ -24052,7 +24796,7 @@
   {
     "word": "jänälöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -24104,7 +24848,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a mischief-maker, a trickster"
+        "text": "a mischief-maker"
+      },
+      {
+        "lang": "english",
+        "text": "a trickster"
       }
     ]
   },
@@ -24522,7 +25270,7 @@
   {
     "word": "jemüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -24581,11 +25329,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a case, an instance"
+        "text": "a case"
       },
       {
         "lang": "english",
-        "text": "pö jenet alik = in any case"
+        "text": "an instance"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Pö jenet alik = In any case."
       }
     ]
   },
@@ -24798,7 +25552,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a daughter, a girl"
+        "text": "a daughter"
+      },
+      {
+        "lang": "english",
+        "text": "a girl"
       }
     ]
   },
@@ -24930,7 +25688,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cat, a queen (=she-cat)"
+        "text": "a cat"
+      },
+      {
+        "lang": "english",
+        "text": "a queen (=she-cat)"
       }
     ]
   },
@@ -24985,7 +25747,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a chambermaid, a cleaner"
+        "text": "a chambermaid"
+      },
+      {
+        "lang": "english",
+        "text": "a cleaner"
       }
     ]
   },
@@ -25092,7 +25858,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a hinny, a she-mule"
+        "text": "a hinny"
+      },
+      {
+        "lang": "english",
+        "text": "a she-mule"
       }
     ]
   },
@@ -25526,17 +26296,6 @@
     ]
   },
   {
-    "word": "jonön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to show, point"
-      }
-    ]
-  },
-  {
     "word": "jonülöm",
     "lang": "volapuk",
     "category": "n.",
@@ -25653,7 +26412,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "octavo (= paper size)"
+        "text": "octavo (paper size)"
       }
     ]
   },
@@ -25719,7 +26478,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "balance (= bookkeeping)"
+        "text": "balance (bookkeeping)"
       }
     ]
   },
@@ -25917,7 +26676,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a film (= a thin layer)"
+        "text": "a film (a thin layer)"
       }
     ]
   },
@@ -26722,7 +27481,7 @@
   {
     "word": "kapälifödöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -26770,7 +27529,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a captain"
+        "text": "a captain (of an army)"
       }
     ]
   },
@@ -27034,7 +27793,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to play 'conkers' (= game)"
+        "text": "to play 'conkers' (game)"
       }
     ]
   },
@@ -27101,6 +27860,17 @@
       {
         "lang": "english",
         "text": "capital, cash"
+      }
+    ]
+  },
+  {
+    "word": "katädim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "capitalism"
       }
     ]
   },
@@ -27178,6 +27948,17 @@
       {
         "lang": "english",
         "text": "a cabin (on ship)"
+      }
+    ]
+  },
+  {
+    "word": "kazet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "accent"
       }
     ]
   },
@@ -27336,7 +28117,7 @@
     ]
   },
   {
-    "word": "kaled",
+    "word": "käled",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27353,7 +28134,7 @@
     ]
   },
   {
-    "word": "kalinapärmanganat",
+    "word": "kälinapärmanganat",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27370,18 +28151,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a caring attitude"
-      }
-    ]
-  },
-  {
-    "word": "kälöf",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "careful, caring"
+        "text": "careful, caring, a caring attitude"
       }
     ]
   },
@@ -27464,7 +28234,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (ship's) captain"
+        "text": "a captain (of a ship)"
       }
     ]
   },
@@ -28780,18 +29550,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to incline, to tend (to)"
-      }
-    ]
-  },
-  {
-    "word": "klienön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to bend (over), to lean"
+        "text": "to incline, to tend (to), to bend (over), to lean"
       }
     ]
   },
@@ -29176,7 +29935,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "consequently"
+        "text": "consequently, so"
       }
     ]
   },
@@ -29462,7 +30221,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a mussel (= seafood)"
+        "text": "a mussel (seafood)"
       }
     ]
   },
@@ -29775,12 +30534,8 @@
     ],
     "examples": [
       {
-        "lang": "volapuk",
-        "text": "se kod nepesevöl"
-      },
-      {
         "lang": "english",
-        "text": "for some reason"
+        "text": "Se kod nepesevöl = For some reason."
       }
     ]
   },
@@ -30763,17 +31518,6 @@
     ]
   },
   {
-    "word": "konfidik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "close (friend)"
-      }
-    ]
-  },
-  {
     "word": "konferön",
     "lang": "volapuk",
     "category": "v.",
@@ -30802,7 +31546,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "confident, faithful, trustful"
+        "text": "confident, faithful, trustful, close (friends)"
       }
     ]
   },
@@ -30934,7 +31678,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the economy, the household"
+        "text": "the economy, the household (management)"
       }
     ]
   },
@@ -31220,7 +31964,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a body (= substance)"
+        "text": "a body (substance)"
       }
     ]
   },
@@ -31385,7 +32129,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "coral (= pink)"
+        "text": "coral (pink)"
       }
     ]
   },
@@ -32248,17 +32992,6 @@
     ]
   },
   {
-    "word": "kretäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a crate"
-      }
-    ]
-  },
-  {
     "word": "kredön",
     "lang": "volapuk",
     "category": "v.",
@@ -32331,7 +33064,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a crayon"
+        "text": "a crayon, a crate"
       }
     ]
   },
@@ -32723,7 +33456,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to coil, to wind"
+        "text": "to coil, to wind, to meander"
       }
     ]
   },
@@ -32735,17 +33468,6 @@
       {
         "lang": "english",
         "text": "cruel, ferocious"
-      }
-    ]
-  },
-  {
-    "word": "krugikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to meander"
       }
     ]
   },
@@ -32877,7 +33599,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a quintal (= 100 kg)"
+        "text": "a quintal (100 kg)"
       }
     ]
   },
@@ -32916,7 +33638,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a course (= movement); a track"
+        "text": "a course (movement); a track"
       }
     ]
   },
@@ -34098,7 +34820,7 @@
   {
     "word": "laidacänöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -34569,17 +35291,6 @@
     ]
   },
   {
-    "word": "länod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "landscape"
-      }
-    ]
-  },
-  {
     "word": "lanöfik",
     "lang": "volapuk",
     "category": "adj.",
@@ -34950,6 +35661,17 @@
       {
         "lang": "english",
         "text": "laundry"
+      }
+    ]
+  },
+  {
+    "word": "laustralän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Australia (country), the Commonwealth of Australia"
       }
     ]
   },
@@ -35334,7 +36056,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "ground, terrain"
+        "text": "ground"
+      },
+      {
+        "lang": "english",
+        "text": "terrain"
       }
     ]
   },
@@ -35356,7 +36082,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "landscape, scenery"
+        "text": "landscape"
+      },
+      {
+        "lang": "english",
+        "text": "scenery"
       }
     ]
   },
@@ -35829,7 +36559,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a gulf (= coastal)"
+        "text": "a gulf (coastal)"
       }
     ]
   },
@@ -36082,7 +36812,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a property (= quality)"
+        "text": "a property (quality)"
       }
     ]
   },
@@ -36171,14 +36901,7 @@
       {
         "lang": "english",
         "text": "an obsession, a passion"
-      }
-    ]
-  },
-  {
-    "word": "lefäk",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+      },
       {
         "lang": "english",
         "text": "extreme, passionate"
@@ -36346,7 +37069,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a legation (= building)"
+        "text": "a legation (building)"
       }
     ]
   },
@@ -36456,7 +37179,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an example (= parable)"
+        "text": "an example (parable)"
       }
     ]
   },
@@ -36654,7 +37377,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "light (= not heavy)"
+        "text": "light (not heavy)"
       }
     ]
   },
@@ -38595,6 +39318,17 @@
     ]
   },
   {
+    "word": "leyan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "front door"
+      }
+    ]
+  },
+  {
     "word": "leyanan",
     "lang": "volapuk",
     "category": "n.",
@@ -38733,7 +39467,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lychee (= fruit)"
+        "text": "a lychee (fruit)"
       }
     ]
   },
@@ -39125,7 +39859,7 @@
   {
     "word": "lilämisudüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -39195,7 +39929,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a ring (= a circle)"
+        "text": "a ring (a circle)"
+      }
+    ]
+  },
+  {
+    "word": "lindän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "India"
       }
     ]
   },
@@ -39769,6 +40514,12 @@
         "lang": "english",
         "text": "approval"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Logamio = On approval."
+      }
     ]
   },
   {
@@ -39790,17 +40541,6 @@
       {
         "lang": "english",
         "text": "to applaud"
-      }
-    ]
-  },
-  {
-    "word": "lödadom",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an apartment"
       }
     ]
   },
@@ -39845,17 +40585,6 @@
       {
         "lang": "english",
         "text": "a frying-pan"
-      }
-    ]
-  },
-  {
-    "word": "loetamaparat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a barbecue"
       }
     ]
   },
@@ -40829,7 +41558,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to succeed (= to follow on); to undertake (to do something), to take over"
+        "text": "to succeed (to follow on); to undertake (to do something), to take over"
       }
     ]
   },
@@ -40890,7 +41619,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to lobotomize (= to cut frontal lobe of brain in an operation)"
+        "text": "to lobotomize (to cut frontal lobe of brain in an operation)"
       }
     ]
   },
@@ -40906,23 +41635,6 @@
     ]
   },
   {
-    "word": "lobül",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "approval"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "on approval = logamio"
-      }
-    ]
-  },
-  {
     "word": "lödadom",
     "lang": "volapuk",
     "category": "n.",
@@ -40930,6 +41642,10 @@
       {
         "lang": "english",
         "text": "a flat"
+      },
+      {
+        "lang": "english",
+        "text": "an apartment"
       }
     ]
   },
@@ -41391,14 +42107,14 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to take off (= aeroplane)"
+        "text": "to take off (aeroplane)"
       }
     ]
   },
   {
     "word": "löpiköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -41442,402 +42158,6 @@
       {
         "lang": "english",
         "text": "go löpo = topmost"
-      }
-    ]
-  },
-  {
-    "word": "löpü",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "above, on top of"
-      }
-    ]
-  },
-  {
-    "word": "löstanön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to stand up"
-      }
-    ]
-  },
-  {
-    "word": "löstroginin",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "oestrogen (drug)"
-      }
-    ]
-  },
-  {
-    "word": "lötirön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to pull up"
-      }
-    ]
-  },
-  {
-    "word": "löükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to raise up"
-      }
-    ]
-  },
-  {
-    "word": "lovemelik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "overseas"
-      }
-    ]
-  },
-  {
-    "word": "lovestürön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to pass on"
-      }
-    ]
-  },
-  {
-    "word": "lövik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "low (= height)"
-      }
-    ]
-  },
-  {
-    "word": "luäg",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "harebell"
-      }
-    ]
-  },
-  {
-    "word": "lubegan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "beggar"
-      }
-    ]
-  },
-  {
-    "word": "lubel",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "hill"
-      }
-    ]
-  },
-  {
-    "word": "lucäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "snobbery"
-      }
-    ]
-  },
-  {
-    "word": "ludivodik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "addictive"
-      }
-    ]
-  },
-  {
-    "word": "ludomil",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "hut"
-      }
-    ]
-  },
-  {
-    "word": "ludramatik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "sensational"
-      }
-    ]
-  },
-  {
-    "word": "ludrinön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to booze"
-      }
-    ]
-  },
-  {
-    "word": "lueg",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "lung"
-      }
-    ]
-  },
-  {
-    "word": "luegaflamat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "pneumonia"
-      }
-    ]
-  },
-  {
-    "word": "luf",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "windward side (nautical)"
-      }
-    ]
-  },
-  {
-    "word": "lufat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "stepfather"
-      }
-    ]
-  },
-  {
-    "word": "luflad",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "jug"
-      }
-    ]
-  },
-  {
-    "word": "lufut",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "paw"
-      }
-    ]
-  },
-  {
-    "word": "lufümik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "vague"
-      }
-    ]
-  },
-  {
-    "word": "lug",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "lie"
-      }
-    ]
-  },
-  {
-    "word": "lugan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "liar"
-      }
-    ]
-  },
-  {
-    "word": "lugön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to lie"
-      }
-    ]
-  },
-  {
-    "word": "lukagam",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "malicious gossip"
-      }
-    ]
-  },
-  {
-    "word": "lukrüt",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(bad) criticism"
-      }
-    ]
-  },
-  {
-    "word": "luharat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "slum"
-      }
-    ]
-  },
-  {
-    "word": "luhät",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "cap (= headgear)"
-      }
-    ]
-  },
-  {
-    "word": "luib",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wheel"
-      }
-    ]
-  },
-  {
-    "word": "luibamekan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wheelwright"
-      }
-    ]
-  },
-  {
-    "word": "luibarif",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "tyre"
-      }
-    ]
-  },
-  {
-    "word": "luimik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wet"
-      }
-    ]
-  },
-  {
-    "word": "luimikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to get wet"
-      }
-    ]
-  },
-  {
-    "word": "luimöf",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "humidity, moisture"
       }
     ]
   },
@@ -41925,7 +42245,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "low (= height)"
+        "text": "low (height)"
       }
     ]
   },
@@ -42167,7 +42487,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "cap (= headgear)"
+        "text": "cap (headgear)"
       }
     ]
   },
@@ -42300,6 +42620,10 @@
       {
         "lang": "english",
         "text": "scoundrel"
+      },
+      {
+        "lang": "english",
+        "text": "wretch"
       }
     ]
   },
@@ -42403,17 +42727,6 @@
     ]
   },
   {
-    "word": "luman",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wretch"
-      }
-    ]
-  },
-  {
     "word": "lumärat",
     "lang": "volapuk",
     "category": "n.",
@@ -42475,7 +42788,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a glimmer (= weak light), shimmer"
+        "text": "a glimmer (weak light), shimmer"
       }
     ]
   },
@@ -42519,7 +42832,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "long (= measure) (lunotik mö mets kil = three metres long)"
+        "text": "long (measure)"
+      }
+    ],
+    "example": [
+      {
+        "lang": "english",
+        "text": "Lunotik mö mets kil = Three metres long."
       }
     ]
   },
@@ -42717,7 +43036,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to miss (= neglect)"
+        "text": "to miss (neglect)"
       }
     ]
   },
@@ -42750,7 +43069,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "alley, lane (= in town)"
+        "text": "alley, lane (in town)"
       }
     ]
   },
@@ -42915,7 +43234,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "lane, path (= in the country)"
+        "text": "lane, path (in the country)"
       }
     ]
   },
@@ -44845,17 +45164,6 @@
     ]
   },
   {
-    "word": "mäyonäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "mayonnaise (garnish)"
-      }
-    ]
-  },
-  {
     "word": "mayul",
     "lang": "volapuk",
     "category": "n.",
@@ -45654,7 +45962,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "man (= a human being)"
+        "text": "man (a human being)"
       }
     ]
   },
@@ -45665,7 +45973,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "man (= human species)"
+        "text": "man (human species)"
       }
     ]
   },
@@ -45676,7 +45984,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "age (= generation)"
+        "text": "age (generation)"
       }
     ]
   },
@@ -45753,7 +46061,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "people (= in general)"
+        "text": "people (in general)"
       }
     ]
   },
@@ -46171,7 +46479,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "accident"
+        "text": "accident, mishap"
       }
     ]
   },
@@ -46424,7 +46732,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "vermin (= as a category)"
+        "text": "vermin (as a category)"
       }
     ]
   },
@@ -48143,7 +48451,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to have to (= must)"
+        "text": "to have to (must)"
       },
       {
         "lang": "english",
@@ -48184,7 +48492,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "soft, tender (= not hard/tough)"
+        "text": "soft, tender (not hard/tough)"
       }
     ]
   },
@@ -48470,7 +48778,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a time (= once, twice, etc)"
+        "text": "a time (once, twice, etc)"
       }
     ]
   },
@@ -48503,7 +48811,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a product (= an end result) (maths)"
+        "text": "a product (an end result) (maths)"
       }
     ]
   },
@@ -48910,17 +49218,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "nature (= temperament)"
+        "text": "nature (temperament)"
       }
     ],
     "examples": [
       {
-        "lang": "volapuk",
-        "text": "natäl fredaladälik"
-      },
-      {
         "lang": "english",
-        "text": "good humour"
+        "text": "Natäl fredaladälik = Good humour."
       }
     ]
   },
@@ -48943,16 +49247,12 @@
       {
         "lang": "english",
         "text": "breath"
-      },
-      {
-        "lang": "english",
-        "text": "to hold one’s breath"
       }
     ],
     "examples": [
       {
-        "lang": "volapuk",
-        "text": "stöpön natemi oka"
+        "lang": "english",
+        "text": "Stöpön natemi oka = To hold one’s breath."
       }
     ]
   },
@@ -48981,7 +49281,7 @@
   {
     "word": "natemiberavöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -49007,7 +49307,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "natural (= relating to nature)"
+        "text": "natural (relating to nature)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "natura"
       }
     ]
   },
@@ -49029,7 +49333,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "natural (= relating to skill/temperament)"
+        "text": "natural (relating to skill/temperament)"
       }
     ]
   },
@@ -49085,6 +49389,10 @@
       {
         "lang": "english",
         "text": "boring, tedious, tiring"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enua, enuiga"
       }
     ]
   },
@@ -49096,6 +49404,10 @@
       {
         "lang": "english",
         "text": "to bore, to tire out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enui"
       }
     ]
   },
@@ -49107,6 +49419,10 @@
       {
         "lang": "english",
         "text": "a turnip"
+      },
+      {
+        "lang": "esperanto",
+        "text": "napo"
       }
     ]
   },
@@ -49118,6 +49434,10 @@
       {
         "lang": "english",
         "text": "subtraction (maths)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "subtraho"
       }
     ]
   },
@@ -49129,6 +49449,10 @@
       {
         "lang": "english",
         "text": "to subtract (maths)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "subtrahi"
       }
     ]
   },
@@ -49140,6 +49464,10 @@
       {
         "lang": "english",
         "text": "to infect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "infekti"
       }
     ]
   },
@@ -49162,6 +49490,10 @@
       {
         "lang": "english",
         "text": "a sewing machine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stebmaŝino, kudromaŝino"
       }
     ]
   },
@@ -49173,6 +49505,10 @@
       {
         "lang": "english",
         "text": "a negro"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nigrulo"
       }
     ]
   },
@@ -49184,6 +49520,10 @@
       {
         "lang": "english",
         "text": "to sew"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kudri"
       }
     ]
   },
@@ -49239,6 +49579,10 @@
       {
         "lang": "english",
         "text": "incidentally"
+      },
+      {
+        "lang": "esperanto",
+        "text": "epizode"
       }
     ]
   },
@@ -49305,6 +49649,10 @@
       {
         "lang": "english",
         "text": "imperialism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperiismo"
       }
     ]
   },
@@ -49327,6 +49675,10 @@
       {
         "lang": "english",
         "text": "strength"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forto"
       }
     ]
   },
@@ -49338,6 +49690,10 @@
       {
         "lang": "english",
         "text": "energy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "energio"
       }
     ]
   },
@@ -49349,6 +49705,10 @@
       {
         "lang": "english",
         "text": "to charge (electrically)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝargi"
       }
     ]
   },
@@ -49360,6 +49720,10 @@
       {
         "lang": "english",
         "text": "strong"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forta"
       }
     ]
   },
@@ -49383,12 +49747,6 @@
         "lang": "english",
         "text": "to turn up (the volume) (radio, etc)"
       }
-    ],
-    "examples": [
-      {
-        "lang": "volapuk",
-        "text": "tonodi"
-      }
     ]
   },
   {
@@ -49399,6 +49757,10 @@
       {
         "lang": "english",
         "text": "a dwarf"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nano"
       }
     ]
   },
@@ -49432,6 +49794,10 @@
       {
         "lang": "english",
         "text": "an interpreter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interpretisto"
       }
     ]
   },
@@ -49443,17 +49809,25 @@
       {
         "lang": "english",
         "text": "an insect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insekto"
       }
     ]
   },
   {
-    "word": "nässtülön",
+    "word": "nästülön (len)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
         "text": "to nestle (up to)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nestiĝi"
       }
     ]
   },
@@ -49465,6 +49839,10 @@
       {
         "lang": "english",
         "text": "intact, unimpaired"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nedifektita, nedamaĝita, kompleta, intakta"
       }
     ]
   },
@@ -49476,6 +49854,10 @@
       {
         "lang": "english",
         "text": "intimate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "intima"
       }
     ]
   },
@@ -49487,6 +49869,10 @@
       {
         "lang": "english",
         "text": "maintenance, repairs"
+      },
+      {
+        "lang": "esperanto",
+        "text": "riparado"
       }
     ]
   },
@@ -49498,6 +49884,10 @@
       {
         "lang": "english",
         "text": "to mend, to repair"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ripari"
       }
     ]
   },
@@ -49509,6 +49899,10 @@
       {
         "lang": "english",
         "text": "an enzyme"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enzimo"
       }
     ]
   },
@@ -49520,6 +49914,10 @@
       {
         "lang": "english",
         "text": "never"
+      },
+      {
+        "lang": "esperanto",
+        "text": "neniam"
       }
     ]
   },
@@ -49531,17 +49929,26 @@
       {
         "lang": "english",
         "text": "decadence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dekadenco"
       }
     ]
   },
   {
     "word": "nebenäl",
+    "roots": ["ben"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "ill-will"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsimpatio, antipatio"
       }
     ]
   },
@@ -49553,6 +49960,10 @@
       {
         "lang": "english",
         "text": "indescribable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nedeskribebla"
       }
     ]
   },
@@ -49590,19 +50001,13 @@
     ]
   },
   {
-    "word": "necalikön",
+    "word": "necalikön (de/se)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
         "text": "to retire (from)"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "volapuk",
-        "text": "de/se"
       }
     ]
   },
@@ -49636,6 +50041,10 @@
       {
         "lang": "english",
         "text": "ungrateful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nedankema"
       }
     ]
   },
@@ -49658,6 +50067,10 @@
       {
         "lang": "english",
         "text": "the Netherlands"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Nederlando"
       }
     ]
   },
@@ -49669,6 +50082,10 @@
       {
         "lang": "english",
         "text": "a Dutchman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nederlandano"
       }
     ]
   },
@@ -49965,8 +50382,8 @@
     ],
     "examples": [
       {
-        "lang": "volapuk",
-        "text": "selidöp neflifedabukas"
+        "lang": "english",
+        "text": "selidöp neflifedabukas = a second-hand bookshop"
       }
     ]
   },
@@ -50301,8 +50718,8 @@
     ],
     "examples": [
       {
-        "lang": "volapuk",
-        "text": "senobs nekomi ofa = we miss her."
+        "lang": "ensglish",
+        "text": "Senobs nekomi ofa = We miss her."
       }
     ]
   },
@@ -50655,17 +51072,6 @@
       {
         "lang": "english",
         "text": "direct, immediate"
-      }
-    ]
-  },
-  {
-    "word": "nemu",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "at least"
       }
     ]
   },
@@ -51354,7 +51760,7 @@
   {
     "word": "nepevunöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -51644,7 +52050,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to spend, to waste (= cash/food)"
+        "text": "to spend, to waste (cash/food)"
       }
     ]
   },
@@ -51684,7 +52090,7 @@
   {
     "word": "nepestöpädöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -51831,7 +52237,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "National Socialism (= Naziism)"
+        "text": "National Socialism (Naziism)"
       }
     ]
   },
@@ -51952,7 +52358,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to be wrong (= incorrect)"
+        "text": "to be wrong (incorrect)"
       }
     ]
   },
@@ -52183,7 +52589,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an inside right (= football)"
+        "text": "an inside right (football)"
       }
     ]
   },
@@ -52986,7 +53392,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a noble (= person)"
+        "text": "a noble (person)"
       }
     ]
   },
@@ -53157,7 +53563,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (door)-knocker"
+        "text": "a door knocker"
       }
     ]
   },
@@ -53256,7 +53662,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to know (= facts)"
+        "text": "to know (facts)"
       }
     ]
   },
@@ -53289,7 +53695,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a rule (= regulation); (the) norm (= standard)"
+        "text": "a rule (regulation); the norm (standard)"
       }
     ]
   },
@@ -53415,17 +53821,6 @@
     ]
   },
   {
-    "word": "nomam",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "normality"
-      }
-    ]
-  },
-  {
     "word": "normik",
     "lang": "volapuk",
     "category": "adj.",
@@ -53526,7 +53921,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an expression (= facial, in writing)"
+        "text": "an expression (facial, in writing)"
       }
     ]
   },
@@ -53577,7 +53972,7 @@
   {
     "word": "nö",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "interj.",
     "translations": [
       {
         "lang": "english",
@@ -53884,7 +54279,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "number (= an amount)"
+        "text": "number (an amount)"
       }
     ]
   },
@@ -54011,7 +54406,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to advise, to inform (= in writing)"
+        "text": "to advise, to inform (in writing)"
       }
     ]
   },
@@ -54464,7 +54859,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to count (= recite numerals in order)"
+        "text": "to count (recite numerals in order)"
       }
     ]
   },
@@ -55287,7 +55682,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "as for him (= what concerns him)"
+        "text": "as for him (what concerns him)"
       }
     ]
   },
@@ -55323,7 +55718,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "as for them (= what concerns them)"
+        "text": "as for them (what concerns them)"
       }
     ]
   },
@@ -56774,8 +57169,7 @@
   },
   {
     "word": "pebluvüköl",
-    "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56797,7 +57191,7 @@
   {
     "word": "pebuüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56830,7 +57224,7 @@
   {
     "word": "pedanulüdöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56841,7 +57235,7 @@
   {
     "word": "pedeteilöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56852,7 +57246,7 @@
   {
     "word": "pedafomöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56885,7 +57279,7 @@
   {
     "word": "pedütülöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56896,7 +57290,7 @@
   {
     "word": "pefärmüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56907,7 +57301,7 @@
   {
     "word": "pefeimöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56918,7 +57312,7 @@
   {
     "word": "pefibiköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56929,7 +57323,7 @@
   {
     "word": "pefledülöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -56973,7 +57367,7 @@
   {
     "word": "pekvisinöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57006,7 +57400,7 @@
   {
     "word": "peläsüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57039,7 +57433,7 @@
   {
     "word": "pemiedükumöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57050,7 +57444,7 @@
   {
     "word": "pemigöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57072,7 +57466,7 @@
   {
     "word": "pemitulöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57083,7 +57477,7 @@
   {
     "word": "pemotöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57160,7 +57554,7 @@
   {
     "word": "penämüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57220,6 +57614,10 @@
       {
         "lang": "english",
         "text": "a letter box"
+      },
+      {
+        "lang": "english",
+        "text": "a postbox"
       }
     ]
   },
@@ -57242,17 +57640,6 @@
       {
         "lang": "english",
         "text": "to swing"
-      }
-    ]
-  },
-  {
-    "word": "penedabog",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a postbox"
       }
     ]
   },
@@ -57285,14 +57672,14 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a notelet (= a short letter)"
+        "text": "a notelet (a short letter)"
       }
     ]
   },
   {
     "word": "penegenüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57453,7 +57840,7 @@
   {
     "word": "peperöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57476,17 +57863,6 @@
   {
     "word": "pepun",
     "roots": ["pepun"],
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a gourd, a marrow"
-      }
-    ]
-  },
-  {
-    "word": "pepun",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -57543,7 +57919,7 @@
   {
     "word": "pesäsienüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57565,7 +57941,7 @@
   {
     "word": "pestunüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57576,7 +57952,7 @@
   {
     "word": "petegöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57609,7 +57985,7 @@
   {
     "word": "pevietüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57686,7 +58062,7 @@
   {
     "word": "pideädöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57712,7 +58088,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a foot (= measure)"
+        "text": "a foot (measure)"
       }
     ]
   },
@@ -57756,7 +58132,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to pick (= of birds)"
+        "text": "to pick (of birds)"
       }
     ]
   },
@@ -57983,7 +58359,7 @@
   {
     "word": "pisustürülöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -57994,7 +58370,7 @@
   {
     "word": "pitaetöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -59073,7 +59449,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to succeed (in) (plöpön ad dunön bosi = to manage to do something)"
+        "text": "to succeed (in)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Plöpön ad dunön bosi = To manage to do something."
       }
     ]
   },
@@ -59117,7 +59499,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "more (no longer = no plu, no fovo)"
+        "text": "more"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "No plu / No fovo = No longer."
       }
     ]
   },
@@ -59722,469 +60110,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a range (= reach)"
-      }
-    ]
-  },
-  {
-    "word": "portvin",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "port"
-      }
-    ]
-  },
-  {
-    "word": "porud",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a leek"
-      }
-    ]
-  },
-  {
-    "word": "pos",
-    "lang": "volapuk",
-    "category": "prep.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "after, behind (time)"
-      }
-    ]
-  },
-  {
-    "word": "posbinükäb",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a descendant"
-      }
-    ]
-  },
-  {
-    "word": "posbinükot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "belongings, inheritance"
-      }
-    ]
-  },
-  {
-    "word": "posblibön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to stay behind"
-      }
-    ]
-  },
-  {
-    "word": "posblibükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to leave behind"
-      }
-    ]
-  },
-  {
-    "word": "pos...",
-    "lang": "volapuk",
-    "category": "prefix",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "grand-"
-      }
-    ]
-  },
-  {
-    "word": "posbinot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a (legal) estate; a bequest"
-      }
-    ]
-  },
-  {
-    "word": "posbinükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to leave behind"
-      }
-    ]
-  },
-  {
-    "word": "poscils",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "grandchildren"
-      }
-    ]
-  },
-  {
-    "word": "posdaut",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a grand-daughter"
-      }
-    ]
-  },
-  {
-    "word": "positik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "positive"
-      }
-    ]
-  },
-  {
-    "word": "posson",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a grand-son"
-      }
-    ]
-  },
-  {
-    "word": "posun",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a trumpet"
-      }
-    ]
-  },
-  {
-    "word": "poszedel",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "afternoon"
-      }
-    ]
-  },
-  {
-    "word": "poszib",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a dessert"
-      }
-    ]
-  },
-  {
-    "word": "pot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "mail, post"
-      }
-    ]
-  },
-  {
-    "word": "potagir",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(post office) giro"
-      }
-    ]
-  },
-  {
-    "word": "potakad",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "postcard"
-      }
-    ]
-  },
-  {
-    "word": "potamon",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "postage"
-      }
-    ]
-  },
-  {
-    "word": "potaspälabank",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "post office savings bank"
-      }
-    ]
-  },
-  {
-    "word": "potatret",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "postal order"
-      }
-    ]
-  },
-  {
-    "word": "potavab",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "stage-coach"
-      }
-    ]
-  },
-  {
-    "word": "potön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to mail, to post"
-      }
-    ]
-  },
-  {
-    "word": "polan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a porter"
-      }
-    ]
-  },
-  {
-    "word": "poldabür",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a police station"
-      }
-    ]
-  },
-  {
-    "word": "poldanef",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "police (force)"
-      }
-    ]
-  },
-  {
-    "word": "poliomül",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "polio (medical)"
-      }
-    ]
-  },
-  {
-    "word": "polip",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a polyp (medical)"
-      }
-    ]
-  },
-  {
-    "word": "polkat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a polka (dance)"
-      }
-    ]
-  },
-  {
-    "word": "polön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to bear, to carry"
-      }
-    ]
-  },
-  {
-    "word": "polüglot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a linguist, a polyglot"
-      }
-    ]
-  },
-  {
-    "word": "polüp",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an octopus"
-      }
-    ]
-  },
-  {
-    "word": "pomad",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a (body) cream"
-      }
-    ]
-  },
-  {
-    "word": "pon",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a bridge"
-      }
-    ]
-  },
-  {
-    "word": "ponadaemod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a bridgehead"
-      }
-    ]
-  },
-  {
-    "word": "poodked",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a queue"
-      }
-    ]
-  },
-  {
-    "word": "pop",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a poppy"
-      }
-    ]
-  },
-  {
-    "word": "por",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a ration"
-      }
-    ]
-  },
-  {
-    "word": "porniselidöp",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a porn shop"
-      }
-    ]
-  },
-  {
-    "word": "portat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a range (= reach)"
+        "text": "a range (reach)"
       }
     ]
   },
@@ -60623,6 +60549,10 @@
       {
         "lang": "english",
         "text": "backwards"
+      },
+      {
+        "lang": "english",
+        "text": "aback"
       }
     ]
   },
@@ -60952,7 +60882,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a people (= a community); population"
+        "text": "a people (a community); population"
       }
     ]
   },
@@ -61337,7 +61267,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "W.C. (= a toilet on buses, trains)"
+        "text": "W.C. (a toilet on buses, trains)"
       }
     ]
   },
@@ -61393,6 +61323,12 @@
       {
         "lang": "english",
         "text": "to be about to; to be on the point of"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Primikön ad dunön bosi = To be about to do something."
       }
     ]
   },
@@ -61986,7 +61922,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a louse (= insect)"
+        "text": "a louse (insect)"
       }
     ]
   },
@@ -62107,7 +62043,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to become rotten, to decay (= teeth)"
+        "text": "to become rotten, to decay (teeth)"
       }
     ]
   },
@@ -62195,7 +62131,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "peace (= not war)"
+        "text": "peace (not war)"
       }
     ]
   },
@@ -62492,7 +62428,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a plane (= tool)"
+        "text": "a plane (tool)"
       }
     ]
   },
@@ -62899,7 +62835,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a file (= tool)"
+        "text": "a file (tool)"
       }
     ]
   },
@@ -62944,14 +62880,7 @@
       {
         "lang": "english",
         "text": "a mystery"
-      }
-    ]
-  },
-  {
-    "word": "rätöf",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+      },
       {
         "lang": "english",
         "text": "enigmatic"
@@ -62998,7 +62927,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a record (= achievement)"
+        "text": "a record (achievement)"
       }
     ]
   },
@@ -63146,17 +63075,6 @@
     ]
   },
   {
-    "word": "registarön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to record (on disc, etc)"
-      }
-    ]
-  },
-  {
     "word": "reig",
     "lang": "volapuk",
     "category": "n.",
@@ -63252,6 +63170,10 @@
       {
         "lang": "english",
         "text": "to record"
+      },
+      {
+        "lang": "english",
+        "text": "to record (on disc, etc)"
       }
     ]
   },
@@ -63262,7 +63184,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a reading (= passage)"
+        "text": "a reading (passage)"
       }
     ]
   },
@@ -63306,7 +63228,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a government (= persons)"
+        "text": "a government (persons)"
       }
     ]
   },
@@ -64120,7 +64042,7 @@
   {
     "word": "rübüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -64344,7 +64266,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a rumour (= gossip)"
+        "text": "a rumour (gossip)"
       }
     ]
   },
@@ -66647,7 +66569,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a second (= time)"
+        "text": "a second (time)"
       }
     ]
   },
@@ -66860,7 +66782,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a certain one (= specified)"
+        "text": "a certain one (specified)"
       }
     ]
   },
@@ -67003,7 +66925,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to feel (= ill/well/happy/uncomfortable)"
+        "text": "to feel (ill/well/happy/uncomfortable)"
       }
     ]
   },
@@ -67124,7 +67046,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a sentence (= a group of words)"
+        "text": "a sentence (a group of words)"
       }
     ]
   },
@@ -68015,7 +67937,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to circulate (= be in circulation)"
+        "text": "to circulate (be in circulation)"
       }
     ]
   },
@@ -68279,7 +68201,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cliff (= coastline)"
+        "text": "a cliff (coastline)"
       }
     ]
   },
@@ -68438,17 +68360,6 @@
     ]
   },
   {
-    "word": "skin",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "skin"
-      }
-    ]
-  },
-  {
     "word": "skretön",
     "lang": "volapuk",
     "category": "v.",
@@ -68576,7 +68487,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "skiing (= sport)"
+        "text": "skiing (sport)"
       }
     ]
   },
@@ -69082,7 +68993,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to have a doze (= short sleep)"
+        "text": "to have a doze (short sleep)"
       }
     ]
   },
@@ -69632,7 +69543,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an iron (= smoothing-iron)"
+        "text": "an iron (smoothing-iron)"
       }
     ]
   },
@@ -69709,7 +69620,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "fair, honest (= without fraud)"
+        "text": "fair, honest (without fraud)"
       }
     ]
   },
@@ -69929,7 +69840,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a waste, a wilderness (= a lonely place)"
+        "text": "a waste, a wilderness (a lonely place)"
       }
     ]
   },
@@ -70325,7 +70236,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "such a one (= person)"
+        "text": "such a one (person)"
       }
     ]
   },
@@ -70479,7 +70390,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "wild (= not domesticated)"
+        "text": "wild (not domesticated)"
       }
     ]
   },
@@ -70600,7 +70511,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a sole (= seafood)"
+        "text": "a sole (seafood)"
       }
     ]
   },
@@ -70611,7 +70522,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a sole (= of shoe)"
+        "text": "a sole (of shoe)"
       }
     ]
   },
@@ -70710,7 +70621,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to be duty bound (= ought)"
+        "text": "to be duty bound (ought)"
       }
     ]
   },
@@ -70975,6 +70886,10 @@
       {
         "lang": "english",
         "text": "to dispel"
+      },
+      {
+        "lang": "english",
+        "text": "to spread around, to circulate (gossip)"
       }
     ]
   },
@@ -70990,24 +70905,13 @@
     ]
   },
   {
-    "word": "spearükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to spread around, to circulate (gossip)"
-      }
-    ]
-  },
-  {
     "word": "spedijedam",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "the javelin throw (= Olympics)"
+        "text": "the javelin throw (Olympics)"
       }
     ]
   },
@@ -71205,7 +71109,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "language (= style/manner of expression)"
+        "text": "language (style/manner of expression)"
       }
     ]
   },
@@ -71777,21 +71681,21 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a condition, a state, status",
-        "examples": [
-          {
-            "context": "computer",
-            "text": "geükön ini stad kösömik = to revert to default settings"
-          },
-          {
-            "context": "computer",
-            "text": "väls ad stad kösömik = default settings"
-          },
-          {
-            "context": "computer",
-            "text": "paramets stada kösömik = default parameters"
-          }
-        ]
+        "text": "a condition, a state, status"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Geükön ini stad kösömik = To revert to default settings."
+      },
+      {
+        "lang": "english",
+        "text": "Väls ad stad kösömik = Default settings."
+      },
+      {
+        "lang": "english",
+        "text": "Paramets stada kösömik = Default parameters."
       }
     ]
   },
@@ -71824,7 +71728,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to find itself, to stand (= to be)"
+        "text": "to find itself, to stand (to be)"
       }
     ]
   },
@@ -71835,13 +71739,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to set free",
-        "examples": [
-          {
-            "context": "usage",
-            "text": "stadükön libio = to set free"
-          }
-        ]
+        "text": "to set free"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Stadükön libio = To set free."
       }
     ]
   },
@@ -72006,7 +71910,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "tin (= metal)"
+        "text": "tin (metal)"
       }
     ]
   },
@@ -72028,21 +71932,21 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an eye disease",
-        "examples": [
-          {
-            "context": "usage",
-            "text": "star gedik = a cataract"
-          },
-          {
-            "context": "usage",
-            "text": "star grünik = glaucoma"
-          },
-          {
-            "context": "usage",
-            "text": "star blägik = amaurosis"
-          }
-        ]
+        "text": "an eye disease"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Star gedik = Cataract"
+      },
+      {
+        "lang": "english",
+        "text": "Star grünik = Glaucoma"
+      },
+      {
+        "lang": "english",
+        "text": "Star blägik = Amaurosis"
       }
     ]
   },
@@ -72086,7 +71990,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a restaurant (dining) car (= railway)"
+        "text": "a restaurant (dining) car (railway)"
       }
     ]
   },
@@ -72152,7 +72056,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to extend (= over an area)"
+        "text": "to extend (over an area)"
       }
     ]
   },
@@ -72295,7 +72199,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to stay (= for a certain time); to linger (of perfume, etc)"
+        "text": "to stay (for a certain time); to linger (of perfume, etc)"
       }
     ]
   },
@@ -72388,24 +72292,13 @@
     ]
   },
   {
-    "word": "steigädön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to cram, to stuff"
-      }
-    ]
-  },
-  {
     "word": "stegülön",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to sting (= insect)"
+        "text": "to sting (insect)"
       }
     ]
   },
@@ -72461,6 +72354,10 @@
       {
         "lang": "english",
         "text": "to cram, to fill (a pipe)"
+      },
+      {
+        "lang": "english",
+        "text": "to cram, to stuff"
       }
     ]
   },
@@ -72581,7 +72478,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a steamer (= boat)"
+        "text": "a steamer (boat)"
       }
     ]
   },
@@ -73043,7 +72940,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "wash/washing (= of clothes/linen)"
+        "text": "wash/washing (of clothes/linen)"
       }
     ]
   },
@@ -73688,7 +73585,7 @@
   {
     "word": "stunüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -73928,24 +73825,17 @@
     ]
   },
   {
-    "word": "sukön",
+    "word": "süadön (dö/tefü)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to search"
-      }
-    ]
-  },
-  {
-    "word": "süadön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+        "text": "to be convinced (of/about)"
+      },
       {
         "lang": "english",
-        "text": "to be convinced (of/about); to come to a conclusion (about)"
+        "text": "to come to a conclusion (about)"
       }
     ]
   },
@@ -73957,6 +73847,10 @@
       {
         "lang": "english",
         "text": "to persuade"
+      },
+      {
+        "lang": "english",
+        "text": "to convince"
       }
     ]
   },
@@ -74154,7 +74048,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to tolerate (= over a long period)"
+        "text": "to tolerate (over a long period)"
       }
     ]
   },
@@ -74166,6 +74060,10 @@
       {
         "lang": "english",
         "text": "resistant"
+      },
+      {
+        "lang": "english",
+        "text": "tough"
       }
     ]
   },
@@ -74187,7 +74085,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "resignation (= acceptance)"
+        "text": "resignation (acceptance)"
       }
     ]
   },
@@ -74287,6 +74185,10 @@
       {
         "lang": "english",
         "text": "to look for, to seek"
+      },
+      {
+        "lang": "english",
+        "text": "to search"
       }
     ]
   },
@@ -74414,7 +74316,7 @@
   {
     "word": "sunokömöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -74491,7 +74393,7 @@
   {
     "word": "susflumöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -74599,28 +74501,6 @@
     ]
   },
   {
-    "word": "süadön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be convinced (about)"
-      }
-    ]
-  },
-  {
-    "word": "süadükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to convince"
-      }
-    ]
-  },
-  {
     "word": "südav",
     "lang": "volapuk",
     "category": "n.",
@@ -74683,17 +74563,6 @@
       {
         "lang": "english",
         "text": "to call to mind, to consider, to stop and think, to think (about)"
-      }
-    ]
-  },
-  {
-    "word": "sufidik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "tough (= resistant)"
       }
     ]
   },
@@ -74929,6 +74798,17 @@
     ]
   },
   {
+    "word": "süpädikön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be taken aback"
+      }
+    ]
+  },
+  {
     "word": "süperik",
     "lang": "volapuk",
     "category": "adj.",
@@ -74979,7 +74859,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a surface (= outer opposed to inner)"
+        "text": "a surface (outer opposed to inner)"
       }
     ]
   },
@@ -75253,7 +75133,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(universal) brotherhood, a colleague"
+        "text": "brother (not family, but community), a colleague"
+      }
+    ]
+  },
+  {
+    "word": "svistef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "brotherhood (not family, but community)"
       }
     ]
   },
@@ -75671,6 +75562,14 @@
     "translations": [
       {
         "lang": "english",
+        "text": "to calm"
+      },
+      {
+        "lang": "english",
+        "text": "to quieten"
+      },
+      {
+        "lang": "english",
         "text": "to relieve (emotionally)"
       }
     ]
@@ -75683,17 +75582,6 @@
       {
         "lang": "english",
         "text": "a tranquilizer"
-      }
-    ]
-  },
-  {
-    "word": "takedükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to calm, to quieten"
       }
     ]
   },
@@ -76122,7 +76010,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the state (= government)"
+        "text": "the state (government)"
       }
     ]
   },
@@ -76188,7 +76076,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "citizenship (= of a state)"
+        "text": "citizenship (of a state)"
       }
     ]
   },
@@ -76402,17 +76290,6 @@
     ]
   },
   {
-    "word": "tämef",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "temple (anatomy)"
-      }
-    ]
-  },
-  {
     "word": "täm",
     "lang": "volapuk",
     "category": "n.",
@@ -76424,13 +76301,13 @@
     ]
   },
   {
-    "word": "tämef",
+    "word": "tämep",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "temple (anatomy); tem (for worship)"
+        "text": "temple (anatomy)"
       }
     ]
   },
@@ -76485,7 +76362,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "then (= sequence of events)"
+        "text": "then (sequence of events)"
       }
     ]
   },
@@ -76540,25 +76417,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a testament, a will"
-      }
-    ]
-  },
-  {
-    "word": "tatimädim",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+        "text": "a testament"
+      },
       {
         "lang": "english",
-        "text": "an anachronism"
+        "text": "a will"
       }
     ]
   },
   {
     "word": "tatiriskädüköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -76573,7 +76443,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to bequeath, to make one's will"
+        "text": "to bequeath"
+      },
+      {
+        "lang": "english",
+        "text": "to make one's will"
       }
     ]
   },
@@ -77002,7 +76876,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a scale (= of fish)"
+        "text": "a scale (of fish)"
       }
     ]
   },
@@ -77145,7 +77019,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a telephone (= complete unit)"
+        "text": "a telephone (complete unit)"
       }
     ]
   },
@@ -77211,7 +77085,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a television commercial (= advertisement)"
+        "text": "a television commercial (advertisement)"
       }
     ]
   },
@@ -77266,7 +77140,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a second (= person)"
+        "text": "a second (person)"
       }
     ]
   },
@@ -77387,7 +77261,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a synagogue, a temple"
+        "text": "a synagogue"
+      },
+      {
+        "lang": "english",
+        "text": "a temple (for worship)"
       }
     ]
   },
@@ -77596,7 +77474,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a title (= of a book/publication)"
+        "text": "a title (of a book/publication)"
       }
     ]
   },
@@ -77640,7 +77518,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lesson (= in classroom)"
+        "text": "a lesson (in classroom)"
       }
     ]
   },
@@ -77717,7 +77595,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "motivation (= of a teacher)"
+        "text": "motivation (of a teacher)"
       }
     ]
   },
@@ -77728,7 +77606,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lesson (= in course/text-book)"
+        "text": "a lesson (in course/text-book)"
       }
     ]
   },
@@ -77812,7 +77690,7 @@
   {
     "word": "tifalöl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -78157,7 +78035,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to brush against (= almost touch)"
+        "text": "to brush against (almost touch)"
       }
     ]
   },
@@ -78234,7 +78112,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a timer (= a timing device)"
+        "text": "a timer (a timing device)"
       }
     ]
   },
@@ -78663,7 +78541,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a letter (= of the alphabet)"
+        "text": "a letter (of the alphabet)"
       }
     ]
   },
@@ -78751,7 +78629,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a volume control (= sound)"
+        "text": "a volume control (sound)"
       }
     ]
   },
@@ -78774,6 +78652,17 @@
       {
         "lang": "english",
         "text": "an audio cassette"
+      }
+    ]
+  },
+  {
+    "word": "tonodakäm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a video camera"
       }
     ]
   },
@@ -78806,7 +78695,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(study of) harmony (= in music)"
+        "text": "(study of) harmony (in music)"
       }
     ]
   },
@@ -79081,7 +78970,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) toast (= drink to someone’s health)"
+        "text": "(to) toast (drink to someone’s health)"
       }
     ]
   },
@@ -79114,7 +79003,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to lift (= dig up)"
+        "text": "to lift (dig up)"
       }
     ]
   },
@@ -79158,7 +79047,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lever (= lifting device)"
+        "text": "a lever (lifting device)"
       }
     ]
   },
@@ -79169,7 +79058,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a jack (= for car)"
+        "text": "a jack (for car)"
       }
     ]
   },
@@ -79180,7 +79069,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lever (= arm)"
+        "text": "a lever (arm)"
       }
     ]
   },
@@ -79213,7 +79102,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "tunny (= fish)"
+        "text": "tunny (fish)"
       }
     ]
   },
@@ -79258,6 +79147,17 @@
       {
         "lang": "english",
         "text": "painstaking"
+      }
+    ]
+  },
+  {
+    "word": "töbikön",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be taken aback"
       }
     ]
   },
@@ -79389,7 +79289,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to draw on someone (= financial)"
+        "text": "to draw on someone (financial)"
       }
     ]
   },
@@ -79840,7 +79740,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "too (= excessively)"
+        "text": "too (excessively)"
       }
     ]
   },
@@ -80093,7 +79993,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (whipping) top (= child's toy)"
+        "text": "a (whipping) top (child's toy)"
       }
     ]
   },
@@ -80104,7 +80004,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to play at whip and top (= game)"
+        "text": "to play at whip and top (game)"
       }
     ]
   },
@@ -80115,7 +80015,15 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(radio/TV) interference"
+        "text": "a disorder"
+      },
+      {
+        "lang": "english",
+        "text": "a disturbance"
+      },
+      {
+        "lang": "english",
+        "text": "interference (radio/TV) "
       }
     ]
   },
@@ -80412,7 +80320,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to decipher, to solve (= puzzle/riddle)"
+        "text": "to decipher"
+      },
+      {
+        "lang": "english",
+        "text": "to solve (puzzle/riddle)"
       }
     ]
   },
@@ -80456,7 +80368,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "at, on (= time) (preposition)"
+        "text": "at, on (time) (preposition)"
       }
     ]
   },
@@ -80555,7 +80467,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "etymology (= word derivation)"
+        "text": "etymology (word derivation)"
       }
     ]
   },
@@ -80582,17 +80494,6 @@
     ]
   },
   {
-    "word": "tup",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a disorder, disturbance"
-      }
-    ]
-  },
-  {
     "word": "türeoid",
     "lang": "volapuk",
     "category": "n.",
@@ -80600,17 +80501,6 @@
       {
         "lang": "english",
         "text": "thyroid (gland)"
-      }
-    ]
-  },
-  {
-    "word": "tutäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "teething"
       }
     ]
   },
@@ -80721,17 +80611,6 @@
       {
         "lang": "english",
         "text": "an answer, a solution (to a puzzle/riddle)"
-      }
-    ]
-  },
-  {
-    "word": "tuvedön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to solve (puzzle/riddle)"
       }
     ]
   },
@@ -80896,7 +80775,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the one (hiut, jiut, utos, kel = the one who/that)"
+        "text": "the one"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Hiut, jiut, utos, kel = The one who/that."
       }
     ]
   },
@@ -80919,17 +80804,6 @@
       {
         "lang": "english",
         "text": "there (where)"
-      }
-    ]
-  },
-  {
-    "word": "üfo",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "anyhow, in any case, in that case"
       }
     ]
   },
@@ -80973,7 +80847,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "in that case, then (Kikodo üfo eselol-li osi? = then why have you sold it?)"
+        "text": "anyhow, in any case, in that case, then"
+      },
+      {
+        "lang": "english",
+        "text": "in that case, then"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text ": "Kikodo üfo eselol-li osi? = Then why have you sold it?"
       }
     ]
   },
@@ -81061,7 +80945,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a compartment (= of coach)"
+        "text": "a compartment (of coach)"
       }
     ]
   },
@@ -81072,7 +80956,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a drive (= in a vehicle)"
+        "text": "a drive (in a vehicle)"
       }
     ]
   },
@@ -81204,7 +81088,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to drill (= soldiers on parade)"
+        "text": "to drill (soldiers on parade)"
       }
     ]
   },
@@ -81303,7 +81187,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to take a break (= short holiday)"
+        "text": "to take a break (short holiday)"
       }
     ]
   },
@@ -81710,7 +81594,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a tumbler (= a glass for water)"
+        "text": "a tumbler (a glass for water)"
       }
     ]
   },
@@ -81864,7 +81748,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an inventory (= stocktaking)"
+        "text": "an inventory (stocktaking)"
       }
     ]
   },
@@ -82348,7 +82232,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "width (= a measure)"
+        "text": "width (a measure)"
       }
     ]
   },
@@ -82524,7 +82408,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "correct, right (= not wrong)"
+        "text": "correct, right (not wrong)"
       }
     ]
   },
@@ -83740,7 +83624,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to rustle (= of leaves), to whisper"
+        "text": "to rustle (of leaves), to whisper"
       }
     ]
   },
@@ -84900,17 +84784,6 @@
     ]
   },
   {
-    "word": "vödabuk",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a dictionary, a lexicon"
-      }
-    ]
-  },
-  {
     "word": "vödafeit",
     "lang": "volapuk",
     "category": "n.",
@@ -84940,6 +84813,10 @@
       {
         "lang": "english",
         "text": "a dictionary"
+      },
+      {
+        "lang": "english",
+        "text": "a lexicon"
       }
     ]
   },
@@ -85126,7 +85003,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a currency (= monetary system)"
+        "text": "a currency (monetary system)"
       }
     ]
   },
@@ -85329,17 +85206,6 @@
     ]
   },
   {
-    "word": "vüm",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a womb"
-      }
-    ]
-  },
-  {
     "word": "vun",
     "lang": "volapuk",
     "category": "n.",
@@ -85489,7 +85355,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lap, a womb"
+        "text": "a lap"
+      },
+      {
+        "lang": "english",
+        "text": "a womb"
       }
     ]
   },
@@ -85555,7 +85425,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an entr'acte (= theatre)"
+        "text": "an entr'acte (theatre)"
       }
     ]
   },
@@ -85786,7 +85656,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a stirrup (= for horses)"
+        "text": "a stirrup (for horses)"
       }
     ]
   },
@@ -86215,7 +86085,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "yarn (= in textiles)"
+        "text": "yarn (in textiles)"
       }
     ]
   },
@@ -86556,7 +86426,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a yoke (= for animals)"
+        "text": "a yoke (for animals)"
       }
     ]
   },
@@ -86567,7 +86437,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a collar, a harness (= for animals)"
+        "text": "a collar, a harness (for animals)"
       }
     ]
   },
@@ -87199,17 +87069,6 @@
     ]
   },
   {
-    "word": "yurinatüib",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "urethra"
-      }
-    ]
-  },
-  {
     "word": "yurinavan",
     "lang": "volapuk",
     "category": "n.",
@@ -87381,7 +87240,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an abusive name, a nickname"
+        "text": "an abusive name"
+      },
+      {
+        "lang": "english",
+        "text": "a nickname (abusive)"
       }
     ]
   },
@@ -87393,17 +87256,6 @@
       {
         "lang": "english",
         "text": "a quarrel"
-      }
-    ]
-  },
-  {
-    "word": "zanädanem",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a nickname (abusive)"
       }
     ]
   },
@@ -87448,6 +87300,23 @@
       {
         "lang": "english",
         "text": "to bicker, to quarrel"
+      }
+    ]
+  },
+  {
+    "word": "za",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "about, approximately"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Za degna = About ten times."
       }
     ]
   },
@@ -87568,7 +87437,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a party (= social gathering)"
+        "text": "a party (social gathering)"
       }
     ]
   },
@@ -87740,7 +87609,7 @@
   {
     "word": "zenaköl",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "act. part.",
     "translations": [
       {
         "lang": "english",
@@ -87865,7 +87734,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a midfield player (= football)"
+        "text": "a midfield player (football)"
       }
     ]
   },
@@ -87997,7 +87866,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a course (= of a meal)"
+        "text": "a course (of a meal)"
       }
     ]
   },
@@ -88409,17 +88278,6 @@
     ]
   },
   {
-    "word": "ziporüt",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a goldfish"
-      }
-    ]
-  },
-  {
     "word": "ziöbedem",
     "lang": "volapuk",
     "category": "n.",
@@ -88442,6 +88300,17 @@
     ]
   },
   {
+    "word": "zisäk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an opinion poll"
+      }
+    ]
+  },
+  {
     "word": "zispatön",
     "lang": "volapuk",
     "category": "v.",
@@ -88449,6 +88318,10 @@
       {
         "lang": "english",
         "text": "to walk about"
+      },
+      {
+        "lang": "english",
+        "text": "to walk around (for pleasure)"
       }
     ]
   },
@@ -88460,28 +88333,6 @@
       {
         "lang": "english",
         "text": "a zither"
-      }
-    ]
-  },
-  {
-    "word": "zispatön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to walk around (for pleasure)"
-      }
-    ]
-  },
-  {
-    "word": "zisäk",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an opinion poll"
       }
     ]
   },
@@ -88504,17 +88355,6 @@
       {
         "lang": "english",
         "text": "a walk-about"
-      }
-    ]
-  },
-  {
-    "word": "ziikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(to) circulate"
       }
     ]
   },
@@ -88580,7 +88420,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "interest in arrears (= financial)"
+        "text": "interest in arrears (financial)"
       }
     ]
   },
@@ -88624,7 +88464,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a coupon, a note (= small document)"
+        "text": "a coupon, a note (small document)"
       }
     ]
   },
