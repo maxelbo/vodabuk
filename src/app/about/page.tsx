@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { buttonVariants } from '@/components/ui/button';
-// import WordCount from '@/components/WordCount';
 
 async function getWordCount() {
   const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/word-count`;
@@ -29,15 +28,15 @@ export default async function About() {
       <p>
         Vödabuk is an open-source Volapük dictionary application designed to make the Volapük
         language more accessible to everyone.
-        {count > 0 && (
-          <p>
-            It currenlty has <span className="font-bold">{formattedCount}</span> Volapük words in
-            its database.
-            {/* It currenlty has <WordCount count={count} /> Volapük words in its database. */}
-          </p>
-        )}
-        <br />
-        <br />
+      </p>
+      {count > 0 && (
+        <p>
+          It currenlty has <span className="font-bold">{formattedCount}</span> Volapük words in its
+          database, with translations in English and Esperanto (currently a work in progress).
+        </p>
+      )}
+      <br />
+      <p>
         The dictionary is in continious development. If you find any errors or have suggestions for
         improvements, please feel free to contact{' '}
         <Link href="mailto:glidis@vodabuk.com" className="font-bold underline">
