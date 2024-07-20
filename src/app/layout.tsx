@@ -17,7 +17,7 @@ const headDesc = 'A Volapük Dictionary.';
 const headCreator = 'Max Elbo';
 const headPublisher = 'Svistef Pükas Mekavik';
 const headUrl = 'https://vodabuk.com';
-const headImage = 'https://vodabuk.com/og-image.png';
+const headImage = 'https://vodabuk.com/images/og-image.png';
 const menuLinkList = [{ href: '/about', text: 'About' }];
 const footerText = `${new Date().getFullYear()}, ${headPublisher}`;
 
