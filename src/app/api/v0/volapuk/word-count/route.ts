@@ -3,17 +3,15 @@ import { promises as fs } from 'fs';
 import { NextRequest, NextResponse } from 'next/server';
 import { DictionaryEntryType } from '@/lib/types';
 
-const findDuplicates = (jsonData: DictionaryEntryType[]) => {
-  const wordCount: { [key: string]: number } = {};
-  const duplicates: { word: string; count: number }[] = [];
+type WordCount = { [key: string]: number };
+type Duplicate = { word: string; count: number };
 
-  jsonData.forEach((item) => {
-    const word = item.word;
-    if (wordCount[word]) {
-      wordCount[word]++;
-    } else {
-      wordCount[word] = 1;
-    }
+const findDuplicates = (words: DictionaryEntryType[]): Duplicate[] => {
+  const wordCount: WordCount = {};
+  const duplicates: Duplicate[] = [];
+
+  words.forEach(({ word }) => {
+    wordCount[word] = (wordCount[word] || 0) + 1;
   });
 
   for (const word in wordCount) {
@@ -25,7 +23,7 @@ const findDuplicates = (jsonData: DictionaryEntryType[]) => {
   return duplicates;
 };
 
-export async function GET(req: NextRequest) {
+export async function GET(req: NextRequest): Promise<NextResponse> {
   try {
     // Construct the path to the JSON file
     const jsonDirectory = path.join(process.cwd(), 'src', 'data');
@@ -35,7 +33,7 @@ export async function GET(req: NextRequest) {
     const fileContents = await fs.readFile(filePath, 'utf8');
     const words: DictionaryEntryType[] = JSON.parse(fileContents);
 
-    // Filter words by 'lang': 'volapuk'
+    // Filter Volapük words
     const volapukWords = words.filter((word) => word.lang === 'volapuk');
 
     // Count the number of Volapük words
