@@ -3881,6 +3881,10 @@
       {
         "lang": "english",
         "text": "a ticket"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bileto"
       }
     ]
   },
@@ -3951,6 +3955,10 @@
       {
         "lang": "english",
         "text": "to consist (of)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsisti"
       }
     ],
     "examples": [
@@ -3968,6 +3976,10 @@
       {
         "lang": "english",
         "text": "composite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsistanta"
       }
     ]
   },
@@ -3979,6 +3991,10 @@
       {
         "lang": "english",
         "text": "being, heart and soul"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estaĵo"
       }
     ]
   },
@@ -3990,6 +4006,10 @@
       {
         "lang": "english",
         "text": "essential"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esenca"
       }
     ]
   },
@@ -4001,6 +4021,10 @@
       {
         "lang": "english",
         "text": "in essence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esence"
       }
     ]
   },
@@ -4012,6 +4036,10 @@
       {
         "lang": "english",
         "text": "element"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elemento"
       }
     ]
   },
@@ -4023,6 +4051,10 @@
       {
         "lang": "english",
         "text": "a structure"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strukturo"
       }
     ]
   },
@@ -4034,6 +4066,10 @@
       {
         "lang": "english",
         "text": "to be"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti"
       }
     ],
     "examples": [
@@ -4051,6 +4087,10 @@
       {
         "lang": "english",
         "text": "biology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "biologio"
       }
     ]
   },
@@ -4062,6 +4102,10 @@
       {
         "lang": "english",
         "text": "a biopic, film, motion picture, movie"
+      },
+      {
+        "lang": "esperanto",
+        "text": "filmo"
       }
     ]
   },
@@ -4073,6 +4117,10 @@
       {
         "lang": "english",
         "text": "a cinema"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kinejo"
       }
     ]
   },
@@ -4084,6 +4132,10 @@
       {
         "lang": "english",
         "text": "beer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "biero"
       }
     ]
   },
@@ -4095,6 +4147,10 @@
       {
         "lang": "english",
         "text": "a pub"
+      },
+      {
+        "lang": "esperanto",
+        "text": "drinkejo"
       }
     ]
   },
@@ -4106,6 +4162,10 @@
       {
         "lang": "english",
         "text": "to brew"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bierfari"
       }
     ]
   },
@@ -4117,6 +4177,10 @@
       {
         "lang": "english",
         "text": "provided that"
+      },
+      {
+        "lang": "esperanto",
+        "text": "se"
       }
     ]
   },
@@ -4128,6 +4192,10 @@
       {
         "lang": "english",
         "text": "eccentricity, oddity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstravaganco"
       }
     ]
   },
@@ -4139,6 +4207,10 @@
       {
         "lang": "english",
         "text": "odd, strange"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstravaganca, bizara"
       }
     ]
   },
@@ -4150,6 +4222,10 @@
       {
         "lang": "english",
         "text": "that's odd!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strange!"
       }
     ]
   },
@@ -4161,6 +4237,10 @@
       {
         "lang": "english",
         "text": "a (cream) cracker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "biskvito"
       }
     ]
   },
@@ -4172,6 +4252,10 @@
       {
         "lang": "english",
         "text": "a biscuit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "biskvito"
       }
     ]
   },
@@ -4216,6 +4300,10 @@
       {
         "lang": "english",
         "text": "to act, to behave"
+      },
+      {
+        "lang": "esperanto",
+        "text": "agadi"
       }
     ]
   },
@@ -4238,6 +4326,10 @@
       {
         "lang": "english",
         "text": "to blow out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disblovi"
       }
     ]
   },
@@ -4249,6 +4341,10 @@
       {
         "lang": "english",
         "text": "to blow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "blovi"
       }
     ]
   },
@@ -50753,6 +50849,10 @@
       {
         "lang": "english",
         "text": "extraordinary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksterordinara"
       }
     ]
   },
@@ -50764,6 +50864,10 @@
       {
         "lang": "english",
         "text": "extraordinarily"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksterordinare"
       }
     ]
   },
@@ -50775,6 +50879,10 @@
       {
         "lang": "english",
         "text": "incredible, unbelievable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nekredebla"
       }
     ]
   },
@@ -50852,6 +50960,10 @@
       {
         "lang": "english",
         "text": "adversity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraŭaĵo"
       }
     ]
   },
@@ -50867,7 +50979,7 @@
     ]
   },
   {
-    "word": "nelefë dik",
+    "word": "nelefredik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -50885,6 +50997,10 @@
       {
         "lang": "english",
         "text": "fictitious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nereala, fikcia"
       }
     ]
   },
@@ -50896,6 +51012,10 @@
       {
         "lang": "english",
         "text": "unequal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malegala"
       }
     ]
   },
@@ -50918,6 +51038,10 @@
       {
         "lang": "english",
         "text": "inaudible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "neaŭdebla"
       }
     ]
   },
@@ -50929,6 +51053,10 @@
       {
         "lang": "english",
         "text": "disorder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malordo"
       }
     ]
   },
@@ -50940,6 +51068,10 @@
       {
         "lang": "english",
         "text": "untidy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malorda"
       }
     ]
   },
@@ -50951,6 +51083,10 @@
       {
         "lang": "english",
         "text": "an obstacle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obstaklo"
       }
     ]
   },
@@ -50962,6 +51098,10 @@
       {
         "lang": "english",
         "text": "to deny, to hinder, to prevent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malhelpi"
       }
     ]
   },
@@ -50973,17 +51113,25 @@
       {
         "lang": "english",
         "text": "invisible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nevidebla"
       }
     ]
   },
   {
-    "word": "nelogä döf",
+    "word": "nelogädöf",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "invisibility"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nevidebleco"
       }
     ]
   },
@@ -50995,6 +51143,10 @@
       {
         "lang": "english",
         "text": "to disappear"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malaperi"
       }
     ]
   },
@@ -51017,6 +51169,10 @@
       {
         "lang": "english",
         "text": "illegal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraŭleĝa"
       }
     ]
   },
@@ -51038,7 +51194,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(the) unsuitable (people)"
+        "text": "the unsuitable (people)"
       }
     ]
   },
@@ -51061,6 +51217,10 @@
       {
         "lang": "english",
         "text": "improbable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malprobabla"
       }
     ]
   },
