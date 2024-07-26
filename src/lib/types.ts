@@ -18,11 +18,6 @@ export interface LangContextProps {
   setLang: (lang: string) => void;
 }
 
-export interface ResultProps {
-  result: DictionaryEntryType;
-  translationLang: string;
-}
-
 export interface Children {
   readonly children: React.ReactNode;
 }
