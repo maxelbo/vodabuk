@@ -50986,6 +50986,10 @@
       {
         "lang": "english",
         "text": "sombre"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malĝoja"
       }
     ]
   },
@@ -55735,6 +55739,10 @@
       {
         "lang": "english",
         "text": "self-esteem"
+      },
+      {
+        "lang": "esperanto",
+        "text": "memestimo"
       }
     ]
   },
@@ -55771,6 +55779,10 @@
       {
         "lang": "english",
         "text": "you"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vi"
       }
     ]
   },
@@ -55783,6 +55795,10 @@
       {
         "lang": "english",
         "text": "your"
+      },
+      {
+        "lang": "esperanto",
+        "text": "via"
       }
     ]
   },
@@ -55795,6 +55811,10 @@
       {
         "lang": "english",
         "text": "you (plural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vi (pluralo)"
       }
     ]
   },
@@ -55807,6 +55827,10 @@
       {
         "lang": "english",
         "text": "your (plural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "via (pluralo)"
       }
     ]
   },
@@ -55819,6 +55843,10 @@
       {
         "lang": "english",
         "text": "he"
+      },
+      {
+        "lang": "esperanto",
+        "text": "li"
       }
     ]
   },
@@ -55855,6 +55883,10 @@
       {
         "lang": "english",
         "text": "they (masculine plural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ili (viroj)"
       }
     ]
   },
@@ -55867,6 +55899,10 @@
       {
         "lang": "english",
         "text": "their (masculine plural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ilia (viroj)"
       }
     ]
   },
@@ -55891,6 +55927,10 @@
       {
         "lang": "english",
         "text": "next month"
+      },
+      {
+        "lang": "esperanto",
+        "text": "venontmonate"
       }
     ]
   },
@@ -55903,6 +55943,10 @@
       {
         "lang": "english",
         "text": "it"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝi"
       }
     ]
   },
