@@ -50557,6 +50557,10 @@
       {
         "lang": "english",
         "text": "useless"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malutila"
       }
     ]
   },
@@ -50568,6 +50572,10 @@
       {
         "lang": "english",
         "text": "uncertainty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malcerteco"
       }
     ]
   },
@@ -50634,6 +50642,10 @@
       {
         "lang": "english",
         "text": "unfair, unjust"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maljusta"
       }
     ]
   },
@@ -50678,6 +50690,10 @@
       {
         "lang": "english",
         "text": "a moth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "noktopapilio"
       }
     ]
   },
@@ -50732,7 +50748,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) break down (vehicles)"
+        "text": "to break down (vehicles)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "panei"
       }
     ]
   },
@@ -50744,6 +50764,10 @@
       {
         "lang": "english",
         "text": "cheap"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmultekosta, malkara, ĉipa"
       }
     ]
   },
@@ -50810,11 +50834,15 @@
       {
         "lang": "english",
         "text": "absence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "foresto"
       }
     ],
     "examples": [
       {
-        "lang": "ensglish",
+        "lang": "english",
         "text": "Senobs nekomi ofa = We miss her."
       }
     ]
@@ -50827,6 +50855,10 @@
       {
         "lang": "english",
         "text": "uncomfortable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malkomforta"
       }
     ]
   },
@@ -50838,6 +50870,10 @@
       {
         "lang": "english",
         "text": "inconvenient"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝena"
       }
     ]
   },
@@ -50975,6 +51011,10 @@
       {
         "lang": "english",
         "text": "unfortunate, unhappy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbonŝanca"
       }
     ]
   },
@@ -52875,6 +52915,10 @@
       {
         "lang": "english",
         "text": "to snow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "neĝi"
       }
     ]
   },
@@ -52886,6 +52930,10 @@
       {
         "lang": "english",
         "text": "winter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vintro"
       }
     ]
   },
@@ -52897,6 +52945,10 @@
       {
         "lang": "english",
         "text": "ink"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inko"
       }
     ]
   },
