@@ -8569,6 +8569,36 @@
     ]
   },
   {
+    "word": "dabinot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "something specific, something concrete"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konkretaĵo"
+      }
+    ]
+  },
+  {
+    "word": "dabinotik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "specific, concrete"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konkreta"
+      }
+    ]
+  },
+  {
     "word": "dabinön",
     "lang": "volapuk",
     "category": "v.",
@@ -8576,6 +8606,10 @@
       {
         "lang": "english",
         "text": "to exist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekzisti"
       }
     ],
     "examples": [
@@ -50093,6 +50127,10 @@
       {
         "lang": "english",
         "text": "a disadvantage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malavantaĝo"
       }
     ]
   },
@@ -50104,6 +50142,10 @@
       {
         "lang": "english",
         "text": "to retire (from)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retiriĝi"
       }
     ]
   },
@@ -50115,6 +50157,10 @@
       {
         "lang": "english",
         "text": "abstract"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malkonkreta, abstrakta"
       }
     ]
   },
@@ -50126,6 +50172,10 @@
       {
         "lang": "english",
         "text": "disrespectful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malrespektema"
       }
     ]
   },
