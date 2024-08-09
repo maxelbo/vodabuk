@@ -7793,6 +7793,10 @@
       {
         "lang": "english",
         "text": "to feign, to pretend"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝajnigi, simuli"
       }
     ]
   },
@@ -7804,6 +7808,25 @@
       {
         "lang": "english",
         "text": "to mean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "signifi"
+      }
+    ]
+  },
+  {
+    "word": "cein",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "transformation, conversion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transformiĝo, aliformiĝo, konvertiĝo"
       }
     ]
   },
@@ -8599,6 +8622,21 @@
     ]
   },
   {
+    "word": "dabinoto",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "specifically, concretely"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konkrete"
+      }
+    ]
+  },
+  {
     "word": "dabinön",
     "lang": "volapuk",
     "category": "v.",
@@ -8627,6 +8665,10 @@
       {
         "lang": "english",
         "text": "to extradite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstradicii"
       }
     ]
   },
@@ -8649,6 +8691,10 @@
       {
         "lang": "english",
         "text": "a publisher"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eldonisto"
       }
     ]
   },
@@ -8660,6 +8706,10 @@
       {
         "lang": "english",
         "text": "a printer (computer, etc)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presilo, printilo"
       }
     ]
   },
@@ -8671,6 +8721,10 @@
       {
         "lang": "english",
         "text": "an edition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eldono"
       }
     ]
   },
@@ -8682,6 +8736,10 @@
       {
         "lang": "english",
         "text": "to publish"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eldoni"
       }
     ]
   },
@@ -8693,6 +8751,10 @@
       {
         "lang": "english",
         "text": "a transmutation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transmutacio"
       }
     ]
   },
