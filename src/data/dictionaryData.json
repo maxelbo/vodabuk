@@ -7621,13 +7621,32 @@
     ]
   },
   {
-    "word": "can(s)",
+    "word": "Camekeän",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "goods"
+        "text": "Jamaica"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Jamajko"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "goods, wares"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varo"
       }
     ]
   },
@@ -7831,6 +7850,21 @@
     ]
   },
   {
+    "word": "ceinön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to transform, to convert"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transformi, aliformi, konverti"
+      }
+    ]
+  },
+  {
     "word": "cek",
     "lang": "volapuk",
     "category": "n.",
@@ -7863,7 +7897,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry tree"
+        "text": "a cherry tree, Prunus cerasus"
       },
       {
         "lang": "esperanto",
@@ -7878,7 +7912,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry tree"
+        "text": "a cherry tree, Prunus cerasus"
       },
       {
         "lang": "esperanto",
@@ -7897,7 +7931,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "ĉambro (en domo)"
+        "text": "ĉambro"
       }
     ]
   },
@@ -7909,6 +7943,21 @@
       {
         "lang": "english",
         "text": "a dressing gown"
+      }
+    ]
+  },
+  {
+    "word": "cemil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a small room"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉambreto"
       }
     ]
   },
@@ -7935,9 +7984,39 @@
     ]
   },
   {
+    "word": "cenöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "changeability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝebleco"
+      }
+    ]
+  },
+  {
+    "word": "cenöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "changeable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝebla"
+      }
+    ]
+  },
+  {
     "word": "cenön (ad)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
@@ -7946,6 +8025,96 @@
       {
         "lang": "esperanto",
         "text": "ŝanĝiĝi (en)"
+      }
+    ]
+  },
+  {
+    "word": "cep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "threshing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝo, draŝado"
+      }
+    ]
+  },
+  {
+    "word": "cepacin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "threshing machine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝmaŝino"
+      }
+    ]
+  },
+  {
+    "word": "cepaglun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "threshing floor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝejo"
+      }
+    ]
+  },
+  {
+    "word": "cepan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thresher"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝisto"
+      }
+    ]
+  },
+  {
+    "word": "cepöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "threshing flail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝilo"
+      }
+    ]
+  },
+  {
+    "word": "cepön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to thresh"
+      },
+      {
+        "lang": "esperanto",
+        "text": "draŝi"
       }
     ]
   },
@@ -8043,6 +8212,81 @@
       {
         "lang": "english",
         "text": "a tricycle"
+      }
+    ]
+  },
+  {
+    "word": "Cilän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Chile"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ĉilio"
+      }
+    ]
+  },
+  {
+    "word": "Cilänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Chilean (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ĉiliano"
+      }
+    ]
+  },
+  {
+    "word": "Cilänasalpet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Chile saltpetre"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ĉilia salpetro"
+      }
+    ]
+  },
+  {
+    "word": "Cilänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Chilean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ĉilia"
+      }
+    ]
+  },
+  {
+    "word": "Cilänön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make Chilean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fari Ĉilia"
       }
     ]
   },
@@ -8229,13 +8473,17 @@
     ]
   },
   {
-    "word": "cögön (dö)",
+    "word": "cogön (dö)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to jest, to joke (about)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝerci (pri)"
       }
     ]
   },
@@ -8368,6 +8616,25 @@
       {
         "lang": "english",
         "text": "chess"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝako, ŝakludo"
+      }
+    ]
+  },
+  {
+    "word": "cögan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "chess player"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝakludanto"
       }
     ]
   },
@@ -8379,6 +8646,40 @@
       {
         "lang": "english",
         "text": "a chess piece"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝakpeco"
+      }
+    ]
+  },
+  {
+    "word": "cögik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relating to chess"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝaka"
+      }
+    ]
+  },
+  {
+    "word": "cögön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to play chess"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ludi ŝakojn"
       }
     ]
   },
@@ -8390,17 +8691,54 @@
       {
         "lang": "english",
         "text": "a jungle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝangalo"
+      }
+    ]
+  },
+  {
+    "word": "cöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "heavy blow, hack, hit"
+      }
+    ]
+  },
+  {
+    "word": "cöpön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chop, to hack"
       }
     ]
   },
   {
     "word": "cöpilön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to chop up"
+      }
+    ]
+  },
+  {
+    "word": "cöpülön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chaff, to mince"
       }
     ]
   },
@@ -8438,13 +8776,189 @@
     ]
   },
   {
+    "word": "Cubän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Jubaland (autonomous region in southern Somalia)"
+      }
+    ]
+  },
+  {
     "word": "cuk",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a donkey"
+        "text": "a donkey, an ass, Equus asinus"
+      },
+      {
+        "lang": "esperanto",
+        "text": "azeno"
+      }
+    ]
+  },
+  {
+    "word": "cukamilig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ass's milk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "azenlakto"
+      }
+    ]
+  },
+  {
+    "word": "cuköf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "asininity, stupidity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obstineco, stulteco"
+      }
+    ]
+  },
+  {
+    "word": "cuköfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "asinine, stupid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obstina, stulta"
+      }
+    ]
+  },
+  {
+    "word": "cukül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ass foal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "azenido"
+      }
+    ]
+  },
+  {
+    "word": "cun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fasting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fasto"
+      }
+    ]
+  },
+  {
+    "word": "cunadel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fasting day"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fastotago"
+      }
+    ]
+  },
+  {
+    "word": "cunatim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "period of fasting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fastotempo"
+      }
+    ]
+  },
+  {
+    "word": "cunazib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "food allowed during fasting, lenten fare"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fastmanĝaĵo"
+      }
+    ]
+  },
+  {
+    "word": "cunön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fast"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fasti"
+      }
+    ]
+  },
+  {
+    "word": "cunüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Lent, fasting period"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Granda Fasto, fastperiodo"
+      }
+    ]
+  },
+  {
+    "word": "cunüp yelafoldiladelik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Ember day fasting"
       }
     ]
   },
@@ -8460,6 +8974,21 @@
     ]
   },
   {
+    "word": "cüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "axe, cleaver, hatchet"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hakilo, toporo"
+      }
+    ]
+  },
+  {
     "word": "cüg",
     "lang": "volapuk",
     "category": "n.",
@@ -8467,6 +8996,25 @@
       {
         "lang": "english",
         "text": "a cheek (part of face)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vango"
+      }
+    ]
+  },
+  {
+    "word": "cügabalib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sideburns, whiskers"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vangharoj"
       }
     ]
   },
@@ -8489,6 +9037,40 @@
       {
         "lang": "english",
         "text": "a chin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mentono"
+      }
+    ]
+  },
+  {
+    "word": "cüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deceit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trompo"
+      }
+    ]
+  },
+  {
+    "word": "cütan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cheat, deceiver, double-crosser"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trompanto"
       }
     ]
   },
@@ -8499,7 +9081,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a deception, delusion"
+        "text": "a deception, delusion, infatuation"
       }
     ]
   },
@@ -8533,6 +9115,10 @@
       {
         "lang": "english",
         "text": "to deceive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trompi"
       }
     ]
   },
@@ -16273,6 +16859,125 @@
     ]
   },
   {
+    "word": "fiam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(business) partnership, company, enterprise, firm, legal business name"
+      }
+    ]
+  },
+  {
+    "word": "fiaman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(in a firm) partner, associate, company member"
+      }
+    ]
+  },
+  {
+    "word": "fiamik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relating to a firm / business partnership"
+      }
+    ]
+  },
+  {
+    "word": "fiamŭ",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on behalf of the firm of"
+      }
+    ]
+  },
+  {
+    "word": "fib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "weakness, feebleness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malforteco"
+      }
+    ]
+  },
+  {
+    "word": "fiban",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "feeble/weak person, weakling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malfortulo"
+      }
+    ]
+  },
+  {
+    "word": "fibanön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to complete/finish bathing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "finbaniĝi"
+      }
+    ]
+  },
+  {
+    "word": "fibevob",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to complete/finish work"
+      },
+      {
+        "lang": "esperanto",
+        "text": "finlaboro"
+      }
+    ]
+  },
+  {
+    "word": "fibevobön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to complete/finish working"
+      },
+      {
+        "lang": "esperanto",
+        "text": "finlabori"
+      }
+    ]
+  },
+  {
     "word": "fibik",
     "lang": "volapuk",
     "category": "adj.",
@@ -16280,6 +16985,10 @@
       {
         "lang": "english",
         "text": "faint, weak"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malforta"
       }
     ]
   },
@@ -16291,6 +17000,17 @@
       {
         "lang": "english",
         "text": "mild"
+      }
+    ]
+  },
+  {
+    "word": "ficepön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "tradraŝi"
       }
     ]
   },
