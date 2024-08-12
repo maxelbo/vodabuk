@@ -3804,6 +3804,10 @@
       {
         "lang": "english",
         "text": "a bishop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "episkopo"
       }
     ]
   },
@@ -3815,6 +3819,10 @@
       {
         "lang": "english",
         "text": "a jewel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "juvelo"
       }
     ]
   },
@@ -7662,6 +7670,32 @@
     ]
   },
   {
+    "word": "canastok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stock of goods"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stoko"
+      }
+    ]
+  },
+  {
+    "word": "canised",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "despatch of goods"
+      }
+    ]
+  },
+  {
     "word": "caniselidöp",
     "lang": "volapuk",
     "category": "n.",
@@ -7669,6 +7703,32 @@
       {
         "lang": "english",
         "text": "a department store"
+      }
+    ]
+  },
+  {
+    "word": "canöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "warehouse, depot, magazine, storehouse (for goods)"
+      }
+    ]
+  },
+  {
+    "word": "car",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bow (for archery)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pafarko"
       }
     ]
   },
@@ -7684,13 +7744,68 @@
     ]
   },
   {
+    "word": "cav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gullet, pharynx, throat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gorĝo, faringo, faŭko"
+      }
+    ]
+  },
+  {
     "word": "cavön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to yawn"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oscedi"
+      }
+    ]
+  },
+  {
+    "word": "cäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "distinction, eminence, genteelness, noblesse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "distingiteco, eminenteco, respektindeco, rimarkindeco"
+      }
+    ]
+  },
+  {
+    "word": "cädan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "distinguished/eminent person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eminentulo, distingita persono"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bitön äs cädan = To act like someone important, to assume airs and graces"
       }
     ]
   },
@@ -7701,7 +7816,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "distinguished, excellent, highly respected"
+        "text": "distinguished, excellent, highly respected, eminent, respectable, worthy of respect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "distinginda, eminenta, respektinda, rimarkinda"
+      }
+    ]
+  },
+  {
+    "word": "cädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to act like someone important"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eminanti"
       }
     ]
   },
@@ -7713,6 +7847,55 @@
       {
         "lang": "english",
         "text": "a beetle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "skarabo, koleopteroj"
+      }
+    ]
+  },
+  {
+    "word": "cäk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cheque"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉeko"
+      }
+    ]
+  },
+  {
+    "word": "cäkön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to write a cheque"
+      },
+      {
+        "lang": "esperanto",
+        "text": "skribi ĉekon"
+      }
+    ]
+  },
+  {
+    "word": "cäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) appointing (a person to a job or office), nominating, appointment, nomination"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomumo"
       }
     ]
   },
@@ -7723,7 +7906,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an employer"
+        "text": "an employer, someone who employs"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dunganto"
       }
     ]
   },
@@ -7735,28 +7922,115 @@
       {
         "lang": "english",
         "text": "an employee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dungito"
+      }
+    ]
+  },
+  {
+    "word": "cälod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "selection for an employment, appointment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dungo, dungado"
       }
     ]
   },
   {
     "word": "cälodön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to appoint"
+        "text": "to employ, to appoint"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dungi, enpostenigi"
+      }
+    ]
+  },
+  {
+    "word": "cälov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "suitability, qualification for appointment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taŭgeco por posteno, celkonformeco por posteno"
+      }
+    ]
+  },
+  {
+    "word": "cälovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "suitable, qualified for appointment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taŭga por posteno, celkonforma por posteno"
       }
     ]
   },
   {
     "word": "cälön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr. nom.",
     "translations": [
       {
         "lang": "english",
         "text": "to nominate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomumi"
+      }
+    ]
+  },
+  {
+    "word": "cäm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "council, chamber"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsilio, ĉambro, asembleo"
+      }
+    ]
+  },
+  {
+    "word": "cäman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "councillor (documented only in compound words: glügacäman, kalkulacäman, kardinalacäman, sanavacäman)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsiliano"
       }
     ]
   },
@@ -7768,6 +8042,36 @@
       {
         "lang": "english",
         "text": "(town/city) council"
+      }
+    ]
+  },
+  {
+    "word": "cän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) changing, change, exchange"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝo, interŝanĝo"
+      }
+    ]
+  },
+  {
+    "word": "cänabrokan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "foreign exchange broker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "monŝanĝisto"
       }
     ]
   },
@@ -7785,11 +8089,41 @@
   {
     "word": "cänön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to change, to exchange"
+      }
+    ]
+  },
+  {
+    "word": "cät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "jet (gemstone, a mineraloid derived from wood that has changed under extreme pressure)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gagato"
+      }
+    ]
+  },
+  {
+    "word": "cätacan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "jet jewellery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gagata varo"
       }
     ]
   },
@@ -7801,6 +8135,25 @@
       {
         "lang": "english",
         "text": "an opinion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opinio"
+      }
+    ]
+  },
+  {
+    "word": "cedid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) pretending, excusing, making a pretext, pretence, excuse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝajnigo, ekskuzo, preteksto"
       }
     ]
   },
@@ -7815,22 +8168,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "ŝajnigi, simuli"
+        "text": "ŝajnigi, ekskuzi, preteksti"
       }
     ]
   },
   {
     "word": "cedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr. nom.",
     "translations": [
       {
         "lang": "english",
-        "text": "to mean"
+        "text": "to mean, to regard sb./sth. a, to believe, to be of the opinion"
       },
       {
         "lang": "esperanto",
-        "text": "signifi"
+        "text": "kredi, opinii"
       }
     ]
   },
@@ -7872,6 +8225,10 @@
       {
         "lang": "english",
         "text": "a cage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaĝo"
       }
     ]
   },
