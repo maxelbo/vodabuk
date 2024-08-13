@@ -8076,6 +8076,28 @@
     ]
   },
   {
+    "word": "cänabüsid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "foreign exchange business"
+      }
+    ]
+  },
+  {
+    "word": "cänakursüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rate of exchange"
+      }
+    ]
+  },
+  {
     "word": "cänamon",
     "lang": "volapuk",
     "category": "n.",
@@ -8087,6 +8109,88 @@
     ]
   },
   {
+    "word": "cänid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "confusion, mix-up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konfuzo, konfando"
+      }
+    ]
+  },
+  {
+    "word": "cänidabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "confusing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konfuzinda, konfandinda"
+      }
+    ]
+  },
+  {
+    "word": "cänidovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "confusable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konfuzebla, konfandebla"
+      }
+    ]
+  },
+  {
+    "word": "cänidön (ko, tefü)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to confound, to confuse (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konfuzi (kun), konfandi (kun)"
+      }
+    ]
+  },
+  {
+    "word": "cänov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exchangeability"
+      }
+    ]
+  },
+  {
+    "word": "cänovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exchangeable"
+      }
+    ]
+  },
+  {
     "word": "cänön",
     "lang": "volapuk",
     "category": "tr.",
@@ -8094,6 +8198,32 @@
       {
         "lang": "english",
         "text": "to change, to exchange"
+      }
+    ]
+  },
+  {
+    "word": "cänöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bureau de change, currency exchange office"
+      }
+    ]
+  },
+  {
+    "word": "cärm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "germ, sprout"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝermo, ŝoso"
       }
     ]
   },
