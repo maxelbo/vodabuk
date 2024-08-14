@@ -2583,6 +2583,31 @@
     ]
   },
   {
+    "word": "be-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(prefix that makes an indirect object the direct object)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "(antaŭafikso kiu faras nerektan objekton akuzativa objekto)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bevobom vödabuki = He works on a dictionary."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Bevobom vödabuki = Li prilaboras vortaron."
+      }
+    ]
+  },
+  {
     "word": "beb",
     "roots": ["beb"],
     "lang": "volapuk",
@@ -3577,6 +3602,20 @@
       {
         "lang": "english",
         "text": "to work on"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prilabori"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Bevobom vödabuki = He works on a dictionary."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Bevobom vödabuki = Li prilaboras vortaron."
       }
     ]
   },
@@ -8056,7 +8095,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "ŝanĝo, interŝanĝo"
+        "text": "interŝanĝo, interŝanĝado"
       }
     ]
   },
@@ -8176,6 +8215,10 @@
       {
         "lang": "english",
         "text": "exchangeability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interŝanĝebleco"
       }
     ]
   },
@@ -8187,6 +8230,10 @@
       {
         "lang": "english",
         "text": "exchangeable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interŝanĝebla"
       }
     ]
   },
@@ -8198,6 +8245,10 @@
       {
         "lang": "english",
         "text": "to change, to exchange"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interŝanĝi"
       }
     ]
   },
@@ -8445,6 +8496,46 @@
       {
         "lang": "esperanto",
         "text": "ĉambreto"
+      }
+    ]
+  },
+  {
+    "word": "cen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "change, alteration, alternation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Cen säsunas = Change of the seasons"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Cen säsunas = Ŝanĝo de la sezonoj"
+      }
+    ]
+  },
+  {
+    "word": "cenamod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "method of change"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝanĝmetodo"
       }
     ]
   },
@@ -10619,7 +10710,37 @@
     "translations": [
       {
         "lang": "english",
-        "text": "thank(s)"
+        "text": "thanks"
+      }
+    ]
+  },
+  {
+    "word": "daniäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thankfulness, greatfulness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dankemo"
+      }
+    ]
+  },
+  {
+    "word": "daniälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thankful, greatful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dankema"
       }
     ]
   },
@@ -10657,6 +10778,17 @@
     ]
   },
   {
+    "word": "danö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thanks"
+      }
+    ]
+  },
+  {
     "word": "danöf",
     "lang": "volapuk",
     "category": "n.",
@@ -10674,7 +10806,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "thankful"
+        "text": "thankful, greatful"
       }
     ]
   },
@@ -10702,7 +10834,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a dance"
+        "text": "dance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "danco"
       }
     ]
   },
@@ -10720,11 +10856,30 @@
   {
     "word": "danüdön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to dance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "danci"
+      }
+    ]
+  },
+  {
+    "word": "danüdöp",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dance floor, dancehall"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dancejo"
       }
     ]
   },
@@ -11110,6 +11265,21 @@
       {
         "lang": "english",
         "text": "to bring about, cause, effect, incite, provoke"
+      }
+    ]
+  },
+  {
+    "word": "dä-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "broken into pieces "
+      },
+      {
+        "lang": "esperanto",
+        "text": "dis-"
       }
     ]
   },
@@ -11948,6 +12118,21 @@
     ]
   },
   {
+    "word": "dei-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "until death"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝismorte"
+      }
+    ]
+  },
+  {
     "word": "deidacödetön",
     "lang": "volapuk",
     "category": "v.",
@@ -12002,7 +12187,7 @@
   {
     "word": "deijütön (eki)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -12062,6 +12247,21 @@
       {
         "lang": "english",
         "text": "to condemn, reject, repudiate"
+      }
+    ]
+  },
+  {
+    "word": "deivobön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to work oneself to death"
+      },
+      {
+        "lang": "esperanto",
+        "text": "labori ĝis morto"
       }
     ]
   },
@@ -13524,13 +13724,17 @@
     ]
   },
   {
-    "word": "do",
+    "word": "do-",
     "lang": "volapuk",
-    "category": "conj.",
+    "category": "pref.",
     "translations": [
       {
         "lang": "english",
-        "text": "although, though"
+        "text": "downward motion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsupren"
       }
     ]
   },
@@ -14809,6 +15013,21 @@
     ]
   },
   {
+    "word": "du-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "movement through"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trae"
+      }
+    ]
+  },
+  {
     "word": "dubä",
     "lang": "volapuk",
     "category": "conj.",
@@ -15105,7 +15324,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an action"
+        "text": "(state of) being active, activity, dealing, deed, an action"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ago"
       }
     ]
   },
@@ -15132,7 +15355,7 @@
     ]
   },
   {
-    "word": "dunet atab",
+    "word": "dunetatab",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -15176,6 +15399,21 @@
       {
         "lang": "english",
         "text": "a fanatical act"
+      }
+    ]
+  },
+  {
+    "word": "duniäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thirst/zest for action"
+      },
+      {
+        "lang": "esperanto",
+        "text": "agemo"
       }
     ]
   },
@@ -15674,6 +15912,21 @@
     ]
   },
   {
+    "word": "fa-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "absence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sen"
+      }
+    ]
+  },
+  {
     "word": "faalik",
     "lang": "volapuk",
     "category": "adj.",
@@ -15861,7 +16114,7 @@
     ]
   },
   {
-    "word": "fagotal eigik",
+    "word": "fagotaleigik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -16495,13 +16748,16 @@
   },
   {
     "word": "fäi-",
-    "roots": ["fäi"],
     "lang": "volapuk",
-    "category": "part.",
+    "category": "pref.",
     "translations": [
       {
         "lang": "english",
         "text": "shut"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermite"
       }
     ]
   },
@@ -16785,6 +17041,17 @@
       {
         "lang": "english",
         "text": "it's true that"
+      }
+    ]
+  },
+  {
+    "word": "fe-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "complete consumption"
       }
     ]
   },
@@ -17342,6 +17609,21 @@
       {
         "lang": "english",
         "text": "nonsense!"
+      }
+    ]
+  },
+  {
+    "word": "fi-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to the end, completion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝisfine, fin-, tut-"
       }
     ]
   },
