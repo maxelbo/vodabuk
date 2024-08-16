@@ -3063,6 +3063,21 @@
     ]
   },
   {
+    "word": "ben",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "well-being, welfare, wellness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "karito, Dia favoro"
+      }
+    ]
+  },
+  {
     "word": "benäd",
     "lang": "volapuk",
     "category": "n.",
@@ -3070,6 +3085,40 @@
       {
         "lang": "english",
         "text": "grace"
+      },
+      {
+        "lang": "esperanto",
+        "text": "graco"
+      }
+    ]
+  },
+  {
+    "word": "bened",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "benison, blessing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "beno"
+      }
+    ]
+  },
+  {
+    "word": "benedön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bless"
+      },
+      {
+        "lang": "esperanto",
+        "text": "beni"
       }
     ]
   },
@@ -3092,6 +3141,21 @@
       {
         "lang": "english",
         "text": "prosperity"
+      }
+    ]
+  },
+  {
+    "word": "beno",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "comfortably, in a good way"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komforte"
       }
     ]
   },
@@ -3168,9 +3232,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(good) fortune"
+        "text": "good fortune"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bonŝanco"
       }
-    ]
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Olabom sio benofäti = He surely will have his advancement/progress."
   },
   {
     "word": "benöf",
@@ -25050,6 +25122,21 @@
     ]
   },
   {
+    "word": "hi-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "male"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vir-"
+      }
+    ]
+  },
+  {
     "word": "hikil",
     "lang": "volapuk",
     "category": "pron.",
@@ -27179,6 +27266,21 @@
       {
         "lang": "english",
         "text": "horsepower"
+      }
+    ]
+  },
+  {
+    "word": "ji-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "female"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-in"
       }
     ]
   },
@@ -29938,6 +30040,21 @@
       {
         "lang": "english",
         "text": "a dock, a quay"
+      }
+    ]
+  },
+  {
+    "word": "ke-",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "together"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kun-"
       }
     ]
   },
@@ -36185,6 +36302,21 @@
     ]
   },
   {
+    "word": "la-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "raising up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supren"
+      }
+    ]
+  },
+  {
     "word": "labedön",
     "lang": "volapuk",
     "category": "v.",
@@ -37992,13 +38124,43 @@
     ]
   },
   {
-    "word": "lazib",
+    "word": "läzib",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a side dish"
+      }
+    ]
+  },
+  {
+    "word": "läx-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ex-, emeritus"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eks-"
+      }
+    ]
+  },
+  {
+    "word": "le-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "size (physical or abstract), ancestry (e.g., grandparent)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-eg, pra-"
       }
     ]
   },
@@ -42804,6 +42966,21 @@
     ]
   },
   {
+    "word": "lomöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "snug, cosy, homely"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmeca, gemuta"
+      }
+    ]
+  },
+  {
     "word": "lomöfacem",
     "lang": "volapuk",
     "category": "n.",
@@ -42898,29 +43075,57 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a particular quality"
+        "text": "validity, a particular quality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "valideco"
       }
     ]
   },
   {
-    "word": "lonöfok",
+    "word": "lonöfik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "valid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "valida"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Vero lonöfik = Fully valid."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Vero lonöfik = Absolute valida."
       }
     ]
   },
   {
     "word": "lonöfön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be valid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "validi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "balna, atos lonöfon in/pro/tefü dinäds/naeds/jenets valik = Once and for all."
       }
     ]
   },
@@ -43927,6 +44132,31 @@
       {
         "lang": "english",
         "text": "low (height)"
+      }
+    ]
+  },
+  {
+    "word": "lu-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "disparagement, step relationship"
+      },
+      {
+        "lang": "esperanto",
+        "text": "duon- (rilate al familio). stif-"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lufat = Stepfather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Lufat = Duonpatro"
       }
     ]
   },
@@ -45015,6 +45245,21 @@
       {
         "lang": "english",
         "text": "to, toward(s)"
+      }
+    ]
+  },
+  {
+    "word": "lü-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in-law"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bo-"
       }
     ]
   },
@@ -51588,6 +51833,21 @@
     ]
   },
   {
+    "word": "ne-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "opposite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mal-"
+      }
+    ]
+  },
+  {
     "word": "neai",
     "lang": "volapuk",
     "category": "adv.",
@@ -51604,6 +51864,7 @@
   },
   {
     "word": "neben",
+    "roots": ["ben"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51613,7 +51874,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "dekadenco"
+        "text": "malbonfarto"
       }
     ]
   },
