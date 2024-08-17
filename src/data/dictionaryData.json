@@ -668,7 +668,6 @@
   {
     "word": "äl",
     "lang": "volapuk",
-    "roots": ["äl"],
     "category": "prep.",
     "translations": [
       {
@@ -678,6 +677,21 @@
       {
         "lang": "esperanto",
         "text": "al"
+      }
+    ]
+  },
+  {
+    "word": "-äl",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "spiritual abstraction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "spirita abstraktaĵo"
       }
     ]
   },
@@ -3243,6 +3257,8 @@
       {
         "lang": "english",
         "text": "Olabom sio benofäti = He surely will have his advancement/progress."
+      }
+    ]
   },
   {
     "word": "benöf",
@@ -4728,6 +4744,10 @@
       {
         "lang": "english",
         "text": "duty, obligation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "devo"
       }
     ]
   },
@@ -4738,30 +4758,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an authorization"
+        "text": "duty, job, lesson, task, an authorization, an exercise"
       },
       {
         "lang": "english",
-        "text": "an exercise"
-      },
+        "text": "tasko"
+      }
+    ]
+  },
+  {
+    "word": "bligäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
       {
         "lang": "english",
-        "text": "a lesson"
+        "text": "conscientiousness, sense of duty"
       },
       {
+        "lang": "esperanto",
+        "text": "konscienco"
+      }
+    ]
+  },
+  {
+    "word": "bligälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
         "lang": "english",
-        "text": "a task"
+        "text": "conscientious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konscienca"
       }
     ]
   },
   {
     "word": "bligidön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to commit (oneself); to do business"
+        "text": "to accept, to bind oneself, to agree to, to commit oneself, to do business"
+      },
+      {
+        "lang": "esperanto",
+        "text": "engaĝiĝi"
       }
     ]
   },
@@ -4772,18 +4818,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "obligatory"
+        "text": "mandatory, obligatory"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deviga"
       }
     ]
   },
   {
     "word": "bligön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to obligate, to oblige"
+        "text": "to bind, to obligate, to oblige"
+      },
+      {
+        "lang": "esperanto",
+        "text": "devigi"
       }
     ]
   },
@@ -4794,7 +4848,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to equip, to fit out"
+        "text": "to equip, to fit out, to furnish"
+      },
+      {
+        "lang": "esperanto",
+        "text": "garni"
       }
     ]
   },
@@ -30046,7 +30104,7 @@
   {
     "word": "ke-",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "pref.",
     "translations": [
       {
         "lang": "english",
@@ -30705,7 +30763,7 @@
   {
     "word": "kio-",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "pref.",
     "translations": [
       {
         "lang": "english",
@@ -50489,24 +50547,77 @@
     ]
   },
   {
+    "word": "mül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mill"
+      },
+      {
+        "lang": "esperanto",
+        "text": "muelejo"
+      }
+    ]
+  },
+  {
+    "word": "mülan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "miller"
+      },
+      {
+        "lang": "esperanto",
+        "text": "muelisto"
+      }
+    ]
+  },
+  {
+    "word": "mülaston",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "millstone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "muelŝtono"
+      }
+    ]
+  },
+  {
     "word": "müp",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "vaccination"
+        "text": "injection, vaccination"
+      },
+      {
+        "lang": "esperanto",
+        "text": "injekto, vakcinado"
       }
     ]
   },
   {
     "word": "müpön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr",
     "translations": [
       {
         "lang": "english",
-        "text": "to vaccinate"
+        "text": "to inject, to vaccinate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "injekti, vakcini"
       }
     ]
   },
@@ -54594,6 +54705,21 @@
     ]
   },
   {
+    "word": "ni-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "interior object"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interna objekto"
+      }
+    ]
+  },
+  {
     "word": "niblit",
     "lang": "volapuk",
     "category": "n.",
@@ -56661,6 +56787,21 @@
       {
         "lang": "english",
         "text": "now that, seeing that, since"
+      }
+    ]
+  },
+  {
+    "word": "nü-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "movement into"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enen"
       }
     ]
   },
@@ -61440,6 +61581,21 @@
     ]
   },
   {
+    "word": "plö-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exterior object"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksterna objekto"
+      }
+    ]
+  },
+  {
     "word": "plödaharat",
     "lang": "volapuk",
     "category": "n.",
@@ -61910,6 +62066,10 @@
       {
         "lang": "english",
         "text": "opal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opalo"
       }
     ]
   },
@@ -61921,6 +62081,10 @@
       {
         "lang": "english",
         "text": "opal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opalo"
       }
     ]
   },
@@ -61931,7 +62095,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) opalise"
+        "text": "to opalise, to opalize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opalecigi"
       }
     ]
   },
@@ -61943,6 +62111,10 @@
       {
         "lang": "english",
         "text": "an apple"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pomo"
       }
     ]
   },
@@ -61986,7 +62158,44 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a poem (poedot degfolliänik = sonnet, poedotakonlet = anthology)"
+        "text": "a poem"
+      },
+      {
+        "lang": "esperanto",
+        "text": "poemo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Poedot degfolliänik = Sonnet."
+      },
+      {
+        "lang": "english",
+        "text": "Poedotakonlet = Anthology."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Poedot degfolliänik = Soneto."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Poedotakonlet = Antologio."
+      }
+    ]
+  },
+  {
+    "word": "poedotakonlet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an anthology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antologio"
       }
     ]
   },
@@ -61997,18 +62206,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (sea)port"
+        "text": "a harbour, a port, a seaport"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haveno"
       }
     ]
   },
   {
     "word": "pogolön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to follow"
+        "text": "to run after, to follow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekvi, postiri"
       }
     ]
   },
@@ -62020,6 +62237,10 @@
       {
         "lang": "english",
         "text": "a pocket"
+      },
+      {
+        "lang": "esperanto",
+        "text": "poŝo"
       }
     ]
   },
@@ -62031,6 +62252,10 @@
       {
         "lang": "english",
         "text": "a flashlight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "poŝlampo"
       }
     ]
   },
@@ -62042,6 +62267,25 @@
       {
         "lang": "english",
         "text": "a (pocket) handkerchief"
+      },
+      {
+        "lang": "esperanto",
+        "text": "poŝtuko, naztuko"
+      }
+    ]
+  },
+  {
+    "word": "pol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "carrying"
+      },
+      {
+        "lang": "esperanto",
+        "text": "porto, portado"
       }
     ]
   },
@@ -62053,6 +62297,10 @@
       {
         "lang": "english",
         "text": "a porter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "portisto"
       }
     ]
   },
@@ -62064,6 +62312,10 @@
       {
         "lang": "english",
         "text": "a police station"
+      },
+      {
+        "lang": "esperanto",
+        "text": "policejo"
       }
     ]
   },
@@ -62075,6 +62327,10 @@
       {
         "lang": "english",
         "text": "police (force)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polico"
       }
     ]
   },
@@ -62086,6 +62342,10 @@
       {
         "lang": "english",
         "text": "polio (medical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "poliomjelito"
       }
     ]
   },
@@ -62097,6 +62357,10 @@
       {
         "lang": "english",
         "text": "a polyp (medical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polipo (pedikla tumoro)"
       }
     ]
   },
@@ -62108,6 +62372,10 @@
       {
         "lang": "english",
         "text": "a polka (dance)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polko"
       }
     ]
   },
@@ -62119,6 +62387,10 @@
       {
         "lang": "english",
         "text": "to bear, to carry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "porti"
       }
     ]
   },
@@ -65960,6 +66232,21 @@
     ]
   },
   {
+    "word": "ru-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "primitive, ancient "
+      },
+      {
+        "lang": "esperanto",
+        "text": "pra-"
+      }
+    ]
+  },
+  {
     "word": "rubrig",
     "lang": "volapuk",
     "category": "n.",
@@ -67082,6 +67369,21 @@
     ]
   },
   {
+    "word": "sä-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "remission"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sen-, mal- (nuligo)"
+      }
+    ]
+  },
+  {
     "word": "säbledemamed",
     "lang": "volapuk",
     "category": "n.",
@@ -67100,6 +67402,10 @@
       {
         "lang": "english",
         "text": "to dismantle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malgarni"
       }
     ]
   },
