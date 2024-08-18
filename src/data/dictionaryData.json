@@ -681,21 +681,6 @@
     ]
   },
   {
-    "word": "-äl",
-    "lang": "volapuk",
-    "category": "suf.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "spiritual abstraction"
-      },
-      {
-        "lang": "esperanto",
-        "text": "spirita abstraktaĵo"
-      }
-    ]
-  },
-  {
     "word": "äneito",
     "lang": "volapuk",
     "roots": ["neit"],
@@ -26936,6 +26921,21 @@
       {
         "lang": "english",
         "text": "protection"
+      }
+    ]
+  },
+  {
+    "word": "jelasilalan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "guardian angel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gardanĝelo"
       }
     ]
   },
@@ -63085,7 +63085,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) mistake (for)"
+        "text": "to mistake (for)"
       }
     ]
   },
@@ -69420,6 +69420,36 @@
     ]
   },
   {
+    "word": "seraf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a seraph"
+      },
+      {
+        "lang": "esperanto",
+        "text": "serafo"
+      }
+    ]
+  },
+  {
+    "word": "serafik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "seraphic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "serafa"
+      }
+    ]
+  },
+  {
     "word": "sesedön",
     "lang": "volapuk",
     "category": "v.",
@@ -69730,11 +69760,26 @@
   {
     "word": "si",
     "lang": "volapuk",
-    "category": "interjection",
+    "category": "interj.",
     "translations": [
       {
         "lang": "english",
         "text": "yes!"
+      }
+    ]
+  },
+  {
+    "word": "si-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "related to the heavens or the stars"
+      },
+      {
+        "lang": "esperanto",
+        "text": "io, kio rilatas al la ĉielo aŭ la steloj"
       }
     ]
   },
@@ -70025,6 +70070,21 @@
     ]
   },
   {
+    "word": "silanal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "archangel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉefanĝelo, arkianĝelo, arĥianĝelo"
+      }
+    ]
+  },
+  {
     "word": "silanan",
     "lang": "volapuk",
     "category": "n.",
@@ -70032,6 +70092,21 @@
       {
         "lang": "english",
         "text": "an angel"
+      }
+    ]
+  },
+  {
+    "word": "silananik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "angelic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "anĝela"
       }
     ]
   },
@@ -91307,6 +91382,331 @@
       {
         "lang": "english",
         "text": "to change (buses, trains, 'planes)"
+      }
+    ]
+  },
+  {
+    "word": "-af",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "names of animals"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomoj de bestoj"
+      }
+    ]
+  },
+  {
+    "word": "-ag",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "abundance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-plen, -oz (montranta abundon)"
+      }
+    ]
+  },
+  {
+    "word": "-am",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "verbal noun"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ad (substantivigas verbon)"
+      }
+    ]
+  },
+  {
+    "word": "-an",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "someone who is or does something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-anto, -ist, -an (montranta personon, kiu estas, aŭ faras tion, kion esprimas la radiko)"
+      }
+    ]
+  },
+  {
+    "word": "-at",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "amount of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta kvanton de la radiko"
+      }
+    ]
+  },
+  {
+    "word": "-av",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "science"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ologio (montranta sciencan fakon)"
+      }
+    ]
+  },
+  {
+    "word": "-än",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "country"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-io, -uj (montranta nomon de lando)"
+      }
+    ]
+  },
+  {
+    "word": "-äb",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "recipient of, victim"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ito, -ato (montranta personon kiu estas ricevanto aŭ viktimo de tio, kion esprimas la radiko)"
+      }
+    ]
+  },
+  {
+    "word": "-äd",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "generalisation of effect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta ĝeneraligitan rezulton de la radiko"
+      }
+    ]
+  },
+  {
+    "word": "-äl",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "spiritual abstraction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta spiritan abstraktaĵon de la radiko"
+      }
+    ]
+  },
+  {
+    "word": "-ät",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "abstraction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta abstraktaĵon de la radiko"
+      }
+    ]
+  },
+  {
+    "word": "-ed",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "particularisation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta apartaĵon de la radiko"
+      }
+    ]
+  },
+  {
+    "word": "-ef",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "group of people"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ar (montranta grupon de personoj, sed ne aĵoj)"
+      }
+    ]
+  },
+  {
+    "word": "-el",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "maker of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ist (faranto de)"
+      }
+    ]
+  },
+  {
+    "word": "-em",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "group of things"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ar (montranta grupon de aĵoj, sed ne personoj)"
+      }
+    ]
+  },
+  {
+    "word": "-et",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "consequential or concrete example"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsekvenca aŭ konkreta ekzemplo"
+      }
+    ]
+  },
+  {
+    "word": "-iäl",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tendency, inclination"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-em"
+      }
+    ]
+  },
+  {
+    "word": "-iär",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "container"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-uj (montranta aferon, destinitan enteni tion, kion esprimas la radiko)"
+      }
+    ]
+  },
+  {
+    "word": "-ep",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "plant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indikanta vegetaĵon"
+      }
+    ]
+  },
+  {
+    "word": "-er",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "content"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indikanta enhavon"
+      }
+    ]
+  },
+  {
+    "word": "--li",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(with hyphen) interrogative, appended to verb"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indikas demandan prepozicion (aldonita kun streketo post verbo)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Spikol-li Volapüki? = Do you speak Volapük?"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Spikol-li Volapüki? = Ĉu vi parolas Volapukon?"
       }
     ]
   }
