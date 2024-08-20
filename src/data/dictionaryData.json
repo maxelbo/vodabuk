@@ -36502,7 +36502,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "disposition, feeling(s), temperament"
+        "text": "temper, disposition, mind, feelings, temperament"
+      },
+      {
+        "lang": "esperanto",
+        "text": "temperamento, menso, emocio"
       }
     ]
   },
@@ -36524,7 +36528,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "calmness, composure"
+        "text": "calmness, composure, peace of mind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mensa senĝeneco"
       }
     ]
   },
@@ -36558,6 +36566,10 @@
       {
         "lang": "english",
         "text": "an address"
+      },
+      {
+        "lang": "english",
+        "text": "adreso"
       }
     ]
   },
@@ -36569,6 +36581,10 @@
       {
         "lang": "english",
         "text": "an addressee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adresito, adresato"
       }
     ]
   },
@@ -36580,6 +36596,10 @@
       {
         "lang": "english",
         "text": "cordial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koreca"
       }
     ]
   },
@@ -36591,6 +36611,10 @@
       {
         "lang": "english",
         "text": "lattice"
+      },
+      {
+        "lang": "esperanto",
+        "text": "latiso"
       }
     ]
   },
@@ -36623,7 +36647,32 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an alphabet"
+        "text": "an alphabet, ABC"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alfabeto, ABC, aboco"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lafab vönädik = Old alphabet"
+      }
+    ]
+  },
+  {
+    "word": "lafababuk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ABC book"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alfabetumo, abocolibro"
       }
     ]
   },
