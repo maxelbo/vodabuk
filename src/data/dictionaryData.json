@@ -36700,6 +36700,21 @@
     ]
   },
   {
+    "word": "lafabön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to arrange in alphabetic order"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alfabetigi"
+      }
+    ]
+  },
+  {
     "word": "lafadüp",
     "lang": "volapuk",
     "category": "n.",
@@ -79818,7 +79833,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a double - barrelled gun"
+        "text": "a double-barrelled gun"
       }
     ]
   },
