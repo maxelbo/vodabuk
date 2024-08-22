@@ -36610,11 +36610,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "lattice"
+        "text": "lath, batten, slat"
       },
       {
         "lang": "esperanto",
-        "text": "latiso"
+        "text": "lato"
+      }
+    ]
+  },
+  {
+    "word": "laedem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "balustrade, lattice, railings, trellis"
+      },
+      {
+        "lang": "esperanto",
+        "text": "balustrado, latiso, latreto, latkrado"
       }
     ]
   },
@@ -36625,7 +36640,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an alley-way, a grove"
+        "text": "an alley, an alley-way, a grove"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aleo"
       }
     ]
   },
@@ -36636,7 +36655,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a half"
+        "text": "half"
+      },
+      {
+        "lang": "esperanto",
+        "text": "duono"
       }
     ]
   },
