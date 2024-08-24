@@ -91897,6 +91897,81 @@
     ]
   },
   {
+    "word": "-öf",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "quality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ec"
+      }
+    ]
+  },
+  {
+    "word": "-öm",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "equipment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-il"
+      }
+    ]
+  },
+  {
+    "word": "-öp",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "place"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ej"
+      }
+    ]
+  },
+  {
+    "word": "-üd",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "compass point"
+      },
+      {
+        "lang": "esperanto",
+        "text": "montranta unu el la kvar geografiajn ĉefpunktojn (nordo, oriento, sudo, okcidento)"
+      }
+    ]
+  },
+  {
+    "word": "-ül",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "young of, endearment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-id, -ĉjo, -njo (montranta junan naskiton de tio, kion indikas la radiko, aŭ kareson)"
+      }
+    ]
+  },
+  {
     "word": "--li",
     "lang": "volapuk",
     "category": "suf.",
