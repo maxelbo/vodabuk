@@ -36744,6 +36744,25 @@
       {
         "lang": "english",
         "text": "half"
+      },
+      {
+        "lang": "esperanto",
+        "text": "duona"
+      }
+    ]
+  },
+  {
+    "word": "lafön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to halve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "duonigi"
       }
     ]
   },
@@ -91728,6 +91747,36 @@
     ]
   },
   {
+    "word": "-ep",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "plant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indikanta vegetaĵon"
+      }
+    ]
+  },
+  {
+    "word": "-er",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "content"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indikanta enhavon"
+      }
+    ]
+  },
+  {
     "word": "-et",
     "lang": "volapuk",
     "category": "suf.",
@@ -91773,32 +91822,77 @@
     ]
   },
   {
-    "word": "-ep",
+    "word": "-il",
     "lang": "volapuk",
     "category": "suf.",
     "translations": [
       {
         "lang": "english",
-        "text": "plant"
+        "text": "diminutive"
       },
       {
         "lang": "esperanto",
-        "text": "indikanta vegetaĵon"
+        "text": "-et (diminutivo)"
       }
     ]
   },
   {
-    "word": "-er",
+    "word": "-im",
     "lang": "volapuk",
     "category": "suf.",
     "translations": [
       {
         "lang": "english",
-        "text": "content"
+        "text": "philosophy"
       },
       {
         "lang": "esperanto",
-        "text": "indikanta enhavon"
+        "text": "-ism (filozofio)"
+      }
+    ]
+  },
+  {
+    "word": "-od",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "softer or less serious example"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pli malmola aũ pli malserioza ekzemplo"
+      }
+    ]
+  },
+  {
+    "word": "-ot",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harder or more serious example"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pli mola aŭ pli serioza ekzemplo"
+      }
+    ]
+  },
+  {
+    "word": "-ov",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "possibility"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ebl"
       }
     ]
   },
