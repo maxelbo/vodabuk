@@ -634,6 +634,22 @@
     ]
   },
   {
+    "word": "ä",
+    "lang": "volapuk",
+    "roots": ["dead"],
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "and (sometimes used with multiple adjectives modiffying the same substantive)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaj (kelkfoje uzita kun pluraj adjektivoj modifantaj la saman substantivon)"
+      }
+    ]
+  },
+  {
     "word": "ädeadöl",
     "lang": "volapuk",
     "roots": ["dead"],
@@ -24738,11 +24754,15 @@
   {
     "word": "güä",
     "lang": "volapuk",
-    "category": "prep.",
+    "category": "conj.",
     "translations": [
       {
         "lang": "english",
-        "text": "contrary to"
+        "text": "contrary to, whereas, on the other hand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraŭe al, aliflanke, komtraste al"
       }
     ]
   },
@@ -25902,6 +25922,10 @@
       {
         "lang": "english",
         "text": "(place) at, in"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉe, en"
       }
     ]
   },
@@ -28650,6 +28674,10 @@
       {
         "lang": "english",
         "text": "than"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ol"
       }
     ]
   },
@@ -91938,6 +91966,56 @@
       {
         "lang": "esperanto",
         "text": "-ej"
+      }
+    ]
+  },
+  {
+    "word": "-um",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "comparative, added after -ik"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komparativo, aldonita post -ik"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Gudikum = Better"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Gudikum = Pli bona"
+      }
+    ]
+  },
+  {
+    "word": "-ün",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "superlative, added after -ik"
+      },
+      {
+        "lang": "esperanto",
+        "text": "superlativo, aldonita post -ik"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Gudikün = Best"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Gudikün = Plej bona"
       }
     ]
   },
