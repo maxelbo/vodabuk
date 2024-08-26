@@ -861,6 +861,10 @@
       {
         "lang": "english",
         "text": "perhaps"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eble"
       }
     ]
   },
@@ -873,6 +877,10 @@
       {
         "lang": "english",
         "text": "babylonia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "babilonio"
       }
     ]
   },
@@ -1582,15 +1590,15 @@
     "word": "balädikön (ko)",
     "roots": ["baläd"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to come to terms (with)"
+        "text": "to come to terms (with), to become agreed"
       },
       {
         "lang": "esperanto",
-        "text": "interkonsenti"
+        "text": "interkonsentiĝi"
       }
     ]
   },
@@ -1598,11 +1606,15 @@
     "word": "balädükön",
     "roots": ["baläd"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to arrange (by mutual consent), to reconcile"
+        "text": "to determine something by agreement, to stipulate, to make agree, to arrange (by mutual consent), to reconcile"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interkonsentigi"
       }
     ]
   },
