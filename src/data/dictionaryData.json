@@ -1635,6 +1635,21 @@
     ]
   },
   {
+    "word": "balen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "baleen, whalebone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barto, balenlameno, balenosto, balenaĵo"
+      }
+    ]
+  },
+  {
     "word": "balhon",
     "roots": ["bal", "hon"],
     "lang": "volapuk",
