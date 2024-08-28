@@ -1682,6 +1682,54 @@
     ]
   },
   {
+    "word": "balibijeifan",
+    "roots": ["balib"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a barber (for beards, only)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbiro, barbisto"
+      }
+    ]
+  },
+  {
+    "word": "balibik",
+    "roots": ["balib"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bearded"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barba"
+      }
+    ]
+  },
+  {
+    "word": "balibön",
+    "roots": ["balib"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to provide (sb.) with a beard"
+      },
+      {
+        "lang": "esperanto",
+        "text": "doni al iu barbon"
+      }
+    ]
+  },
+  {
     "word": "balid",
     "roots": ["bal"],
     "lang": "volapuk",
