@@ -1886,6 +1886,38 @@
     ]
   },
   {
+    "word": "balug",
+    "roots": ["balug"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "simplicity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpleco"
+      }
+    ]
+  },
+  {
+    "word": "balugäl",
+    "roots": ["balug"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "naiveety, simple heartedness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "naiveco"
+      }
+    ]
+  },
+  {
     "word": "balugälik",
     "roots": ["balug"],
     "lang": "volapuk",
@@ -1894,6 +1926,10 @@
       {
         "lang": "english",
         "text": "naive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "naiva"
       }
     ]
   },
@@ -1905,6 +1941,26 @@
     "translations": [
       {
         "lang": "english",
+        "text": "simple"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpla"
+      }
+    ]
+  },
+  {
+    "word": "balugiko",
+    "roots": ["balug"],
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "simply, in a simple way"
+      },
+      {
+        "lang": "esperanto",
         "text": "simple"
       }
     ]
@@ -1918,6 +1974,42 @@
       {
         "lang": "english",
         "text": "simplicity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpleco"
+      }
+    ]
+  },
+  {
+    "word": "balugön",
+    "roots": ["balug"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be simple"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti simpla, simpli"
+      }
+    ]
+  },
+  {
+    "word": "balugükön",
+    "roots": ["balug"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to simplify"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpligi"
       }
     ]
   },
@@ -91925,6 +92017,21 @@
     ]
   },
   {
+    "word": "-ik",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "makes a transitive verb intransitive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-iĝ"
+      }
+    ]
+  },
+  {
     "word": "-il",
     "lang": "volapuk",
     "category": "suf.",
@@ -92110,6 +92217,21 @@
     ]
   },
   {
+    "word": "-ük",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "makes an intransitive verb transitive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-ig"
+      }
+    ]
+  },
+  {
     "word": "-ül",
     "lang": "volapuk",
     "category": "suf.",
@@ -92125,13 +92247,28 @@
     ]
   },
   {
+    "word": "--la",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "subjunctive (appended with hyphen to verb)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "subjunktivo (aldonita kun streketo post verbo)"
+      }
+    ]
+  },
+  {
     "word": "--li",
     "lang": "volapuk",
     "category": "suf.",
     "translations": [
       {
         "lang": "english",
-        "text": "(with hyphen) interrogative, appended to verb"
+        "text": "interrogative (appended with hyphen to verb)"
       },
       {
         "lang": "esperanto",
