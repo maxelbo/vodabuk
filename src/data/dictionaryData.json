@@ -91717,6 +91717,21 @@
     ]
   },
   {
+    "word": "-a",
+    "lang": "volapuk",
+    "category": "cas.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "genitive case"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-a (genitivo)"
+      }
+    ]
+  },
+  {
     "word": "-af",
     "lang": "volapuk",
     "category": "suf.",
@@ -91882,6 +91897,21 @@
     ]
   },
   {
+    "word": "-e",
+    "lang": "volapuk",
+    "category": "cas.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dative case"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dativo"
+      }
+    ]
+  },
+  {
     "word": "-ed",
     "lang": "volapuk",
     "category": "suf.",
@@ -91983,6 +92013,21 @@
       {
         "lang": "esperanto",
         "text": "konsekvenca aŭ konkreta ekzemplo"
+      }
+    ]
+  },
+  {
+    "word": "-i",
+    "lang": "volapuk",
+    "category": "cas.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "accusative case"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-n (akuzativo)"
       }
     ]
   },
@@ -92137,6 +92182,21 @@
     ]
   },
   {
+    "word": "-ön",
+    "lang": "volapuk",
+    "category": "v. form",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "infinitive form"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-i (infinitivo)"
+      }
+    ]
+  },
+  {
     "word": "-öp",
     "lang": "volapuk",
     "category": "suf.",
@@ -92148,6 +92208,21 @@
       {
         "lang": "esperanto",
         "text": "-ej"
+      }
+    ]
+  },
+  {
+    "word": "-u",
+    "lang": "volapuk",
+    "category": "cas.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "predicative case"
+      },
+      {
+        "lang": "esperanto",
+        "text": "predikativo"
       }
     ]
   },
