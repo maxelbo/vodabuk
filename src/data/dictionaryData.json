@@ -92152,6 +92152,21 @@
     ]
   },
   {
+    "word": "-öd",
+    "lang": "volapuk",
+    "category": "v. form",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imperative (added after personal ending)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperativo (aldonita post persona konjugacio"
+      }
+    ]
+  },
+  {
     "word": "-öf",
     "lang": "volapuk",
     "category": "suf.",
@@ -92163,6 +92178,21 @@
       {
         "lang": "esperanto",
         "text": "-ec"
+      }
+    ]
+  },
+  {
+    "word": "-öl",
+    "lang": "volapuk",
+    "category": "v. form",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "participle (verbal adjective)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "-anta (adjektiva participo)"
       }
     ]
   },
@@ -92208,6 +92238,36 @@
       {
         "lang": "esperanto",
         "text": "-ej"
+      }
+    ]
+  },
+  {
+    "word": "-ös",
+    "lang": "volapuk",
+    "category": "v. form",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "optative (added after personal ending)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "optativo (aldonita post persona konjugacio"
+      }
+    ]
+  },
+  {
+    "word": "-öv",
+    "lang": "volapuk",
+    "category": "v. form",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "conditional (added after personal ending)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kondicionalo (aldonita post persona konjugacio"
       }
     ]
   },
