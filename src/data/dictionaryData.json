@@ -2014,6 +2014,61 @@
     ]
   },
   {
+    "word": "balüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prime interval (music)"
+      }
+    ]
+  },
+  {
+    "word": "balüf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "prime tone (music)"
+      }
+    ]
+  },
+  {
+    "word": "balüm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "musical solo; (documented only in the compound word jibalüman = female soloist)"
+      }
+    ]
+  },
+  {
+    "word": "balvalen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "monovalency, univalence"
+      }
+    ]
+  },
+  {
+    "word": "balvalenik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "monovalent, univalent"
+      }
+    ]
+  },
+  {
     "word": "bam",
     "roots": ["bam"],
     "lang": "volapuk",
