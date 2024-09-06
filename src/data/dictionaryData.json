@@ -1850,6 +1850,50 @@
     ]
   },
   {
+    "word": "balnum",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "singular (grammatical number, as opposed to plural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "singularo"
+      }
+    ]
+  },
+  {
+    "word": "balnumik",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "singular"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuopa"
+      }
+    ]
+  },
+  {
+    "word": "balo",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at one go"
+      }
+    ]
+  },
+  {
     "word": "balsamin",
     "roots": ["balsam"],
     "lang": "volapuk",
