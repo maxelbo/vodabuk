@@ -2128,6 +2128,61 @@
     ]
   },
   {
+    "word": "balvögik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for one voice"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuvoĉa"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lid balvögik = Song for one voice."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Lid balvögik = Unuvoĉa kanto."
+      }
+    ]
+  },
+  {
+    "word": "balyelan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a one-year-old (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unujaraĝulo"
+      }
+    ]
+  },
+  {
+    "word": "balyelik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "of one year, one-year"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unujara"
+      }
+    ]
+  },
+  {
     "word": "bam",
     "roots": ["bam"],
     "lang": "volapuk",
