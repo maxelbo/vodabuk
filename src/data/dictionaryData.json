@@ -2183,6 +2183,17 @@
     ]
   },
   {
+    "word": "balyim",
+    "lang": "volapuk",
+    "category": "num.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one millionth (0.000001), 1*10^6, micro"
+      }
+    ]
+  },
+  {
     "word": "bam",
     "roots": ["bam"],
     "lang": "volapuk",
