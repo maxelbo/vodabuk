@@ -2190,6 +2190,25 @@
       {
         "lang": "english",
         "text": "one millionth (0.000001), 1*10^6, micro"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unu milionono (0.000001), 1*10^6, mikro-"
+      }
+    ]
+  },
+  {
+    "word": "balzänilabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "concentric"
+      },
+      {
+        "lang": "esperanto",
+        "text": "samcentra"
       }
     ]
   },
@@ -2201,11 +2220,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bench"
+        "text": "a bench, a seat"
       },
       {
-        "lang": "english",
-        "text": "a seat"
+        "lang": "esperanto",
+        "text": "benko"
       }
     ]
   },
@@ -2218,6 +2237,40 @@
       {
         "lang": "english",
         "text": "bamboo"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bambuo"
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bath, bathing facility"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bano, banejo"
+      }
+    ]
+  },
+  {
+    "word": "banablit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bathing trunks, bathing suit, swimsuit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bankalsono"
       }
     ]
   },
@@ -2230,6 +2283,25 @@
       {
         "lang": "english",
         "text": "a bathroom"
+      },
+      {
+        "lang": "esperanto",
+        "text": "banĉambro"
+      }
+    ]
+  },
+  {
+    "word": "banadom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bath-house, spa"
+      },
+      {
+        "lang": "esperanto",
+        "text": "banĉambro"
       }
     ]
   },
@@ -2247,13 +2319,16 @@
   },
   {
     "word": "banatüb",
-    "roots": ["natüb"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a bath (tub)"
+        "text": "a bathtub"
+      },
+      {
+        "lang": "esperanto",
+        "text": "banujo"
       }
     ]
   },
@@ -5223,6 +5298,16 @@
       {
         "lang": "english",
         "text": "to bring"
+      },
+      {
+        "lang": "esperanto",
+        "text": "venigi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Dun bü vätäl eblinon ömane liedi gretik / dunön büo e vätälön täno eblinos ömane liedi gretik = Acting before thinking has brought much distress to many a person."
       }
     ]
   },
@@ -5233,7 +5318,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(a pair of) trousers"
+        "text": "(a pair of) trousers, pants"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pantalono"
       }
     ]
   },
@@ -5256,6 +5345,10 @@
       {
         "lang": "english",
         "text": "a brother"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frato"
       }
     ]
   },
@@ -5266,7 +5359,36 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a sheet"
+        "text": "a sheet (of paper, stamps)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "folio (de papero)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Blog papüra = A sheet of paper."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Blog papüra = Papera folio."
+      }
+    ]
+  },
+  {
+    "word": "blok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) blocking, blockade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barado, blokado"
       }
     ]
   },
