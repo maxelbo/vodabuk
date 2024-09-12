@@ -5400,6 +5400,10 @@
       {
         "lang": "english",
         "text": "a recorder (musical instrument)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bekfluto"
       }
     ]
   },
@@ -66079,13 +66083,28 @@
     ]
   },
   {
+    "word": "reigänazif",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imperial city"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperia urbo"
+      }
+    ]
+  },
+  {
     "word": "reigön",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to control, to rule"
+        "text": "to dominate, to control, to rule"
       }
     ]
   },
