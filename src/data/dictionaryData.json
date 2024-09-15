@@ -66078,14 +66078,85 @@
     "translations": [
       {
         "lang": "english",
-        "text": "reign"
+        "text": "dominion, government, reign"
+      },
+      {
+        "lang": "esperanto",
+        "text": "registaro, regno, dominio, dominiono"
+      }
+    ]
+  },
+  {
+    "word": "reigän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "empire"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperio"
+      }
+    ]
+  },
+  {
+    "word": "reigänacödalef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "impirial tribunal"
+      }
+    ]
+  },
+  {
+    "word": "reigänalän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "impirial land"
+      }
+    ]
+  },
+  {
+    "word": "reigänalebüral",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "impirial chancellor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperia kanceliero"
+      }
+    ]
+  },
+  {
+    "word": "reigänapot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imperial post"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperia poŝto"
       }
     ]
   },
   {
     "word": "reigänazif",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -66094,6 +66165,66 @@
       {
         "lang": "esperanto",
         "text": "imperia urbo"
+      }
+    ]
+  },
+  {
+    "word": "reigänazifik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relating to imperial cities"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperiurba"
+      }
+    ]
+  },
+  {
+    "word": "reigänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imperial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imperia"
+      }
+    ]
+  },
+  {
+    "word": "reigät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sovereignty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suvereneco"
+      }
+    ]
+  },
+  {
+    "word": "reigätan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sovereign"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suvereno"
       }
     ]
   },
