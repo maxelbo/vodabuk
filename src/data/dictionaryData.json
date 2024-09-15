@@ -66087,6 +66087,66 @@
     ]
   },
   {
+    "word": "reigan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ruler"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reganto"
+      }
+    ]
+  },
+  {
+    "word": "reigäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "subject (of a monarch)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "regato, civitano, regnano"
+      }
+    ]
+  },
+  {
+    "word": "reigäbik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "referring to subject (of a monarch)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "regata, civitana, regnana"
+      }
+    ]
+  },
+  {
+    "word": "reigäbön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to naturalize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nacianigi, civitanigi"
+      }
+    ]
+  },
+  {
     "word": "reigän",
     "lang": "volapuk",
     "category": "n.",
