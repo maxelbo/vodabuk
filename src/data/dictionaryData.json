@@ -66381,13 +66381,77 @@
     ]
   },
   {
+    "word": "reid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) reading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "legado"
+      }
+    ]
+  },
+  {
+    "word": "reidaklub",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "book club"
+      },
+      {
+        "lang": "esperanto",
+        "text": "legklubo"
+      }
+    ]
+  },
+  {
+    "word": "reidovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "legible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "legebla"
+      }
+    ]
+  },
+  {
+    "word": "reidan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reader"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leganto"
+      }
+    ]
+  },
+  {
     "word": "reided",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a reading (passage)"
+        "text": "a reading (passage), reading matter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "legaĵo"
       }
     ]
   },
