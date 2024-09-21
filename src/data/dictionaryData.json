@@ -64924,13 +64924,32 @@
     ]
   },
   {
+    "word": "pug",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "slaughter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "buĉado"
+      }
+    ]
+  },
+  {
     "word": "pugön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to put down, to slaughter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "buĉi"
       }
     ]
   },
@@ -66458,22 +66477,62 @@
   {
     "word": "reidön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to read"
+      },
+      {
+        "lang": "esperanto",
+        "text": "legi"
+      }
+    ]
+  },
+  {
+    "word": "reidug",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "erudition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "erudicio"
+      }
+    ]
+  },
+  {
+    "word": "reidugik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "widely read"
+      },
+      {
+        "lang": "esperanto",
+        "text": "erudicia"
       }
     ]
   },
   {
     "word": "reifön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to reach out"
+        "text": "to begall, to happen to, to reach out"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "translation": "Atos no oreifon oli = This shall not befall to you."
       }
     ]
   },
@@ -66484,7 +66543,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a regime"
+        "text": "manner of government, a regime"
       }
     ]
   },
