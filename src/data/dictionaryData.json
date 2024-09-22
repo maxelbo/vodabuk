@@ -64954,6 +64954,21 @@
     ]
   },
   {
+    "word": "pugöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "slaughterhouse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "buĉejo"
+      }
+    ]
+  },
+  {
     "word": "puid",
     "lang": "volapuk",
     "category": "n.",
@@ -64961,6 +64976,10 @@
       {
         "lang": "english",
         "text": "an inch"
+      },
+      {
+        "lang": "esperanto",
+        "text": "colo"
       }
     ]
   },
@@ -64972,6 +64991,10 @@
       {
         "lang": "english",
         "text": "a (cosmetic) powder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pudro"
       }
     ]
   },
@@ -64983,6 +65006,10 @@
       {
         "lang": "english",
         "text": "a powder box"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pudrujo"
       }
     ]
   },
@@ -64994,17 +65021,25 @@
       {
         "lang": "english",
         "text": "pith (of fruit)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "medolo (de frukto)"
       }
     ]
   },
   {
-    "word": "pul(s)",
+    "word": "pul",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "boy(s) and girl(s)"
+        "text": "boy, girl, lad, lass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "knabo, knabino"
       }
     ]
   },
@@ -65016,6 +65051,10 @@
       {
         "lang": "english",
         "text": "a fist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pugno"
       }
     ]
   },
