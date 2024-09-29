@@ -10588,7 +10588,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) soak (ingredients)"
+        "text": "to soak (ingredients)"
       }
     ]
   },
@@ -10599,7 +10599,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) carry out"
+        "text": "to carry out"
       }
     ]
   },
@@ -10984,7 +10984,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) counsel"
+        "text": "to counsel"
       }
     ]
   },
@@ -12909,7 +12909,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) decode"
+        "text": "to decode"
       }
     ]
   },
@@ -13014,7 +13014,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "No demön = (to) ignore"
+        "text": "No demön = to ignore"
       }
     ]
   },
@@ -14312,7 +14312,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to be) addicted (to)"
+        "text": "to be addicted (to)"
       }
     ]
   },
@@ -15038,7 +15038,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) reincarnate"
+        "text": "to reincarnate"
       }
     ]
   },
@@ -15660,7 +15660,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) reset (page) (computer)"
+        "text": "to reset (page) (computer)"
       }
     ]
   },
@@ -15796,7 +15796,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) achieve"
+        "text": "to achieve"
       }
     ]
   },
@@ -15840,7 +15840,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) criss-cross"
+        "text": "to criss-cross"
       }
     ]
   },
@@ -16270,7 +16270,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) serve"
+        "text": "to serve"
       }
     ]
   },
@@ -16281,7 +16281,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) hire, (to) employ"
+        "text": "to hire, to employ"
       }
     ]
   },
@@ -17750,7 +17750,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) transliterate"
+        "text": "to transliterate"
       }
     ]
   },
@@ -20434,7 +20434,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) formulate (in words)"
+        "text": "to formulate (in words)"
       }
     ]
   },
@@ -20659,7 +20659,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) focus"
+        "text": "to focus"
       }
     ]
   },
@@ -21761,7 +21761,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) verify"
+        "text": "to verify"
       }
     ]
   },
@@ -21805,7 +21805,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) ensure"
+        "text": "to ensure"
       }
     ]
   },
@@ -22387,7 +22387,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) engrave"
+        "text": "to engrave"
       }
     ]
   },
@@ -22712,7 +22712,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) re-echo, resound, reverberate"
+        "text": "to re-echo, resound, reverberate"
       }
     ]
   },
@@ -24868,7 +24868,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) grunt (like a pig); to snort"
+        "text": "to grunt (like a pig); to snort"
       }
     ]
   },
@@ -30795,7 +30795,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) co-ordinate"
+        "text": "to co-ordinate"
       }
     ]
   },
@@ -31919,6 +31919,10 @@
       {
         "lang": "english",
         "text": "refreshment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "refreŝigaĵo"
       }
     ]
   },
@@ -31930,17 +31934,25 @@
       {
         "lang": "english",
         "text": "refreshing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "refreŝiga"
       }
     ]
   },
   {
     "word": "klietön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to refresh"
+      },
+      {
+        "lang": "esperanto",
+        "text": "refreŝigi"
       }
     ]
   },
@@ -31952,6 +31964,10 @@
       {
         "lang": "english",
         "text": "a refreshment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "refreŝigaĵo"
       }
     ]
   },
@@ -31963,6 +31979,10 @@
       {
         "lang": "english",
         "text": "a rock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "roko"
       }
     ]
   },
@@ -39221,7 +39241,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) yearn (for)"
+        "text": "to yearn (for)"
       }
     ]
   },
@@ -39331,7 +39351,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(LÜ) to belong (to)"
+        "text": "(lü) to belong (to)"
       }
     ]
   },
@@ -45375,7 +45395,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) shimmer"
+        "text": "to shimmer"
       }
     ]
   },
@@ -45546,7 +45566,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) stink (of)"
+        "text": "to stink (of)"
       }
     ]
   },
@@ -45557,7 +45577,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) grin"
+        "text": "to grin"
       }
     ]
   },
@@ -46045,7 +46065,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(lü) (to) reach out; (to) stretch out"
+        "text": "(lü) to reach out; to stretch out"
       }
     ]
   },
@@ -46364,7 +46384,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) attract"
+        "text": "to attract"
       }
     ]
   },
@@ -52634,7 +52654,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) dismantle"
+        "text": "to dismantle"
       }
     ]
   },
@@ -57228,7 +57248,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) log in (computers)"
+        "text": "to log in (computers)"
       }
     ]
   },
@@ -57628,7 +57648,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) encode"
+        "text": "to encode"
       }
     ]
   },
@@ -57661,7 +57681,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) integrate"
+        "text": "to integrate"
       }
     ]
   },
@@ -57754,7 +57774,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) inhale"
+        "text": "to inhale"
       }
     ]
   },
@@ -57919,7 +57939,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) engulf"
+        "text": "to engulf"
       }
     ]
   },
@@ -59435,7 +59455,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) pass"
+        "text": "to pass"
       }
     ]
   },
@@ -60050,7 +60070,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) throb"
+        "text": "to throb"
       }
     ]
   },
@@ -63747,7 +63767,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) distort"
+        "text": "to distort"
       }
     ]
   },
@@ -64990,11 +65010,86 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (cosmetic) powder"
+        "text": "powder, a (cosmetic) powder"
       },
       {
         "lang": "esperanto",
-        "text": "pudro"
+        "text": "pulvoro, pudro"
+      }
+    ]
+  },
+  {
+    "word": "puinädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "powdery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvora"
+      }
+    ]
+  },
+  {
+    "word": "puinädön",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reduce to powder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvorigi"
+      }
+    ]
+  },
+  {
+    "word": "puinik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "powdery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvora"
+      }
+    ]
+  },
+  {
+    "word": "puinojueg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "caster sugar, powdered sugar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvorigita sukero"
+      }
+    ]
+  },
+  {
+    "word": "puinot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "powder (medication to take orally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvorkuracilo"
       }
     ]
   },
@@ -65009,7 +65104,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "pudrujo"
+        "text": "pulvorujo, pudrujo"
+      }
+    ]
+  },
+  {
+    "word": "puinön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pulverize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulvorigi"
       }
     ]
   },
@@ -65040,6 +65150,21 @@
       {
         "lang": "esperanto",
         "text": "knabo, knabino"
+      }
+    ]
+  },
+  {
+    "word": "pulit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pulley, pulley block"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulio"
       }
     ]
   },
@@ -67180,7 +67305,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) jog"
+        "text": "to jog"
       }
     ]
   },
@@ -67261,7 +67386,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) coo (like a pigeon/dove)"
+        "text": "to coo (like a pigeon/dove)"
       }
     ]
   },
@@ -67349,7 +67474,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) erupt"
+        "text": "to erupt"
       }
     ]
   },
@@ -69858,7 +69983,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an outcome, a result"
+        "text": "consequence, result, outcome"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rezulto"
       }
     ]
   },
@@ -69880,7 +70009,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a function (maths)"
+        "text": "a function (maths, programming)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "funkcio (matematiko, programado)"
       }
     ]
   },
@@ -69896,13 +70029,19 @@
     ]
   },
   {
-    "word": "sekidön",
+    "word": "sekidön (de)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to depend (on)"
+        "text": "to be dependent (on), to depend (on)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Etos osekidon de dinäds = That will depend on the circumstances."
       }
     ]
   },
@@ -69914,11 +70053,15 @@
       {
         "lang": "english",
         "text": "eventual"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eventuala"
       }
     ]
   },
   {
-    "word": "sekomön",
+    "word": "sekomön (de)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -70115,7 +70258,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) disconnect, switch off (radio/television)"
+        "text": "to disconnect, switch off (radio/television)"
       }
     ]
   },
@@ -76224,7 +76367,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) relieve (mentally)"
+        "text": "to relieve (mentally)"
       }
     ]
   },
@@ -81913,7 +82056,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) brave, confront, face"
+        "text": "to brave, confront, face"
       }
     ]
   },
@@ -82474,7 +82617,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) toast (drink to someone’s health)"
+        "text": "to toast (drink to someone’s health)"
       }
     ]
   },
@@ -86198,6 +86341,21 @@
     ]
   },
   {
+    "word": "vid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "breadth, width"
+      },
+      {
+        "lang": "esperanto",
+        "text": "larĝo"
+      }
+    ]
+  },
+  {
     "word": "vidasimik",
     "lang": "volapuk",
     "category": "adj.",
@@ -86259,7 +86417,13 @@
     "translations": [
       {
         "lang": "english",
-        "text": "width (dom labon vidoti piedas teldeg = the house is twenty feet wide)"
+        "text": "width"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Dom labon vidoti piedas teldeg = The house is twenty feet wide"
       }
     ]
   },
@@ -91869,7 +92033,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(to) bypass"
+        "text": "to bypass"
       }
     ]
   },
