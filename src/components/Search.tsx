@@ -97,6 +97,20 @@ export default function Search({ dictionaryData }: SearchProps) {
     return result.translations.some((translation) => translation.lang === translationLang);
   });
 
+  function getPlaceholder() {
+    return translationLang === 'english' ? 'Search / Sukolös' : 'Serĉu / Sukolös';
+  }
+
+  function getLabel() {
+    return translationLang === 'english'
+      ? 'Serĉu vorton en la Volapuka vortaro.'
+      : 'Search a word in the Volapük dictionary.';
+  }
+
+  function getResMessage() {
+    return translationLang === 'english' ? 'No results found.' : 'Neniu rezulto trovita.';
+  }
+
   return (
     <div className="mx-auto w-full max-w-3xl py-4">
       <form onSubmit={handleSearch} className="flex gap-3">
@@ -105,8 +119,8 @@ export default function Search({ dictionaryData }: SearchProps) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search / Sukolös"
-          aria-label="Search a word in the Volapük dictionary."
+          placeholder={getPlaceholder()}
+          aria-label={getLabel()}
         />
         <Button type="submit" aria-label="Search" className="rounded-md border-2 px-4">
           <SearchIcon />
@@ -117,7 +131,7 @@ export default function Search({ dictionaryData }: SearchProps) {
           filteredResults.map((result, index) => <Result result={result} key={index} />)
         ) : (
           <p className="flex h-full items-center justify-center text-center">
-            No results found.
+            {getResMessage()}
             <br />
             Seks nonik pätuvons.
           </p>
