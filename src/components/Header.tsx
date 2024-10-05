@@ -13,12 +13,13 @@ interface HeaderProps {
 
 export default function Header({ headTitle }: HeaderProps) {
   const { lang: translationLang } = useLangContext() as LangContextProps;
+  const isLangChange = false; // Show language select
 
   const menuLinkList = [
     {
       href: '/about',
       text: () => {
-        return translationLang === 'esperanto' ? 'Informo' : 'About';
+        return translationLang === 'english' ? 'About' : 'Informo';
       },
     },
   ];
@@ -29,9 +30,11 @@ export default function Header({ headTitle }: HeaderProps) {
         {headTitle}
       </Link>
       <ul className="flex gap-4">
-        <li>
-          <LanguageSelect />
-        </li>
+        {isLangChange && (
+          <li>
+            <LanguageSelect />
+          </li>
+        )}
         {menuLinkList.map((link, i) => (
           <li key={i}>
             <Link href={link.href} className="underline hover:opacity-80">
