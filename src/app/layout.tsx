@@ -6,7 +6,8 @@ import { LanguageProvider } from '@/context/LanguageContext';
 import { ThemeProvider } from '@/components/ThemeProvider';
 import Header from '@/components/Header';
 
-const font = Libre_Baskerville({ subsets: ['latin'], weight: ['400', '700'] });
+const libreBaskerville = Libre_Baskerville({ subsets: ['latin'], weight: ['400', '700'] });
+const layoutFont = libreBaskerville.className;
 
 const headTitle = 'Vödabuk';
 const headDesc = 'A Volapük Dictionary.';
@@ -55,9 +56,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Children) {
   return (
     <html lang="en">
-      <body
-        className={`${font.className} flex h-dvh flex-col justify-between bg-slate-900 text-white`}
-      >
+      <body className={`${layoutFont} flex h-dvh flex-col justify-between bg-slate-900 text-white`}>
         <LanguageProvider>
           <ThemeProvider
             attribute="class"
