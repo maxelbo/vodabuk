@@ -4,7 +4,7 @@ async function getDictionaryData() {
   const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/words`;
 
   try {
-    const res = await fetch(endpoint, { cache: 'no-store' });
+    const res = await fetch(endpoint);
 
     if (!res.ok) {
       throw new Error(`Failed to fetch data from ${endpoint}`);
