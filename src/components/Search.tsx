@@ -121,7 +121,7 @@ export default function Search({ dictionaryData }: SearchProps) {
           filteredResults.map((result, index) => <Result result={result} key={index} />)
         ) : (
           <p className="flex h-full items-center justify-center text-center">
-            {translationLang === 'english' ? 'No results found.' : 'Neniu rezulto trovita.'}
+            {translationLang === 'english' ? 'No results found.' : 'Neniu rezulto estis trovita.'}
             <br />
             Seks nonik pätuvons.
           </p>
