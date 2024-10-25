@@ -15,7 +15,7 @@ interface HeaderProps {
 
 export default function Header({ headTitle }: HeaderProps) {
   const { lang } = useLangContext() as LangContextProps;
-  const isLangChange = false; // Show language select
+  const isLangChange = true; // Show language select
 
   const menuLinkList = [
     {
