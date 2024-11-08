@@ -31736,13 +31736,62 @@
     ]
   },
   {
+    "word": "kleib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "glueing, pasting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gluado"
+      }
+    ]
+  },
+  {
+    "word": "kleibastöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gum, glue, paste"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gumo, gluo"
+      }
+    ]
+  },
+  {
+    "word": "kleibot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "adhesive, agglutinant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adheraĵo"
+      }
+    ]
+  },
+  {
     "word": "kleibön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to glue, to paste, to stick"
+      },
+      {
+        "lang": "esperanto",
+        "text": "glui, adherigi"
       }
     ]
   },
@@ -31754,6 +31803,10 @@
       {
         "lang": "english",
         "text": "clear, plain, unambiguous"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klara, evidenta"
       }
     ]
   },
@@ -31765,6 +31818,10 @@
       {
         "lang": "english",
         "text": "clairvoyance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klarvideco"
       }
     ]
   },
@@ -31776,6 +31833,10 @@
       {
         "lang": "english",
         "text": "obviously"
+      },
+      {
+        "lang": "esperanto",
+        "text": "evidente"
       }
     ]
   },
@@ -31786,7 +31847,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "definition"
+        "text": "clarification, definition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klarigado"
       }
     ]
   },
@@ -31797,18 +31862,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to define, to elucidate, to explain"
+        "text": "to clarify, to define, to elucidate, to explain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klarigi"
+      }
+    ]
+  },
+  {
+    "word": "kleipit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ecliptic, orbit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekliptiko, orbito"
       }
     ]
   },
   {
     "word": "klemedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to capitulate, to surrender"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kapitulaci"
       }
     ]
   },
@@ -31820,6 +31908,10 @@
       {
         "lang": "english",
         "text": "to abandon, to decline, to refuse, to relinquish, to renounce"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rifuzi"
       }
     ]
   },
@@ -31831,6 +31923,55 @@
       {
         "lang": "english",
         "text": "hierarchy (religious)"
+      },
+      {
+        "lang": "english",
+        "text": "klerika ordeno"
+      }
+    ]
+  },
+  {
+    "word": "kler",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "clergy status"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klerikeco"
+      }
+    ]
+  },
+  {
+    "word": "kleran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cleric"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kleriko"
+      }
+    ]
+  },
+  {
+    "word": "kleranef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "clergy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klerikaro"
       }
     ]
   },
@@ -31846,6 +31987,21 @@
     ]
   },
   {
+    "word": "kleud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cloister"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klostro, klaŭstro, monaĥejo"
+      }
+    ]
+  },
+  {
     "word": "kleudan",
     "lang": "volapuk",
     "category": "n.",
@@ -31853,6 +32009,10 @@
       {
         "lang": "english",
         "text": "a monk, a nun"
+      },
+      {
+        "lang": "esperanto",
+        "text": "monaĥo"
       }
     ]
   },
