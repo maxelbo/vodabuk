@@ -341,11 +341,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "everybody"
+        "text": "everybody, each person"
       },
       {
-        "lang": "english",
-        "text": "each person"
+        "lang": "esperanto",
+        "text": "ĉiu"
       }
     ]
   },
@@ -869,6 +869,21 @@
     ]
   },
   {
+    "word": "babun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "baboon"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paviano"
+      }
+    ]
+  },
+  {
     "word": "babülonän",
     "roots": ["babŭlon"],
     "lang": "volapuk",
@@ -901,6 +916,30 @@
     ]
   },
   {
+    "word": "badäl",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "malbona emo"
+      }
+    ]
+  },
+  {
+    "word": "badicedön",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "malbone akcepti"
+      }
+    ]
+  },
+  {
     "word": "badik",
     "roots": ["bad"],
     "lang": "volapuk",
@@ -913,6 +952,30 @@
       {
         "lang": "esperanto",
         "text": "malbona, mava"
+      }
+    ]
+  },
+  {
+    "word": "badikos",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "ia malbono"
+      }
+    ]
+  },
+  {
+    "word": "badikön",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "malboniĝi"
       }
     ]
   },
@@ -1041,6 +1104,17 @@
     ]
   },
   {
+    "word": "badivil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "malbonvolo"
+      }
+    ]
+  },
+  {
     "word": "badocedön",
     "roots": ["bad", "ced"],
     "lang": "volapuk",
@@ -1097,6 +1171,22 @@
       {
         "lang": "esperanto",
         "text": "petolemo"
+      }
+    ]
+  },
+  {
+    "word": "badükön",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to deteriorate (something)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbonigi"
       }
     ]
   },
@@ -31633,6 +31723,10 @@
       {
         "lang": "english",
         "text": "a cradle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lulilo"
       }
     ]
   },
@@ -31643,7 +31737,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bracket = ( ); { }; [ ]"
+        "text": "a bracket"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krampo"
       }
     ]
   },
@@ -31655,6 +31753,10 @@
       {
         "lang": "english",
         "text": "a secret"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekreto"
       }
     ]
   },
@@ -31666,6 +31768,10 @@
       {
         "lang": "english",
         "text": "private, secret"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekreta"
       }
     ]
   },
@@ -31692,6 +31798,21 @@
     ]
   },
   {
+    "word": "kläno",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in secret, furtively"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekrete"
+      }
+    ]
+  },
+  {
     "word": "kläped",
     "lang": "volapuk",
     "category": "n.",
@@ -31703,6 +31824,96 @@
     ]
   },
   {
+    "word": "klär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sheet lightning, heat lightning"
+      },
+      {
+        "lang": "english",
+        "text": "fulmo (malproksima)"
+      }
+    ]
+  },
+  {
+    "word": "klärön",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be stormy with sheet lightning"
+      },
+      {
+        "lang": "english",
+        "text": "malproksima fulmoŝtormo"
+      }
+    ]
+  },
+  {
+    "word": "kleb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(condition or state of) being sticky, stickiness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adhereco"
+      }
+    ]
+  },
+  {
+    "word": "klebik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sticking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adhera"
+      }
+    ]
+  },
+  {
+    "word": "kleböf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stickiness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adhereco"
+      }
+    ]
+  },
+  {
+    "word": "kleböfik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sticky, tacky, adhesive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adhereca"
+      }
+    ]
+  },
+  {
     "word": "klebazöt",
     "lang": "volapuk",
     "category": "n.",
@@ -31710,6 +31921,25 @@
       {
         "lang": "english",
         "text": "a label"
+      },
+      {
+        "lang": "esperanto",
+        "text": "etikedo"
+      }
+    ]
+  },
+  {
+    "word": "klebön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stick, to adhere"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adheri"
       }
     ]
   },
@@ -31813,7 +32043,7 @@
   {
     "word": "kleililogam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
@@ -31836,14 +32066,29 @@
       },
       {
         "lang": "esperanto",
-        "text": "evidente"
+        "text": "klare, evidente"
+      }
+    ]
+  },
+  {
+    "word": "kleilön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be clear"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti klara"
       }
     ]
   },
   {
     "word": "kleilükam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
@@ -31901,9 +32146,24 @@
     ]
   },
   {
+    "word": "klem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "renunciation, repudiation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rifuzado"
+      }
+    ]
+  },
+  {
     "word": "klemön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -31987,6 +32247,17 @@
     ]
   },
   {
+    "word": "klerik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "klerika"
+      }
+    ]
+  },
+  {
     "word": "kleud",
     "lang": "volapuk",
     "category": "n.",
@@ -32024,6 +32295,10 @@
       {
         "lang": "english",
         "text": "inclination, tendency"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inklino"
       }
     ]
   },
@@ -32035,6 +32310,10 @@
       {
         "lang": "english",
         "text": "a feeling, an inclination, an instinct, intuition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "instinkto"
       }
     ]
   },
@@ -32046,6 +32325,10 @@
       {
         "lang": "english",
         "text": "instinctively"
+      },
+      {
+        "lang": "esperanto",
+        "text": "instinkte"
       }
     ]
   },
@@ -32057,17 +32340,25 @@
       {
         "lang": "english",
         "text": "inclined (to)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inklina"
       }
     ]
   },
   {
     "word": "klienön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to incline, to tend (to), to bend (over), to lean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inklini"
       }
     ]
   },
@@ -32165,6 +32456,10 @@
       {
         "lang": "english",
         "text": "a cliff"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klifo"
       }
     ]
   },
@@ -32176,6 +32471,25 @@
       {
         "lang": "english",
         "text": "rocky"
+      },
+      {
+        "lang": "esperanto",
+        "text": "roka"
+      }
+    ]
+  },
+  {
+    "word": "klijed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cliché, stereotype"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kliŝo"
       }
     ]
   },
@@ -40241,7 +40555,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "lightening (in a storm)"
+        "text": "lightning (in a storm)"
+      },
+      {
+        "lang": "english",
+        "text": "fulmo (en ŝtormo)"
       }
     ]
   },
@@ -40270,11 +40588,15 @@
   {
     "word": "leklärön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to lighten"
+        "text": "to lighten, to emit flashes of lightning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fulmi"
       }
     ]
   },
@@ -74730,17 +75052,55 @@
       {
         "lang": "english",
         "text": "hope"
+      },
+      {
+        "lang": "esperanto",
+        "text": "espero"
+      }
+    ]
+  },
+  {
+    "word": "spelabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hopefully"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esperebla"
+      }
+    ]
+  },
+  {
+    "word": "spelo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hopefully"
+      },
+      {
+        "lang": "esperanto",
+        "text": "espereble"
       }
     ]
   },
   {
     "word": "spelön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to hope"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esperi"
       }
     ]
   },
@@ -74752,6 +75112,10 @@
       {
         "lang": "english",
         "text": "expectation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekspektado"
       }
     ]
   },
@@ -74774,6 +75138,21 @@
       {
         "lang": "english",
         "text": "to anticipate"
+      }
+    ]
+  },
+  {
+    "word": "spetik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "full of expectation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "atendema"
       }
     ]
   },
@@ -74818,6 +75197,10 @@
       {
         "lang": "english",
         "text": "to anticipate, to expect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "atendi"
       }
     ]
   },
@@ -74899,6 +75282,21 @@
     ]
   },
   {
+    "word": "spikam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "speaking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolado"
+      }
+    ]
+  },
+  {
     "word": "spikamahorn",
     "lang": "volapuk",
     "category": "n.",
@@ -74906,6 +75304,10 @@
       {
         "lang": "english",
         "text": "a megaphone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "megafono"
       }
     ]
   },
@@ -74917,6 +75319,10 @@
       {
         "lang": "english",
         "text": "language (style/manner of expression)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolmaniero"
       }
     ]
   },
@@ -74928,17 +75334,25 @@
       {
         "lang": "english",
         "text": "a speaker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolanto"
       }
     ]
   },
   {
-    "word": "spikäD",
+    "word": "spikäd",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a discourse, an oration, a lecture, a speech, a talk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "diskurso, oratoraĵo, parolado"
       }
     ]
   },
@@ -74950,6 +75364,10 @@
       {
         "lang": "english",
         "text": "an orator"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oratoro"
       }
     ]
   },
