@@ -75223,6 +75223,10 @@
       {
         "lang": "english",
         "text": "haste, hurry, speed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hasto"
       }
     ]
   },
@@ -75245,17 +75249,40 @@
       {
         "lang": "english",
         "text": "hastily, in haste"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haste"
+      }
+    ]
+  },
+  {
+    "word": "spidöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "haste, rashness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hasteco"
       }
     ]
   },
   {
     "word": "spidön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to hurry, to make haste, to rush"
+        "text": "to hasten, to hurry, to make haste, to rush"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hasti"
       }
     ]
   },
@@ -75266,7 +75293,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a spike"
+        "text": "a spike, an ear (of corn, grass)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "spiko"
       }
     ]
   },
@@ -75277,7 +75308,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(power of) speech"
+        "text": "(power of) speech, the talk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolo"
       }
     ]
   },
