@@ -99,6 +99,10 @@
       {
         "lang": "english",
         "text": "today's date"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nuna dato"
       }
     ],
     "examples": [
@@ -109,6 +113,14 @@
       {
         "lang": "english",
         "text": "Sis adät = From today's date."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Jü adät = Ĝis la nuna dato."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Sis adät = Ekde la nuna dato."
       }
     ]
   },
@@ -121,6 +133,10 @@
       {
         "lang": "english",
         "text": "today"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hodiaŭ"
       }
     ]
   },
@@ -188,17 +204,21 @@
     "translations": [
       {
         "lang": "english",
-        "text": "oh"
+        "text": "oh, alas"
       },
       {
-        "lang": "english",
-        "text": "alas"
+        "lang": "esperanto",
+        "text": "aĥ"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Ag! = Oh!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ag! = Aĥ!"
       }
     ]
   },
@@ -211,12 +231,20 @@
       {
         "lang": "english",
         "text": "this morning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-matene"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "Agödo no äjanedob = I didn't have breakfast this morning ."
+        "text": "Agödo no äjanedob = I didn't have breakfast this morning."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Agödo no äjanedob = Ĉi-matene mi ne matenmanĝis."
       }
     ]
   },
@@ -265,7 +293,15 @@
       },
       {
         "lang": "esperanto",
+        "text": "Ai no = Neniam."
+      },
+      {
+        "lang": "esperanto",
         "text": "Ai nog = Ankoraŭ."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ai plu = Pli kaj pli."
       }
     ]
   },
@@ -278,12 +314,20 @@
       {
         "lang": "english",
         "text": "daily"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiutaga"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Nuns aidelik = Daily news"
+      },
+      {
+        "lang": "english",
+        "text": "Nuns aidelik = Ciutagaj novaĵoj"
       }
     ]
   },
@@ -373,11 +417,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "each"
+        "text": "each, every"
       },
       {
-        "lang": "english",
-        "text": "every"
+        "lang": "esperanto",
+        "text": "ciu"
       }
     ]
   },
@@ -405,6 +449,10 @@
       {
         "lang": "english",
         "text": "each time"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiufoje"
       }
     ]
   },
@@ -416,11 +464,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "at any rate"
+        "text": "at any rate, at any event"
       },
       {
-        "lang": "english",
-        "text": "at any event"
+        "lang": "esperanto",
+        "text": "ĉiuokaze"
       }
     ]
   },
@@ -432,15 +480,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "any"
+        "text": "any, whatever, whichever"
       },
       {
-        "lang": "english",
-        "text": "whatever"
-      },
-      {
-        "lang": "english",
-        "text": "whichever"
+        "lang": "esperanto",
+        "text": "ajna"
       }
     ]
   },
@@ -483,11 +527,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "several"
+        "text": "several, some"
       },
       {
-        "lang": "english",
-        "text": "some"
+        "lang": "esperanto",
+        "text": "kelkaj"
       }
     ]
   },
