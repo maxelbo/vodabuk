@@ -592,6 +592,10 @@
       {
         "lang": "english",
         "text": "as (conj.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiel (konj.)"
       }
     ]
   },
@@ -632,12 +636,8 @@
         "text": "Bai at = According to this."
       },
       {
-        "lang": "english",
-        "text": "In at = In this."
-      },
-      {
-        "lang": "english",
-        "text": "Len at = At this; lü at = in addition to this; pla at = instead of this; pro at = for this reason; su at = on this; to at = against this; zü at = around this."
+        "lang": "esperanto",
+        "text": "Bai at = Laǔ tiu ĉi."
       }
     ]
   },
@@ -650,6 +650,10 @@
       {
         "lang": "english",
         "text": "this time"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-foje"
       }
     ]
   },
@@ -662,6 +666,10 @@
       {
         "lang": "english",
         "text": "at present"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nuntempe"
       }
     ]
   },
