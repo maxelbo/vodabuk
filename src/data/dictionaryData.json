@@ -682,6 +682,10 @@
       {
         "lang": "english",
         "text": "this (idea, notion)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tiu ĉi (ideo, koncepto)"
       }
     ]
   },
@@ -746,6 +750,12 @@
         "lang": "esperanto",
         "text": "al"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Äl nolüd = Facing north; Yan binon äl süt = The door opens on to the street; Äl soar = Towards evening."
+      }
     ]
   },
   {
@@ -757,6 +767,10 @@
       {
         "lang": "english",
         "text": "last night"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasintnokte"
       }
     ]
   },
@@ -769,6 +783,10 @@
       {
         "lang": "english",
         "text": "recently"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lastatempe"
       }
     ]
   },
@@ -797,6 +815,16 @@
       {
         "lang": "english",
         "text": "as (conj.), like (conj.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiel (konj.)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Äsä ma natäl dina klülos, ... = As it is clear from the nature of the matter, ..."
       }
     ]
   },
@@ -825,6 +853,10 @@
       {
         "lang": "english",
         "text": "last evening"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasintvespere"
       }
     ]
   },
@@ -853,6 +885,10 @@
       {
         "lang": "english",
         "text": "as it were, so to say"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvazaǔe"
       }
     ]
   },
@@ -912,11 +948,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "perhaps"
+        "text": "perhaps, possibly, maybe"
       },
       {
         "lang": "esperanto",
         "text": "eble"
+      }
+    ]
+  },
+  {
+    "word": "baäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ebony (wood)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ebono"
+      }
+    ]
+  },
+  {
+    "word": "baädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "of ebony, ebony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ebona"
       }
     ]
   },
@@ -974,8 +1040,28 @@
     "category": "n.",
     "translations": [
       {
+        "lang": "english",
+        "text": "bad attitude, bad cast of mind"
+      },
+      {
         "lang": "esperanto",
         "text": "malbona emo"
+      }
+    ]
+  },
+  {
+    "word": "badälik",
+    "roots": ["bad"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "evil-minded, ill-disposed, ill-minded"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbonema"
       }
     ]
   },
@@ -31263,18 +31349,22 @@
   {
     "word": "kif",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "who? (feminine)"
+        "text": "who (feminine)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiu (virina)"
       }
     ]
   },
   {
     "word": "kifik",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
@@ -31290,6 +31380,10 @@
       {
         "lang": "english",
         "text": "a key"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝlosilo"
       }
     ]
   },
@@ -31351,18 +31445,22 @@
   {
     "word": "kim",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "who? (masculine)"
+        "text": "who (masculine)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiu (vira)"
       }
     ]
   },
   {
     "word": "kimik",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
@@ -31373,18 +31471,22 @@
   {
     "word": "kin",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "what? which? (neuter)"
+        "text": "what, which (neuter)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kio, kiu (neǔtra)"
       }
     ]
   },
   {
     "word": "kinik",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
@@ -31445,11 +31547,15 @@
   {
     "word": "kiöpo",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "where?"
+        "text": "where"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kie"
       }
     ]
   },
@@ -31555,18 +31661,22 @@
   {
     "word": "kis",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "what? (abstract)"
+        "text": "what (abstract)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kio (abstrakta)"
       }
     ]
   },
   {
     "word": "kisik",
     "lang": "volapuk",
-    "category": "pron.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
@@ -31577,11 +31687,15 @@
   {
     "word": "kisotik",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
         "text": "what sort of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kia"
       }
     ]
   },
@@ -31593,39 +31707,55 @@
       {
         "lang": "english",
         "text": "a receipt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvitanco"
       }
     ]
   },
   {
     "word": "kitimo",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "when?"
+        "text": "when"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiam"
       }
     ]
   },
   {
     "word": "kitopo",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "interr.",
     "translations": [
       {
         "lang": "english",
-        "text": "where?"
+        "text": "where"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kie"
       }
     ]
   },
   {
     "word": "kitön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to receipt, to settle (payment)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvitanci"
       }
     ]
   },
