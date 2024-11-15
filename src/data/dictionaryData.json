@@ -31331,18 +31331,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a knee, lap"
+        "text": "a knee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "genuo"
+      }
+    ]
+  },
+  {
+    "word": "kienabamil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a footstool"
+      },
+      {
+        "lang": "esperanto",
+        "text": "skabelo"
       }
     ]
   },
   {
     "word": "kienön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to kneel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "genui"
       }
     ]
   },
@@ -31399,13 +31422,42 @@
     ]
   },
   {
+    "word": "kiküf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "key, clef (music)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tonalo"
+      }
+    ]
+  },
+  {
     "word": "kil",
     "lang": "volapuk",
     "category": "num.",
     "translations": [
       {
         "lang": "english",
-        "text": "three"
+        "text": "three (3)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tri (3)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Kil e lafik = Three and a half."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Kil e lafik = Tri kaj duono."
       }
     ]
   },
