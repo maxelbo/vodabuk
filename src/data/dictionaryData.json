@@ -59551,27 +59551,6 @@
     ]
   },
   {
-    "word": "-öd",
-    "lang": "volapuk",
-    "category": "part.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "let... (imperative mood)"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "Gololöd! = Go! (imperative mood)"
-      },
-      {
-        "lang": "english",
-        "text": "Logobsöd! = Let us see! / We shall see!"
-      }
-    ]
-  },
-  {
     "word": "öm",
     "roots": ["öm"],
     "lang": "volapuk",
@@ -59652,31 +59631,6 @@
       {
         "lang": "english",
         "text": "under (ön nem foginik = under a foreign name; ön kodül = under the pretext)"
-      }
-    ]
-  },
-  {
-    "word": "-ös",
-    "lang": "volapuk",
-    "category": "part.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "kindly do ... (optative form)"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "Gololös = Do (please) go (optative mood)."
-      },
-      {
-        "lang": "english",
-        "text": "Logonsös! = Oh, that they may see!"
-      },
-      {
-        "lang": "english",
-        "text": "Kolkömolös famülans obik = Meed my family members."
       }
     ]
   },
@@ -67001,6 +66955,17 @@
     ]
   },
   {
+    "word": "reiganef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a government (persons)"
+      }
+    ]
+  },
+  {
     "word": "reigäb",
     "lang": "volapuk",
     "category": "n.",
@@ -67052,7 +67017,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "empire"
+        "text": "an empire"
       },
       {
         "lang": "esperanto",
@@ -67424,39 +67389,6 @@
       {
         "lang": "english",
         "text": "manner of government, a regime"
-      }
-    ]
-  },
-  {
-    "word": "reiganef",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a government (persons)"
-      }
-    ]
-  },
-  {
-    "word": "reigäb",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a subject"
-      }
-    ]
-  },
-  {
-    "word": "reigän",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an empire"
       }
     ]
   },
@@ -93843,11 +93775,21 @@
     "translations": [
       {
         "lang": "english",
-        "text": "imperative (added after personal ending)"
+        "text": "let, imperative (added after personal ending)"
       },
       {
         "lang": "esperanto",
         "text": "imperativo (aldonita post persona konjugacio"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Gololöd! = Go! (imperative mood)"
+      },
+      {
+        "lang": "english",
+        "text": "Logobsöd! = Let us see! / We shall see!"
       }
     ]
   },
@@ -93933,11 +93875,25 @@
     "translations": [
       {
         "lang": "english",
-        "text": "optative (added after personal ending)"
+        "text": "kindly do, optative (added after personal ending)"
       },
       {
         "lang": "esperanto",
         "text": "optativo (aldonita post persona konjugacio"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Gololös = Do (please) go (optative mood)."
+      },
+      {
+        "lang": "english",
+        "text": "Logonsös! = Oh, that they may see!"
+      },
+      {
+        "lang": "english",
+        "text": "Kolkömolös famülans obik = Meed my family members."
       }
     ]
   },
