@@ -19352,11 +19352,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a taper"
+        "text": "a taper, a torch"
       },
       {
-        "lang": "english",
-        "text": "a torch"
+        "lang": "esperanto",
+        "text": "torĉo"
       }
     ]
   },
@@ -19367,11 +19367,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to flicker"
+        "text": "to flicker, to glimmer"
       },
       {
-        "lang": "english",
-        "text": "to glimmer"
+        "lang": "esperanto",
+        "text": "flagri"
       }
     ]
   },
@@ -19383,6 +19383,10 @@
       {
         "lang": "english",
         "text": "a side"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flanko"
       }
     ]
   },
@@ -19394,6 +19398,10 @@
       {
         "lang": "english",
         "text": "a wing (of building)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alo"
       }
     ]
   },
@@ -19415,11 +19423,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a hit"
+        "text": "a blow, a hit, a strike, a smack"
       },
       {
-        "lang": "english",
-        "text": "a smack"
+        "lang": "esperanto",
+        "text": "frapo, bato"
       }
     ]
   },
@@ -19430,11 +19438,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pat"
+        "text": "a cuff, a slap, a smack, a pat, whip (egg, cream)"
       },
       {
-        "lang": "english",
-        "text": "a slap"
+        "lang": "esperanto",
+        "text": "frapeto, batado (ovoj, kremo)"
       }
     ]
   },
@@ -19446,28 +19454,40 @@
       {
         "lang": "english",
         "text": "whipped cream"
+      },
+      {
+        "lang": "esperanto",
+        "text": "batita kremo"
       }
     ]
   },
   {
     "word": "flapön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to beat, to hit, to slap, to strike"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frapi, bati"
       }
     ]
   },
   {
     "word": "flägrülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to flicker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flagri"
       }
     ]
   },
@@ -19494,13 +19514,47 @@
     ]
   },
   {
-    "word": "fläno",
+    "word": "flän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "state of being duty free, tax free, post-free"
+      },
+      {
+        "lang": "esperanto",
+        "text": "senimposteco"
+      }
+    ]
+  },
+  {
+    "word": "flänik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "duty free"
+        "text": "duty free, tax free, post-free"
+      },
+      {
+        "lang": "esperanto",
+        "text": "senimposta"
+      }
+    ]
+  },
+  {
+    "word": "fläno",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "post paid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "senimposte"
       }
     ]
   },
@@ -19534,6 +19588,10 @@
       {
         "lang": "english",
         "text": "a load"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝo"
       }
     ]
   },
@@ -19578,6 +19636,10 @@
       {
         "lang": "english",
         "text": "a lorry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kamiono"
       }
     ]
   },
@@ -19600,17 +19662,35 @@
       {
         "lang": "english",
         "text": "a load"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝo"
       }
     ]
   },
   {
     "word": "fledülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to load (a gun)"
+        "text": "to load (fig.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝargi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Fledülön güni = To load a gun."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Fledülön güni = Ŝargi pafilon."
       }
     ]
   },
@@ -19622,6 +19702,10 @@
       {
         "lang": "english",
         "text": "a hinge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉarniro, artiko"
       }
     ]
   },
@@ -19633,6 +19717,10 @@
       {
         "lang": "english",
         "text": "flexible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fleksa, fleksiĝema"
       }
     ]
   },
@@ -19650,11 +19738,15 @@
   {
     "word": "flegön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to bend, to flex"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fleksi"
       }
     ]
   },
@@ -19681,6 +19773,10 @@
       {
         "lang": "english",
         "text": "a rotation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turniĝo"
       }
     ],
     "examples": [
@@ -19704,11 +19800,21 @@
   {
     "word": "flekön (oki)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to turn (to); to turn around"
+        "text": "to make a turn, to turn (to); to turn around"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turni sin"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Flekön oki lü ek = To turn to somebody."
       }
     ]
   },
@@ -19720,6 +19826,10 @@
       {
         "lang": "english",
         "text": "a friend"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amiko"
       }
     ]
   },
@@ -19730,7 +19840,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(close)friendship"
+        "text": "(close) friendship"
       }
     ]
   },
@@ -19742,6 +19852,10 @@
       {
         "lang": "english",
         "text": "friendship"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amikeco"
       }
     ]
   },
@@ -19752,15 +19866,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a comrade"
+        "text": "a comrade, a mate, a pal"
       },
       {
-        "lang": "english",
-        "text": "a mate"
-      },
-      {
-        "lang": "english",
-        "text": "a pal"
+        "lang": "esperanto",
+        "text": "kamarado"
       }
     ]
   },
@@ -19772,6 +19882,10 @@
       {
         "lang": "english",
         "text": "amiable, kind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amikeca"
       }
     ]
   },
@@ -19783,6 +19897,10 @@
       {
         "lang": "english",
         "text": "a flea"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulo"
       }
     ]
   },
