@@ -19603,6 +19603,10 @@
       {
         "lang": "english",
         "text": "a freighter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kargoŝipo"
       }
     ]
   },
@@ -19614,6 +19618,10 @@
       {
         "lang": "english",
         "text": "a cargo hold"
+      },
+      {
+        "lang": "esperanto",
+        "text": "holdo"
       }
     ]
   },
@@ -19625,6 +19633,10 @@
       {
         "lang": "english",
         "text": "a van"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝaǔto"
       }
     ]
   },
@@ -19635,7 +19647,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lorry"
+        "text": "a lorry, a truck"
       },
       {
         "lang": "esperanto",
@@ -19782,7 +19794,11 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Talaleflekam = Rotation of the earth"
+        "text": "Talaleflekam = Rotation of the earth."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Talaleflekam = Turniĝo de la tero."
       }
     ]
   },
@@ -76226,6 +76242,10 @@
       {
         "lang": "english",
         "text": "a condition, a state, status"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stato"
       }
     ],
     "examples": [
@@ -76251,6 +76271,10 @@
       {
         "lang": "english",
         "text": "a phase, a stage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stadio"
       }
     ]
   },
@@ -76262,6 +76286,10 @@
       {
         "lang": "english",
         "text": "a (sports) stadium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stadiono"
       }
     ]
   },
@@ -76301,6 +76329,10 @@
       {
         "lang": "english",
         "text": "a rod, a stick"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vergo"
       }
     ]
   },
@@ -76312,6 +76344,10 @@
       {
         "lang": "english",
         "text": "a post, a stake"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paliso"
       }
     ]
   },
@@ -76356,6 +76392,10 @@
       {
         "lang": "english",
         "text": "a station"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stacio"
       }
     ]
   },
@@ -76378,6 +76418,10 @@
       {
         "lang": "english",
         "text": "steel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtalo"
       }
     ]
   },
@@ -76461,11 +76505,15 @@
   {
     "word": "stanön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to stand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stari"
       }
     ]
   },
