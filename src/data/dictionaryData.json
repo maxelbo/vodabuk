@@ -19263,7 +19263,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a piece of cloth"
+        "text": "a piece of cloth, a rag"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉifono, peco da teksaĵo"
+      }
+    ]
+  },
+  {
+    "word": "flabil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a small piece of cloth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "peceto da teksaĵo"
+      }
+    ]
+  },
+  {
+    "word": "flabül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ribbon, tape (for wrapping)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rubando"
       }
     ]
   },
@@ -19275,6 +19309,40 @@
       {
         "lang": "english",
         "text": "a bottle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "botelo"
+      }
+    ]
+  },
+  {
+    "word": "fladil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "small bottle, flask"
+      },
+      {
+        "lang": "esperanto",
+        "text": "boteleto"
+      }
+    ]
+  },
+  {
+    "word": "fladül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "vial, flacon, very small bottle (for perfume, scent, etc.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flakono, fiolo"
       }
     ]
   },
@@ -19285,11 +19353,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a flag"
+        "text": "a demand, a requirement"
       },
       {
-        "lang": "english",
-        "text": "a standard"
+        "lang": "esperanto",
+        "text": "postulo"
       }
     ]
   },
@@ -19550,11 +19618,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "post paid"
-      },
+        "text": "post paid, senimposte"
+      }
+    ]
+  },
+  {
+    "word": "flänön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
       {
-        "lang": "esperanto",
-        "text": "senimposte"
+        "lang": "english",
+        "text": "to be free of charges, to be post-free"
       }
     ]
   },
@@ -19570,13 +19645,58 @@
     ]
   },
   {
+    "word": "flänükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to frank, to stamp (letter, parcel)"
+      }
+    ]
+  },
+  {
+    "word": "flät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "flattery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flato"
+      }
+    ]
+  },
+  {
+    "word": "flätan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a flatterer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flatanto, flatulo, flatisto"
+      }
+    ]
+  },
+  {
     "word": "flätön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to flatter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flati"
       }
     ]
   },
@@ -76444,6 +76564,10 @@
       {
         "lang": "english",
         "text": "a stem"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trunketo, tigo"
       }
     ]
   },
@@ -76466,6 +76590,10 @@
       {
         "lang": "english",
         "text": "a (tree) trunk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trunko"
       }
     ]
   },
@@ -76488,6 +76616,10 @@
       {
         "lang": "english",
         "text": "a position"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pozicio"
       }
     ]
   },
@@ -76499,6 +76631,10 @@
       {
         "lang": "english",
         "text": "tin (metal)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stano"
       }
     ]
   },
@@ -76524,7 +76660,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an eye disease"
+        "text": "cataract (eye condition)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "katarakto (maldiafaniĝo de la okullenso)"
       }
     ],
     "examples": [
@@ -76609,6 +76749,21 @@
     ]
   },
   {
+    "word": "stäat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ecstacy, ecstasy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstazo"
+      }
+    ]
+  },
+  {
     "word": "stäatik",
     "lang": "volapuk",
     "category": "adj.",
@@ -76616,6 +76771,25 @@
       {
         "lang": "english",
         "text": "ecstatic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstaza"
+      }
+    ]
+  },
+  {
+    "word": "stään",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "extension (spatial)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amplekso"
       }
     ]
   },
@@ -76626,7 +76800,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "comprehensive"
+        "text": "extended, comprehensive"
       }
     ]
   },
@@ -76644,11 +76818,11 @@
   {
     "word": "stäänikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to extend (over an area)"
+        "text": "to extend (over an area), stretch out (in space)"
       }
     ]
   },
@@ -76666,22 +76840,11 @@
   {
     "word": "stäänükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to expand, to extend"
-      }
-    ]
-  },
-  {
-    "word": "stäat",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "ecstacy"
+        "text": "to expand, to stretch out (in space)"
       }
     ]
   },
@@ -76692,7 +76855,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a stage (theatre)"
+        "text": "a stage (theatre, elevated area for spectators)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scenejo"
       }
     ]
   },
@@ -76715,6 +76882,10 @@
       {
         "lang": "english",
         "text": "a stag"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vircervo"
       }
     ]
   },
@@ -76725,7 +76896,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a banner, a flag"
+        "text": "a flag, a banner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flago"
       }
     ]
   },
