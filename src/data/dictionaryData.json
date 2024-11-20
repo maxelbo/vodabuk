@@ -14831,6 +14831,10 @@
       {
         "lang": "english",
         "text": "a house"
+      },
+      {
+        "lang": "esperanto",
+        "text": "domo"
       }
     ]
   },
@@ -24024,6 +24028,10 @@
       {
         "lang": "english",
         "text": "glass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vitro"
       }
     ]
   },
@@ -24057,6 +24065,10 @@
       {
         "lang": "english",
         "text": "(of) glass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vitra"
       }
     ]
   },
@@ -24178,6 +24190,10 @@
       {
         "lang": "english",
         "text": "greeting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "saluto"
       }
     ]
   },
@@ -28627,14 +28643,28 @@
       {
         "lang": "english",
         "text": "a witch"
-      },
+      }
+    ]
+  },
+  {
+    "word": "jimagivanakonot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
       {
         "lang": "english",
-        "text": "jimagivanakonot = a witch's tale"
-      },
+        "text": "a witch's tale"
+      }
+    ]
+  },
+  {
+    "word": "jimagivanayag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
       {
         "lang": "english",
-        "text": "jimagivanayag = a witch-hunt"
+        "text": "a witch-hunt"
       }
     ]
   },
@@ -28657,6 +28687,10 @@
       {
         "lang": "english",
         "text": "a wife"
+      },
+      {
+        "lang": "esperanto",
+        "text": "edzino"
       }
     ]
   },
@@ -28668,6 +28702,10 @@
       {
         "lang": "english",
         "text": "a woman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "virino"
       }
     ]
   },
@@ -48257,6 +48295,10 @@
       {
         "lang": "english",
         "text": "man"
+      },
+      {
+        "lang": "esperanto",
+        "text": "viro"
       }
     ]
   },
@@ -48268,6 +48310,10 @@
       {
         "lang": "english",
         "text": "mandolin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mandolino"
       }
     ]
   },
@@ -48301,6 +48347,10 @@
       {
         "lang": "english",
         "text": "male"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vira"
       }
     ]
   },
@@ -48323,6 +48373,10 @@
       {
         "lang": "english",
         "text": "file, folder, portfolio"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dosiero"
       }
     ]
   },
@@ -48334,6 +48388,10 @@
       {
         "lang": "english",
         "text": "marathon (race)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maratono"
       }
     ]
   },
@@ -48345,6 +48403,10 @@
       {
         "lang": "english",
         "text": "marsh"
+      },
+      {
+        "lang": "esperanto",
+        "text": "marĉo"
       }
     ]
   },
@@ -48400,6 +48462,10 @@
       {
         "lang": "english",
         "text": "margarine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "margarino"
       }
     ]
   },
@@ -48411,6 +48477,10 @@
       {
         "lang": "english",
         "text": "weasel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mustelo"
       }
     ]
   },
@@ -48422,6 +48492,10 @@
       {
         "lang": "english",
         "text": "martyr"
+      },
+      {
+        "lang": "esperanto",
+        "text": "martiro"
       }
     ]
   },
@@ -48433,6 +48507,10 @@
       {
         "lang": "english",
         "text": "attic, garret"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mansardo, subtegmentejo"
       }
     ]
   },
@@ -48444,6 +48522,10 @@
       {
         "lang": "english",
         "text": "marzipan"
+      },
+      {
+        "lang": "esperanto",
+        "text": "marcipano"
       }
     ]
   },
@@ -48455,6 +48537,10 @@
       {
         "lang": "english",
         "text": "mass (great quantity)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amaso"
       }
     ]
   },
@@ -49543,7 +49629,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "man (a human being)"
+        "text": "a human being"
+      },
+      {
+        "lang": "esperanto",
+        "text": "homo"
       }
     ]
   },
@@ -49581,6 +49671,21 @@
     ]
   },
   {
+    "word": "menasot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a race, a breed of men"
+      },
+      {
+        "lang": "esperanto",
+        "text": "raso"
+      }
+    ]
+  },
+  {
     "word": "menef",
     "lang": "volapuk",
     "category": "n.",
@@ -49588,6 +49693,10 @@
       {
         "lang": "english",
         "text": "mankind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "homaro"
       }
     ]
   },
@@ -49610,6 +49719,10 @@
       {
         "lang": "english",
         "text": "human"
+      },
+      {
+        "lang": "esperanto",
+        "text": "homa"
       }
     ]
   },
@@ -80393,6 +80506,10 @@
       {
         "lang": "english",
         "text": "earth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tero"
       }
     ]
   },
@@ -89238,6 +89355,10 @@
       {
         "lang": "english",
         "text": "a woman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "virino"
       }
     ]
   },
@@ -89249,17 +89370,25 @@
       {
         "lang": "english",
         "text": "female"
+      },
+      {
+        "lang": "esperanto",
+        "text": "virina"
       }
     ]
   },
   {
     "word": "vomitön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to throw up, to vomit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vomiti"
       }
     ]
   },
