@@ -9796,6 +9796,10 @@
       {
         "lang": "english",
         "text": "a machine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maŝino"
       }
     ]
   },
@@ -9807,6 +9811,25 @@
       {
         "lang": "english",
         "text": "machine oil"
+      },
+      {
+        "lang": "english",
+        "text": "maŝinoleo"
+      }
+    ]
+  },
+  {
+    "word": "cinäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mechanism"
+      },
+      {
+        "lang": "english",
+        "text": "meĥaniko, mekaniko, meĥanismo, mekanismo"
       }
     ]
   },
@@ -9817,7 +9840,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (mechanical) engineer"
+        "text": "a machinist, a mechanical engineer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "meĥanikisto, mekanikisto"
+      }
+    ]
+  },
+  {
+    "word": "cinel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "engineer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inĝeniero"
       }
     ]
   },
@@ -9829,6 +9871,10 @@
       {
         "lang": "english",
         "text": "machinery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maŝinaro"
       }
     ]
   },
@@ -9840,6 +9886,31 @@
       {
         "lang": "english",
         "text": "a splinter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "splito"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "(Pöteta)cips = Crisps."
+      }
+    ]
+  },
+  {
+    "word": "cirog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cherokee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉeroko"
       }
     ],
     "examples": [
@@ -27011,6 +27082,36 @@
     ]
   },
   {
+    "word": "itlänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indiĝeno"
+      }
+    ]
+  },
+  {
+    "word": "itlänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "domestic, internal, native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indiĝena, interna"
+      }
+    ]
+  },
+  {
     "word": "ito",
     "lang": "volapuk",
     "category": "adv.",
@@ -27029,6 +27130,10 @@
       {
         "lang": "english",
         "text": "autonomy, self-government"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔtonomeco, aǔtonomio"
       }
     ]
   },
@@ -27040,6 +27145,10 @@
       {
         "lang": "english",
         "text": "a mushroom"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fungo"
       }
     ]
   },
@@ -27051,6 +27160,10 @@
       {
         "lang": "english",
         "text": "a shade, a shadow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ombro"
       }
     ]
   },
@@ -27062,6 +27175,40 @@
       {
         "lang": "english",
         "text": "a silhouette"
+      },
+      {
+        "lang": "esperanto",
+        "text": "silueto"
+      }
+    ]
+  },
+  {
+    "word": "jadik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shady, shadowy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ombra"
+      }
+    ]
+  },
+  {
+    "word": "jadön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to shade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ombri"
       }
     ]
   },
@@ -27073,6 +27220,10 @@
       {
         "lang": "english",
         "text": "a silhouette"
+      },
+      {
+        "lang": "esperanto",
+        "text": "silueto"
       }
     ]
   },
@@ -41662,6 +41813,10 @@
       {
         "lang": "english",
         "text": "an income, a salary, a wage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enspezo"
       }
     ]
   },
@@ -41673,6 +41828,10 @@
       {
         "lang": "english",
         "text": "emir"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emiro"
       }
     ]
   },
@@ -41684,6 +41843,10 @@
       {
         "lang": "english",
         "text": "a grandmother"
+      },
+      {
+        "lang": "esperanto",
+        "text": "avino"
       }
     ]
   },
@@ -41705,7 +41868,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a lot of"
+        "text": "a lot of, great quantity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granda kvanto"
       }
     ]
   },
@@ -41772,6 +41939,10 @@
       {
         "lang": "english",
         "text": "a locomotive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lokomotivo"
       }
     ]
   },
@@ -49811,6 +49982,28 @@
       {
         "lang": "english",
         "text": "reward, salary, wage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "salajro"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Getön mesedi = To receive a salary."
+      },
+      {
+        "lang": "english",
+        "text": "Nen mesed = Unsalaried, unwaged."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Getön mesedi = Ricevi salajron"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Nen mesed = Sen salajro"
       }
     ]
   },
@@ -49822,6 +50015,10 @@
       {
         "lang": "english",
         "text": "rewarding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "salajrata"
       }
     ]
   },
@@ -49833,6 +50030,10 @@
       {
         "lang": "english",
         "text": "metal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metalo"
       }
     ]
   },
@@ -49844,6 +50045,10 @@
       {
         "lang": "english",
         "text": "metaphysics"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metafiziko"
       }
     ]
   },
@@ -49855,6 +50060,10 @@
       {
         "lang": "english",
         "text": "method"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metodo"
       }
     ]
   },
@@ -49866,6 +50075,10 @@
       {
         "lang": "english",
         "text": "metric system"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metra dekuma sistemo"
       }
     ]
   },
@@ -49877,6 +50090,10 @@
       {
         "lang": "english",
         "text": "metrology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metrologio"
       }
     ]
   },
@@ -49887,7 +50104,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "opinion, outlook, point of view"
+        "text": "way of thinking, cast of mind, opinion, outlook, point of view"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pensmaniero"
       }
     ]
   },
@@ -49910,6 +50131,10 @@
       {
         "lang": "english",
         "text": "seagull"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mevo"
       }
     ]
   },
