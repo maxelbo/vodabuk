@@ -27049,7 +27049,8 @@
     ]
   },
   {
-    "word": "italifajenä",
+    "word": "italifajenäd",
+    "roots": ["it", "lif", "jen"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27061,6 +27062,7 @@
   },
   {
     "word": "itfräd",
+    "roots": ["it", "fräd"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27072,17 +27074,23 @@
   },
   {
     "word": "itjäfidik",
+    "roots": ["it", "jäf"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "automatic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔtomata"
       }
     ]
   },
   {
     "word": "itlänan",
+    "roots": ["it", "län"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27098,6 +27106,7 @@
   },
   {
     "word": "itlänik",
+    "roots": ["it", "län"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -27113,6 +27122,7 @@
   },
   {
     "word": "ito",
+    "roots": ["it"],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -27139,6 +27149,7 @@
   },
   {
     "word": "jaben",
+    "roots": ["jaben"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27154,6 +27165,7 @@
   },
   {
     "word": "jad",
+    "roots": ["jad"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27169,6 +27181,7 @@
   },
   {
     "word": "jadamagod",
+    "roots": ["jad", "mog"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27184,6 +27197,7 @@
   },
   {
     "word": "jadik",
+    "roots": ["jad"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -27199,6 +27213,7 @@
   },
   {
     "word": "jadön",
+    "roots": ["jad"],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -27214,6 +27229,7 @@
   },
   {
     "word": "jadot",
+    "roots": ["jad"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -27228,46 +27244,98 @@
     ]
   },
   {
-    "word": "jafäb",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a creature"
-      }
-    ]
-  },
-  {
-    "word": "jafäd",
+    "word": "jaf",
+    "roots": ["jaf"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "creation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreo"
+      }
+    ]
+  },
+  {
+    "word": "jafäb",
+    "roots": ["jaf"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a creature"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreaĵo"
+      }
+    ]
+  },
+  {
+    "word": "jafäd",
+    "roots": ["jaf"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "production, creation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "produktado, elfarado"
       }
     ]
   },
   {
     "word": "jafädön",
+    "roots": ["jaf"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to bring about"
+        "text": "to produce, to create, to bring about"
+      },
+      {
+        "lang": "esperanto",
+        "text": "produkti, elfari"
       }
     ]
   },
   {
     "word": "jafäl",
+    "roots": ["jaf"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "creativity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreemo"
+      }
+    ]
+  },
+  {
+    "word": "jafiäl",
+    "roots": ["jaf"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "creative urge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreemo"
       }
     ]
   },
@@ -27301,6 +27369,10 @@
       {
         "lang": "english",
         "text": "creative"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreema"
       }
     ]
   },
@@ -27312,6 +27384,10 @@
       {
         "lang": "english",
         "text": "to create"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krei"
       }
     ]
   },
@@ -27322,11 +27398,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a field (of knowledge)"
-      },
-      {
-        "lang": "english",
-        "text": "a product"
+        "text": "a field (of knowledge), a product"
       }
     ],
     "examples": [
@@ -28251,7 +28323,24 @@
     ]
   },
   {
+    "word": "jen",
+    "roots": ["jen"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "course of things"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maniero en kiu aferoj okazas"
+      }
+    ]
+  },
+  {
     "word": "jenäd",
+    "roots": ["jen"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -28263,6 +28352,7 @@
   },
   {
     "word": "jenav",
+    "roots": ["jen"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -36786,106 +36876,167 @@
   },
   {
     "word": "krod",
+    "roots": ["krod"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a cross"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kruco"
       }
     ]
   },
   {
     "word": "krodam",
+    "roots": ["krod"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "crucifixion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krucumado"
       }
     ]
   },
   {
     "word": "krok",
+    "roots": ["krok"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a crocus"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krokuso"
       }
     ]
   },
   {
     "word": "krökid",
+    "roots": ["krökid"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "croquet (game)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kroketo"
       }
     ]
   },
   {
     "word": "krokod",
+    "roots": ["krokod"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a crocodile"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krokodilo"
+      }
+    ]
+  },
+  {
+    "word": "krokodön",
+    "roots": ["krokod"],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "speak with esperantists in a language that is not Esperanto"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krokodili"
       }
     ]
   },
   {
     "word": "krolig",
+    "roots": ["krolig"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a rabbit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuniklo"
       }
     ]
   },
   {
     "word": "kromosom",
+    "roots": ["kromosom"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a chromosome"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĥromosomo, kromosomo"
       }
     ]
   },
   {
     "word": "kronam",
+    "roots": ["kron"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a coronation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kroni"
       }
     ]
   },
   {
     "word": "kronig",
+    "roots": ["kronig"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a chronicle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kroniko"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "jen kronigik = chronicling"
+        "text": "Jen kronigik = Chronicling"
       }
     ]
   },
