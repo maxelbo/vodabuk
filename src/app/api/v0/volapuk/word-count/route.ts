@@ -1,61 +1,46 @@
-import path from 'path';
-import { promises as fs } from 'fs';
-import { NextRequest, NextResponse } from 'next/server';
-import { DictionaryEntryType } from '@/lib/types';
+import { NextResponse } from 'next/server';
+import { getDictionaryData, getWordsWithTranslations } from '@/lib/dictionary';
 
-type WordCount = { [key: string]: number };
-type Duplicate = { word: string; count: number };
-
-const findDuplicates = (words: DictionaryEntryType[]): Duplicate[] => {
-  const wordCount: WordCount = {};
-  const duplicates: Duplicate[] = [];
-
-  words.forEach(({ word }) => {
-    wordCount[word] = (wordCount[word] || 0) + 1;
-  });
-
-  for (const word in wordCount) {
-    if (wordCount[word] > 1) {
-      duplicates.push({ word, count: wordCount[word] });
-    }
-  }
-
-  return duplicates;
-};
-
-export async function GET(req: NextRequest): Promise<NextResponse> {
+export async function GET(): Promise<NextResponse> {
   try {
-    // Construct the path to the JSON file
-    const jsonDirectory = path.join(process.cwd(), 'src', 'data');
-    const filePath = path.join(jsonDirectory, 'dictionaryData.json');
+    const words = await getDictionaryData();
+    const { withEsperanto, withEnglish } = getWordsWithTranslations(words);
 
-    // Read and parse the JSON file
-    const fileContents = await fs.readFile(filePath, 'utf8');
-    const words: DictionaryEntryType[] = JSON.parse(fileContents);
+    // Find duplicates
+    const duplicates = [...words]
+      .sort()
+      .reduce(
+        (acc, { word }) => {
+          const existing = acc.find((d) => d.word === word);
+          if (existing) existing.count++;
+          else acc.push({ word, count: 1 });
+          return acc;
+        },
+        [] as Array<{ word: string; count: number }>,
+      )
+      .filter(({ count }) => count > 1);
 
-    // Filter Volapük words
-    const volapukWords = words.filter((word) => word.lang === 'volapuk');
-
-    // Count the number of Volapük words
-    const volapukWordsCount = volapukWords.length;
-
-    // Find duplicates among the Volapük words
-    const duplicates = findDuplicates(volapukWords);
-
-    // Return the word count and the duplicates JSON
-    return new NextResponse(JSON.stringify({ volapukWordsCount, duplicates }), {
-      status: 200,
-      headers: {
-        'Content-Type': 'application/json',
+    return NextResponse.json(
+      {
+        volapukWordCount: words.length,
+        voEoWordCount: withEsperanto.length,
+        voEnWordCount: withEnglish.length,
+        duplicates,
       },
-    });
+      { status: 200 },
+    );
   } catch (error) {
-    console.error(error);
-    return new NextResponse(JSON.stringify({ error: 'File not found or unable to read file' }), {
-      status: 500,
-      headers: {
-        'Content-Type': 'application/json',
+    console.error('Unexpected error in dictionary processing:', error);
+    return NextResponse.json(
+      {
+        volapukWordCount: 0,
+        voEoWordCount: 0,
+        englishTranslations: 0,
+        wordsWithBothTranslations: 0,
+        duplicates: [],
+        error: 'Internal server error',
       },
-    });
+      { status: 500 },
+    );
   }
 }
