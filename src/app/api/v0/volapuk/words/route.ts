@@ -1,17 +1,9 @@
-import path from 'path';
-import { promises as fs } from 'fs';
-import { NextRequest, NextResponse } from 'next/server';
-import { DictionaryEntryType } from '@/lib/types';
+import { NextResponse } from 'next/server';
+import { getDictionaryData } from '@/lib/dictionary';
 
-export async function GET(req: NextRequest) {
+export async function GET(): Promise<NextResponse> {
   try {
-    // Construct the path to the JSON file
-    const jsonDirectory = path.join(process.cwd(), 'src', 'data');
-    const filePath = path.join(jsonDirectory, 'dictionaryData.json');
-
-    // Read and parse the JSON file
-    const fileContents = await fs.readFile(filePath, 'utf8');
-    let words: DictionaryEntryType[] = JSON.parse(fileContents);
+    let words = await getDictionaryData();
 
     // Add the 'letter' key to each word object
     words = words.map((wordObj) => ({
@@ -19,7 +11,6 @@ export async function GET(req: NextRequest) {
       letter: wordObj.word.charAt(0),
     }));
 
-    // Return the modified JSON
     return new NextResponse(JSON.stringify(words), {
       status: 200,
       headers: {
@@ -27,7 +18,7 @@ export async function GET(req: NextRequest) {
       },
     });
   } catch (error) {
-    console.error(error);
+    console.error('Unexpected error in dictionary processing:', error);
     return new NextResponse(JSON.stringify({ error: 'File not found or unable to read file' }), {
       status: 500,
       headers: {
