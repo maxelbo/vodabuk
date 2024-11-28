@@ -1461,6 +1461,10 @@
       {
         "lang": "english",
         "text": "possibly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eble"
       }
     ]
   },
@@ -1782,7 +1786,7 @@
   },
   {
     "word": "baläd",
-    "roots": ["baläd"],
+    "roots": ["bal"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1803,20 +1807,62 @@
     ]
   },
   {
-    "word": "balädikam (gudöfik)",
-    "roots": ["baläd"],
+    "word": "balädam",
+    "roots": ["bal"],
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
-        "text": "a compromise"
+        "text": "(state of) agreeing, agreement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraktado"
+      }
+    ]
+  },
+  {
+    "word": "balädik",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agreed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsenta"
+      }
+    ]
+  },
+  {
+    "word": "balädikam",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "becoming agreed, agreement, understanding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsentado"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Balädikam gudöfik = A compromise."
       }
     ]
   },
   {
     "word": "balädikön (ko)",
-    "roots": ["baläd"],
+    "roots": ["bal"],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -1827,6 +1873,22 @@
       {
         "lang": "esperanto",
         "text": "interkonsentiĝi"
+      }
+    ]
+  },
+  {
+    "word": "balädü",
+    "roots": ["bal"],
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in accord with"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akorde kun"
       }
     ]
   },
@@ -28334,7 +28396,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "maniero en kiu aferoj okazas"
+        "text": "evento, okazo"
       }
     ]
   },
@@ -28346,7 +28408,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a development"
+        "text": "a process, a sequence of events, a course of events, progress of events, a development"
+      },
+      {
+        "lang": "esperanto",
+        "text": "procezo"
       }
     ]
   },
@@ -28359,6 +28425,10 @@
       {
         "lang": "english",
         "text": "history"
+      },
+      {
+        "lang": "esperanto",
+        "text": "historio"
       }
     ]
   },
@@ -28370,6 +28440,10 @@
       {
         "lang": "english",
         "text": "a historian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "historiisto"
       }
     ]
   },
@@ -28381,6 +28455,10 @@
       {
         "lang": "english",
         "text": "historical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "historia"
       }
     ]
   },
@@ -28391,17 +28469,29 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a case"
+        "text": "a case, an event, an instance"
       },
       {
-        "lang": "english",
-        "text": "an instance"
+        "lang": "esperanto",
+        "text": "okazo, kazo"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Pö jenet alik = In any case."
+      },
+      {
+        "lang": "english",
+        "text": "In jenet at = In this case."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Pö jenet alik = Ĉiuokaze."
+      },
+      {
+        "lang": "esperanto",
+        "text": "In jenet at = En tiu ĉi okazo."
       }
     ]
   },
@@ -28412,7 +28502,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an event"
+        "text": "an incident, an occurrence, an event"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okazaĵo, evento"
       }
     ]
   },
@@ -65990,6 +66084,10 @@
       {
         "lang": "english",
         "text": "progress"
+      },
+      {
+        "lang": "esperanto",
+        "text": "progreso"
       }
     ]
   },
@@ -66287,6 +66385,10 @@
       {
         "lang": "english",
         "text": "a psalm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "psalmo"
       }
     ]
   },
@@ -66298,6 +66400,10 @@
       {
         "lang": "english",
         "text": "a parrot"
+      },
+      {
+        "lang": "esperanto",
+        "text": "papago"
       }
     ]
   },
@@ -66324,13 +66430,76 @@
     ]
   },
   {
-    "word": "pubön",
+    "word": "pub",
+    "roots": ["pub"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "appearance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apero"
+      }
+    ]
+  },
+  {
+    "word": "pubet",
+    "roots": ["pub"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reaction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reakcio"
+      }
+    ]
+  },
+  {
+    "word": "pubod",
+    "roots": ["pub"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a phenomenon, a process"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fenomeno, procezo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Pubod kiemik = Chemical process."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Pubod kiemik = Ĥemia procezo."
+      }
+    ]
+  },
+  {
+    "word": "pubön",
+    "roots": ["pub"],
+    "lang": "volapuk",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to appear"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aperi"
       }
     ]
   },
@@ -66342,6 +66511,10 @@
       {
         "lang": "english",
         "text": "chastity, purity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉasteco"
       }
     ]
   },
@@ -66353,11 +66526,16 @@
       {
         "lang": "english",
         "text": "a louse (insect)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pediko"
       }
     ]
   },
   {
     "word": "pug",
+    "roots": ["pug"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66373,6 +66551,7 @@
   },
   {
     "word": "pugön",
+    "roots": ["pug"],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -66388,6 +66567,7 @@
   },
   {
     "word": "pugöp",
+    "roots": ["pug"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66418,6 +66598,7 @@
   },
   {
     "word": "puin",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66433,6 +66614,7 @@
   },
   {
     "word": "puinädik",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66448,6 +66630,7 @@
   },
   {
     "word": "puinädön",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66463,6 +66646,7 @@
   },
   {
     "word": "puinik",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66478,6 +66662,7 @@
   },
   {
     "word": "puinojueg",
+    "roots": ["puin", "jueg"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66493,6 +66678,7 @@
   },
   {
     "word": "puinot",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66508,6 +66694,7 @@
   },
   {
     "word": "puinabok",
+    "roots": ["puin", "bok"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66523,6 +66710,7 @@
   },
   {
     "word": "puinön",
+    "roots": ["puin"],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -66538,6 +66726,7 @@
   },
   {
     "word": "pulp",
+    "roots": ["pulp"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66553,6 +66742,7 @@
   },
   {
     "word": "pul",
+    "roots": ["pul"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66568,6 +66758,7 @@
   },
   {
     "word": "pulit",
+    "roots": ["pulit"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66583,6 +66774,7 @@
   },
   {
     "word": "pun",
+    "roots": ["pun"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66597,6 +66789,22 @@
     ]
   },
   {
+    "word": "punaflap",
+    "roots": ["pun", "flap"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a punch, a fisticuff"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pugnobato"
+      }
+    ]
+  },
+  {
     "word": "punc",
     "lang": "volapuk",
     "category": "n.",
@@ -66604,6 +66812,10 @@
       {
         "lang": "english",
         "text": "punch (alcoholic drink)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "punĉo"
       }
     ]
   },
@@ -66630,35 +66842,82 @@
     ]
   },
   {
-    "word": "puridikön",
+    "word": "purid",
+    "roots": ["purid"],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
+        "text": "putrefaction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "putrado"
+      }
+    ]
+  },
+  {
+    "word": "puridikön",
+    "roots": ["purid"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
         "text": "to become rotten, to decay (teeth)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "putri"
       }
     ]
   },
   {
     "word": "puridükön",
+    "roots": ["purid"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to make rotten"
+      },
+      {
+        "lang": "esperanto",
+        "text": "putrigi"
       }
     ]
   },
   {
     "word": "purul",
+    "roots": ["purul"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "pus (medical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "puso"
+      }
+    ]
+  },
+  {
+    "word": "purulön",
+    "roots": ["purul"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fester"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pusi"
       }
     ]
   },
@@ -66670,28 +66929,42 @@
       {
         "lang": "english",
         "text": "a (small) child"
+      },
+      {
+        "lang": "esperanto",
+        "text": "infano"
       }
     ]
   },
   {
     "word": "putajul",
+    "roots": ["put", "jul"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a kindergarten, a play-school"
+      },
+      {
+        "lang": "esperanto",
+        "text": "infanĝardeno"
       }
     ]
   },
   {
     "word": "putül",
+    "roots": ["put"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a baby"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bebo"
       }
     ]
   },
@@ -66719,17 +66992,23 @@
   },
   {
     "word": "püd",
+    "roots": ["püd"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "peace (not war)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paco"
       }
     ]
   },
   {
     "word": "püduk",
+    "roots": ["püd"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66740,18 +67019,40 @@
     ]
   },
   {
+    "word": "püf",
+    "roots": ["püf"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dust"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polvo"
+      }
+    ]
+  },
+  {
     "word": "püfik",
+    "roots": ["püf"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "dusty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polva"
       }
     ]
   },
   {
     "word": "püfisugian",
+    "roots": ["püf"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66762,7 +67063,20 @@
     ]
   },
   {
+    "word": "püfön",
+    "roots": ["püf"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be dusty"
+      }
+    ]
+  },
+  {
     "word": "pügmen",
+    "roots": ["pügmen"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66774,17 +67088,23 @@
   },
   {
     "word": "pük",
+    "roots": ["pük"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lingvo"
       }
     ]
   },
   {
     "word": "pükalönik",
+    "roots": ["pük", "lön"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66796,28 +67116,39 @@
   },
   {
     "word": "pükasotül",
+    "roots": ["pük", "sot"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "an accent (oral)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akĉento"
       }
     ]
   },
   {
     "word": "pül",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "the insignificant"
+        "text": "insignificance, littleness, the insignificant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sensignifeco, senvaloreco, malgraveco, neglektindeco"
       }
     ]
   },
   {
     "word": "pülatimil",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66829,6 +67160,7 @@
   },
   {
     "word": "pülik",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66840,6 +67172,7 @@
   },
   {
     "word": "pülikün",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -66851,6 +67184,7 @@
   },
   {
     "word": "pülot",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66862,6 +67196,7 @@
   },
   {
     "word": "pülsif",
+    "roots": ["pül"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66873,17 +67208,23 @@
   },
   {
     "word": "pün",
+    "roots": ["pün"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a dot, a point"
+      },
+      {
+        "lang": "esperanto",
+        "text": "punkto"
       }
     ]
   },
   {
     "word": "pünön",
+    "roots": ["pün"],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -66895,6 +67236,7 @@
   },
   {
     "word": "püpil",
+    "roots": ["püpil"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66906,12 +67248,17 @@
   },
   {
     "word": "püpit",
+    "roots": ["püpit"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a desk, a pulpit"
+        "text": "a desk, a lectern"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pupitro"
       }
     ]
   },
