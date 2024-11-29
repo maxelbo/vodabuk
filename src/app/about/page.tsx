@@ -1,25 +1,40 @@
 import AboutText from '@/components/AboutText';
 
-async function getWordCount() {
+interface WordCountData {
+  volapukWordCount: number;
+  voEoWordCount: number;
+  duplicates: { word: string; count: number }[];
+}
+
+async function getWordCount(): Promise<WordCountData> {
   const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/word-count`;
 
   try {
-    const res = await fetch(endpoint);
+    const res = await fetch(endpoint, { cache: 'no-store' });
 
     if (!res.ok) {
       throw new Error(`Failed to fetch data from ${endpoint}`);
     }
 
-    const data = await res.json();
-    return data.volapukWordsCount;
+    return await res.json();
   } catch {
-    return 0;
+    return {
+      volapukWordCount: 0,
+      voEoWordCount: 0,
+      duplicates: [],
+    };
   }
+}
+
+function getFormatedCount(c: number) {
+  return new Intl.NumberFormat('en-US').format(c);
 }
 
 export default async function About() {
   const count = await getWordCount();
-  const formattedCount = new Intl.NumberFormat('en-US').format(count);
 
-  return <AboutText formattedCount={formattedCount} />;
+  const totalCount = getFormatedCount(count.volapukWordCount);
+  const eoCount = getFormatedCount(count.voEoWordCount);
+
+  return <AboutText totalCount={totalCount} eoCount={eoCount} />;
 }

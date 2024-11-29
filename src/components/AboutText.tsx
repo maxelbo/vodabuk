@@ -6,10 +6,11 @@ import { useLangContext } from '@/context/LanguageContext';
 import type { LangContextProps } from '@/lib/types';
 
 interface AboutTextProps {
-  formattedCount: string;
+  totalCount: string;
+  eoCount: string;
 }
 
-export default function AboutText({ formattedCount }: AboutTextProps) {
+export default function AboutText({ totalCount, eoCount }: AboutTextProps) {
   const { lang } = useLangContext() as LangContextProps;
 
   return (
@@ -22,13 +23,13 @@ export default function AboutText({ formattedCount }: AboutTextProps) {
           ? 'Vödabuk is an open-source Volapük dictionary application designed to make the Volapük language more accessible to everyone.'
           : 'Vödabuk estas malfermita reta Volapuka vortaro, kiu celas fari Volapukon pli alirebla al ĉiuj.'}
       </p>
-      {formattedCount && (
+      {totalCount && (
         <p>
           {lang === 'english' ? 'It currenlty has ' : 'Ĝi nuntempe havas '}
-          <span className="font-bold">{formattedCount}</span>
+          <span className="font-bold">{totalCount}</span>
           {lang === 'english'
-            ? ' Volapük words in its database, with translations in English and Esperanto (currently a work in progress.'
-            : ' Volapukajn vortojn en sia datumbazo, kun tradukoj en la angla kaj Esperanto (ankoraǔ laboro en progreso).'}
+            ? ` Volapük words in its database, with translations in English and Esperanto (currently, it has ${eoCount} words in Esperanto)`
+            : ` Volapukajn vortojn en sia datumbazo, kun tradukoj en la angla kaj Esperanto (nuntempe, ĝi havas ${eoCount} vortojn en Esperanto).`}
         </p>
       )}
       <br />
@@ -45,11 +46,11 @@ export default function AboutText({ formattedCount }: AboutTextProps) {
         </Link>
         .
       </p>
-      <h2 className="pt-8 text-xl font-bold">Sources</h2>
+      <h2 className="pt-8 text-xl font-bold">{lang === 'english' ? 'Sources' : 'Fontoj'}</h2>
       <p>
         {lang === 'english'
           ? 'The English translations are based on the combined works of the late Ralph Midgley (1929 – 2024), Guvan of the Volapük Community and Honorary Academician of the International Volapük Society. It draws from his '
-          : 'La Anglaj tradukoj baziĝas sur la kunigitaj verkoj de la pasinta Ralph Midgley (1929 – 2024), Guvan de la Volapuka Komunumo kaj Honora Akademiano de la Internacia Volapuka Societo. Ĝi ĉerpas vortojn el liaj '}
+          : 'La anglaj tradukoj baziĝas sur la kunigitaj verkoj de la pasinta Ralph Midgley (1929 – 2024), Guvan de la Volapuka Komunumo kaj Honora Akademiano de la Internacia Volapuka Societo. Ĝi ĉerpas vortojn el liaj '}
         <i>&quot;Volapük-English Dictionary&quot;</i>&nbsp;
         {lang === 'english' ? ' and ' : ' kaj '}
         <i>&quot;English-Volapük Dictionary&quot;</i>&nbsp;
@@ -63,7 +64,13 @@ export default function AboutText({ formattedCount }: AboutTextProps) {
         <Link href="https://volapük.com" className="font-bold underline">
           volapük.com
         </Link>
-        .
+        .<br />
+        {lang === 'english'
+          ? 'The Esperanto translations are based on'
+          : 'La Esperantaj tradukoj baziĝas sur'}
+        &nbsp;<i>&quot;Vortaro Volapük&ndash;Esperanto kaj Esperanto&ndash;Volapük&quot;</i>&nbsp;
+        {lang === 'english' ? 'by' : 'de'}
+        &nbsp;André Cherpillod.
       </p>
       <div className="pt-16">
         <Link href="/" className={buttonVariants()}>
