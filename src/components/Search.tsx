@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import Result from '@/components/Result';
+import Spinner from '@/components/Spinner';
 import { Search as SearchIcon } from 'lucide-react';
 import { DictionaryEntryType } from '@/lib/types';
 import { useLangContext } from '@/context/LanguageContext';
@@ -16,89 +17,86 @@ interface SearchProps {
 export default function Search({ dictionaryData }: SearchProps) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<DictionaryEntryType[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
   const { lang: translationLang } = useLangContext() as LangContextProps;
 
-  // List of excluded words in English translations
-  const excludeWordList = ['a', 'an', 'to', 'the'];
+  function searchDictionary(searchQuery: string): DictionaryEntryType[] {
+    const excludeWordList = ['a', 'an', 'to', 'the'];
 
-  // Remove articles and certain prefixes in English translations
-  const removeExcludedPrefix = (text: string) => {
-    const lowerCaseText = text.toLowerCase().trim();
+    // Remove special characters and normalizes spaces
+    const normalizeText = (text: string): string => {
+      const normalized = text
+        .toLowerCase()
+        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '')
+        .trim()
+        .replace(/\s+/g, ' ');
+      return normalized;
+    };
 
-    for (const excludeWord of excludeWordList) {
-      const prefix = excludeWord + ' ';
-      if (lowerCaseText.startsWith(prefix)) {
-        return lowerCaseText.slice(prefix.length).trim();
-      }
-    }
-    return lowerCaseText;
-  };
+    // Exact word match for translations
+    const isExactWordMatch = (text: string, searchQuery: string): boolean => {
+      const normalizedText = normalizeText(text);
+      const normalizedQuery = normalizeText(searchQuery);
 
-  // Split text into words and check if any word matches the query
-  const isWholeWordOrPhraseMatch = (text: string, query: string) => {
-    const words = text.split(/\s+/).map((word) => word.toLowerCase());
-    const normalizedQuery = query.toLowerCase();
-    return words.some((word) => word === normalizedQuery);
-  };
+      const textParts = normalizedText.split(',');
 
-  // Check if the word starts with the query string
-  const startsWithQuery = (word: string, query: string) => {
-    const lowerCaseWord = word.toLowerCase();
-    const normalizedQuery = query.toLowerCase();
-    return lowerCaseWord.startsWith(normalizedQuery);
-  };
-
-  // Remove excluded words from parts of the translation text
-  const cleanTranslationText = (text: string) => {
-    return text
-      .split(/\s+/)
-      .filter((word) => !excludeWordList.includes(word.toLowerCase()))
-      .join(' ')
-      .trim();
-  };
-
-  // Search the dictionary for Volapük words and English translations
-  function searchDictionary(query: string): DictionaryEntryType[] {
-    const trimmedQuery = query.trim().toLowerCase();
-    if (!trimmedQuery) {
-      return [];
-    }
-
-    const results = dictionaryData.filter((entry: DictionaryEntryType) => {
-      const wordMatch =
-        (entry.lang === 'volapuk' && startsWithQuery(entry.word, trimmedQuery)) ||
-        isWholeWordOrPhraseMatch(entry.word, trimmedQuery);
-
-      const translationMatch = entry.translations.some((translation) => {
-        const cleanedTranslationText = removeExcludedPrefix(translation.text);
-
-        // Split the cleaned translation text into separate words or phrases
-        const translationWords = cleanedTranslationText.split(/,\s*/).map(cleanTranslationText);
-
-        // Check if any of the separated words or phrases match the query
-        return translationWords.some((word) => isWholeWordOrPhraseMatch(word, trimmedQuery));
+      return textParts.some((part) => {
+        const words = part.trim().split(' ');
+        return words.some((word) => word === normalizedQuery);
       });
+    };
 
-      return wordMatch || translationMatch;
+    // Starts with match for Volapük words
+    const isVolapukMatch = (text: string, searchQuery: string): boolean => {
+      const normalizedText = normalizeText(text);
+      const normalizedQuery = normalizeText(searchQuery);
+      return normalizedText.startsWith(normalizedQuery);
+    };
+
+    const cleanTranslationText = (text: string): string => {
+      const normalizedText = normalizeText(text);
+      return normalizedText
+        .split(' ')
+        .filter((word) => !excludeWordList.includes(word))
+        .join(' ');
+    };
+
+    const trimmedQuery = searchQuery.trim();
+    if (!trimmedQuery) return [];
+
+    const searchResults = dictionaryData.filter((entry) => {
+      // Match Volapük word (starts with match)
+      const volapukMatch = isVolapukMatch(entry.word, trimmedQuery);
+
+      // Match translations in selected language (exact word match)
+      const translationMatch = entry.translations
+        .filter((translation) => translation.lang === translationLang)
+        .some((translation) => {
+          const cleanedText = cleanTranslationText(translation.text);
+          const translationParts = cleanedText.split(',').map((part) => part.trim());
+          return translationParts.some((part) => isExactWordMatch(part, trimmedQuery));
+        });
+
+      return volapukMatch || translationMatch;
     });
 
-    return results;
+    // Filter results to only include entries with translations in the selected language
+    return searchResults.filter((result) =>
+      result.translations.some((translation) => translation.lang === translationLang),
+    );
   }
 
-  // Set the search results on form submission
   async function handleSearch(e: React.FormEvent) {
     e.preventDefault();
+    // setIsLoading(true);
     const searchResults = searchDictionary(query);
-
     setResults(searchResults);
+    setIsLoading(false);
   }
-
-  const filteredResults = results.filter((result) => {
-    return result.translations.some((translation) => translation.lang === translationLang);
-  });
 
   return (
     <div className="mx-auto w-full max-w-3xl py-4">
+      <h1 className="sr-only">Search Page.</h1>
       <form onSubmit={handleSearch} className="flex gap-3">
         <Input
           className="min-w-0 flex-1 rounded-md py-1 ps-4"
@@ -112,13 +110,25 @@ export default function Search({ dictionaryData }: SearchProps) {
               : 'Search a word in the Volapük dictionary.'
           }
         />
-        <Button type="submit" aria-label="Search" className="rounded-md border-2 px-4">
+        <Button
+          type="submit"
+          aria-label="Search"
+          className="rounded-md border-2 px-4"
+          disabled={isLoading}
+        >
           <SearchIcon />
         </Button>
       </form>
       <div className="mt-4 h-[65vh] w-full overflow-auto rounded-md bg-slate-800 px-4 text-white">
-        {filteredResults.length > 0 ? (
-          filteredResults.map((result, index) => <Result result={result} key={index} />)
+        {isLoading ? (
+          <div role="status" className="flex h-full items-center justify-center text-center">
+            <Spinner />
+            <span className="sr-only">
+              {translationLang === 'english' ? 'Loading...' : 'Serĉanta...'}
+            </span>
+          </div>
+        ) : results.length > 0 ? (
+          results.map((result, index) => <Result result={result} key={index} />)
         ) : (
           <p className="flex h-full items-center justify-center text-center">
             {translationLang === 'english' ? 'No results found.' : 'Neniu rezulto estis trovita.'}
