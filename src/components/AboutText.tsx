@@ -28,7 +28,7 @@ export default function AboutText({ totalCount, eoCount }: AboutTextProps) {
           {lang === 'english' ? 'It currenlty has ' : 'Ĝi nuntempe havas '}
           <span className="font-bold">{totalCount}</span>
           {lang === 'english'
-            ? ` Volapük words in its database, with translations in English and Esperanto (currently, it has ${eoCount} words in Esperanto)`
+            ? ` Volapük words in its database, with translations in English and Esperanto (currently, it has ${eoCount} words in Esperanto).`
             : ` Volapukajn vortojn en sia datumbazo, kun tradukoj en la angla kaj Esperanto (nuntempe, ĝi havas ${eoCount} vortojn en Esperanto).`}
         </p>
       )}
