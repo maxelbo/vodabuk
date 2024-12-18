@@ -1,4 +1,5 @@
 import Search from '@/components/Search';
+import SearchError from '@/components/SearchError';
 
 async function getDictionaryData() {
   const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/words`;
@@ -18,21 +19,8 @@ async function getDictionaryData() {
 
 export default async function Home() {
   try {
-    const dictionaryData = await getDictionaryData();
-
-    return (
-      <>
-        <h1 className="sr-only">Search Page.</h1>
-        <Search dictionaryData={dictionaryData} />
-      </>
-    );
+    return <Search dictionaryData={await getDictionaryData()} />;
   } catch {
-    return (
-      <div className="text-center">
-        <h1 className="text-lg font-bold">Error / Pöl</h1>
-        <p>Failed to fetch the dictionary data.</p>
-        <p>Ädefon ad ramenön nunädis vödabuka.</p>
-      </div>
-    );
+    return <SearchError />;
   }
 }
