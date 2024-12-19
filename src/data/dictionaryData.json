@@ -2719,6 +2719,38 @@
     ]
   },
   {
+    "word": "bap",
+    "roots": ["bap"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lowliness, degradation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malnobleco"
+      }
+    ]
+  },
+  {
+    "word": "bapäl",
+    "roots": ["bap"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "baseness, ignominy, wickedness, low mental disposition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malnobleco"
+      }
+    ]
+  },
+  {
     "word": "bapälik",
     "roots": ["bap"],
     "lang": "volapuk",
@@ -2726,7 +2758,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "base, mean"
+        "text": "base, vile, wicked, base, mean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malnobla"
       }
     ]
   },
@@ -2738,7 +2774,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "inferior, low"
+        "text": "low, degraded, inferior"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malnobla"
       }
     ]
   },
@@ -2762,7 +2802,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a barn"
+        "text": "a barn, den, shack, shed, storehouse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barako, garbejo"
       }
     ]
   },
@@ -2775,6 +2819,74 @@
       {
         "lang": "english",
         "text": "a barbarity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbareco"
+      }
+    ]
+  },
+  {
+    "word": "barbaran",
+    "roots": ["barbar"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a barbarian, a savage person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbaro"
+      }
+    ]
+  },
+  {
+    "word": "barbarik",
+    "roots": ["barbar"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "barbaric"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbara"
+      }
+    ]
+  },
+  {
+    "word": "barbarim",
+    "roots": ["barbar"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "barbarism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbarismo"
+      }
+    ]
+  },
+  {
+    "word": "barbut",
+    "roots": ["barbut"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "barbel (fish)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barbio, barbfiŝo"
       }
     ]
   },
@@ -2787,6 +2899,58 @@
       {
         "lang": "english",
         "text": "a bazaar"
+      },
+      {
+        "lang": "english",
+        "text": "bazaro"
+      }
+    ]
+  },
+  {
+    "word": "basänt",
+    "roots": ["basänt"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "absinth, common wormwood (artemisia absinthium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "absinto, absintaĵo"
+      }
+    ]
+  },
+  {
+    "word": "barin",
+    "roots": ["barin"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "barium (ba)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bariumo (ba)"
+      }
+    ]
+  },
+  {
+    "word": "basil",
+    "roots": ["basil"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "basilicum"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bazilio, ocimo"
       }
     ]
   },
@@ -2799,6 +2963,10 @@
       {
         "lang": "english",
         "text": "a (water) basin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baseno, pelvo"
       }
     ]
   },
@@ -2811,6 +2979,10 @@
       {
         "lang": "english",
         "text": "a barricade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barikado"
       }
     ]
   },
@@ -2823,6 +2995,10 @@
       {
         "lang": "english",
         "text": "a weighing machine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baskulponto"
       }
     ]
   },
