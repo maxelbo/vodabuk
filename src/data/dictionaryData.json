@@ -340,6 +340,10 @@
       {
         "lang": "english",
         "text": "after each"
+      },
+      {
+        "lang": "esperanto",
+        "text": "post ĉiu"
       }
     ]
   },
@@ -352,6 +356,10 @@
       {
         "lang": "english",
         "text": "after every"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiutage"
       }
     ],
     "examples": [
@@ -754,7 +762,11 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Äl nolüd = Facing north; Yan binon äl süt = The door opens on to the street; Äl soar = Towards evening."
+        "text": "Äl nolüd = Facing north; Yan binon äl süt = The door opens on to the street."
+      },
+      {
+        "lang": "english",
+        "text": "Äl soar = Towards evening."
       }
     ]
   },
@@ -3562,11 +3574,29 @@
     "word": "befeilön",
     "roots": ["feil"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to cultivate"
+        "text": "to cultivate, to farm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kreskigi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Befeilön länedi = To farm land."
+      },
+      {
+        "lang": "english",
+        "text": "Befeilom fleni = He cultivates flowers."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Befeilom fleni = Li kreskigas florojn."
       }
     ]
   },
@@ -3578,7 +3608,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a dispute"
+        "text": "a dispute, a contestation, an impugnment"
       }
     ]
   },
@@ -3615,6 +3645,18 @@
       {
         "lang": "english",
         "text": "a request"
+      }
+    ]
+  },
+  {
+    "word": "began",
+    "roots": ["beg"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a supplicant"
       }
     ]
   },
