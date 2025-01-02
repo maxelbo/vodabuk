@@ -1268,11 +1268,15 @@
     "word": "badocedön",
     "roots": ["bad", "ced"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to take amiss"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ofendiĝi"
       }
     ]
   },
@@ -3680,7 +3684,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a reply"
+        "text": "a reply (oral)"
       }
     ]
   },
@@ -3688,11 +3692,15 @@
     "word": "begesagön",
     "roots": ["gesag"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to reply"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respondi"
       }
     ]
   },
@@ -3712,23 +3720,29 @@
     "word": "begön",
     "roots": ["beg"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr. dat.",
     "translations": [
       {
         "lang": "english",
-        "text": "to beg, to supplicate"
+        "text": "to request, to ask for, to beg, to supplicate"
       }
-    ]
-  },
-  {
-    "word": "begön säkusadi (eke)",
-    "roots": ["beg", "kusad"],
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+    ],
+    "examples": [
       {
         "lang": "english",
-        "text": "to apologize (to someone)"
+        "text": "Begön eke bosi = To ask someone for something."
+      },
+      {
+        "lang": "english",
+        "text": "Begön säkusadi = To beg pardon, to apologize."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Begön eke bosi = Peti al iu ion."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Begön säkusadi = Pardonpeti."
       }
     ]
   },
@@ -3741,6 +3755,26 @@
       {
         "lang": "english",
         "text": "a begonia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "begonio"
+      }
+    ]
+  },
+  {
+    "word": "begrämön",
+    "roots": ["gräm"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to ascend, to climb, to scale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ascendi"
       }
     ]
   },
@@ -25343,7 +25377,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "hail (weather)"
+        "text": "hail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hajlo"
+      }
+    ]
+  },
+  {
+    "word": "gräläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "buckshot"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plumbero"
+      }
+    ]
+  },
+  {
+    "word": "grälön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to hail (storm)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hajli"
       }
     ]
   },
@@ -25359,13 +25427,47 @@
     ]
   },
   {
+    "word": "gräm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "climbing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grimpado"
+      }
+    ]
+  },
+  {
     "word": "grämön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to climb"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grimpi"
+      }
+    ]
+  },
+  {
+    "word": "gran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grain, cornseed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grajno"
       }
     ]
   },
@@ -25377,6 +25479,70 @@
       {
         "lang": "english",
         "text": "a pomegranate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granato"
+      }
+    ]
+  },
+  {
+    "word": "granatain",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnet (uncut)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grenato (netranĉita)"
+      }
+    ]
+  },
+  {
+    "word": "granatoin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnet (cut)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grenato (tranĉita)"
+      }
+    ]
+  },
+  {
+    "word": "granoin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granito"
+      }
+    ]
+  },
+  {
+    "word": "grän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grain (pharmacological measure)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grano"
       }
     ]
   },
@@ -25409,7 +25575,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "corn"
+        "text": "grain, cereal, corn"
+      },
+      {
+        "lang": "esperanto",
+        "text": "greno"
+      }
+    ]
+  },
+  {
+    "word": "grenabarak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grain store"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grenejo"
       }
     ]
   },
@@ -25421,6 +25606,10 @@
       {
         "lang": "english",
         "text": "cereal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cerealo"
       }
     ]
   },
