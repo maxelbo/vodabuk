@@ -25517,6 +25517,36 @@
     ]
   },
   {
+    "word": "granik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnular"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grajna"
+      }
+    ]
+  },
+  {
+    "word": "granil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnule"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grajneto"
+      }
+    ]
+  },
+  {
     "word": "granoin",
     "lang": "volapuk",
     "category": "n.",
@@ -25528,6 +25558,77 @@
       {
         "lang": "esperanto",
         "text": "granito"
+      }
+    ]
+  },
+  {
+    "word": "granoinacan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnite ware"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granitaĵo"
+      }
+    ]
+  },
+  {
+    "word": "granoinik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "garnitic, made of granite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granita"
+      }
+    ]
+  },
+  {
+    "word": "gratön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to caw (like a raven), to croak"
+      }
+    ]
+  },
+  {
+    "word": "grav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stateliness, splendour, splendor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandiozeco"
+      }
+    ]
+  },
+  {
+    "word": "gravik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stately, splendid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandioza"
       }
     ]
   },
@@ -25547,17 +25648,6 @@
     ]
   },
   {
-    "word": "gratön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to caw (like a raven), to croak"
-      }
-    ]
-  },
-  {
     "word": "gredaked",
     "lang": "volapuk",
     "category": "n.",
@@ -25565,6 +25655,82 @@
       {
         "lang": "english",
         "text": "a scale (calibration)"
+      }
+    ]
+  },
+  {
+    "word": "gred",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "calibration, degree"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grado"
+      }
+    ]
+  },
+  {
+    "word": "gredaked",
+    "roots": ["gred", "ked"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "scale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gradaro, skalo"
+      }
+    ]
+  },
+  {
+    "word": "gredik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "step-wise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grada"
+      }
+    ]
+  },
+  {
+    "word": "gredo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gradually"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grade"
+      }
+    ]
+  },
+  {
+    "word": "gredön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to graduate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gradiĝi"
       }
     ]
   },
@@ -25643,6 +25809,10 @@
       {
         "lang": "english",
         "text": "on a grand scale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandskala"
       }
     ]
   },
@@ -25654,6 +25824,10 @@
       {
         "lang": "english",
         "text": "magnitude (maths)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grando (matematiko)"
       }
     ]
   },
@@ -25665,6 +25839,10 @@
       {
         "lang": "english",
         "text": "big, great, large, tall"
+      },
+      {
+        "lang": "esperanto",
+        "text": "granda"
       }
     ]
   },
@@ -25676,6 +25854,10 @@
       {
         "lang": "english",
         "text": "size"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandeco"
       }
     ]
   },
@@ -25687,6 +25869,10 @@
       {
         "lang": "english",
         "text": "an enlargement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandigo"
       }
     ]
   },
@@ -25698,39 +25884,115 @@
       {
         "lang": "english",
         "text": "a griffin (mythology)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grifo"
+      }
+    ]
+  },
+  {
+    "word": "grif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) grafting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grefto, greftado"
+      }
+    ]
+  },
+  {
+    "word": "grifatuig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "graft (twig that is grafted), scion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "greftajo"
+      }
+    ]
+  },
+  {
+    "word": "grifaväk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grafting wax"
+      },
+      {
+        "lang": "esperanto",
+        "text": "greftovakso"
       }
     ]
   },
   {
     "word": "grifön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to graft"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grefti"
+      }
+    ]
+  },
+  {
+    "word": "grin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rikano"
       }
     ]
   },
   {
     "word": "grinedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to grin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rikani"
       }
     ]
   },
   {
     "word": "grinön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to grin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rikani"
       }
     ]
   },
@@ -25742,6 +26004,10 @@
       {
         "lang": "english",
         "text": "'flu, influenza"
+      },
+      {
+        "lang": "esperanto",
+        "text": "'gripo, influenco"
       }
     ]
   },
@@ -25752,7 +26018,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "brutal"
+        "text": "boorish, uncouth, coarse, crude, rough, brutal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmilda, kruda"
       }
     ]
   },
@@ -25763,7 +26033,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "unrefined"
+        "text": "rough, raw, crude, coarse, unrefined"
+      },
+      {
+        "lang": "esperanto",
+        "text": "groba, malĝentila, kruda"
+      }
+    ]
+  },
+  {
+    "word": "groböf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bluntness, gruffness, rudeness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grobeco, malĝentileco, krudeco"
       }
     ]
   },
