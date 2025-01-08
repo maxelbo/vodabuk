@@ -26154,6 +26154,10 @@
       {
         "lang": "english",
         "text": "gravel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gruzo"
       }
     ]
   },
@@ -26165,6 +26169,25 @@
       {
         "lang": "english",
         "text": "gravel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gruzo"
+      }
+    ]
+  },
+  {
+    "word": "grosül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wholesale trading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pogranda komerco"
       }
     ]
   },
@@ -26176,6 +26199,25 @@
       {
         "lang": "english",
         "text": "wholesale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pogranda"
+      }
+    ]
+  },
+  {
+    "word": "grosülo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wholesale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pogrande"
       }
     ]
   },
@@ -26186,7 +26228,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "oatmeal"
+        "text": "groats, oatmeal, blancmange"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aveno"
       }
     ]
   },
@@ -26198,6 +26244,10 @@
       {
         "lang": "english",
         "text": "grotesque"
+      },
+      {
+        "lang": "esperanto",
+        "text": "groteska"
       }
     ]
   },
@@ -26208,7 +26258,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a crane"
+        "text": "a crane (bird)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gruo (birdo)"
       }
     ]
   },
@@ -26224,6 +26278,21 @@
     ]
   },
   {
+    "word": "gruf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a groove, channel, furrow, gutter, rut"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sulko"
+      }
+    ]
+  },
+  {
     "word": "grufet",
     "lang": "volapuk",
     "category": "n.",
@@ -26231,39 +26300,55 @@
       {
         "lang": "english",
         "text": "a line (on hand/face)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "falto (haǔto)"
       }
     ]
   },
   {
     "word": "grufön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to line (face, hand)"
+        "text": "to plough furrows in, to chamfer grooves in, to line (face, hand)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sulkigi"
       }
     ]
   },
   {
     "word": "grulön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to crawl, to swarm"
+        "text": "to be crawling with, to be teeming with, to swarm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "svarmi (esti tre multnombra)"
       }
     ]
   },
   {
     "word": "grunön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to grunt (like a pig); to snort"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grunti"
       }
     ]
   },
@@ -26275,6 +26360,10 @@
       {
         "lang": "english",
         "text": "a group"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grupo"
       }
     ]
   },
@@ -26297,6 +26386,10 @@
       {
         "lang": "english",
         "text": "green"
+      },
+      {
+        "lang": "esperanto",
+        "text": "verda"
       }
     ]
   },
@@ -26307,7 +26400,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pear"
+        "text": "a pear, guava?"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piro, gujavo?"
       }
     ]
   },
@@ -26352,6 +26449,10 @@
       {
         "lang": "english",
         "text": "good"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bona"
       }
     ]
   },
@@ -26363,28 +26464,40 @@
       {
         "lang": "english",
         "text": "well"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bone"
       }
     ]
   },
   {
     "word": "gudikum (ka)",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "better (than)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pli bona"
       }
     ]
   },
   {
     "word": "gudikün (de/se)",
     "lang": "volapuk",
-    "category": "adv.",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "the best (of/in)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plej bona"
       }
     ]
   },
@@ -26396,6 +26509,10 @@
       {
         "lang": "english",
         "text": "an improvement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plibonigo"
       }
     ]
   },
@@ -26418,6 +26535,10 @@
       {
         "lang": "english",
         "text": "an abyss, a chasm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "abismo"
       }
     ]
   },
@@ -26429,6 +26550,10 @@
       {
         "lang": "english",
         "text": "a throat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gorĝo"
       }
     ]
   },
@@ -26440,6 +26565,10 @@
       {
         "lang": "english",
         "text": "to gargle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gargari"
       }
     ]
   },
@@ -26462,6 +26591,10 @@
       {
         "lang": "english",
         "text": "an angle, a corner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "angulo"
       }
     ]
   },
@@ -26473,6 +26606,10 @@
       {
         "lang": "english",
         "text": "geometry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geometrio"
       }
     ]
   },
@@ -26483,7 +26620,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "India-rubber"
+        "text": "rubber, India-rubber"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaǔĉuko, gumo"
       }
     ]
   },
@@ -26495,6 +26636,10 @@
       {
         "lang": "english",
         "text": "an elastic band"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaǔĉuka bendo"
       }
     ]
   },
@@ -26505,7 +26650,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a coat"
+        "text": "a coat, frock, frock-coat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mantelo, kitelo, redingoto"
       }
     ]
   },
@@ -26516,7 +26665,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "August"
+        "text": "August (month)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔgusto (monato)"
+      }
+    ]
+  },
+  {
+    "word": "gustulik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "of August (month)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔgusta (monato)"
       }
     ]
   },
@@ -26528,28 +26696,115 @@
       {
         "lang": "english",
         "text": "a taste"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gusto"
       }
     ]
   },
   {
     "word": "gutön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to taste"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gustumi"
+      }
+    ]
+  },
+  {
+    "word": "guv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "administration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administrado"
+      }
+    ]
+  },
+  {
+    "word": "guvan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "administrator"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administranto"
+      }
+    ]
+  },
+  {
+    "word": "guver",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "management, regulation, an administration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administracio"
+      }
+    ]
+  },
+  {
+    "word": "guveran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "governor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administranto"
+      }
+    ]
+  },
+  {
+    "word": "guveranef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "government, regime"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administrantaro"
       }
     ]
   },
   {
     "word": "guvön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to administer, to govern, to manage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "administri"
       }
     ]
   },
@@ -26594,17 +26849,10 @@
       {
         "lang": "english",
         "text": "an abyss"
-      }
-    ]
-  },
-  {
-    "word": "guver",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "an administration"
+        "lang": "esperanto",
+        "text": "abismo"
       }
     ]
   },
