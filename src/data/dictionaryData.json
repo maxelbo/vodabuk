@@ -8466,7 +8466,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pear"
+        "text": "a pear (Pyrus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piro (Pyrus)"
       }
     ]
   },
@@ -8478,6 +8482,10 @@
       {
         "lang": "english",
         "text": "a pear tree"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pirujo, pirarbo"
       }
     ]
   },
@@ -8488,37 +8496,86 @@
     "translations": [
       {
         "lang": "english",
-        "text": "before"
+        "text": "before, formerly"
       },
       {
+        "lang": "esperanto",
+        "text": "antaǔe, pli malfrue ol"
+      }
+    ]
+  },
+  {
+    "word": "büoced",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
         "lang": "english",
-        "text": "formerly"
+        "text": "an assumption, presumption, presupposition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supozo"
       }
     ]
   },
   {
     "word": "büocedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to suppose"
+        "text": "to assume, to suppose, to presuppose"
       },
       {
-        "lang": "english",
-        "text": "to presuppose"
+        "lang": "esperanto",
+        "text": "supozi"
       }
     ]
   },
   {
-    "word": "böoced",
+    "word": "büokälön",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "a presupposition"
+        "text": "to provide for/against, to make provision for; (in caring)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔzorgi"
+      }
+    ]
+  },
+  {
+    "word": "büokömön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to come early, to come in advance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔveni"
+      }
+    ]
+  },
+  {
+    "word": "büologam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "foreseeing, providence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔvidante"
       }
     ]
   },
@@ -8530,17 +8587,25 @@
       {
         "lang": "english",
         "text": "a preview"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔrigardo"
       }
     ]
   },
   {
     "word": "büologön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to foresee"
+        "text": "to foresee, to see in advance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔvidi"
       }
     ]
   },
@@ -26400,11 +26465,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pear, guava?"
+        "text": "a guava (Psidium guajava)"
       },
       {
         "lang": "esperanto",
-        "text": "piro, gujavo?"
+        "text": "gujavo (Psidium guajava)"
       }
     ]
   },
@@ -26416,17 +26481,25 @@
       {
         "lang": "english",
         "text": "an oar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "remilo"
       }
     ]
   },
   {
     "word": "gubön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to row"
+      },
+      {
+        "lang": "esperanto",
+        "text": "remi"
       }
     ]
   },
@@ -26438,6 +26511,10 @@
       {
         "lang": "english",
         "text": "benevolent, good-natured, kind-hearted"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompleza"
       }
     ]
   },
@@ -26524,6 +26601,10 @@
       {
         "lang": "english",
         "text": "to improve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plibonigi"
       }
     ]
   },
@@ -31007,6 +31088,81 @@
     ]
   },
   {
+    "word": "Jivirgal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the Virgin Mary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Virgulino Mario"
+      }
+    ]
+  },
+  {
+    "word": "Jlesän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Silesia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Silezio"
+      }
+    ]
+  },
+  {
+    "word": "Jlesvigän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Schleswig"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ŝlesvigo"
+      }
+    ]
+  },
+  {
+    "word": "Jvabän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Swabia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ŝvabujo, Ŝvabio"
+      }
+    ]
+  },
+  {
+    "word": "Jveizän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Switzerland"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Svisujo, Svisio, Svislando"
+      }
+    ]
+  },
+  {
     "word": "ka",
     "lang": "volapuk",
     "category": "conj.",
@@ -32282,13 +32438,47 @@
     ]
   },
   {
+    "word": "käl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "care, maintenance, nursing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorgo, varto, flego"
+      }
+    ]
+  },
+  {
     "word": "kälan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a foster-parent"
+        "text": "an attendant, keeper, nurse, a foster-parent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorganto, flegisto, vartisto"
+      }
+    ]
+  },
+  {
+    "word": "kälafat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a foster father"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adopta patro"
       }
     ]
   },
@@ -32299,7 +32489,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a foster-child"
+        "text": "a patient, a fosterling, a foster-child, ward"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adopta infano, paciento"
       }
     ]
   },
@@ -32310,18 +32504,37 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a ranger"
+        "text": "a supervisor, a ranger"
+      }
+    ]
+  },
+  {
+    "word": "käläl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(disposition of) observing, heeding, taking care"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorgado"
       }
     ]
   },
   {
     "word": "kälälön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to care for, to mind"
+        "text": "to care for, to mind, to take to heart, to take heed of, to mind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorgi"
       }
     ]
   },
@@ -32367,11 +32580,30 @@
   {
     "word": "kälön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to attend to, to care for, to cherish, to look after, to nurse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorgi, varti, flegi"
+      }
+    ]
+  },
+  {
+    "word": "kältan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "celt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kelto"
       }
     ]
   },
@@ -32383,6 +32615,10 @@
       {
         "lang": "english",
         "text": "celtic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kelta"
       }
     ]
   },
@@ -32394,12 +32630,20 @@
       {
         "lang": "english",
         "text": "a camera"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kamerao"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "tonodakäm = a video camera"
+        "text": "tonodakäm = a video camera."
+      },
+      {
+        "lang": "english",
+        "text": "tonodakäm = videokamerao."
       }
     ]
   },
@@ -32411,6 +32655,10 @@
       {
         "lang": "english",
         "text": "a cannon"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kanono, pafilego"
       }
     ]
   },
@@ -39339,11 +39587,15 @@
   {
     "word": "labön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to have"
+      },
+      {
+        "lang": "esperanto",
+        "text": "havi"
       }
     ]
   },
@@ -39355,6 +39607,10 @@
       {
         "lang": "english",
         "text": "an album"
+      },
+      {
+        "lang": "esperanto",
+        "text": "albumo"
       }
     ]
   },
@@ -39365,14 +39621,18 @@
     "translations": [
       {
         "lang": "english",
-        "text": "including"
+        "text": "having, including"
+      },
+      {
+        "lang": "esperanto",
+        "text": "havante"
       }
     ]
   },
   {
     "word": "labükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -39383,11 +39643,15 @@
   {
     "word": "labülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to assume, to occupy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okupi"
       }
     ]
   },
@@ -39399,6 +39663,10 @@
       {
         "lang": "english",
         "text": "a labyrinth, a maze"
+      },
+      {
+        "lang": "esperanto",
+        "text": "labirinto"
       }
     ]
   },
@@ -71509,6 +71777,10 @@
       {
         "lang": "english",
         "text": "a query, a question"
+      },
+      {
+        "lang": "esperanto",
+        "text": "demando"
       }
     ]
   },
@@ -71658,15 +71930,25 @@
   {
     "word": "säkön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to ask (a question)"
+        "text": "to ask, to question, to wonder"
       },
       {
+        "lang": "esperanto",
+        "text": "demandi"
+      }
+    ],
+    "examples": [
+      {
         "lang": "english",
-        "text": "to wonder"
+        "text": "Säkön eke bosi = To ask somebody about something."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Säkön eke bosi = Demandi al iu ion."
       }
     ]
   },
@@ -87928,6 +88210,10 @@
       {
         "lang": "english",
         "text": "currency exchange"
+      },
+      {
+        "lang": "esperanto",
+        "text": "valuto"
       }
     ]
   },
@@ -87939,6 +88225,10 @@
       {
         "lang": "english",
         "text": "a whale"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baleno"
       }
     ]
   },
@@ -87950,6 +88240,10 @@
       {
         "lang": "english",
         "text": "warm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varma"
       }
     ]
   },
@@ -87961,6 +88255,10 @@
       {
         "lang": "english",
         "text": "heat, temperature"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varmo"
       }
     ]
   },
@@ -87972,6 +88270,10 @@
       {
         "lang": "english",
         "text": "vampire"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vampiro"
       }
     ]
   },
@@ -87983,6 +88285,10 @@
       {
         "lang": "english",
         "text": "a heater"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varmigilo"
       }
     ]
   },
@@ -87994,6 +88300,10 @@
       {
         "lang": "english",
         "text": "to heat, to warm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varmigi"
       }
     ]
   },
@@ -88005,6 +88315,10 @@
       {
         "lang": "english",
         "text": "lukewarm, tepid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varmeta"
       }
     ]
   },
@@ -88016,6 +88330,10 @@
       {
         "lang": "english",
         "text": "vanilla ice-cream"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vanila glaciaĵo"
       }
     ]
   },
@@ -88027,6 +88345,10 @@
       {
         "lang": "english",
         "text": "futile, vain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vana"
       }
     ]
   },
@@ -88038,6 +88360,10 @@
       {
         "lang": "english",
         "text": "to frustrate, to thwart"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vanigi"
       }
     ]
   },
@@ -88049,6 +88375,10 @@
       {
         "lang": "english",
         "text": "an avocado (pear)"
+      },
+      {
+        "lang": "english",
+        "text": "avokado"
       }
     ]
   },
