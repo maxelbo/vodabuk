@@ -8481,11 +8481,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pear tree"
+        "text": "a pear tree (Pyrus)"
       },
       {
         "lang": "esperanto",
-        "text": "pirujo, pirarbo"
+        "text": "pirujo, pirarbo (Pyrus)"
+      }
+    ]
+  },
+  {
+    "word": "bünabim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pear tree (Pyrus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pirujo, pirarbo (Pyrus)"
       }
     ]
   },
@@ -9631,11 +9646,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry"
+        "text": "a cherry (Prunus cerasus)"
       },
       {
         "lang": "esperanto",
-        "text": "ĉerizo"
+        "text": "ĉerizo (Prunus cerasus)"
       }
     ]
   },
@@ -9646,11 +9661,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry tree, Prunus cerasus"
+        "text": "a cherry tree (Prunus cerasus)"
       },
       {
         "lang": "esperanto",
-        "text": "ĉerizujo"
+        "text": "ĉerizujo, ĉerizarbo (Prunus cerasus)"
       }
     ]
   },
@@ -9661,11 +9676,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cherry tree, Prunus cerasus"
+        "text": "a cherry tree (Prunus cerasus)"
       },
       {
         "lang": "esperanto",
-        "text": "ĉerizujo"
+        "text": "ĉerizujo, ĉerizarbo (Prunus cerasus)"
       }
     ]
   },
@@ -9676,11 +9691,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a room (in a house)"
+        "text": "a room"
       },
       {
         "lang": "esperanto",
         "text": "ĉambro"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Cem malädanas = Sick room, hospital ward"
       }
     ]
   },
@@ -26470,6 +26491,36 @@
       {
         "lang": "esperanto",
         "text": "gujavo (Psidium guajava)"
+      }
+    ]
+  },
+  {
+    "word": "guayadep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a guava tree (Psidium guajava)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gujavujo, gujavarbo (Psidium guajava)"
+      }
+    ]
+  },
+  {
+    "word": "guayadabim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a guava tree (Psidium guajava)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gujavujo, gujavarbo (Psidium guajava)"
       }
     ]
   },
@@ -47200,7 +47251,7 @@
     ]
   },
   {
-    "word": "lölöfík",
+    "word": "lölöfik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -53246,24 +53297,122 @@
     ]
   },
   {
+    "word": "mök",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "preparation, arranging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preparo"
+      }
+    ]
+  },
+  {
+    "word": "mökan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "person who prepares or arranges"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preparo"
+      }
+    ]
+  },
+  {
+    "word": "mökädön",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to preserve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konservi"
+      }
+    ]
+  },
+  {
     "word": "mökot",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "(medical) preparation"
+        "text": "a (medical) preparation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preparaĵo"
       }
     ]
   },
   {
     "word": "mökön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to prepare (oneself)"
+        "text": "to arrange, to get something ready, to prepare (oneself)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prepari"
+      }
+    ]
+  },
+  {
+    "word": "möl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mole (unit of measurement used in chemistry)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "molo"
+      }
+    ]
+  },
+  {
+    "word": "mölasoülot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "standard solution, titrant, titrator (analytical chemistry)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "titro"
+      }
+    ]
+  },
+  {
+    "word": "mölekül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "molecule"
+      },
+      {
+        "lang": "esperanto",
+        "text": "molekulo"
       }
     ]
   },
@@ -53274,7 +53423,73 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(outside) wall"
+        "text": "(outside) wall, outer wall"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekstera muro"
+      }
+    ]
+  },
+  {
+    "word": "möön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be so and so many"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Mäl möons a paun bal = Six come to a pound (lb)."
+      }
+    ]
+  },
+  {
+    "word": "mörit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wild cherry (Prunus avium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "merizo (Prunus avium)"
+      }
+    ]
+  },
+  {
+    "word": "möritabim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wild cherry tree (Prunus avium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "merizujo, merizarbo (Prunus avium)"
+      }
+    ]
+  },
+  {
+    "word": "möritep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wild cherry tree (Prunus avium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "merizujo, merizarbo (Prunus avium)"
       }
     ]
   },
@@ -63170,7 +63385,7 @@
     ]
   },
   {
-    "word": "penamacín",
+    "word": "penamacin",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -63181,7 +63396,7 @@
     ]
   },
   {
-    "word": "penamacínaklavem",
+    "word": "penamacinaklavem",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -79699,7 +79914,7 @@
     ]
   },
   {
-    "word": "stipöfík",
+    "word": "stipöfik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
