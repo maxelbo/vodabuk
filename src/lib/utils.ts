@@ -5,6 +5,10 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export function capitalize(string: string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
+export function capitalize(string: string | null | undefined): string {
+  if (!string) return '';
+
+  const trimmed = string.trim();
+
+  return trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
 }
