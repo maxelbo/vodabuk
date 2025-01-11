@@ -6,9 +6,8 @@ import { Button } from '@/components/ui/button';
 import Result from '@/components/Result';
 import Spinner from '@/components/Spinner';
 import { Search as SearchIcon } from 'lucide-react';
-import { DictionaryEntryType } from '@/lib/types';
+import type { DictionaryEntryType, LangContextProps } from '@/lib/types';
 import { useLangContext } from '@/context/LanguageContext';
-import type { LangContextProps } from '@/lib/types';
 
 interface SearchProps {
   dictionaryData: DictionaryEntryType[];
@@ -24,17 +23,26 @@ export default function Search({ dictionaryData }: SearchProps) {
     const excludeWordList = ['a', 'an', 'to', 'the'];
 
     // Remove special characters and normalizes spaces
-    const normalizeText = (text: string): string => {
+    function normalizeText(text: string): string {
       const normalized = text
         .toLowerCase()
-        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '')
+        // rm spaces
+        .replace(/\s+/g, ' ')
         .trim()
-        .replace(/\s+/g, ' ');
+        .split(' ')
+        .map((word) => {
+          // Keep hyphen at start
+          const startsWithHyphen = word.startsWith('-');
+          const cleaned = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
+          // Add back hyphen to start
+          return startsWithHyphen ? `-${cleaned}` : cleaned;
+        })
+        .join(' ');
       return normalized;
-    };
+    }
 
     // Exact word match for translations
-    const isExactWordMatch = (text: string, searchQuery: string): boolean => {
+    function isExactWordMatch(text: string, searchQuery: string): boolean {
       const normalizedText = normalizeText(text);
       const normalizedQuery = normalizeText(searchQuery);
 
@@ -44,22 +52,30 @@ export default function Search({ dictionaryData }: SearchProps) {
         const words = part.trim().split(' ');
         return words.some((word) => word === normalizedQuery);
       });
-    };
+    }
 
     // Starts with match for Volapük words
-    const isVolapukMatch = (text: string, searchQuery: string): boolean => {
+    function isVolapukMatch(text: string, searchQuery: string): boolean {
       const normalizedText = normalizeText(text);
       const normalizedQuery = normalizeText(searchQuery);
-      return normalizedText.startsWith(normalizedQuery);
-    };
 
-    const cleanTranslationText = (text: string): string => {
+      if (normalizedQuery.startsWith('-')) {
+        return normalizedText.startsWith(normalizedQuery);
+      }
+
+      return (
+        normalizedText.startsWith(normalizedQuery) ||
+        normalizedText.startsWith(`-${normalizedQuery}`)
+      );
+    }
+
+    function cleanTranslationText(text: string): string {
       const normalizedText = normalizeText(text);
       return normalizedText
         .split(' ')
         .filter((word) => !excludeWordList.includes(word))
         .join(' ');
-    };
+    }
 
     const trimmedQuery = searchQuery.trim();
     if (!trimmedQuery) return [];
