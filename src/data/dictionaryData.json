@@ -4108,7 +4108,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a banana"
+        "text": "a banana (Musa)"
+      },
+      {
+        "lang": "english",
+        "text": "banano (Musa)"
       }
     ]
   },
@@ -7202,13 +7206,32 @@
     ]
   },
   {
+    "word": "bram",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a blackberry, a bramble (Rubus fructicosus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rubuso (bero), rubusbero (Rubus fructicosus)"
+      }
+    ]
+  },
+  {
     "word": "bramarubud",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a blackberry bush"
+        "text": "a blackberry bush, bramble bush (Rubus fructicosus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rubusujo (Rubus fructicosus)"
       }
     ]
   },
@@ -16791,13 +16814,32 @@
     ]
   },
   {
+    "word": "dut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(state of) belonging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aparteno"
+      }
+    ]
+  },
+  {
     "word": "dutön (lü)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to belong (to)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rilati, aparteni"
       }
     ]
   },
@@ -16809,6 +16851,10 @@
       {
         "lang": "english",
         "text": "during"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dum"
       }
     ]
   },
@@ -16820,6 +16866,10 @@
       {
         "lang": "english",
         "text": "a paper bag"
+      },
+      {
+        "lang": "esperanto",
+        "text": "papersaketo"
       }
     ]
   },
@@ -16831,6 +16881,10 @@
       {
         "lang": "english",
         "text": "hardness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmoleco, dureco"
       }
     ]
   },
@@ -16853,17 +16907,40 @@
       {
         "lang": "english",
         "text": "hard"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmola, dura"
       }
     ]
   },
   {
     "word": "düfikam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
         "text": "hardening"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmoliĝado, duriĝado"
+      }
+    ]
+  },
+  {
+    "word": "düfön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "being hard"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malmoli, duri"
       }
     ]
   },
@@ -16879,6 +16956,36 @@
     ]
   },
   {
+    "word": "dün",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "servicing, service"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servado, servo"
+      }
+    ]
+  },
+  {
+    "word": "dünan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a servant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servisto"
+      }
+    ]
+  },
+  {
     "word": "dünädian",
     "lang": "volapuk",
     "category": "n.",
@@ -16886,6 +16993,10 @@
       {
         "lang": "english",
         "text": "a server (computer)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servilo (komp)"
       }
     ]
   },
@@ -16901,24 +17012,47 @@
     ]
   },
   {
-    "word": "dünädön",
+    "word": "dünäd",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to do military service"
+        "text": "military service, active service"
+      },
+      {
+        "lang": "esperanto",
+        "text": "militservo"
       }
     ]
   },
   {
-    "word": "dünan",
+    "word": "dünädikön",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "a servant"
+        "text": "to enlist (for military service)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varbiĝi en la armeon"
+      }
+    ]
+  },
+  {
+    "word": "dünädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to do military service"
+      },
+      {
+        "lang": "esperanto",
+        "text": "militservi"
       }
     ]
   },
@@ -16941,6 +17075,70 @@
       {
         "lang": "english",
         "text": "an errand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komisio (tio, per kio iu estas komisiita)"
+      }
+    ]
+  },
+  {
+    "word": "dünetön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to run an errand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plenumi komision, komisii"
+      }
+    ]
+  },
+  {
+    "word": "düniäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "zeal, zealousness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servemo"
+      }
+    ]
+  },
+  {
+    "word": "düniälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eager, ready for service, solicitous, zealous"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servema"
+      }
+    ]
+  },
+  {
+    "word": "dünetan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an errand boy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komisiito, komizo, komisaro, komisario"
       }
     ]
   },
@@ -16951,7 +17149,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a service"
+        "text": "a service, an individual act of service"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deĵoro"
       }
     ]
   },
@@ -16962,29 +17164,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (shop) assistant"
+        "text": "a person on duty, commissionaire, a (shop) assistant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deĵoranto"
       }
     ]
   },
   {
     "word": "dünön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to serve"
+        "text": "to serve, to work for"
+      },
+      {
+        "lang": "esperanto",
+        "text": "servi"
       }
     ]
   },
   {
     "word": "dünükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to hire, to employ"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dungi"
       }
     ]
   },
@@ -17039,24 +17253,114 @@
     ]
   },
   {
-    "word": "dütön",
+    "word": "düt",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to appropriate"
+        "text": "an acquisition, annexation, appropriation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akirado, aneksado"
       }
     ]
   },
   {
-    "word": "e",
+    "word": "dütedön",
+    "lang": "volapuk",
+    "category": "tr. dat.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reckon, to count"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Dütedob omi fenes oba / dütedob omi bevü/ad flens oba = I count him among my friends."
+      },
+      {
+        "lang": "english",
+        "text": "Dütön oke kläno moni = To abstract / appropriate secretely money for oneself."
+      }
+    ]
+  },
+  {
+    "word": "dütön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to appropriate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akiri"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Dütön oke = To get for oneself."
+      },
+      {
+        "lang": "english",
+        "text": "Dütön oke kläno moni = To abstract / appropriate secretely money for oneself."
+      }
+    ]
+  },
+  {
+    "word": "dütülön",
+    "lang": "volapuk",
+    "category": "tr. dat.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to borrow from, to derive from, to take from"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prunti, derivi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Vöds natapükes pedütülöls = Words borrowed from natural languages."
+      }
+    ]
+  },
+  {
+    "word": "Deutän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Germany"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Germanio"
+      }
+    ]
+  },
+  {
+    "word": "e, ed",
     "lang": "volapuk",
     "category": "conj.",
     "translations": [
       {
         "lang": "english",
         "text": "and"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaj"
       }
     ]
   },
@@ -17067,7 +17371,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "just, precisely"
+        "text": "just, precisely, exactly on/at"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝuste"
       }
     ]
   },
@@ -17170,7 +17478,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "just now"
+        "text": "just now, recently"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔ nelonge, nelge"
       }
     ]
   },
@@ -18144,7 +18456,7 @@
     "word": "fäkädükön",
     "roots": ["fäk"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -18161,6 +18473,10 @@
       {
         "lang": "english",
         "text": "emotion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emocio"
       }
     ]
   },
@@ -18173,6 +18489,10 @@
       {
         "lang": "english",
         "text": "excited, moved (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emocia, kortuŝanta"
       }
     ]
   },
@@ -18180,11 +18500,15 @@
     "word": "fäkikön",
     "roots": ["fäk"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be moved (emotionally)"
+      },
+      {
+        "lang": "english",
+        "text": "emociiĝi"
       }
     ]
   },
@@ -18192,11 +18516,15 @@
     "word": "fäkön",
     "roots": ["fäk"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be touched (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emociiĝi, esti kortuŝita"
       }
     ]
   },
@@ -18216,11 +18544,15 @@
     "word": "fäkükön",
     "roots": ["fäk"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to move (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emocii"
       }
     ]
   },
@@ -18232,6 +18564,10 @@
       {
         "lang": "english",
         "text": "(wheel) hub"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nabo (de rado)"
       }
     ]
   },
@@ -18243,13 +18579,17 @@
       {
         "lang": "english",
         "text": "a valley"
+      },
+      {
+        "lang": "esperanto",
+        "text": "valo"
       }
     ]
   },
   {
     "word": "fänädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
@@ -18265,6 +18605,10 @@
       {
         "lang": "english",
         "text": "a ventilator"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ventolilo"
       }
     ]
   },
@@ -18282,22 +18626,45 @@
   {
     "word": "färmükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to close, to shut"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermi"
       }
     ]
   },
   {
     "word": "färmükön me lök",
     "lang": "volapuk",
-    "category": "phrase",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to lock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝlosi"
+      }
+    ]
+  },
+  {
+    "word": "pefärmüköl",
+    "lang": "volapuk",
+    "category": "act. part.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "closed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermita"
       }
     ]
   },
@@ -18348,6 +18715,10 @@
       {
         "lang": "english",
         "text": "it's true that"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estas vere, ja"
       }
     ]
   },
@@ -18359,6 +18730,25 @@
       {
         "lang": "english",
         "text": "complete consumption"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuta konsumo, neniigo"
+      }
+    ]
+  },
+  {
+    "word": "fea-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "change of location"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lokŝanĝo"
       }
     ]
   },
@@ -18366,11 +18756,15 @@
     "word": "feablunedön",
     "roots": ["blun"],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to re-baptize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rebapti"
       }
     ]
   },
@@ -18383,6 +18777,10 @@
       {
         "lang": "english",
         "text": "a transformer (electrical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transformilo (elektra), transformatoro"
       }
     ]
   },
@@ -18418,7 +18816,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to download [computers]"
+        "text": "to download (computers)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elŝuti (komputilo)"
       }
     ]
   },
@@ -18477,7 +18879,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (commercial) enterprise"
+        "text": "business (in general), service, a (commercial) enterprise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "negoco"
       }
     ]
   },
@@ -18489,7 +18895,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "occupation, trade"
+        "text": "craft, craftwork trade, occupation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "metio"
       }
     ]
   },
@@ -18502,6 +18912,10 @@
       {
         "lang": "english",
         "text": "February"
+      },
+      {
+        "lang": "esperanto",
+        "text": "februaro"
       }
     ]
   },
@@ -18630,13 +19044,32 @@
     ]
   },
   {
-    "word": "feilal äned",
+    "word": "feil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agriculture"
+      },
+      {
+        "lang": "esperanto",
+        "text": "terkulturo, agrikulturo"
+      }
+    ]
+  },
+  {
+    "word": "feilaläned",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "arable land"
+      },
+      {
+        "lang": "esperanto",
+        "text": "agro, kampo, kulturata kampo"
       }
     ]
   },
@@ -18647,7 +19080,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "agriculture"
+        "text": "cultivation, farming, tilling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kultivado"
       }
     ]
   },
@@ -18658,11 +19095,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a peasant"
+        "text": "a farmer, a peasant, a rustic person"
       },
       {
-        "lang": "english",
-        "text": "a rustic person"
+        "lang": "esperanto",
+        "text": "kultivisto, kamparano, terkulturisto"
       }
     ]
   },
@@ -18673,7 +19110,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "rural"
+        "text": "rural, partaining to farmers"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kamparana"
       }
     ]
   },
@@ -18684,7 +19125,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "agriculture"
+        "text": "agronomy, agricultural science"
+      },
+      {
+        "lang": "esperanto",
+        "text": "agronomio, scienco pri agrikulturo"
+      }
+    ]
+  },
+  {
+    "word": "fein",
+    "lang": "volapuk",
+    "category": "tr. nom.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fineness (as opposed to coarseness), subtlety"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fajneco"
       }
     ]
   },
@@ -18695,7 +19155,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "fine"
+        "text": "fine, subtle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fajna"
       }
     ]
   },
@@ -18718,6 +19182,25 @@
       {
         "lang": "english",
         "text": "a field"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kampo"
+      }
+    ]
+  },
+  {
+    "word": "felamug",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a field mouse, a common vole (Apodemus, Microtus agrestis, or M. arvalis)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kampomuso (Apodemus, Microtus agrestis aǔ M. arvalis), mikroto (Microtus)"
       }
     ]
   },
@@ -18733,6 +19216,36 @@
     ]
   },
   {
+    "word": "fem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fermentation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermentado"
+      }
+    ]
+  },
+  {
+    "word": "femön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to ferment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermenti"
+      }
+    ]
+  },
+  {
     "word": "femur",
     "lang": "volapuk",
     "category": "n.",
@@ -18740,6 +19253,10 @@
       {
         "lang": "english",
         "text": "a femur"
+      },
+      {
+        "lang": "esperanto",
+        "text": "femuro"
       }
     ]
   },
@@ -18750,7 +19267,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "fatigue, tiredness"
+        "text": "fatigue, tiredness, exhaustion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laceco"
       }
     ]
   },
@@ -18762,6 +19283,55 @@
       {
         "lang": "english",
         "text": "tired"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laca"
+      }
+    ]
+  },
+  {
+    "word": "fenön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be tired"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laci, esti laca"
+      }
+    ]
+  },
+  {
+    "word": "fenikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become blind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laciĝi"
+      }
+    ]
+  },
+  {
+    "word": "fenükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exhaust, to tire out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lacigi"
       }
     ]
   },
@@ -18773,6 +19343,10 @@
       {
         "lang": "english",
         "text": "a window"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fenestro"
       }
     ]
   },
@@ -18788,6 +19362,21 @@
     ]
   },
   {
+    "word": "fenätil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "transom window"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vazistaso"
+      }
+    ]
+  },
+  {
     "word": "fenätiklinükan",
     "lang": "volapuk",
     "category": "n.",
@@ -18795,17 +19384,10 @@
       {
         "lang": "english",
         "text": "a window cleaner"
-      }
-    ]
-  },
-  {
-    "word": "fenükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "to exhaust, to tire"
+        "lang": "esperanto",
+        "text": "fenestropurigisto"
       }
     ]
   },
@@ -21916,7 +22498,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a raspberry"
+        "text": "a raspberry (Rubus idaeus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frambo (Rubus idaeus)"
       }
     ]
   },
@@ -21927,7 +22513,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a raspberry bush"
+        "text": "a raspberry bush (Rubus idaeus)"
+      },
+      {
+        "lang": "english",
+        "text": "frambujo (Rubus idaeus)"
       }
     ]
   },
@@ -25734,17 +26324,6 @@
     ]
   },
   {
-    "word": "gredaked",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a scale (calibration)"
-      }
-    ]
-  },
-  {
     "word": "gred",
     "lang": "volapuk",
     "category": "n.",
@@ -25767,7 +26346,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "scale"
+        "text": "a scale (calibration)"
       },
       {
         "lang": "esperanto",
@@ -45168,7 +45747,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a limb, a member"
+        "text": "a limb, a member (of body)"
       }
     ]
   },
@@ -45180,6 +45759,10 @@
       {
         "lang": "english",
         "text": "a (human) member"
+      },
+      {
+        "lang": "esperanto",
+        "text": "membro (persono)"
       }
     ]
   },
@@ -54853,7 +55436,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pineapple"
+        "text": "a pineapple (Ananas comosus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ananaso (Ananas comosus)"
       }
     ]
   },
@@ -62979,6 +63566,36 @@
     ]
   },
   {
+    "word": "päskar",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fishing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiŝado, fiŝkaptado, fiŝĉasado"
+      }
+    ]
+  },
+  {
+    "word": "päskarahuk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fish hook, angle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiŝhoko"
+      }
+    ]
+  },
+  {
     "word": "päskaran",
     "lang": "volapuk",
     "category": "n.",
@@ -62986,6 +63603,10 @@
       {
         "lang": "english",
         "text": "an angler, a fisherman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiŝisto"
       }
     ]
   },
@@ -62997,6 +63618,10 @@
       {
         "lang": "english",
         "text": "to fish"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiŝi"
       }
     ]
   },
@@ -63007,7 +63632,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "plague"
+        "text": "plague, pestilence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pesto"
       }
     ]
   },
@@ -63016,6 +63645,10 @@
     "lang": "volapuk",
     "category": "interj.",
     "translations": [
+      {
+        "lang": "english",
+        "text": "bother! damn it!"
+      },
       {
         "lang": "english",
         "text": "bother! damn it!"
@@ -63041,6 +63674,25 @@
       {
         "lang": "english",
         "text": "a pin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stifto"
+      }
+    ]
+  },
+  {
+    "word": "peäniel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a pin maker (machine)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maŝino por fari stiftojn"
       }
     ]
   },
@@ -63052,6 +63704,25 @@
       {
         "lang": "english",
         "text": "pulse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulso"
+      }
+    ]
+  },
+  {
+    "word": "pebam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(process of) pulsating, pulsation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulsado"
       }
     ]
   },
@@ -63072,7 +63743,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to throb"
+        "text": "to throb, to pulsate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulsi"
       }
     ]
   },
@@ -63084,6 +63759,10 @@
       {
         "lang": "english",
         "text": "preferred"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preferita"
       }
     ]
   },
@@ -63095,6 +63774,10 @@
       {
         "lang": "english",
         "text": "pressure (physical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "premo (fizika)"
       }
     ]
   },
@@ -63106,6 +63789,10 @@
       {
         "lang": "english",
         "text": "pressure (mental)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "premo (mensa)"
       }
     ]
   },
@@ -63143,13 +63830,62 @@
     ]
   },
   {
+    "word": "pedan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "presser (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presisto"
+      }
+    ]
+  },
+  {
+    "word": "pedik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pressing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prema"
+      }
+    ]
+  },
+  {
+    "word": "pedöm",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a press (machine)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "premilo"
+      }
+    ]
+  },
+  {
     "word": "pedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to press"
+      },
+      {
+        "lang": "esperanto",
+        "text": "premi"
       }
     ]
   },
@@ -63172,17 +63908,6 @@
       {
         "lang": "english",
         "text": "deductive"
-      }
-    ]
-  },
-  {
-    "word": "pefärmüköl",
-    "lang": "volapuk",
-    "category": "act. part.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "closed"
       }
     ]
   },
@@ -65739,11 +66464,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an apple"
+        "text": "an apple (Malus)"
       },
       {
         "lang": "esperanto",
-        "text": "pomo"
+        "text": "pomo (Malus)"
+      }
+    ]
+  },
+  {
+    "word": "podabim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apple tree (Malus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pomujo, pomarbo, maluso (Malus)"
+      }
+    ]
+  },
+  {
+    "word": "podep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apple tree (Malus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pomujo, pomarbo (Malus)"
       }
     ]
   },
@@ -69985,6 +70740,10 @@
       {
         "lang": "english",
         "text": "parliament"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parlamento"
       }
     ]
   },
@@ -69996,6 +70755,10 @@
       {
         "lang": "english",
         "text": "rain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pluvo"
       }
     ]
   },
@@ -70007,6 +70770,10 @@
       {
         "lang": "english",
         "text": "a rainbow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉielarko"
       }
     ]
   },
@@ -70018,6 +70785,10 @@
       {
         "lang": "english",
         "text": "an umbrella"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ombrelo"
       }
     ]
   },
@@ -70301,6 +71072,1068 @@
     ]
   },
   {
+    "word": "resod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a network"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reto (Vüresod = la Interreto)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Vüresod = the Internet."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Vüresod = Interreto"
+      }
+    ]
+  },
+  {
+    "word": "resodaklub",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an internet forum"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interreta forumo"
+      }
+    ]
+  },
+  {
+    "word": "resodapened",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an e-mail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retpoŝto"
+      }
+    ]
+  },
+  {
+    "word": "resodatoped",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a website"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retejo"
+      }
+    ]
+  },
+  {
+    "word": "resor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a spring"
+      },
+      {
+        "lang": "esperanto",
+        "text": "risorto"
+      }
+    ]
+  },
+  {
+    "word": "ret",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "remainder, rest (* e ret = and so on, etc.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "resto, cetero"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "esperanto",
+        "text": "E rets = Kaj tiel plu."
+      },
+      {
+        "lang": "esperanto",
+        "text": "e.r. = k.t.p."
+      }
+    ]
+  },
+  {
+    "word": "e rets (e.r.)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "etcetera (etc.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaj tiel plu (k.t.p.)"
+      }
+    ]
+  },
+  {
+    "word": "retäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an end, a left-over, a stub"
+      },
+      {
+        "lang": "esperanto",
+        "text": "restaĵo"
+      }
+    ]
+  },
+  {
+    "word": "retil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "remnant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "resto"
+      }
+    ]
+  },
+  {
+    "word": "retin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "retina (eye)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retino"
+      }
+    ]
+  },
+  {
+    "word": "reto",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "by the way, incidentally"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cetere"
+      }
+    ]
+  },
+  {
+    "word": "retod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "trace, track, trail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "spuro"
+      }
+    ]
+  },
+  {
+    "word": "retön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exceed, to remain over"
+      },
+      {
+        "lang": "esperanto",
+        "text": "resti"
+      }
+    ]
+  },
+  {
+    "word": "retükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to leave over, to spare"
+      },
+      {
+        "lang": "esperanto",
+        "text": "restigi"
+      }
+    ]
+  },
+  {
+    "word": "reumat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rheumatism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reŭmatismo"
+      }
+    ]
+  },
+  {
+    "word": "reumatik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rheumatic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reŭmatisma"
+      }
+    ]
+  },
+  {
+    "word": "reüsip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "erysipelas"
+      },
+      {
+        "lang": "esperanto",
+        "text": "erizipelo"
+      }
+    ]
+  },
+  {
+    "word": "revid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "audit, check, revision"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revizio"
+      }
+    ]
+  },
+  {
+    "word": "revidan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "accountant, auditor, reviser"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revizoro, reviziisto"
+      }
+    ]
+  },
+  {
+    "word": "revidön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to audit, to re-examine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revizii"
+      }
+    ]
+  },
+  {
+    "word": "rezäp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "recipe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "recepto"
+      }
+    ]
+  },
+  {
+    "word": "rezidif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a relapse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "recidivo"
+      }
+    ]
+  },
+  {
+    "word": "rezidifön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to relapse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "recidivi"
+      }
+    ]
+  },
+  {
+    "word": "rezip",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mutuality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reciprokeco"
+      }
+    ]
+  },
+  {
+    "word": "rezipatef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "correlation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "korelacio"
+      }
+    ]
+  },
+  {
+    "word": "rezipatefik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "correlative"
+      },
+      {
+        "lang": "esperanto",
+        "text": "korelacia"
+      }
+    ]
+  },
+  {
+    "word": "rezipik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reciprocal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reciproka"
+      }
+    ]
+  },
+  {
+    "word": "rezipo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reciprocally"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reciproke"
+      }
+    ]
+  },
+  {
+    "word": "riad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "aria (opera)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ario"
+      }
+    ]
+  },
+  {
+    "word": "riadil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "short aria"
+      },
+      {
+        "lang": "esperanto",
+        "text": "arieto"
+      }
+    ]
+  },
+  {
+    "word": "rial",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rial (Arabic currency)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rialo"
+      }
+    ]
+  },
+  {
+    "word": "rib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rib"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ripo"
+      }
+    ]
+  },
+  {
+    "word": "ribed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "currant bush"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ribujo"
+      }
+    ]
+  },
+  {
+    "word": "ribedabäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "currant berry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ribo"
+      }
+    ]
+  },
+  {
+    "word": "ribijoik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dig in the ribs, nudge"
+      }
+    ]
+  },
+  {
+    "word": "ribot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "joint of meat including ribs"
+      },
+      {
+        "lang": "esperanto",
+        "text": "peco de viando kun ripoj"
+      }
+    ]
+  },
+  {
+    "word": "ribotül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "chop, cutlet"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kotieto"
+      }
+    ]
+  },
+  {
+    "word": "rid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kano"
+      }
+    ]
+  },
+  {
+    "word": "ridagik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reedy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaneca"
+      }
+    ]
+  },
+  {
+    "word": "ridalözit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "ploto"
+      }
+    ]
+  },
+  {
+    "word": "ridem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reeds, reed bush"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kanejo"
+      }
+    ]
+  },
+  {
+    "word": "ridöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reeds, reed bush"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kanejo"
+      }
+    ]
+  },
+  {
+    "word": "riet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wrist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pojno"
+      }
+    ]
+  },
+  {
+    "word": "rif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tyre, hoop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radringo"
+      }
+    ]
+  },
+  {
+    "word": "rifön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to put tyres on (a car); to hoop (e.g., a barrel)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "meti pneŭmatikon"
+      }
+    ]
+  },
+  {
+    "word": "rig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "origin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "origino"
+      }
+    ]
+  },
+  {
+    "word": "rigao",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "from the origin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "de origine"
+      }
+    ]
+  },
+  {
+    "word": "rigavöd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "root word"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radikvorto"
+      }
+    ]
+  },
+  {
+    "word": "rigad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an original"
+      },
+      {
+        "lang": "esperanto",
+        "text": "originalo"
+      }
+    ]
+  },
+  {
+    "word": "rigik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "original"
+      },
+      {
+        "lang": "esperanto",
+        "text": "origina"
+      }
+    ]
+  },
+  {
+    "word": "rigön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to originate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "origini"
+      }
+    ]
+  },
+  {
+    "word": "rikül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "little finger"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malgranda fingro"
+      }
+    ]
+  },
+  {
+    "word": "riv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(process of) arriving"
+      },
+      {
+        "lang": "esperanto",
+        "text": "atingo"
+      }
+    ]
+  },
+  {
+    "word": "rob",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a seal, a pinniped"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fokulo (Pinnipedia)"
+      }
+    ]
+  },
+  {
+    "word": "rod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "order (religious), fraternity, congregation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ordeno, kongregacio"
+      }
+    ]
+  },
+  {
+    "word": "rodan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "member of an order, friar, monastic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "membro de ordeno, monaĥo, cenobito"
+      }
+    ]
+  },
+  {
+    "word": "rodin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rhodium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rodio"
+      }
+    ]
+  },
+  {
+    "word": "rododen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rhododendron"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rododendro"
+      }
+    ]
+  },
+  {
+    "word": "rog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arrogance, presumption, impudence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aroganto"
+      }
+    ]
+  },
+  {
+    "word": "rogan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arrogant, impudent (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "arogantulo"
+      }
+    ]
+  },
+  {
+    "word": "rogik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arrogant, impudent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aroganta"
+      }
+    ]
+  },
+  {
+    "word": "rogön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be arrogant, impudent, insolent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti aroganta, aroganti"
+      }
+    ]
+  },
+  {
+    "word": "roin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "kidney"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reno"
+      }
+    ]
+  },
+  {
+    "word": "roinabasin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "renal pelvis"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rena pelvo"
+      }
+    ]
+  },
+  {
+    "word": "rojan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "orange color"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oranĝa koloro"
+      }
+    ]
+  },
+  {
+    "word": "rojanik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "orange (color)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oranĝa"
+      }
+    ]
+  },
+  {
+    "word": "rojat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(bitter) orange (Citrus aurantium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oranĝo (Citrus aurantium)"
+      }
+    ]
+  },
+  {
+    "word": "rojatabim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "orange tree (Citrus aurantium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oranĝujo, oranĝarbo (Citrus aurantium)"
+      }
+    ]
+  },
+  {
+    "word": "rojatep",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "orange tree (Citrus aurantium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oranĝujo, oranĝarbo (Citrus aurantium)"
+      }
+    ]
+  },
+  {
+    "word": "rol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rolling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rulado"
+      }
+    ]
+  },
+  {
     "word": "rolatridem",
     "lang": "volapuk",
     "category": "n.",
@@ -70308,28 +72141,25 @@
       {
         "lang": "english",
         "text": "an escalator"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rulŝtuparo"
       }
     ]
   },
   {
     "word": "rolön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to roll"
-      }
-    ]
-  },
-  {
-    "word": "rölön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "to roll"
+        "lang": "esperanto",
+        "text": "ruli"
       }
     ]
   },
@@ -70340,7 +72170,71 @@
     "translations": [
       {
         "lang": "english",
+        "text": "rome"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romo"
+      }
+    ]
+  },
+  {
+    "word": "roman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Roman Catholic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romkatoliko"
+      }
+    ]
+  },
+  {
+    "word": "romän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the Roman Empire"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romio"
+      }
+    ]
+  },
+  {
+    "word": "romänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a Roman, a citizen of the Roman Empire"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romiano"
+      }
+    ]
+  },
+  {
+    "word": "röm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
         "text": "rum"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rumo"
       }
     ]
   },
@@ -70352,6 +72246,25 @@
       {
         "lang": "english",
         "text": "romantic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romantika"
+      }
+    ]
+  },
+  {
+    "word": "romatim",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "romanticism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "romantikismo"
       }
     ]
   },
@@ -70373,7 +72286,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a category"
+        "text": "an order (taxonomy)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ordo (taksonomio)"
       }
     ]
   },
@@ -70396,17 +72313,25 @@
       {
         "lang": "english",
         "text": "a roar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hurlado"
       }
     ]
   },
   {
     "word": "rorön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to roar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hurli, muĝi"
       }
     ]
   },
@@ -70418,6 +72343,10 @@
       {
         "lang": "english",
         "text": "arrowroot"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aroruto"
       }
     ]
   },
@@ -70429,6 +72358,10 @@
       {
         "lang": "english",
         "text": "a rose"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozo"
       }
     ]
   },
@@ -70451,6 +72384,25 @@
       {
         "lang": "english",
         "text": "a routine, a template (computer)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rutino"
+      }
+    ]
+  },
+  {
+    "word": "roto",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "routinely"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rutine"
       }
     ]
   },
@@ -70462,6 +72414,25 @@
       {
         "lang": "english",
         "text": "a part, a role (in play)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rolo"
+      }
+    ]
+  },
+  {
+    "word": "rov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thinness, narrowness (in contrast to width)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mallarĝo"
       }
     ]
   },
@@ -70472,7 +72443,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "narrow"
+        "text": "narrow, thin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mallarĝa"
       }
     ]
   },
@@ -70554,6 +72529,21 @@
     ]
   },
   {
+    "word": "röt",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(state of) being outstanding debt, being in debt, being due (money)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nepagiteco"
+      }
+    ]
+  },
+  {
     "word": "rövüd",
     "lang": "volapuk",
     "category": "n.",
@@ -70575,7 +72565,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "pra-"
+        "text": "pra- (pli granda antikveco, origino)"
       }
     ]
   },
@@ -70591,13 +72581,32 @@
     ]
   },
   {
-    "word": "rugby football",
+    "word": "el Rugby",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "rugby"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rugbeo"
+      }
+    ]
+  },
+  {
+    "word": "ruil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rust"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rusto"
       }
     ]
   },
@@ -70609,6 +72618,10 @@
       {
         "lang": "english",
         "text": "rusty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rusta"
       }
     ]
   },
@@ -70653,6 +72666,36 @@
       {
         "lang": "english",
         "text": "roulette (game of chance)"
+      }
+    ]
+  },
+  {
+    "word": "rumän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Rumania"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Rumanio, Rumanujo"
+      }
+    ]
+  },
+  {
+    "word": "rumon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Romansh language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rumanĉa lingvo"
       }
     ]
   },
@@ -77866,6 +79909,36 @@
       {
         "lang": "esperanto",
         "text": "esperi"
+      }
+    ]
+  },
+  {
+    "word": "sperant",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "esperanto (language)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esperanto"
+      }
+    ]
+  },
+  {
+    "word": "sperantapük",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "esperanto (language)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esperanto"
       }
     ]
   },
@@ -96279,6 +98352,21 @@
     ]
   },
   {
+    "word": "-eän",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an island"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insulo"
+      }
+    ]
+  },
+  {
     "word": "-ed",
     "lang": "volapuk",
     "category": "suf.",
@@ -96289,12 +98377,12 @@
       },
       {
         "lang": "esperanto",
-        "text": "montranta apartaĵon de la radiko"
+        "text": "montranta apartaĵon de la radiko, partikulara konkretigo, monto (post artikolo)"
       }
     ]
   },
   {
-    "word": "-ef",
+    "word": "-ef (-ad)",
     "lang": "volapuk",
     "category": "suf.",
     "translations": [
@@ -96319,7 +98407,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "-ist (faranto de)"
+        "text": "-ist (faranto de), faranto"
       }
     ]
   },
@@ -96349,7 +98437,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "indikanta vegetaĵon"
+        "text": "indikanta planton, arbon"
       }
     ]
   },
@@ -96379,7 +98467,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "konsekvenca aŭ konkreta ekzemplo"
+        "text": "konsekvenca aŭ konkreta ekzemplo, konkretaĵo, cirkonstanco, pleno"
       }
     ]
   },
@@ -96399,6 +98487,21 @@
     ]
   },
   {
+    "word": "-ial",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "machine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "maŝino, aganto"
+      }
+    ]
+  },
+  {
     "word": "-iäl",
     "lang": "volapuk",
     "category": "suf.",
@@ -96414,6 +98517,21 @@
     ]
   },
   {
+    "word": "-iän",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "province"
+      },
+      {
+        "lang": "esperanto",
+        "text": "provinco"
+      }
+    ]
+  },
+  {
     "word": "-iär",
     "lang": "volapuk",
     "category": "suf.",
@@ -96425,6 +98543,21 @@
       {
         "lang": "esperanto",
         "text": "-uj (montranta aferon, destinitan enteni tion, kion esprimas la radiko)"
+      }
+    ]
+  },
+  {
+    "word": "-iel",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "machine that makes something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "farmaŝino"
       }
     ]
   },
@@ -96454,7 +98587,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "-et (diminutivo)"
+        "text": "-et (diminutivo), -ĉjo, -njo"
       }
     ]
   },
@@ -96485,6 +98618,21 @@
       {
         "lang": "esperanto",
         "text": "pli malmola aũ pli malserioza ekzemplo"
+      }
+    ]
+  },
+  {
+    "word": "-oin",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stone (natural)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtono (natura)"
       }
     ]
   },
@@ -96663,6 +98811,21 @@
     ]
   },
   {
+    "word": "-s",
+    "lang": "volapuk",
+    "category": "cas.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "plural"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pluralo"
+      }
+    ]
+  },
+  {
     "word": "-u",
     "lang": "volapuk",
     "category": "cas.",
@@ -96674,6 +98837,51 @@
       {
         "lang": "esperanto",
         "text": "predikativo"
+      }
+    ]
+  },
+  {
+    "word": "-uäns",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "archipelago"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insularo"
+      }
+    ]
+  },
+  {
+    "word": "-ug",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "result"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rezulto"
+      }
+    ]
+  },
+  {
+    "word": "-ul",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "name of a month"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomo de monato"
       }
     ]
   },
@@ -96768,7 +98976,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "-id, -ĉjo, -njo (montranta junan naskiton de tio, kion indikas la radiko, aŭ kareson)"
+        "text": "-id (montranta junan naskiton de tio, kion indikas la radiko, aŭ kareson), pli malgranda"
       }
     ]
   },
@@ -96783,7 +98991,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "subjunktivo (aldonita kun streketo post verbo)"
+        "text": "dubitativo (aldonita kun streketo post verbo)"
       }
     ]
   },
@@ -96798,7 +99006,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "indikas demandan prepozicion (aldonita kun streketo post verbo)"
+        "text": "demando (aldonita kun streketo post verbo)"
       }
     ],
     "examples": [
