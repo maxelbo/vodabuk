@@ -18804,7 +18804,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to remove (move house)"
+        "text": "to change residence, to move house"
       }
     ]
   },
@@ -40308,6 +40308,10 @@
       {
         "lang": "english",
         "text": "a heart"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koro"
       }
     ]
   },
@@ -40431,6 +40435,67 @@
     ]
   },
   {
+    "word": "ladöfo",
+    "roots": ["lad"],
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cordially, sincerely, from the heart, with all sincerity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kore, elkore"
+      }
+    ]
+  },
+  {
+    "word": "ladvärb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an adverb"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adverbo"
+      }
+    ]
+  },
+  {
+    "word": "ladvärbik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "adverbial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adverba"
+      }
+    ]
+  },
+  {
+    "word": "ladvärbön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to turn into an adverb, to adverbialize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adverbigi"
+      }
+    ]
+  },
+  {
     "word": "laed",
     "lang": "volapuk",
     "category": "n.",
@@ -40472,6 +40537,17 @@
       {
         "lang": "esperanto",
         "text": "aleo"
+      }
+    ]
+  },
+  {
+    "word": "laetayans",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Aeta people (Negritos of the Philippines)"
       }
     ]
   },
@@ -47241,6 +47317,251 @@
     ]
   },
   {
+    "word": "lot",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) taking up quarters"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastiĝo"
+      }
+    ]
+  },
+  {
+    "word": "lotan",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a guest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gasto"
+      }
+    ]
+  },
+  {
+    "word": "lotön",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take up quarters, to be a guest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gasti"
+      }
+    ]
+  },
+  {
+    "word": "lotädön",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to move (changing residence)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transloĝiĝi"
+      }
+    ],
+    "examples": [
+      {
+        "text": "english",
+        "lang": "Lotädön ini dom = To move into a house (to take up residence)"
+      }
+    ]
+  },
+  {
+    "word": "loted",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) lodging (as guest)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastloĝo"
+      }
+    ]
+  },
+  {
+    "word": "lotedön",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lodge (as guest), to stay (for time)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "engastiĝi"
+      }
+    ]
+  },
+  {
+    "word": "lotid",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "accommodation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastigo"
+      }
+    ]
+  },
+  {
+    "word": "lotidan",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "host, guesthouse, inn"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastiganto"
+      }
+    ]
+  },
+  {
+    "word": "lotidiäl",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hospitality, hospitability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastigemo, gastamo"
+      }
+    ]
+  },
+  {
+    "word": "lotidiälik",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hospitable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastigema, gastama"
+      }
+    ]
+  },
+  {
+    "word": "lotidön",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to host, to accomodate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gastigi"
+      }
+    ]
+  },
+  {
+    "word": "lotidäb",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hotel guest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hotela gasto"
+      }
+    ]
+  },
+  {
+    "word": "lotidöp",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hotel, a hostelry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hotelo, gastejo"
+      }
+    ]
+  },
+  {
+    "word": "lotidöpan",
+    "roots": ["lot"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hotelier, innkeeper"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hotelestro, hotelisto, gastejestro"
+      }
+    ]
+  },
+  {
+    "word": "loter",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lottery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loterio"
+      }
+    ]
+  },
+  {
     "word": "loterazöt",
     "lang": "volapuk",
     "category": "n.",
@@ -47248,39 +47569,76 @@
       {
         "lang": "english",
         "text": "a lottery ticket, a raffle ticket"
+      },
+      {
+        "lang": "english",
+        "text": "loteria bileto"
       }
     ]
   },
   {
-    "word": "lotid",
+    "word": "lotograf",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "accommodation"
+        "text": "orthography"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ortografio"
       }
     ]
   },
   {
-    "word": "lotidäb",
+    "word": "lotografik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "orthographic, orthographical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ortografia"
+      }
+    ]
+  },
+  {
+    "word": "loul",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a guest"
+        "text": "awl, bodkin, punch"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aleno"
       }
     ]
   },
   {
-    "word": "lotidöp",
+    "word": "loun",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a hotel, a hostelry"
+        "text": "cubit, ell, yard (measure of length)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ulno"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Loun a pieds kil = A cubit at three feet."
       }
     ]
   },
@@ -47302,7 +47660,81 @@
     "translations": [
       {
         "lang": "english",
-        "text": "over"
+        "text": "on, over"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trans"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Love od = Over each other."
+      },
+      {
+        "lang": "english",
+        "text": "Bal love votik = One over the other."
+      },
+      {
+        "lang": "english",
+        "text": "Mo love = Straight over, over and away."
+      },
+      {
+        "lang": "english",
+        "text": "Polom plädoti love gun oka = He wears a fur coat over his frock."
+      },
+      {
+        "lang": "english",
+        "text": "Fun omik äseaton love et taana oka = His corpse lay over that of his opponent."
+      },
+      {
+        "lang": "english",
+        "text": "Tenükön juki love fomod = To put a shoe on a (cobbler's) last."
+      },
+      {
+        "lang": "english",
+        "text": "Drens flumons love cügs omik = Tears are running down his cheeks."
+      },
+      {
+        "lang": "english",
+        "text": "Bunön love jainäds müta = To kick over the traces."
+      }
+    ]
+  },
+  {
+    "word": "loveäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "transitivity (of verb)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transitiveco (de verbo)"
+      }
+    ]
+  },
+  {
+    "word": "loveädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "transitive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transitiva"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Värb loveädik loveädön vobedi oka ad yegod = A transitive verb carries its effect onto a direct object."
       }
     ]
   },
@@ -47479,6 +47911,55 @@
       {
         "lang": "english",
         "text": "a pullover, a sweater"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pulovero"
+      }
+    ]
+  },
+  {
+    "word": "loxal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sorrel (Oxalis or Rumex acetosa)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okzalo (Rumex acetosa), oksalido (Oxalis)"
+      }
+    ]
+  },
+  {
+    "word": "loxalazüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "oxalic acid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okzalata acido, oksalata acido"
+      }
+    ]
+  },
+  {
+    "word": "loxid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "oxide"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oksido"
       }
     ]
   },
@@ -47490,6 +47971,10 @@
       {
         "lang": "english",
         "text": "oxygen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oksigeno"
       }
     ]
   },
@@ -47501,6 +47986,40 @@
       {
         "lang": "english",
         "text": "ozone"
+      },
+      {
+        "lang": "english",
+        "text": "ozono"
+      }
+    ]
+  },
+  {
+    "word": "lö",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "erect, up straight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rekte"
+      }
+    ]
+  },
+  {
+    "word": "löik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "straight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rekta"
       }
     ]
   },
@@ -47544,17 +48063,32 @@
     ]
   },
   {
+    "word": "löd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a flat, an apartment, lodging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝo"
+      }
+    ]
+  },
+  {
     "word": "lödadom",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a flat"
+        "text": "a block of flats"
       },
       {
-        "lang": "english",
-        "text": "an apartment"
+        "lang": "esperanto",
+        "text": "apartamento"
       }
     ]
   },
@@ -47565,7 +48099,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an inhabitant"
+        "text": "a tenant, an inhabitant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝanto"
       }
     ]
   },
@@ -47577,6 +48115,10 @@
       {
         "lang": "english",
         "text": "an apartment, a flat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apartamento"
       }
     ]
   },
@@ -47599,17 +48141,25 @@
       {
         "lang": "english",
         "text": "a habitat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enloĝigo"
       }
     ]
   },
   {
     "word": "lödön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to live, to reside"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝi"
       }
     ]
   },
@@ -47621,17 +48171,55 @@
       {
         "lang": "english",
         "text": "place of residence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝloko, loĝejo"
       }
     ]
   },
   {
     "word": "lödükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to inhabit, to live in"
+        "text": "to house, to accommodate"
+      },
+      {
+        "lang": "english",
+        "text": "loĝigi"
+      }
+    ]
+  },
+  {
+    "word": "belödan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inhabitant"
+      },
+      {
+        "lang": "english",
+        "text": "loĝanto"
+      }
+    ]
+  },
+  {
+    "word": "belödön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to inhabitant"
+      },
+      {
+        "lang": "english",
+        "text": "enloĝi"
       }
     ]
   },
@@ -86657,6 +87245,21 @@
     ]
   },
   {
+    "word": "tio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "about, approximately"
+      },
+      {
+        "lang": "esperanto",
+        "text": "proksimume, ĉirkaǔ"
+      }
+    ]
+  },
+  {
     "word": "tiäd",
     "lang": "volapuk",
     "category": "n.",
@@ -98302,7 +98905,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "montranta ĝeneraligitan rezulton de la radiko"
+        "text": "universala konkretaĵo, montranta ĝeneralan rezulton de la radiko"
       }
     ]
   },
@@ -98543,6 +99146,21 @@
       {
         "lang": "esperanto",
         "text": "-uj (montranta aferon, destinitan enteni tion, kion esprimas la radiko)"
+      }
+    ]
+  },
+  {
+    "word": "-id",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the reverse act"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reversa ago, provizo per, vica numeralo (-a)"
       }
     ]
   },
