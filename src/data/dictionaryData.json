@@ -40670,30 +40670,68 @@
     ]
   },
   {
-    "word": "lagön",
+    "word": "lag",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to be hanging"
+        "text": "(state of) hanging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pendado"
+      }
+    ]
+  },
+  {
+    "word": "lagön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be hanging, to hang (state)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pendi"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "pänot lagon len völ = the picture is hanging on the wall"
+        "text": "Pänot lagon len völ = The picture is hanging on the wall."
       }
     ]
   },
   {
     "word": "laibinükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to keep (something) going"
+      },
+      {
+        "lang": "esperanto",
+        "text": "daǔrigi"
+      }
+    ]
+  },
+  {
+    "word": "laid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "continuity, on-going"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstanteco"
       }
     ]
   },
@@ -40759,7 +40797,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "chronic, perennial"
+        "text": "contant, everlasting, lasting, ongoing, perpetual, persistent, sustained, chronic, perennial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstanta, daǔra"
       }
     ]
   },
@@ -40770,7 +40812,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to be stable"
+        "text": "to endure, to last, to be stable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "daǔri"
       }
     ]
   },
