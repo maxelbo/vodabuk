@@ -14684,17 +14684,6 @@
     ]
   },
   {
-    "word": "dislienükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to underline, to underscore"
-      }
-    ]
-  },
-  {
     "word": "dismelanaf",
     "lang": "volapuk",
     "category": "n.",
@@ -40706,6 +40695,36 @@
     ]
   },
   {
+    "word": "lagust",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "spiny lobster, langusta, rock lobster (Palinuridae)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "langusto, palinuro (Palinuridae)"
+      }
+    ]
+  },
+  {
+    "word": "lai-",
+    "lang": "volapuk",
+    "category": "pref.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "continuity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "daǔreco, plueco"
+      }
+    ]
+  },
+  {
     "word": "laibinükön",
     "lang": "volapuk",
     "category": "tr.",
@@ -40775,18 +40794,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "insistence, perseverance"
+        "text": "insistence, perseverance, resoluteness, steadfastness, tenacity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rezoluteco,, tenaceco"
       }
     ]
   },
   {
     "word": "laidälön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to insist (on)"
+        "text": "to preserve, to be steadfast"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti rezoluta, esti tenaca"
+      }
+    ]
+  },
+  {
+    "word": "laidälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "steadfast, resolute, tenacious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rezoluta, tenaca"
       }
     ]
   },
@@ -40802,6 +40844,21 @@
       {
         "lang": "esperanto",
         "text": "konstanta, daǔra"
+      }
+    ]
+  },
+  {
+    "word": "laido",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "continuously, non-stop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstante, daǔre, senhalte"
       }
     ]
   },
@@ -40828,6 +40885,10 @@
       {
         "lang": "english",
         "text": "constant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstanta"
       }
     ]
   },
@@ -40872,6 +40933,25 @@
       {
         "lang": "english",
         "text": "eternity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eterneco"
+      }
+    ]
+  },
+  {
+    "word": "laidüpik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eternal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eterna"
       }
     ]
   },
@@ -45159,6 +45239,36 @@
     ]
   },
   {
+    "word": "lev",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lev (Bulgarian currency)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "levo"
+      }
+    ]
+  },
+  {
+    "word": "levazim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stotinki (Bulgarian currency)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stotinko"
+      }
+    ]
+  },
+  {
     "word": "leval",
     "lang": "volapuk",
     "category": "n.",
@@ -45166,6 +45276,28 @@
       {
         "lang": "english",
         "text": "the universe"
+      }
+    ]
+  },
+  {
+    "word": "levalaglöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a heavenly body"
+      }
+    ]
+  },
+  {
+    "word": "levalalan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "divinity"
       }
     ]
   },
@@ -45276,6 +45408,55 @@
       {
         "lang": "english",
         "text": "passion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasio"
+      }
+    ]
+  },
+  {
+    "word": "levolut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a revolution, revolt, upheaval"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revolucio"
+      }
+    ]
+  },
+  {
+    "word": "levolutan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a revolutionary (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revoluciulo"
+      }
+    ]
+  },
+  {
+    "word": "levolutükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to revolutionize, to revolutionise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "revolucii"
       }
     ]
   },
@@ -45463,6 +45644,10 @@
       {
         "lang": "english",
         "text": "origin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "origino, deveno"
       }
     ]
   },
@@ -45584,6 +45769,40 @@
       {
         "lang": "english",
         "text": "a line"
+      },
+      {
+        "lang": "esperanto",
+        "text": "linio"
+      }
+    ]
+  },
+  {
+    "word": "lienik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "linear"
+      },
+      {
+        "lang": "esperanto",
+        "text": "linia"
+      }
+    ]
+  },
+  {
+    "word": "dislienükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to underline, to underscore"
+      },
+      {
+        "lang": "esperanto",
+        "text": "substreki"
       }
     ]
   },
@@ -45605,7 +45824,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "madness, mania"
+        "text": "madness, insanity, lunacy, mania"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frenezeco"
+      }
+    ]
+  },
+  {
+    "word": "lienetan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a lunatic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frenezulo"
+      }
+    ]
+  },
+  {
+    "word": "lienetanöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a madhouse, an asylum"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frenezulejo"
       }
     ]
   },
@@ -45616,18 +45869,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "frenzied, insane, mad, maniacal"
+        "text": "crazy, frenzied, insane, mad, maniacal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "freneza"
+      }
+    ]
+  },
+  {
+    "word": "lienetön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be mad, crazy, insane"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frenezi, esti freneza"
       }
     ]
   },
   {
     "word": "lienetikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to go mad"
+        "text": "to go mad, to become mad, to become crazy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "freneziĝi"
+      }
+    ]
+  },
+  {
+    "word": "lienetükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to drive mad"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frenezigi"
       }
     ]
   },
@@ -45639,6 +45930,10 @@
       {
         "lang": "english",
         "text": "a hare"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leporo"
       }
     ]
   },
@@ -48061,7 +48356,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "straight"
+        "text": "straight, upright"
       },
       {
         "lang": "esperanto",
@@ -48398,17 +48693,6 @@
       {
         "lang": "english",
         "text": "a leg"
-      }
-    ]
-  },
-  {
-    "word": "löik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "upright"
       }
     ]
   },
@@ -93536,6 +93820,36 @@
     ]
   },
   {
+    "word": "visir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "vizier"
+      },
+      {
+        "lang": "esperanto",
+        "text": "veziro"
+      }
+    ]
+  },
+  {
+    "word": "levisir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grand vizier"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grandveziro"
+      }
+    ]
+  },
+  {
     "word": "visit",
     "lang": "volapuk",
     "category": "n.",
@@ -93543,6 +93857,10 @@
       {
         "lang": "english",
         "text": "a visit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vizito"
       }
     ]
   },
@@ -93554,17 +93872,25 @@
       {
         "lang": "english",
         "text": "a visitor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vizitanto"
       }
     ]
   },
   {
     "word": "visitön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to attend, to visit"
+        "text": "to visit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "viziti"
       }
     ]
   },
@@ -93620,6 +93946,10 @@
       {
         "lang": "english",
         "text": "a weasel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mustelo"
       }
     ]
   },
@@ -93646,13 +93976,53 @@
     ]
   },
   {
+    "word": "vit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "avoidance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "evitado"
+      }
+    ]
+  },
+  {
+    "word": "vitid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grapevine, vine (Vitis)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vito, vinberujo (Vitis)"
+      }
+    ]
+  },
+  {
     "word": "vitidabäl",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a grape"
+        "text": "a (wine) grape (single berry)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vinbero"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Besepedön vitidabälis = To press out the grapes."
       }
     ]
   },
@@ -93708,6 +94078,10 @@
       {
         "lang": "english",
         "text": "a pane (of glass)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "glaco, vitro"
       }
     ]
   },
@@ -93718,7 +94092,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a window-pane"
+        "text": "a window-pane, window-glass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fenestra vitro, fenestrovitro"
       }
     ]
   },
@@ -93741,6 +94119,25 @@
       {
         "lang": "english",
         "text": "to glaze"
+      },
+      {
+        "lang": "esperanto",
+        "text": "glazuri"
+      }
+    ]
+  },
+  {
+    "word": "viud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "widowhood"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidveco"
       }
     ]
   },
@@ -93752,17 +94149,40 @@
       {
         "lang": "english",
         "text": "a widow, a widower"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidvo, vidvino"
       }
     ]
   },
   {
     "word": "viudikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to be widowed"
+        "text": "to become a widow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidviĝi"
+      }
+    ]
+  },
+  {
+    "word": "viv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "weaving"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teksado"
       }
     ]
   },
@@ -93774,6 +94194,10 @@
       {
         "lang": "english",
         "text": "a weaver"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teksisto"
       }
     ]
   },
@@ -93784,7 +94208,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a loom"
+        "text": "a (weaver's) loom"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĵakardo"
       }
     ]
   },
@@ -99655,7 +100083,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "dubitativo (aldonita kun streketo post verbo)"
+        "text": "dubitativa modo (aldonita kun streketo post verbo)"
       }
     ]
   },
