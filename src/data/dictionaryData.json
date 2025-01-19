@@ -1738,11 +1738,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "one (number)"
+        "text": "one (number), 1"
       },
       {
         "lang": "esperanto",
-        "text": "unu"
+        "text": "unu, 1"
       }
     ],
     "examples": [
@@ -36448,7 +36448,7 @@
         "text": "to allow, to permit"
       },
       {
-        "lang": "esperanso",
+        "lang": "esperanto",
         "text": "permesi"
       }
     ],
@@ -77089,7 +77089,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "nil, nought"
+        "text": "zero, nil, nought, 0"
       }
     ]
   },
@@ -87408,7 +87408,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "two"
+        "text": "two (number), 2"
+      },
+      {
+        "lang": "esperanto",
+        "text": "du, 2"
       }
     ]
   },
