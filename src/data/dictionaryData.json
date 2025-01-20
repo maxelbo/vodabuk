@@ -1734,11 +1734,11 @@
     "word": "bal",
     "roots": ["bal"],
     "lang": "volapuk",
-    "category": "numeral",
+    "category": "num.",
     "translations": [
       {
         "lang": "english",
-        "text": "one (number), 1"
+        "text": "one, 1"
       },
       {
         "lang": "esperanto",
@@ -12444,35 +12444,62 @@
     ]
   },
   {
-    "word": "datuvot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an invention"
-      }
-    ]
-  },
-  {
-    "word": "datuvön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to invent"
-      }
-    ]
-  },
-  {
     "word": "dauk",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a carrot"
+        "text": "a carrot (Daucus carota)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "karoto (Daucus carota)"
+      }
+    ]
+  },
+  {
+    "word": "daun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "down (fluffy feathers), fluff, nap (material)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lanugo"
+      }
+    ]
+  },
+  {
+    "word": "daunaplüm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "down feather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lanugplumo, lanugero"
+      }
+    ]
+  },
+  {
+    "word": "daut",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "daughter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "filino"
       }
     ]
   },
@@ -12506,28 +12533,6 @@
       {
         "lang": "english",
         "text": "adulthood"
-      }
-    ]
-  },
-  {
-    "word": "daun",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "down (fluffy feathers)"
-      }
-    ]
-  },
-  {
-    "word": "daut",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a daughter"
       }
     ]
   },
@@ -21960,7 +21965,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "four"
+        "text": "four, 4"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvar, 4"
       }
     ],
     "examples": [
@@ -24473,7 +24482,7 @@
         "text": "an antetype, a counterpart"
       },
       {
-        "lang": "espperanto",
+        "lang": "esperanto",
         "text": "simetriaĵo"
       }
     ]
@@ -31526,7 +31535,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "eight"
+        "text": "eight, 8"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ok, 8"
       }
     ]
   },
@@ -34180,11 +34193,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "three (3)"
+        "text": "three, 3"
       },
       {
         "lang": "esperanto",
-        "text": "tri (3)"
+        "text": "tri, 3"
       }
     ],
     "examples": [
@@ -49761,7 +49774,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "five"
+        "text": "five, 5"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvin, 5"
       }
     ]
   },
@@ -52382,7 +52399,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "six"
+        "text": "six, 6"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ses, 6"
       }
     ]
   },
@@ -77090,6 +77111,10 @@
       {
         "lang": "english",
         "text": "zero, nil, nought, 0"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nul, 0"
       }
     ]
   },
@@ -87408,7 +87433,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "two (number), 2"
+        "text": "two, 2"
       },
       {
         "lang": "esperanto",
@@ -90777,6 +90802,62 @@
     ]
   },
   {
+    "word": "tuvemik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "colossal, gigantic"
+      }
+    ]
+  },
+  {
+    "word": "tuv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) finding / discovering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovo"
+      }
+    ]
+  },
+  {
+    "word": "tuvan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "finder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovanto"
+      }
+    ]
+  },
+  {
+    "word": "tuväb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "someone found, an orphan"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovito, orfo"
+      }
+    ]
+  },
+  {
     "word": "tuväböp",
     "lang": "volapuk",
     "category": "n.",
@@ -90784,6 +90865,40 @@
       {
         "lang": "english",
         "text": "an orphanage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "orfejo"
+      }
+    ]
+  },
+  {
+    "word": "tuvön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to find"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovi"
+      }
+    ]
+  },
+  {
+    "word": "tuved",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arriving at an answer, solving a riddle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "diveno"
       }
     ]
   },
@@ -90803,24 +90918,137 @@
     ]
   },
   {
-    "word": "tuvemik",
+    "word": "tuvedot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an answer, a solution (to a puzzle / riddle)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "solvo (de problemo)"
+      }
+    ]
+  },
+  {
+    "word": "tuvot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a finding, a thing found"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovaĵo"
+      }
+    ]
+  },
+  {
+    "word": "tuvovik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "colossal, gigantic"
+        "text": "which can be found"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trovebla"
       }
     ]
   },
   {
-    "word": "tuvön",
+    "word": "netuvovik",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "to find"
+        "text": "which cannot be found"
+      },
+      {
+        "lang": "esperanto",
+        "text": "netrovebla"
+      }
+    ]
+  },
+  {
+    "word": "datuv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) inventing, invention"
+      },
+      {
+        "lang": "esperanto",
+        "text": "invento"
+      }
+    ]
+  },
+  {
+    "word": "datuval",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an inventor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eltrovinto"
+      }
+    ]
+  },
+  {
+    "word": "datuvan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an inventor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eltrovinto"
+      }
+    ]
+  },
+  {
+    "word": "datuvot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an invention, something invented"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inventaĵo"
+      }
+    ]
+  },
+  {
+    "word": "datuvön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to invent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inventi"
       }
     ]
   },
@@ -90904,11 +91132,15 @@
   {
     "word": "tülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to turn, to twist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turni"
       }
     ]
   },
@@ -90920,6 +91152,10 @@
       {
         "lang": "english",
         "text": "a tower"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turo"
       }
     ]
   },
@@ -90942,6 +91178,25 @@
       {
         "lang": "english",
         "text": "etymology (word derivation)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "etimologio"
+      }
+    ]
+  },
+  {
+    "word": "tümör",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tumour"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tumoro"
       }
     ]
   },
@@ -90952,7 +91207,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "tin"
+        "text": "tin, tinplate, tin-plate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stano"
       }
     ]
   },
@@ -90964,6 +91223,85 @@
       {
         "lang": "english",
         "text": "a tin (box, container)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stanskatolo"
+      }
+    ]
+  },
+  {
+    "word": "tünacan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tinplate goods"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stanaĵo"
+      }
+    ]
+  },
+  {
+    "word": "tünel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tinplate maker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stanfaranto"
+      }
+    ]
+  },
+  {
+    "word": "tünismitan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tinsmith"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stanisto"
+      }
+    ]
+  },
+  {
+    "word": "tünismitöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tinsmithery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stanistejo"
+      }
+    ]
+  },
+  {
+    "word": "tünik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(of) tinplate / tin-plate / tin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stana"
       }
     ]
   },
@@ -90979,6 +91317,21 @@
     ]
   },
   {
+    "word": "tüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "due date, target time, period of time, time span"
+      },
+      {
+        "lang": "esperanto",
+        "text": "periodo"
+      }
+    ]
+  },
+  {
     "word": "tüpü",
     "lang": "volapuk",
     "category": "prep.",
@@ -90990,6 +91343,21 @@
     ]
   },
   {
+    "word": "türkan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a Turk (member of a Turkic people)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turko, tjurko"
+      }
+    ]
+  },
+  {
     "word": "türkig",
     "lang": "volapuk",
     "category": "n.",
@@ -90997,6 +91365,10 @@
       {
         "lang": "english",
         "text": "a turkey"
+      },
+      {
+        "lang": "esperanto",
+        "text": "meleagro"
       }
     ]
   },
@@ -91018,29 +91390,176 @@
     "translations": [
       {
         "lang": "english",
+        "text": "tutelage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuratoreco"
+      }
+    ]
+  },
+  {
+    "word": "tütan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "guardian, conservator, trustee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuratoro"
+      }
+    ]
+  },
+  {
+    "word": "tütäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ward (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "zorgato, kuratorato"
+      }
+    ]
+  },
+  {
+    "word": "tütik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tutelary, of a guardian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuratora"
+      }
+    ]
+  },
+  {
+    "word": "tütön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to act as a guardian, to patronize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuratori, esti kuratoro por"
+      }
+    ]
+  },
+  {
+    "word": "tüted",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
         "text": "discipline"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disciplino"
       }
     ]
   },
   {
     "word": "tütedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to discipline"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disciplini"
+      }
+    ]
+  },
+  {
+    "word": "tüum",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thyme (Thymus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "timiano (Thymus)"
+      }
+    ]
+  },
+  {
+    "word": "tüül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tulle (netting, lace)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tulo (teksaĵo)"
+      }
+    ]
+  },
+  {
+    "word": "tüv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "discovery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malkovro"
+      }
+    ]
+  },
+  {
+    "word": "tüvan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "discoverer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malkovranto"
       }
     ]
   },
   {
     "word": "tüvön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to discover"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malkovri"
       }
     ]
   },
@@ -91052,6 +91571,10 @@
       {
         "lang": "english",
         "text": "a toilet"
+      },
+      {
+        "lang": "esperanto",
+        "text": "necesejo"
       }
     ]
   },
@@ -91074,17 +91597,6 @@
       {
         "lang": "english",
         "text": "a tiled hearth (fireplace)"
-      }
-    ]
-  },
-  {
-    "word": "tuvedot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an answer, a solution (to a puzzle/riddle)"
       }
     ]
   },
@@ -92765,7 +93277,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "seven"
+        "text": "seven, 7"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sep, 7"
       }
     ]
   },
@@ -99588,7 +100104,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "nine"
+        "text": "nine, 9"
+      },
+      {
+        "lang": "esperanto",
+        "text": "naǔ, 9"
       }
     ]
   },
