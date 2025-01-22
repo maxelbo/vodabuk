@@ -12367,17 +12367,6 @@
     ]
   },
   {
-    "word": "dasukön (da)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to rummage (through)"
-      }
-    ]
-  },
-  {
     "word": "dasumön",
     "lang": "volapuk",
     "category": "v.",
@@ -12504,6 +12493,36 @@
     ]
   },
   {
+    "word": "dautamatan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a daughter's husband"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bofilo (edzo de filino)"
+      }
+    ]
+  },
+  {
+    "word": "dautil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "little daughter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "filineto"
+      }
+    ]
+  },
+  {
     "word": "daükön (me)",
     "lang": "volapuk",
     "category": "adj.",
@@ -12515,6 +12534,21 @@
     ]
   },
   {
+    "word": "daül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "adulthood"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adolteco"
+      }
+    ]
+  },
+  {
     "word": "daülan",
     "lang": "volapuk",
     "category": "n.",
@@ -12522,6 +12556,25 @@
       {
         "lang": "english",
         "text": "an adult"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adolto"
+      }
+    ]
+  },
+  {
+    "word": "daülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "adult"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adolta"
       }
     ]
   },
@@ -12533,6 +12586,10 @@
       {
         "lang": "english",
         "text": "adulthood"
+      },
+      {
+        "lang": "esperano",
+        "text": "adolta periodo"
       }
     ]
   },
@@ -84673,7 +84730,37 @@
     ]
   },
   {
-    "word": "sukubön",
+    "word": "dasuk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thorough research, visitation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "traserĉo"
+      }
+    ]
+  },
+  {
+    "word": "dasukön (da)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to search thoroughly, to rummage (through)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "traserĉi"
+      }
+    ]
+  },
+  {
+    "word": "sukubön (sekü)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -84691,6 +84778,10 @@
       {
         "lang": "english",
         "text": "sulphur"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sulfuro, sulfo"
       }
     ]
   },
@@ -84713,6 +84804,10 @@
       {
         "lang": "english",
         "text": "south"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sudo"
       }
     ]
   },
@@ -84752,22 +84847,45 @@
   {
     "word": "sumön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to take"
+        "text": "to appropriate, seize, take away"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preni"
       }
     ]
   },
   {
-    "word": "sunädänunükian",
+    "word": "sun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "soonness, immediacy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baldaǔeco"
+      }
+    ]
+  },
+  {
+    "word": "sunädanunükian",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "an instant messenger"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tujmesaĝo"
       }
     ]
   },
@@ -84779,6 +84897,25 @@
       {
         "lang": "english",
         "text": "at once, immediately, without delay"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuj"
+      }
+    ]
+  },
+  {
+    "word": "sunädö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at once!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuj!"
       }
     ]
   },
@@ -84789,7 +84926,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "soon"
+        "text": "imminent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baldaǔa"
+      }
+    ]
+  },
+  {
+    "word": "sunikün",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "soonest possible, as soon as possible, ASAP"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kiel eble plej baldaǔ"
+      }
+    ]
+  },
+  {
+    "word": "suno",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "soon, before long, in the near future"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baldaǔ"
+      }
+    ]
+  },
+  {
+    "word": "sunükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to hasten something, to speed something up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baldaǔigi, rapidigi, hastigi, akceli"
       }
     ]
   },
@@ -84800,7 +84986,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "imminent"
+        "text": "forthcoming"
+      },
+      {
+        "lang": "english",
+        "text": "baldaǔ venonta"
+      }
+    ]
+  },
+  {
+    "word": "sundan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Sudanese language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "la sudana lingvo"
+      }
+    ]
+  },
+  {
+    "word": "sunit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sunni islam"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sunao"
+      }
+    ]
+  },
+  {
+    "word": "sunitan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Sunnite, sunni muslim"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sunaisto"
       }
     ]
   },
@@ -84812,6 +85047,10 @@
       {
         "lang": "english",
         "text": "a soup"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supo"
       }
     ]
   },
@@ -84823,6 +85062,10 @@
       {
         "lang": "english",
         "text": "insurance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "asekuro"
       }
     ]
   },
@@ -91019,6 +91262,12 @@
       {
         "lang": "esperanto",
         "text": "eltrovinto"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Datuvan Volapüka = The inventor of Volapük."
       }
     ]
   },
@@ -97836,6 +98085,10 @@
       {
         "lang": "english",
         "text": "Hurrah!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Hura!"
       }
     ]
   },
