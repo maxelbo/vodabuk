@@ -11048,6 +11048,10 @@
       {
         "lang": "english",
         "text": "through"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tra"
       }
     ]
   },
@@ -12334,28 +12338,6 @@
     ]
   },
   {
-    "word": "dastun",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a sensation"
-      }
-    ]
-  },
-  {
-    "word": "dastunanun",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a sensational report"
-      }
-    ]
-  },
-  {
     "word": "dasuemön",
     "lang": "volapuk",
     "category": "v.",
@@ -12681,7 +12663,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "dis-"
+        "text": "dis-, disrompiĝo, dispeciĝo"
       }
     ]
   },
@@ -12708,6 +12690,21 @@
     ]
   },
   {
+    "word": "däd",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(state of) being broken / damaged / out of use"
+      },
+      {
+        "lang": "esperanto",
+        "text": "difekteco"
+      }
+    ]
+  },
+  {
     "word": "dädik",
     "lang": "volapuk",
     "category": "adj.",
@@ -12715,17 +12712,85 @@
       {
         "lang": "english",
         "text": "defective, impaired"
+      },
+      {
+        "lang": "esperanto",
+        "text": "difektita"
       }
     ]
   },
   {
     "word": "dädikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to break down, to fail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "panei"
+      }
+    ]
+  },
+  {
+    "word": "dädükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to break something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paneigi"
+      }
+    ]
+  },
+  {
+    "word": "dädädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "done for, exhausted (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lacega"
+      }
+    ]
+  },
+  {
+    "word": "dädädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be done for / spent (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lacegi, esti lacega"
+      }
+    ]
+  },
+  {
+    "word": "dädädükön (eki)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exhaust somebody"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lacegigi"
       }
     ]
   },
@@ -12748,17 +12813,6 @@
       {
         "lang": "english",
         "text": "to crumble (bread, etc)"
-      }
-    ]
-  },
-  {
-    "word": "däfalot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "rubbish"
       }
     ]
   },
@@ -13355,21 +13409,6 @@
       {
         "lang": "esperanto",
         "text": "difekto"
-      }
-    ]
-  },
-  {
-    "word": "defal",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "litter"
-      },
-      {
-        "lang": "esperanto",
-        "text": "forĵetaĵo"
       }
     ]
   },
@@ -15119,6 +15158,21 @@
     ]
   },
   {
+    "word": "do",
+    "lang": "volapuk",
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "though, although, even though"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kvankam"
+      }
+    ]
+  },
+  {
     "word": "do-",
     "lang": "volapuk",
     "category": "pref.",
@@ -15129,7 +15183,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "malsupren"
+        "text": "movo malalten, malsupren"
       }
     ]
   },
@@ -18020,6 +18074,186 @@
       {
         "lang": "english",
         "text": "a fall"
+      },
+      {
+        "lang": "esperanto",
+        "text": "falo"
+      }
+    ]
+  },
+  {
+    "word": "falön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fali"
+      }
+    ]
+  },
+  {
+    "word": "däfal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "falling to pieces"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disfalo"
+      }
+    ]
+  },
+  {
+    "word": "däfalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall to pieces"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disfali"
+      }
+    ]
+  },
+  {
+    "word": "defal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act or process of) falling off, litter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "defalo"
+      }
+    ]
+  },
+  {
+    "word": "defalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall off"
+      },
+      {
+        "lang": "esperanto",
+        "text": "defali"
+      }
+    ]
+  },
+  {
+    "word": "dofalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to collapse, to fall down"
+      },
+      {
+        "lang": "esperanto",
+        "text": "terenfali"
+      }
+    ]
+  },
+  {
+    "word": "dufal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(process of) falling through, failing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsukceso"
+      }
+    ]
+  },
+  {
+    "word": "dufalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall through, to failing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsukcesi"
+      }
+    ]
+  },
+  {
+    "word": "gefal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) falling again"
+      },
+      {
+        "lang": "esperanto",
+        "text": "refalo"
+      }
+    ]
+  },
+  {
+    "word": "nüfal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) invading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "invado"
+      }
+    ]
+  },
+  {
+    "word": "nüfalön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to invade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "invadi"
+      }
+    ]
+  },
+  {
+    "word": "däfalot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rubbish"
       }
     ]
   },
@@ -18031,6 +18265,25 @@
       {
         "lang": "english",
         "text": "a parachute"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paraŝuto"
+      }
+    ]
+  },
+  {
+    "word": "falajelöman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parachuter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paraŝutisto"
       }
     ]
   },
@@ -18046,17 +18299,6 @@
       {
         "lang": "esperanto",
         "text": "falko"
-      }
-    ]
-  },
-  {
-    "word": "falön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to fall"
       }
     ]
   },
@@ -24205,6 +24447,36 @@
     ]
   },
   {
+    "word": "ge",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "backwards"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retroe"
+      }
+    ]
+  },
+  {
+    "word": "ge-",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "back-"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retro-"
+      }
+    ]
+  },
+  {
     "word": "geäl",
     "lang": "volapuk",
     "category": "n.",
@@ -24212,6 +24484,21 @@
       {
         "lang": "english",
         "text": "a (mental) reaction"
+      }
+    ]
+  },
+  {
+    "word": "geb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "use, application"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzo, uzado"
       }
     ]
   },
@@ -62375,7 +62662,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "enen"
+        "text": "enmovo, enen"
       }
     ]
   },
@@ -84017,6 +84304,10 @@
       {
         "lang": "english",
         "text": "amazement, astonishment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miro"
       }
     ]
   },
@@ -84039,6 +84330,10 @@
       {
         "lang": "english",
         "text": "admiration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "admiro"
       }
     ]
   },
@@ -84050,6 +84345,10 @@
       {
         "lang": "english",
         "text": "admirable, wonderful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mirinda"
       }
     ]
   },
@@ -84061,17 +84360,25 @@
       {
         "lang": "english",
         "text": "wonder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mirindaĵo"
       }
     ]
   },
   {
     "word": "stunidön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to admire"
+      },
+      {
+        "lang": "esperanto",
+        "text": "admiri"
       }
     ]
   },
@@ -84083,6 +84390,10 @@
       {
         "lang": "english",
         "text": "amazed, astonished"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miriga"
       }
     ]
   },
@@ -84100,22 +84411,30 @@
   {
     "word": "stunön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to be astonished (at), to wonder (at)"
+        "text": "to be amazed, to be astonished (at), to wonder (at)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miri"
       }
     ]
   },
   {
     "word": "stunükam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
-        "text": "commotion, sensation, stir"
+        "text": "(action of) stunning, amazing, astonishing, astounding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mirigo"
       }
     ]
   },
@@ -84127,17 +84446,47 @@
       {
         "lang": "english",
         "text": "sensational"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miriganta"
       }
     ]
   },
   {
     "word": "stunükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to cause a stir/uproar, to astonish"
+      },
+      {
+        "lang": "esperano",
+        "text": "mirigi"
+      }
+    ]
+  },
+  {
+    "word": "dastun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sensation"
+      }
+    ]
+  },
+  {
+    "word": "dastunanun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sensational report"
       }
     ]
   },
