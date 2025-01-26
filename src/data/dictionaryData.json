@@ -24503,6 +24503,32 @@
     ]
   },
   {
+    "word": "geban",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a user"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzanto"
+      }
+    ]
+  },
+  {
+    "word": "gebayeg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an implement"
+      }
+    ]
+  },
+  {
     "word": "gebäd",
     "lang": "volapuk",
     "category": "n.",
@@ -24510,28 +24536,130 @@
       {
         "lang": "english",
         "text": "a usage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzado"
+      }
+    ]
+  },
+  {
+    "word": "gebädön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bring into use, to apply"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apliki"
+      }
+    ]
+  },
+  {
+    "word": "gebid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "availability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disponebleco"
+      }
+    ]
+  },
+  {
+    "word": "gebidik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "available, free, vacant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disponebla"
       }
     ]
   },
   {
     "word": "gebidön (dö)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to have at hand, to have at one's disposal"
+        "text": "to be at one's disposal, to have at one's disposal, to have at hand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti je dispono"
       }
     ]
   },
   {
     "word": "gebidükön (eke bosi)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to make something available (to someone)"
+        "text": "to make something available (to someone), to place at one's disposal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disponigi"
+      }
+    ]
+  },
+  {
+    "word": "gebo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in use"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uze"
+      }
+    ]
+  },
+  {
+    "word": "gebov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "applicability, usability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzebleco"
+      }
+    ]
+  },
+  {
+    "word": "gebovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "applicable, usable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzebla"
       }
     ]
   },
@@ -24543,6 +24671,25 @@
       {
         "lang": "english",
         "text": "a custom"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kutimo"
+      }
+    ]
+  },
+  {
+    "word": "geböfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "customary, normal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kutima, ordinara"
       }
     ]
   },
@@ -24554,6 +24701,25 @@
       {
         "lang": "english",
         "text": "to use"
+      },
+      {
+        "lang": "esperanto",
+        "text": "uzi"
+      }
+    ]
+  },
+  {
+    "word": "ged",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "greyness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grizeco"
       }
     ]
   },
@@ -24565,6 +24731,70 @@
       {
         "lang": "english",
         "text": "grey"
+      },
+      {
+        "lang": "esperanto",
+        "text": "griza"
+      }
+    ]
+  },
+  {
+    "word": "gedikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become grey"
+      },
+      {
+        "lang": "esperanto",
+        "text": "griziĝi"
+      }
+    ]
+  },
+  {
+    "word": "gedilik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "greyish"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grizeca"
+      }
+    ]
+  },
+  {
+    "word": "gedrinön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to reply to a toast"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respondi al tosto"
+      }
+    ]
+  },
+  {
+    "word": "gedünot",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mutual service"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reciproka servo"
       }
     ]
   },
@@ -24575,7 +24805,47 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a vessel (container)"
+        "text": "a container, a vessel (in general)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vazo, ujo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Gef bäsinik = A stoneware container."
+      }
+    ]
+  },
+  {
+    "word": "gefataim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "potter's clay, pug (material), ceramic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ceramika argilo"
+      }
+    ]
+  },
+  {
+    "word": "gefataimik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "made of potter's clay"
+      },
+      {
+        "lang": "esperanto",
+        "text": "argila (por ceramiko)"
       }
     ]
   },
@@ -86535,7 +86805,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "clay"
+        "text": "clay, loam"
+      },
+      {
+        "lang": "esperanto",
+        "text": "argilo"
+      }
+    ]
+  },
+  {
+    "word": "taimik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "loamy, of loam"
+      },
+      {
+        "lang": "esperanto",
+        "text": "argila"
       }
     ]
   },
@@ -86693,11 +86982,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "earth"
+        "text": "earth (planet)"
       },
       {
         "lang": "esperanto",
-        "text": "tero"
+        "text": "tero (planedo)"
+      }
+    ]
+  },
+  {
+    "word": "talik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "earthly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tera, surtera"
       }
     ]
   },
@@ -86708,7 +87012,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "the globe"
+        "text": "the (terrestrial) globe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "terglobo"
       }
     ]
   },
@@ -86720,6 +87028,66 @@
       {
         "lang": "english",
         "text": "the earth's crust"
+      },
+      {
+        "lang": "esperanto",
+        "text": "terŝelo, terkrusto"
+      }
+    ]
+  },
+  {
+    "word": "talalan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "earth spirits"
+      }
+    ]
+  },
+  {
+    "word": "talalödan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an earthling, an inhabitant of the earth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "terloĝanto"
+      }
+    ]
+  },
+  {
+    "word": "talar",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cassock, a gown"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sutano, talaro"
+      }
+    ]
+  },
+  {
+    "word": "talaron",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "asphalt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "asfalto, terpeĉo"
       }
     ]
   },
@@ -86731,6 +87099,10 @@
       {
         "lang": "english",
         "text": "a mole"
+      },
+      {
+        "lang": "esperanto",
+        "text": "talpo"
       }
     ]
   },
@@ -86742,6 +87114,40 @@
       {
         "lang": "english",
         "text": "geology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geologio"
+      }
+    ]
+  },
+  {
+    "word": "talavan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "geologist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geologisto"
+      }
+    ]
+  },
+  {
+    "word": "talaväk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "solid paraffin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "solida parafino"
       }
     ]
   },
@@ -86757,6 +87163,21 @@
     ]
   },
   {
+    "word": "taled",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(the whole) world"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mondo, tero"
+      }
+    ]
+  },
+  {
     "word": "taledav",
     "lang": "volapuk",
     "category": "n.",
@@ -86764,6 +87185,40 @@
       {
         "lang": "english",
         "text": "geography"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geografio"
+      }
+    ]
+  },
+  {
+    "word": "taledavan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "geographer (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geografisto"
+      }
+    ]
+  },
+  {
+    "word": "taledavik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "geographical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "geografia"
       }
     ]
   },
