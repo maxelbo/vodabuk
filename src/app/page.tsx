@@ -8,12 +8,16 @@ async function getDictionaryData() {
     const res = await fetch(endpoint, { cache: 'no-store' });
 
     if (!res.ok) {
-      throw new Error(`Failed to fetch data from ${endpoint}`);
+      throw new Error(`HTTP error: ${res.status}`);
     }
 
     return res.json();
-  } catch {
-    throw new Error(`Failed to fetch data from ${endpoint}`);
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      throw new Error(`Network error: ${error.message}`);
+    }
+
+    throw error;
   }
 }
 
