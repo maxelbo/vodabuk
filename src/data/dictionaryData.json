@@ -48335,12 +48335,29 @@
   },
   {
     "word": "lonik",
+    "roots": ["lon"],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "legal"
+      }
+    ]
+  },
+  {
+    "word": "talonik",
+    "roots": ["lon"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "illegal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔleĝa"
       }
     ]
   },
@@ -57358,6 +57375,21 @@
     ]
   },
   {
+    "word": "tanatik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "unnatural, against nature"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔnatura"
+      }
+    ]
+  },
+  {
     "word": "natädik",
     "lang": "volapuk",
     "category": "adj.",
@@ -57415,6 +57447,10 @@
       {
         "lang": "english",
         "text": "breath"
+      },
+      {
+        "lang": "esperanto",
+        "text": "spiro"
       }
     ],
     "examples": [
@@ -57460,11 +57496,15 @@
   {
     "word": "natemön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to breathe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "spiri"
       }
     ]
   },
@@ -87062,51 +87102,6 @@
     ]
   },
   {
-    "word": "talar",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a cassock, a gown"
-      },
-      {
-        "lang": "esperanto",
-        "text": "sutano, talaro"
-      }
-    ]
-  },
-  {
-    "word": "talaron",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "asphalt"
-      },
-      {
-        "lang": "esperanto",
-        "text": "asfalto, terpeĉo"
-      }
-    ]
-  },
-  {
-    "word": "talap",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a mole"
-      },
-      {
-        "lang": "esperanto",
-        "text": "talpo"
-      }
-    ]
-  },
-  {
     "word": "talav",
     "lang": "volapuk",
     "category": "n.",
@@ -87133,32 +87128,6 @@
       {
         "lang": "esperanto",
         "text": "geologisto"
-      }
-    ]
-  },
-  {
-    "word": "talaväk",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "solid paraffin"
-      },
-      {
-        "lang": "esperanto",
-        "text": "solida parafino"
-      }
-    ]
-  },
-  {
-    "word": "taleab",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an apprentice's indenture"
       }
     ]
   },
@@ -87223,13 +87192,88 @@
     ]
   },
   {
-    "word": "talonik",
+    "word": "talar",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "illegal"
+        "text": "a cassock, a gown"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sutano, talaro"
+      }
+    ]
+  },
+  {
+    "word": "talaron",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "asphalt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "asfalto, terpeĉo"
+      }
+    ]
+  },
+  {
+    "word": "talap",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mole"
+      },
+      {
+        "lang": "esperanto",
+        "text": "talpo"
+      }
+    ]
+  },
+  {
+    "word": "talin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thallium (Ti)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taliumo, talio (Ti)"
+      }
+    ]
+  },
+  {
+    "word": "talaväk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "solid paraffin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "solida parafino"
+      }
+    ]
+  },
+  {
+    "word": "taleab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an apprentice's indenture"
       }
     ]
   },
@@ -87241,6 +87285,10 @@
       {
         "lang": "english",
         "text": "a mole"
+      },
+      {
+        "lang": "esperanto",
+        "text": "talpo"
       }
     ]
   },
@@ -87252,6 +87300,10 @@
       {
         "lang": "english",
         "text": "a fanfare"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fanfaro"
       }
     ]
   },
@@ -87263,6 +87315,10 @@
       {
         "lang": "english",
         "text": "a tambourine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tamburo"
       }
     ]
   },
@@ -87273,7 +87329,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a remedy"
+        "text": "an antidote, a remedy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuracilo, sanigilo, resanigilo"
       }
     ]
   },
@@ -87285,28 +87345,57 @@
       {
         "lang": "english",
         "text": "a bond"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bendo"
       }
     ]
   },
   {
-    "word": "tanatik",
+    "word": "tanön",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "unnatural"
+        "text": "to bind, to tie"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ligi"
+      }
+    ]
+  },
+  {
+    "word": "tanäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a binder, a (book) cover, binding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bindaĵo"
       }
     ]
   },
   {
     "word": "tanädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to bind (books)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Tanädön bukis = To bind books."
       }
     ]
   },
@@ -87329,6 +87418,55 @@
       {
         "lang": "english",
         "text": "a strip"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strio"
+      }
+    ]
+  },
+  {
+    "word": "tanod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a ribbon (finery)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rubando"
+      }
+    ]
+  },
+  {
+    "word": "tanin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tannin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tanino, tanilo"
+      }
+    ]
+  },
+  {
+    "word": "tanoid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tannic acid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tanina acido"
       }
     ]
   },
@@ -87340,6 +87478,10 @@
       {
         "lang": "english",
         "text": "a tangent (maths)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tanĝanto"
       }
     ]
   },
@@ -87355,17 +87497,6 @@
     ]
   },
   {
-    "word": "tanod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a neckerchief, a scarf"
-      }
-    ]
-  },
-  {
     "word": "tanoganilamedin",
     "lang": "volapuk",
     "category": "n.",
@@ -87373,17 +87504,6 @@
       {
         "lang": "english",
         "text": "an antibiotic"
-      }
-    ]
-  },
-  {
-    "word": "tanön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to bind, to tie"
       }
     ]
   },
