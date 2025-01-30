@@ -87338,13 +87338,28 @@
     ]
   },
   {
+    "word": "tamilan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a Tamil person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tamilo"
+      }
+    ]
+  },
+  {
     "word": "tan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a bond"
+        "text": "a bond, a fetter (vinculum)"
       },
       {
         "lang": "esperanto",
@@ -87504,6 +87519,85 @@
       {
         "lang": "english",
         "text": "an antibiotic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antibiotiko"
+      }
+    ]
+  },
+  {
+    "word": "tansanän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Tanzania"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Tanzanio"
+      }
+    ]
+  },
+  {
+    "word": "tansanänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Tanzanian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tanzaniano"
+      }
+    ]
+  },
+  {
+    "word": "tantalin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tantalum, tantalium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tantalo"
+      }
+    ]
+  },
+  {
+    "word": "taotet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Taoism, teaching of Lao-tse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "daǔismo, taoismo"
+      }
+    ]
+  },
+  {
+    "word": "taotetan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "taoist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "daǔisto, taoisto"
       }
     ]
   },
@@ -87519,13 +87613,47 @@
     ]
   },
   {
-    "word": "taön",
+    "word": "taön (ta)",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to object (to)"
+        "text": "to be against / opposed (to), to object (to)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔi"
+      }
+    ]
+  },
+  {
+    "word": "tap",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wallpapering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapetado"
+      }
+    ]
+  },
+  {
+    "word": "tapan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wall paperer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapetisto"
       }
     ]
   },
@@ -87536,7 +87664,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a carpet"
+        "text": "a carpet (floor covering)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapiŝo"
       }
     ]
   },
@@ -87547,7 +87679,67 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a tapestry"
+        "text": "tapestry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapiserio, gobelino, gobeleno"
+      }
+    ]
+  },
+  {
+    "word": "tapod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tapestry (wall covering)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapeto"
+      }
+    ]
+  },
+  {
+    "word": "tapot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "wallpaper"
+      },
+      {
+        "lang": "esperanto",
+        "text": "murpapero"
+      }
+    ]
+  },
+  {
+    "word": "tapön",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to paper (walls)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tapeti"
+      }
+    ]
+  },
+  {
+    "word": "taplad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) setting against"
       }
     ]
   },
@@ -87574,28 +87766,6 @@
     ]
   },
   {
-    "word": "tapön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to (wall)paper"
-      }
-    ]
-  },
-  {
-    "word": "tapot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wallpaper"
-      }
-    ]
-  },
-  {
     "word": "tar",
     "lang": "volapuk",
     "category": "n.",
@@ -87603,6 +87773,70 @@
       {
         "lang": "english",
         "text": "tar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gudro"
+      }
+    ]
+  },
+  {
+    "word": "tarad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tare (unladen weight)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taro"
+      }
+    ]
+  },
+  {
+    "word": "tarak",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dandelion (Taraxacum)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leontodo (Taraxacum)"
+      }
+    ]
+  },
+  {
+    "word": "tarantel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "trantella (dance)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tarantelo"
+      }
+    ]
+  },
+  {
+    "word": "tarantul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "trantula (Theraphosidae)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tarantulo (Theraphosidae)"
       }
     ]
   },
@@ -87614,6 +87848,10 @@
       {
         "lang": "english",
         "text": "a tariff"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tarifo"
       }
     ]
   },
