@@ -82145,6 +82145,51 @@
     ]
   },
   {
+    "word": "spik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "speech, the talk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolkapablo"
+      }
+    ]
+  },
+  {
+    "word": "spikam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "speaking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolado"
+      }
+    ]
+  },
+  {
+    "word": "spikamamod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "way of speaking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parolmaniero"
+      }
+    ]
+  },
+  {
     "word": "spikan",
     "lang": "volapuk",
     "category": "n.",
@@ -82170,7 +82215,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "diskurso, oratoraĵo, parolado"
+        "text": "prelego, diskurso, oratoraĵo, parolado"
       }
     ]
   },
@@ -82196,7 +82241,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a motto, a saying"
+        "text": "a maxim, a motto, a saying"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sentenco"
       }
     ]
   },
@@ -82207,7 +82256,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a proverb"
+        "text": "a proverb, an adage"
+      },
+      {
+        "lang": "english",
+        "text": "proverbo"
       }
     ]
   },
@@ -82218,12 +82271,16 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a chat, a conversation, a dialogue"
+        "text": "a conversation, a dialogue, a chat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konversacio, interparolado, babilado"
       }
     ]
   },
   {
-    "word": "spikotän",
+    "word": "spikotan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -82241,17 +82298,25 @@
       {
         "lang": "english",
         "text": "chatty, conversational, talkative"
+      },
+      {
+        "lang": "esperanto",
+        "text": "babilema"
       }
     ]
   },
   {
     "word": "spikotön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to chat (with), to converse (with)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konversacii, babili"
       }
     ]
   },
@@ -82280,33 +82345,81 @@
   {
     "word": "spikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to speak (spikön nelaodiko = to whisper)"
+        "text": "to speak"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paroli"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Spikön nelaodiko = To whisper."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Spikön nelaodiko = Paroli mallaǔte."
       }
     ]
   },
   {
     "word": "spikülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to stammer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "balbuti"
+      }
+    ]
+  },
+  {
+    "word": "taspik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a contradiction"
+      }
+    ]
+  },
+  {
+    "word": "spil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) spilling, spillage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "verŝado"
       }
     ]
   },
   {
     "word": "spilön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to spill"
+      },
+      {
+        "lang": "esperanto",
+        "text": "verŝi"
       }
     ]
   },
@@ -87852,6 +87965,36 @@
       {
         "lang": "esperanto",
         "text": "tarifo"
+      }
+    ]
+  },
+  {
+    "word": "tarifik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "related to tariffs"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tarifa"
+      }
+    ]
+  },
+  {
+    "word": "tarifo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in accordance with (the) tariff"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tarife"
       }
     ]
   },
