@@ -25427,22 +25427,30 @@
   {
     "word": "gian",
     "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a gigant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "giganto"
+      }
+    ]
+  },
+  {
+    "word": "gianik",
+    "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "gigantic"
-      }
-    ]
-  },
-  {
-    "word": "gianan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "a giant"
+        "lang": "esperanto",
+        "text": "giganta"
       }
     ]
   },
@@ -25469,6 +25477,10 @@
       {
         "lang": "english",
         "text": "justice"
+      },
+      {
+        "lang": "esperanto",
+        "text": "justeco"
       }
     ]
   },
@@ -25495,7 +25507,18 @@
     ]
   },
   {
-    "word": "gidik, gidöfık",
+    "word": "gidik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fair, just, right, seemly"
+      }
+    ]
+  },
+  {
+    "word": "gidöfik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
