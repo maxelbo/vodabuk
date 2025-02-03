@@ -25447,6 +25447,21 @@
     ]
   },
   {
+    "word": "gib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a leech (Hirudinea)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hirudo (Hirudinea)"
+      }
+    ]
+  },
+  {
     "word": "gid",
     "lang": "volapuk",
     "category": "n.",
@@ -82328,6 +82343,10 @@
       {
         "lang": "english",
         "text": "eloquence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elokvento, elokventeco"
       }
     ]
   },
@@ -82339,6 +82358,10 @@
       {
         "lang": "english",
         "text": "rhetoric"
+      },
+      {
+        "lang": "esperanto",
+        "text": "retoriko, parolarto"
       }
     ]
   },
@@ -82364,6 +82387,36 @@
       {
         "lang": "esperanto",
         "text": "Spikön nelaodiko = Paroli mallaǔte."
+      }
+    ]
+  },
+  {
+    "word": "gespik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an answer, a reply"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respondo"
+      }
+    ]
+  },
+  {
+    "word": "gespikön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to answer, to reply"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respondi"
       }
     ]
   },
