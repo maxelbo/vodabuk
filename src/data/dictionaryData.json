@@ -25282,46 +25282,92 @@
     ]
   },
   {
-    "word": "gespiköf",
+    "word": "ger",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "(mental) preparedness, quickwittedness"
+        "text": "inheritance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "heredo"
       }
     ]
   },
   {
-    "word": "gespiköm",
+    "word": "germän",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "an answering machine"
+        "text": "Germany"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝermanio, ĝermanujo, germanio, germanujo"
       }
     ]
   },
   {
-    "word": "gespikön",
+    "word": "german",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to acknowledge, to answer, to reply to"
+        "text": "a Germanic / Teuton (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝermano, germano"
       }
     ]
   },
   {
-    "word": "gespikü",
+    "word": "germik",
     "lang": "volapuk",
-    "category": "prep.",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "in reply to..."
+        "text": "germanic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝermana, germana"
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "receiving"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ricevo"
+      }
+    ]
+  },
+  {
+    "word": "getan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "receiver"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ricevanto"
       }
     ]
   },
@@ -82123,36 +82169,6 @@
     ]
   },
   {
-    "word": "spik",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(power of) speech, the talk"
-      },
-      {
-        "lang": "esperanto",
-        "text": "parolo"
-      }
-    ]
-  },
-  {
-    "word": "spikam",
-    "lang": "volapuk",
-    "category": "g.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "speaking"
-      },
-      {
-        "lang": "esperanto",
-        "text": "parolado"
-      }
-    ]
-  },
-  {
     "word": "spikamahorn",
     "lang": "volapuk",
     "category": "n.",
@@ -82168,28 +82184,13 @@
     ]
   },
   {
-    "word": "spikamamod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "language (style/manner of expression)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "parolmaniero"
-      }
-    ]
-  },
-  {
     "word": "spik",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "speech, the talk"
+        "text": "(power of) speech, the talk"
       },
       {
         "lang": "esperanto",
@@ -82219,7 +82220,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "way of speaking"
+        "text": "way of speaking, language (style/manner of expression)"
       },
       {
         "lang": "esperanto",
@@ -82440,6 +82441,39 @@
       {
         "lang": "esperanto",
         "text": "respondi"
+      }
+    ]
+  },
+  {
+    "word": "gespiköf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(mental) preparedness, quickwittedness"
+      }
+    ]
+  },
+  {
+    "word": "gespiköm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an answering machine"
+      }
+    ]
+  },
+  {
+    "word": "gespikü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in reply to..."
       }
     ]
   },
