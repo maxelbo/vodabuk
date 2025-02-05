@@ -25189,7 +25189,51 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cheetah"
+        "text": "a cheetah (Acinonyx jubatus)"
+      },
+      {
+        "lang": "esperano",
+        "text": "gepardo (Acinonyx jubatus)"
+      }
+    ]
+  },
+  {
+    "word": "ger",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inheritance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "heredo"
+      }
+    ]
+  },
+  {
+    "word": "geran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "heir, legatee, successor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "heredanto"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Geran valemik, valigeran = Sole heir, residuary legatee."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Geran valemik, valigeran = Nura heredanto."
       }
     ]
   },
@@ -25249,54 +25293,6 @@
     ]
   },
   {
-    "word": "gesag",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an answer"
-      }
-    ]
-  },
-  {
-    "word": "gesagön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to answer"
-      }
-    ]
-  },
-  {
-    "word": "gesedön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to return, to send back"
-      }
-    ]
-  },
-  {
-    "word": "ger",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "inheritance"
-      },
-      {
-        "lang": "esperanto",
-        "text": "heredo"
-      }
-    ]
-  },
-  {
     "word": "germän",
     "lang": "volapuk",
     "category": "n.",
@@ -25338,6 +25334,39 @@
       {
         "lang": "esperanto",
         "text": "ĝermana, germana"
+      }
+    ]
+  },
+  {
+    "word": "gesag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an answer"
+      }
+    ]
+  },
+  {
+    "word": "gesagön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to answer"
+      }
+    ]
+  },
+  {
+    "word": "gesedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to return, to send back"
       }
     ]
   },
@@ -88718,6 +88747,35 @@
       {
         "lang": "english",
         "text": "mere, only"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nur"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Te sekü nilud = From mere suspicion."
+      },
+      {
+        "lang": "english",
+        "text": "Ya te vaul doga jeikom omi = The dog's barking alone frightens him"
+      }
+    ]
+  },
+  {
+    "word": "teik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "only, sole (everything else being excluded)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nura, sola"
       }
     ]
   },
