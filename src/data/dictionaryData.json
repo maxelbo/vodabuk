@@ -88787,17 +88787,65 @@
       {
         "lang": "english",
         "text": "a floor, a storey"
+      },
+      {
+        "lang": "esperano",
+        "text": "etaĝo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lödön in tead balid, belödön teadi balid = To live on the first floor."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Lödön in tead balid, belödön teadi balid = Loĝi en la unua etaĝo."
+      }
+    ]
+  },
+  {
+    "word": "teaf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "suffocation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sufokiĝo"
       }
     ]
   },
   {
     "word": "teafön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be choking, to suffocating"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sufokiĝi"
+      }
+    ]
+  },
+  {
+    "word": "teifön",
+    "lang": "volapuk",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to choke, to suffocate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sufoki"
       }
     ]
   },
