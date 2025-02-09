@@ -88574,6 +88574,10 @@
       {
         "lang": "english",
         "text": "a testicle (medical)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "testiko"
       }
     ]
   },
@@ -88593,6 +88597,36 @@
     ]
   },
   {
+    "word": "tästuman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a testator"
+      },
+      {
+        "lang": "esperanto",
+        "text": "testamentanto"
+      }
+    ]
+  },
+  {
+    "word": "tästumön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bequeath, to make a will"
+      },
+      {
+        "lang": "esperanto",
+        "text": "testamenti"
+      }
+    ]
+  },
+  {
     "word": "tatiriskädüköl",
     "lang": "volapuk",
     "category": "act. part.",
@@ -88604,28 +88638,77 @@
     ]
   },
   {
-    "word": "tästumön",
+    "word": "tät",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to bequeath, to make one's will"
+        "text": "a nipple, a teat"
       },
       {
         "lang": "esperanto",
-        "text": "testamenti"
+        "text": "mampinto"
+      }
+    ]
+  },
+  {
+    "word": "tätam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "milking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "melkado"
+      }
+    ]
+  },
+  {
+    "word": "tätamovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "milkable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "melkebla"
+      }
+    ]
+  },
+  {
+    "word": "tätan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "milker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "melkisto"
       }
     ]
   },
   {
     "word": "tätön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to milk (animals)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "melki"
       }
     ]
   },
@@ -88850,6 +88933,21 @@
     ]
   },
   {
+    "word": "team",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tameness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsovaĝeco"
+      }
+    ]
+  },
+  {
     "word": "teamik",
     "lang": "volapuk",
     "category": "adj.",
@@ -88857,6 +88955,70 @@
       {
         "lang": "english",
         "text": "domesticated, tame"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malsovaĝa"
+      }
+    ]
+  },
+  {
+    "word": "teim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "taming (making tame)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dresado"
+      }
+    ]
+  },
+  {
+    "word": "teimov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "which can be tamed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dresebleco"
+      }
+    ]
+  },
+  {
+    "word": "teimovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tameable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dresebla"
+      }
+    ]
+  },
+  {
+    "word": "teimön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to tame"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dresi"
       }
     ]
   },
@@ -88868,6 +89030,10 @@
       {
         "lang": "english",
         "text": "a toe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piedfingro"
       }
     ]
   },
@@ -88879,6 +89045,25 @@
       {
         "lang": "english",
         "text": "a toenail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piedfingra ungo"
+      }
+    ]
+  },
+  {
+    "word": "teat",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "theatre, theater"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teatro"
       }
     ]
   },
@@ -88890,6 +89075,10 @@
       {
         "lang": "english",
         "text": "the theatre"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teatrejo"
       }
     ]
   },
@@ -88901,6 +89090,10 @@
       {
         "lang": "english",
         "text": "business, commerce, trade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komerco"
       }
     ]
   },
