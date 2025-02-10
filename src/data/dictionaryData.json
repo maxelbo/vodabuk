@@ -88683,6 +88683,21 @@
     ]
   },
   {
+    "word": "tätamöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "milking place"
+      },
+      {
+        "lang": "esperanto",
+        "text": "melkejo"
+      }
+    ]
+  },
+  {
     "word": "tätan",
     "lang": "volapuk",
     "category": "n.",
@@ -88720,6 +88735,21 @@
       {
         "lang": "english",
         "text": "to tattoo"
+      }
+    ]
+  },
+  {
+    "word": "täv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "journey, travel, trip, voyage"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vojaĝo"
       }
     ]
   },
