@@ -88728,13 +88728,32 @@
     ]
   },
   {
+    "word": "tätuv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a tattoo"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tatuaĵo"
+      }
+    ]
+  },
+  {
     "word": "tätuvön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to tattoo"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tatui"
       }
     ]
   },
@@ -88821,6 +88840,10 @@
       {
         "lang": "english",
         "text": "itinerary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "itinero"
       }
     ]
   },
