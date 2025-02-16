@@ -89472,6 +89472,12 @@
         "lang": "esperanto",
         "text": "etero"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Teer levala = Luminiferous aether."
+      }
     ]
   },
   {
@@ -89561,6 +89567,12 @@
       {
         "lang": "esperanto",
         "text": "koncerna"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Pönop tefik = Relative pronoun (grammar)."
       }
     ]
   },
