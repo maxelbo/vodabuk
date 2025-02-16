@@ -88189,17 +88189,25 @@
       {
         "lang": "english",
         "text": "an attack"
+      },
+      {
+        "lang": "esperanto",
+        "text": "atako"
       }
     ]
   },
   {
     "word": "tatakön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to attack"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ataki"
       }
     ]
   },
@@ -89452,6 +89460,21 @@
     ]
   },
   {
+    "word": "teer",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "aether, ether"
+      },
+      {
+        "lang": "esperanto",
+        "text": "etero"
+      }
+    ]
+  },
+  {
     "word": "tef",
     "lang": "volapuk",
     "category": "n.",
@@ -89497,6 +89520,21 @@
     ]
   },
   {
+    "word": "tefädo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "respectively"
+      },
+      {
+        "lang": "esperanto",
+        "text": "relative"
+      }
+    ]
+  },
+  {
     "word": "tefädiko",
     "lang": "volapuk",
     "category": "adv.",
@@ -89504,6 +89542,10 @@
       {
         "lang": "english",
         "text": "relatively"
+      },
+      {
+        "lang": "esperanto",
+        "text": "relative"
       }
     ]
   },
@@ -89514,18 +89556,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "corresponding to; relating to"
+        "text": "respective, corresponding to, relating to"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koncerna"
+      }
+    ]
+  },
+  {
+    "word": "tefod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "modaleco"
       }
     ]
   },
   {
     "word": "tefön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to affect, to be a question of, to concern"
+        "text": "to have regard to, to concern, to affect, to be a question of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koncerni, rilati"
       }
     ]
   },
@@ -89536,7 +89601,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "concerning, with regard to"
+        "text": "concerning, with regard to, in respect of, in view of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pri, koncerne ...n"
+      }
+    ]
+  },
+  {
+    "word": "teg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "covering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kovrado"
       }
     ]
   },
