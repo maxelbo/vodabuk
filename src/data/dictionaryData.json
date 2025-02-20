@@ -12570,7 +12570,7 @@
         "text": "adulthood"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "adolta periodo"
       }
     ]
@@ -14663,7 +14663,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a dignity"
+        "text": "dignity, rank"
+      },
+      {
+        "lang": "esperanto",
+        "text": "digneco"
+      }
+    ]
+  },
+  {
+    "word": "dinitik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dignified"
+      },
+      {
+        "lang": "esperanto",
+        "text": "digna"
       }
     ]
   },
@@ -14686,6 +14705,10 @@
       {
         "lang": "english",
         "text": "a dinosaur"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dinosaǔro"
       }
     ]
   },
@@ -25223,7 +25246,7 @@
         "text": "a cheetah (Acinonyx jubatus)"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "gepardo (Acinonyx jubatus)"
       }
     ]
@@ -85056,7 +85079,7 @@
         "text": "to cause a stir/uproar, to astonish"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "mirigi"
       }
     ]
@@ -88911,7 +88934,7 @@
         "text": "a ticket"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "bileto"
       }
     ]
@@ -88926,7 +88949,7 @@
         "text": "travelling"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "vojaĝado"
       }
     ]
@@ -88941,7 +88964,7 @@
         "text": "a traveller"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "vojaĝanto"
       }
     ]
@@ -89081,7 +89104,7 @@
         "text": "detour, excursion, side trip"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "vojaĝeto"
       }
     ]
@@ -89166,7 +89189,7 @@
         "text": "a floor, a storey"
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "etaĝo"
       }
     ],
@@ -89697,7 +89720,7 @@
         "text": "Tefü din at = Regarding this matter."
       },
       {
-        "lang": "esperano",
+        "lang": "esperanto",
         "text": "Tefü din at = Pri tiu ĉi aĵo."
       },
       {
