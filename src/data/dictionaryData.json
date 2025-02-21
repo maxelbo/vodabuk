@@ -84847,6 +84847,21 @@
     ]
   },
   {
+    "word": "stud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "study"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studo, studado"
+      }
+    ]
+  },
+  {
     "word": "studan",
     "lang": "volapuk",
     "category": "n.",
@@ -84854,28 +84869,81 @@
       {
         "lang": "english",
         "text": "student"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studento"
       }
     ]
   },
   {
     "word": "studön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to study"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studi"
+      }
+    ]
+  },
+  {
+    "word": "dastud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thorough study, training (menntal)"
+      }
+    ]
+  },
+  {
+    "word": "okstud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "self-study"
+      },
+      {
+        "lang": "esperanto",
+        "text": "memlernado"
+      }
+    ]
+  },
+  {
+    "word": "stuk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) construction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstruo, konstruado"
       }
     ]
   },
   {
     "word": "stukön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to construct"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstrui"
       }
     ]
   },
