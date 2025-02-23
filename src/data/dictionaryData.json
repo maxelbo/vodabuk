@@ -50950,17 +50950,6 @@
     ]
   },
   {
-    "word": "lustog",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "ankle-sock"
-      }
-    ]
-  },
-  {
     "word": "lusüt",
     "lang": "volapuk",
     "category": "n.",
@@ -84424,7 +84413,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "stocking"
+        "text": "a stocking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtrumpo"
+      }
+    ]
+  },
+  {
+    "word": "lustog",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a stock, an ankle-sock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtrumpeto"
       }
     ]
   },
@@ -84458,6 +84466,10 @@
       {
         "lang": "english",
         "text": "weather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vetero"
       }
     ]
   },
@@ -84469,6 +84481,10 @@
       {
         "lang": "english",
         "text": "stomach"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stomako"
       }
     ]
   },
@@ -84479,7 +84495,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "gastric juice"
+        "text": "gastric juice, gastric acid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stomaksuko"
       }
     ]
   },
@@ -84491,6 +84511,10 @@
       {
         "lang": "english",
         "text": "stone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtono"
       }
     ]
   },
@@ -84502,6 +84526,10 @@
       {
         "lang": "english",
         "text": "pebble"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtoneto"
       }
     ]
   },
@@ -84513,6 +84541,10 @@
       {
         "lang": "english",
         "text": "quarry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtonejo, ŝtonrompejo, ŝtonminejo"
       }
     ]
   },
@@ -84535,6 +84567,21 @@
       {
         "lang": "english",
         "text": "flagstone, paving stone"
+      }
+    ]
+  },
+  {
+    "word": "stonön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "to turn into stone, to stone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtonigi, ŝtonumi, ŝtonmortigi"
       }
     ]
   },
@@ -85029,7 +85076,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "chair, seat"
+        "text": "a chair, seat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "seĝo"
+      }
+    ]
+  },
+  {
+    "word": "stulil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a small chair, a stool"
+      },
+      {
+        "lang": "esperanto",
+        "text": "seĝeto"
+      }
+    ]
+  },
+  {
+    "word": "lustul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a footstool, a taboret"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tabureto"
       }
     ]
   },
