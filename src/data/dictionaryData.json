@@ -84862,6 +84862,21 @@
     ]
   },
   {
+    "word": "studacem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "study (room)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studejo"
+      }
+    ]
+  },
+  {
     "word": "studan",
     "lang": "volapuk",
     "category": "n.",
@@ -84873,6 +84888,36 @@
       {
         "lang": "esperanto",
         "text": "studento"
+      }
+    ]
+  },
+  {
+    "word": "studiäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "studiousness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studemeco"
+      }
+    ]
+  },
+  {
+    "word": "studiälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "studious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "studema"
       }
     ]
   },
@@ -84929,6 +84974,36 @@
       {
         "lang": "esperanto",
         "text": "konstruo, konstruado"
+      }
+    ]
+  },
+  {
+    "word": "stukan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "constructor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstruanto"
+      }
+    ]
+  },
+  {
+    "word": "stukot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "construction (something constructed)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konstruaĵo"
       }
     ]
   },
