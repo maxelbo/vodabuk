@@ -84187,6 +84187,21 @@
     ]
   },
   {
+    "word": "stim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "esteem, honour, honor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estimo, honoro"
+      }
+    ]
+  },
+  {
     "word": "stimo",
     "lang": "volapuk",
     "category": "adv.",
@@ -84200,11 +84215,45 @@
   {
     "word": "stimön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to esteem, to honour"
+        "text": "to esteem, to honour, to honor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estimi, honori"
+      }
+    ]
+  },
+  {
+    "word": "stimab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "worthy of esteem / honour / honor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estimindeco, honorindeco"
+      }
+    ]
+  },
+  {
+    "word": "stimabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "estimable, hounorable, honorable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estiminda, honorinda"
       }
     ]
   },
@@ -84215,7 +84264,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "string (of musical instrument)"
+        "text": "a string (of musical instrument)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kordo (de muzikilo), ŝnurego"
+      }
+    ]
+  },
+  {
+    "word": "stinön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to string"
+      },
+      {
+        "lang": "esperanto",
+        "text": "provizi per kordoj / ŝnuregoj"
       }
     ]
   },
@@ -84226,7 +84294,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "condition, stipulation (stipä = on condition that)"
+        "text": "condition, stipulation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kondiĉo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Stipä = On condition that."
       }
     ]
   },
@@ -84519,6 +84597,21 @@
     ]
   },
   {
+    "word": "stonik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(of) stone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtona"
+      }
+    ]
+  },
+  {
     "word": "stonil",
     "lang": "volapuk",
     "category": "n.",
@@ -84544,7 +84637,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "ŝtonejo, ŝtonrompejo, ŝtonminejo"
+        "text": "ŝtonejo, ŝtonminejo"
+      }
+    ]
+  },
+  {
+    "word": "stonicöpöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "quarry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝtonrompejo"
       }
     ]
   },
@@ -84599,11 +84707,30 @@
   {
     "word": "stopön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to cease, to stop"
+        "text": "to halt, to stop, to cease"
+      },
+      {
+        "lang": "esperanto",
+        "text": "halti"
+      }
+    ]
+  },
+  {
+    "word": "stopädön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to detain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deteni"
       }
     ]
   },
@@ -84615,6 +84742,10 @@
       {
         "lang": "english",
         "text": "(bus/rail) stop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haltejo"
       }
     ]
   },
@@ -84636,7 +84767,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "stork"
+        "text": "stork (Ciconiidae)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cikonio (Ciconiidae)"
       }
     ]
   },
@@ -84731,11 +84866,15 @@
   {
     "word": "stöpön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to cease, to stop"
+        "text": "to halt, to stop, to restrict"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haltigi"
       }
     ]
   },
@@ -84879,17 +85018,6 @@
       {
         "lang": "english",
         "text": "astrology"
-      }
-    ]
-  },
-  {
-    "word": "studacem",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "study (room)"
       }
     ]
   },
