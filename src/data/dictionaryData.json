@@ -84219,7 +84219,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to esteem, to honour, to honor"
+        "text": "to esteem, to honour / honor"
       },
       {
         "lang": "esperanto",
@@ -84249,11 +84249,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "estimable, hounorable, honorable"
+        "text": "estimable, hounorable / honorable"
       },
       {
         "lang": "esperanto",
         "text": "estiminda, honorinda"
+      }
+    ]
+  },
+  {
+    "word": "stimaban",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a gentleman, an hounorable / honorable person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝentlemano, estiminda persono, honorinda persono"
       }
     ]
   },
@@ -84875,6 +84890,36 @@
       {
         "lang": "esperanto",
         "text": "haltigi"
+      }
+    ]
+  },
+  {
+    "word": "störjon",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a sturgeon (Acipenseridae)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sturgo (Acipenseridae)"
+      }
+    ]
+  },
+  {
+    "word": "störön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dig, to rake,  to rummage in/around something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enfosi"
       }
     ]
   },
