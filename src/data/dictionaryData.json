@@ -84909,6 +84909,21 @@
     ]
   },
   {
+    "word": "stör",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) digging / raking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enfosado"
+      }
+    ]
+  },
+  {
     "word": "störön",
     "lang": "volapuk",
     "category": "tr.",
@@ -84920,6 +84935,21 @@
       {
         "lang": "esperanto",
         "text": "enfosi"
+      }
+    ]
+  },
+  {
+    "word": "störan",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "someone who digs or rummages in something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enfosanto"
       }
     ]
   },
