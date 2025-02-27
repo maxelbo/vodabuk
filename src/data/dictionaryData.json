@@ -84941,7 +84941,7 @@
   {
     "word": "störan",
     "lang": "volapuk",
-    "category": "tr.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
@@ -84976,13 +84976,45 @@
     ]
   },
   {
-    "word": "stötön",
+    "word": "stöt",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to mumble, to stutter"
+        "text": "stummering, stuttering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "balbutado"
+      }
+    ]
+  },
+  {
+    "word": "stötön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to mumble, to stutter, to stummer"
+      },
+      {
+        "lang": "balbuti"
+      }
+    ]
+  },
+  {
+    "word": "stötan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stammerer, stutterer"
+      },
+      {
+        "lang": "balbutanto"
       }
     ]
   },
