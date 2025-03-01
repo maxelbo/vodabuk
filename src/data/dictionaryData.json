@@ -85047,7 +85047,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "beam, ray (of light)"
+        "text": "a beam, a ray (of light)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radio"
       }
     ]
   },
@@ -85059,6 +85063,10 @@
       {
         "lang": "english",
         "text": "radio activity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radioaktiveco"
       }
     ]
   },
@@ -85076,11 +85084,21 @@
   {
     "word": "stralön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "(love) to shine (over)"
+        "text": "to radiate, to shine (over)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radii"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Stralön love = To radiate something"
       }
     ]
   },
