@@ -85109,7 +85109,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "streak, wisp"
+        "text": "streak, stripp, srtipe, wisp"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strio"
+      }
+    ]
+  },
+  {
+    "word": "stripön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to add / provide with strips / stripes / lines"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strii"
       }
     ]
   },
