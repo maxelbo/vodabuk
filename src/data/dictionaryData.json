@@ -84160,39 +84160,6 @@
     "translations": [
       {
         "lang": "english",
-        "text": "esteem, honour"
-      }
-    ]
-  },
-  {
-    "word": "stimiäl",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "ambition"
-      }
-    ]
-  },
-  {
-    "word": "stimadig",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "dignity, respectability"
-      }
-    ]
-  },
-  {
-    "word": "stim",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
         "text": "esteem, honour, honor"
       },
       {
@@ -84269,6 +84236,28 @@
       {
         "lang": "esperanto",
         "text": "ĝentlemano, estiminda persono, honorinda persono"
+      }
+    ]
+  },
+  {
+    "word": "stimadig",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dignity, respectability"
+      }
+    ]
+  },
+  {
+    "word": "stimiäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ambition"
       }
     ]
   },
@@ -85133,6 +85122,21 @@
     ]
   },
   {
+    "word": "stripam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lining (providing with lines)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "striado"
+      }
+    ]
+  },
+  {
     "word": "stripöm",
     "lang": "volapuk",
     "category": "n.",
@@ -85140,6 +85144,10 @@
       {
         "lang": "english",
         "text": "ruler, straightedge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rektilo"
       }
     ]
   },
@@ -85151,6 +85159,21 @@
       {
         "lang": "english",
         "text": "constipation"
+      }
+    ]
+  },
+  {
+    "word": "strof",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "couplet, stanza, verse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "strofo"
       }
     ]
   },
