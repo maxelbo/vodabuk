@@ -84328,6 +84328,21 @@
     ]
   },
   {
+    "word": "stir",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "driving, herding, steering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stirado"
+      }
+    ]
+  },
+  {
     "word": "stiragöb",
     "lang": "volapuk",
     "category": "n.",
@@ -84337,7 +84352,7 @@
         "text": "fin (of fish)"
       },
       {
-        "lang": "espperanto",
+        "lang": "esperanto",
         "text": "vosta naĝilo"
       }
     ]
@@ -84350,6 +84365,10 @@
       {
         "lang": "english",
         "text": "rudder (of boat, ship)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rudro"
       }
     ]
   },
