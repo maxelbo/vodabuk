@@ -84343,6 +84343,51 @@
     ]
   },
   {
+    "word": "stiran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "driver, helmsman, steersman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stiranto"
+      }
+    ]
+  },
+  {
+    "word": "stirön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lead, to herd, to drive, to steer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stiri"
+      }
+    ]
+  },
+  {
+    "word": "stirajainäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bridle, reins"
+      },
+      {
+        "lang": "esperanto",
+        "text": "brido, kondukilo"
+      }
+    ]
+  },
+  {
     "word": "stiragöb",
     "lang": "volapuk",
     "category": "n.",
@@ -84384,35 +84429,32 @@
     ]
   },
   {
-    "word": "stiran",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "helmsman, steersman"
-      }
-    ]
-  },
-  {
     "word": "stirädan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "pilot"
+        "text": "pilot (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piloto"
       }
     ]
   },
   {
-    "word": "stirön",
+    "word": "stirädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to lead, to steer"
+        "text": "to pilot"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piloti"
       }
     ]
   },
