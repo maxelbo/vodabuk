@@ -84373,6 +84373,36 @@
     ]
   },
   {
+    "word": "stirov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "steerableness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stirebleco"
+      }
+    ]
+  },
+  {
+    "word": "stirovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "steerable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stirebla"
+      }
+    ]
+  },
+  {
     "word": "stirajainäd",
     "lang": "volapuk",
     "category": "n.",
@@ -84455,6 +84485,21 @@
       {
         "lang": "esperanto",
         "text": "piloti"
+      }
+    ]
+  },
+  {
+    "word": "stit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) establishing, instituting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "instalado, aranĝo"
       }
     ]
   },
