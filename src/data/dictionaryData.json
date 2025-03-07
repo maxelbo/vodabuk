@@ -84511,17 +84511,25 @@
       {
         "lang": "english",
         "text": "institute"
+      },
+      {
+        "lang": "esperanto",
+        "text": "instituto"
       }
     ]
   },
   {
     "word": "stitön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to establish, to install, to set up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "instali"
       }
     ]
   },
