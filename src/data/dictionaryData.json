@@ -84529,7 +84529,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "instali"
+        "text": "instali, aranĝi"
       }
     ]
   },
@@ -84637,6 +84637,36 @@
       {
         "lang": "esperanto",
         "text": "ŝtrumpeto"
+      }
+    ]
+  },
+  {
+    "word": "stoin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stone (mineral)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "minaĵo"
+      }
+    ]
+  },
+  {
+    "word": "stoinav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mineralology, petrology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mineralogio"
       }
     ]
   },
@@ -84908,18 +84938,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "barrier"
+        "text": "barrier, blocking device"
+      },
+      {
+        "lang": "esperanto",
+        "text": "barilo"
       }
     ]
   },
   {
     "word": "stöbön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to bar, to block"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bari"
       }
     ]
   },
