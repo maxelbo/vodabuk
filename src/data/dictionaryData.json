@@ -84686,6 +84686,36 @@
     ]
   },
   {
+    "word": "stok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "provision, stock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stoko"
+      }
+    ]
+  },
+  {
+    "word": "stokacem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "larder, pantry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stokaĉambro"
+      }
+    ]
+  },
+  {
     "word": "stol",
     "lang": "volapuk",
     "category": "n.",
