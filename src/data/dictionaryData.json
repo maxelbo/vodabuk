@@ -84738,6 +84738,47 @@
       {
         "lang": "english",
         "text": "straw"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pajlo"
+      }
+    ]
+  },
+  {
+    "word": "stolik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(of) straw"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pajla"
+      }
+    ]
+  },
+  {
+    "word": "stolabed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bed of straw"
+      }
+    ]
+  },
+  {
+    "word": "stolajedülot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "covering of straw"
       }
     ]
   },
@@ -84749,6 +84790,28 @@
       {
         "lang": "english",
         "text": "straw mat"
+      }
+    ]
+  },
+  {
+    "word": "stolanäst",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nest of straw"
+      }
+    ]
+  },
+  {
+    "word": "stolastag",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "blade of straw"
       }
     ]
   },
