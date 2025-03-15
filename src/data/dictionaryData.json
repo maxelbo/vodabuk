@@ -84842,7 +84842,97 @@
       },
       {
         "lang": "esperanto",
-        "text": "vetero"
+        "text": "vetero, meteo"
+      }
+    ]
+  },
+  {
+    "word": "stomik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relating to the weather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vetera"
+      }
+    ]
+  },
+  {
+    "word": "stomav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "metereology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "meteologio, meteorologio"
+      }
+    ]
+  },
+  {
+    "word": "mistom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bad weather, severe weather, thunderstorm, tempest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malbona vetero, misvetero"
+      }
+    ]
+  },
+  {
+    "word": "mistomön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be bad / severe  weather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti malbona vetero / misvetero"
+      }
+    ]
+  },
+  {
+    "word": "stomül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shower (in general for weather)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuja mallonga pluvo"
+      }
+    ]
+  },
+  {
+    "word": "mistomül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shower of rain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fulmotondro"
       }
     ]
   },
