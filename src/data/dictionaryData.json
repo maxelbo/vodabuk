@@ -54981,28 +54981,6 @@
     ]
   },
   {
-    "word": "mistom",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "thunderstorm"
-      }
-    ]
-  },
-  {
-    "word": "mistomül",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "squall"
-      }
-    ]
-  },
-  {
     "word": "misul",
     "lang": "volapuk",
     "category": "n.",
@@ -84907,6 +84885,21 @@
     ]
   },
   {
+    "word": "mistomanufül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shelter (against severe weather)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝirmejo (kontraǔ malbona vetero)"
+      }
+    ]
+  },
+  {
     "word": "stomül",
     "lang": "volapuk",
     "category": "n.",
@@ -84928,7 +84921,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "shower of rain"
+        "text": "shower of rain, squall"
       },
       {
         "lang": "esperanto",
