@@ -86302,13 +86302,17 @@
     ]
   },
   {
-    "word": "sudel",
+    "word": "sud",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "Sunday"
+        "text": "deafness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdeco"
       }
     ]
   },
@@ -86320,6 +86324,145 @@
       {
         "lang": "english",
         "text": "deaf"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surda"
+      }
+    ]
+  },
+  {
+    "word": "sudikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become deaf"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdiĝi"
+      }
+    ]
+  },
+  {
+    "word": "sudükam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deafening, making deaf"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdigado"
+      }
+    ]
+  },
+  {
+    "word": "sudükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to deafen, to make deaf"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdigi"
+      }
+    ]
+  },
+  {
+    "word": "sudamüät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deaf and dumbness, deaf-muteness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdmuteco, surdomuteco"
+      }
+    ]
+  },
+  {
+    "word": "sudamüätik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "deaf and dumb, deaf-mute"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdmuta, surdamuta"
+      }
+    ]
+  },
+  {
+    "word": "sudamüätan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a deaf and dumb person, a deaf-mute person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "surdmutulo, surdomutulo"
+      }
+    ]
+  },
+  {
+    "word": "sudel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Sunday"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dimanĉo"
+      }
+    ]
+  },
+  {
+    "word": "suem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "comprehensibility, understanding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompreno, komprenado"
+      }
+    ]
+  },
+  {
+    "word": "suemakleil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mental clarity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "klara kompreno"
       }
     ]
   },
@@ -86331,6 +86474,10 @@
       {
         "lang": "english",
         "text": "understanding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompreno"
       }
     ]
   },
@@ -86341,7 +86488,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a concept, a notion"
+        "text": "a (mental) concept, a notion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nocio, ideo, koncepto"
       }
     ]
   },
@@ -86353,17 +86504,55 @@
       {
         "lang": "english",
         "text": "comprehensible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komprenebla"
       }
     ]
   },
   {
     "word": "suemön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to comprehend, to understand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompreni"
+      }
+    ]
+  },
+  {
+    "word": "misuem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(condition of) misunderstanding"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miskompreno, miskomprenado"
+      }
+    ]
+  },
+  {
+    "word": "misuemön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to misunderstand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miskompreni"
       }
     ]
   },
