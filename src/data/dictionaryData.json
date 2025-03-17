@@ -86265,17 +86265,70 @@
       {
         "lang": "english",
         "text": "a price, an amount (of money)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prezo, sumo"
       }
     ]
   },
   {
     "word": "suämön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to amount (to), to total"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sumi"
+      }
+    ]
+  },
+  {
+    "word": "suämü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in sum"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sume de"
+      }
+    ]
+  },
+  {
+    "word": "suämalised",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a price list"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prezlisto"
+      }
+    ]
+  },
+  {
+    "word": "sublim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "grandeur, sublimity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sublimeco"
       }
     ]
   },
@@ -86287,6 +86340,10 @@
       {
         "lang": "english",
         "text": "grandiose, sublime"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sublima"
       }
     ]
   },
@@ -86297,7 +86354,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to soar (spiritually)"
+        "text": "to raise (to the heights), to raise spiritutally, / mentally, to soar (spiritually), to make sublime"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sublimigi (spirite)"
       }
     ]
   },
