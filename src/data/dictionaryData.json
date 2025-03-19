@@ -86330,6 +86330,12 @@
         "lang": "esperanto",
         "text": "sublimeco"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Sublim ladäla = Nobility of spirit."
+      }
     ]
   },
   {
@@ -87786,6 +87792,10 @@
       {
         "lang": "english",
         "text": "a swallow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hirundo"
       }
     ]
   },
@@ -87797,6 +87807,10 @@
       {
         "lang": "english",
         "text": "a swan"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cigno"
       }
     ]
   },
@@ -87819,6 +87833,111 @@
       {
         "lang": "english",
         "text": "to wash (ashore)"
+      }
+    ]
+  },
+  {
+    "word": "süriyän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "syria"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sirio"
+      }
+    ]
+  },
+  {
+    "word": "süriyänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "syrian (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "siriano"
+      }
+    ]
+  },
+  {
+    "word": "svasiyän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "swaziland"
+      },
+      {
+        "lang": "esperanto",
+        "text": "svazilando, svaziujo"
+      }
+    ]
+  },
+  {
+    "word": "sved",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "old swedish language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oldsveda lingvo"
+      }
+    ]
+  },
+  {
+    "word": "svedän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sweden"
+      },
+      {
+        "lang": "esperanto",
+        "text": "svedio, svedujo"
+      }
+    ]
+  },
+  {
+    "word": "svedänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "swede"
+      },
+      {
+        "lang": "esperanto",
+        "text": "svedo"
+      }
+    ]
+  },
+  {
+    "word": "svedänik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "swedish"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sveda"
       }
     ]
   },
@@ -88006,6 +88125,21 @@
       {
         "lang": "english",
         "text": "to swing, to wave"
+      }
+    ]
+  },
+  {
+    "word": "syankär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "chancre"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝankro"
       }
     ]
   },
