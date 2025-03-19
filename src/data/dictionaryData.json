@@ -88118,6 +88118,81 @@
     ]
   },
   {
+    "word": "svol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of becoming) inflated / puffy / swollen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufiĝo"
+      }
+    ]
+  },
+  {
+    "word": "svolik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inflated, puffy, swollen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufa"
+      }
+    ]
+  },
+  {
+    "word": "svolön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be inflated / puffy / swollen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti pufa"
+      }
+    ]
+  },
+  {
+    "word": "svolikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become inflated / puffy, to swell"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufiĝi"
+      }
+    ]
+  },
+  {
+    "word": "svolükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to inflate, to make puffy, to make something swell"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufigi"
+      }
+    ]
+  },
+  {
     "word": "svönön",
     "lang": "volapuk",
     "category": "v.",
@@ -88125,6 +88200,66 @@
       {
         "lang": "english",
         "text": "to swing, to wave"
+      }
+    ]
+  },
+  {
+    "word": "syam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shamanism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝamanismo"
+      }
+    ]
+  },
+  {
+    "word": "syaman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shaman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝamano"
+      }
+    ]
+  },
+  {
+    "word": "syiitan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shiite, shia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝijaisto"
+      }
+    ]
+  },
+  {
+    "word": "syintoit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shinto, shintoism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝintoo, ŝintoismo"
       }
     ]
   },
