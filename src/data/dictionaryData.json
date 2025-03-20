@@ -88081,6 +88081,10 @@
       {
         "lang": "english",
         "text": "a broom"
+      },
+      {
+        "lang": "esperanto",
+        "text": "balailo"
       }
     ]
   },
@@ -88092,17 +88096,25 @@
       {
         "lang": "english",
         "text": "brother (not family, but community), a colleague"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frato (ne familia, sed komunuma)"
       }
     ]
   },
   {
-    "word": "svistef",
+    "word": "svistäl",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "brotherhood (not family, but community)"
+        "text": "brotherhood, fraternity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frateco (ne familia)"
       }
     ]
   },
@@ -88114,6 +88126,40 @@
       {
         "lang": "english",
         "text": "fraternally"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fratece"
+      }
+    ]
+  },
+  {
+    "word": "svistef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a brotherhood (not family, but community)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gefrataro"
+      }
+    ]
+  },
+  {
+    "word": "svisön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "join a brotherhood with"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fratiĝi kun"
       }
     ]
   },
@@ -88189,6 +88235,51 @@
       {
         "lang": "esperanto",
         "text": "pufigi"
+      }
+    ]
+  },
+  {
+    "word": "svolot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "something bulging out / inflated / swollen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufaĵo"
+      }
+    ]
+  },
+  {
+    "word": "svolotil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "puffiness (thing)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufaĵeto"
+      }
+    ]
+  },
+  {
+    "word": "svolasliv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "loose-fitting, puffy sleeve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pufa maniko"
       }
     ]
   },
