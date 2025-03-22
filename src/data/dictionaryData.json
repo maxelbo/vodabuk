@@ -88505,6 +88505,96 @@
     ]
   },
   {
+    "word": "siamän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Thailand, Siam"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Tajlando, Siamo"
+      }
+    ]
+  },
+  {
+    "word": "siamänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Thai, Siamese"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taja, siama"
+      }
+    ]
+  },
+  {
+    "word": "siamänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Thai, Siamese (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tajo, siamano"
+      }
+    ]
+  },
+  {
+    "word": "siäraleonän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Sierra Leone"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sieraleono"
+      }
+    ]
+  },
+  {
+    "word": "sibenbügän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Transylvania"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Transilvanio"
+      }
+    ]
+  },
+  {
+    "word": "siöraplek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Lord's Prayer, Paternoster"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Patro nia, Sinjorpreĝo"
+      }
+    ]
+  },
+  {
     "word": "ta",
     "lang": "volapuk",
     "category": "prep.",
@@ -88512,6 +88602,10 @@
       {
         "lang": "english",
         "text": "against"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔ"
       }
     ]
   },
@@ -88523,6 +88617,10 @@
       {
         "lang": "english",
         "text": "an adversary, an opponent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔulo"
       }
     ]
   },
