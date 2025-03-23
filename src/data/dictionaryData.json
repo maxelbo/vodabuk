@@ -88631,7 +88631,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a contrast, a reversal"
+        "text": "an adversity, a contrast, a reversal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malo, kontraǔo"
       }
     ]
   },
@@ -88642,7 +88646,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a contrast"
+        "text": "(act or condition of) contrasting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔado"
       }
     ]
   },
@@ -88653,7 +88661,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "contrary, counter"
+        "text": "adverse, opposed, opposing, contrary, counter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mala, kontraǔa"
       }
     ]
   },
@@ -88665,6 +88677,10 @@
       {
         "lang": "english",
         "text": "on the contrary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "male, kontraǔe"
       }
     ]
   },
