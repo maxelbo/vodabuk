@@ -88685,13 +88685,32 @@
     ]
   },
   {
-    "word": "taädön",
+    "word": "taädön (ko)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to oppose, to reverse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔi kun"
+      }
+    ]
+  },
+  {
+    "word": "taäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "contrariness, spirit of contradiction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔeco"
       }
     ]
   },
@@ -88703,6 +88722,10 @@
       {
         "lang": "english",
         "text": "a table"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tablo"
       }
     ]
   },
@@ -88714,6 +88737,25 @@
       {
         "lang": "english",
         "text": "tobacco"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tabako"
+      }
+    ]
+  },
+  {
+    "word": "tabakiär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tobacco conntainer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tabakujo"
       }
     ]
   },
@@ -88736,6 +88778,10 @@
       {
         "lang": "english",
         "text": "a table cloth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tablotuko"
       }
     ]
   },
@@ -88758,6 +88804,25 @@
       {
         "lang": "english",
         "text": "a paradox"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paradokso"
+      }
+    ]
+  },
+  {
+    "word": "tacik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tajik language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taĝika lingvo"
       }
     ]
   },
@@ -88901,6 +88966,10 @@
       {
         "lang": "english",
         "text": "earth (substance)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tero"
       }
     ]
   },
