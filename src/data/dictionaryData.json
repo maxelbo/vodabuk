@@ -50733,7 +50733,7 @@
         "text": "long (measure)"
       }
     ],
-    "example": [
+    "examples": [
       {
         "lang": "english",
         "text": "Lunotik mö mets kil = Three metres long."
@@ -88937,13 +88937,53 @@
     ]
   },
   {
-    "word": "tagön",
+    "word": "tag",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to trample"
+        "text": "kicking, stamping, trampling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piedbato, piedbatado"
+      }
+    ]
+  },
+  {
+    "word": "tagön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to kick, to stamp, to trample"
+      },
+      {
+        "lang": "esperanto",
+        "text": "piedbati"
+      }
+    ]
+  },
+  {
+    "word": "tagad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "heaving, pitching, rolling (ship movement)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tangado (de ŝipo)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Tagad nafa = Heaving/pitching/rolling of a ship"
       }
     ]
   },
@@ -88955,6 +88995,10 @@
       {
         "lang": "english",
         "text": "(sea) tide"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tajdo"
       }
     ]
   },
