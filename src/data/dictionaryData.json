@@ -89104,13 +89104,32 @@
     ]
   },
   {
+    "word": "takädastul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "retirement (from work)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ferdekseĝo"
+      }
+    ]
+  },
+  {
     "word": "takädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to repose, to rest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ripozi"
       }
     ]
   },
