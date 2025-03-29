@@ -89086,6 +89086,12 @@
         "lang": "esperanto",
         "text": "ripozo"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "takädastul = a deckchair"
+      }
     ]
   },
   {
@@ -89110,7 +89116,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "retirement (from work)"
+        "text": "a deckchair"
       },
       {
         "lang": "esperanto",
