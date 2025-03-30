@@ -37778,6 +37778,25 @@
       {
         "lang": "english",
         "text": "a fight, a struggle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "batalo"
+      }
+    ]
+  },
+  {
+    "word": "komipön (ta)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fight, to struggle (against)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "batali (kontraǔ)"
       }
     ]
   },
@@ -37793,17 +37812,6 @@
     ]
   },
   {
-    "word": "komipön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to fight, to struggle (against)"
-      }
-    ]
-  },
-  {
     "word": "komipöp",
     "lang": "volapuk",
     "category": "n.",
@@ -37811,6 +37819,22 @@
       {
         "lang": "english",
         "text": "an arena"
+      }
+    ]
+  },
+  {
+    "word": "takomip",
+    "lang": "volapuk",
+    "roots": ["komip"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "defence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "defendo"
       }
     ]
   },
@@ -89074,6 +89098,21 @@
     ]
   },
   {
+    "word": "takik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stagnant, static"
+      },
+      {
+        "lang": "esperanto",
+        "text": "senmova"
+      }
+    ]
+  },
+  {
     "word": "takäd",
     "lang": "volapuk",
     "category": "n.",
@@ -89206,28 +89245,6 @@
       {
         "lang": "english",
         "text": "a tranquilizer"
-      }
-    ]
-  },
-  {
-    "word": "takik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "stagnant, static"
-      }
-    ]
-  },
-  {
-    "word": "takomip",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "defence"
       }
     ]
   },
