@@ -37858,6 +37858,38 @@
     ]
   },
   {
+    "word": "komit",
+    "lang": "volapuk",
+    "roots": ["komit"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "order, commission"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komisio"
+      }
+    ]
+  },
+  {
+    "word": "komitet",
+    "lang": "volapuk",
+    "roots": ["komit"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "office of inspector"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komitato"
+      }
+    ]
+  },
+  {
     "word": "komitetanef",
     "lang": "volapuk",
     "category": "n.",
