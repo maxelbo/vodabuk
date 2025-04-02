@@ -37874,6 +37874,22 @@
     ]
   },
   {
+    "word": "komitön",
+    "lang": "volapuk",
+    "roots": ["komit"],
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to order, to commission"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komisii"
+      }
+    ]
+  },
+  {
     "word": "komitet",
     "lang": "volapuk",
     "roots": ["komit"],
@@ -37890,13 +37906,32 @@
     ]
   },
   {
+    "word": "komitetan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inspector (police)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komitatano"
+      }
+    ]
+  },
+  {
     "word": "komitetanef",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a committee"
+        "text": "members of committee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komitatanaro"
       }
     ]
   },
