@@ -37890,6 +37890,22 @@
     ]
   },
   {
+    "word": "komitat",
+    "lang": "volapuk",
+    "roots": ["komit"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "county (in Hungary)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grafujo (en Hungario)"
+      }
+    ]
+  },
+  {
     "word": "komitet",
     "lang": "volapuk",
     "roots": ["komit"],
@@ -37943,6 +37959,25 @@
       {
         "lang": "english",
         "text": "on commission"
+      },
+      {
+        "lang": "esperanto",
+        "text": "komisie"
+      }
+    ]
+  },
+  {
+    "word": "komitü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on order of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "en ordo de"
       }
     ]
   },
