@@ -8845,7 +8845,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "profesio, okupo, ofico, metio"
+        "text": "ofico, funkcio, profesio, okupo, metio"
       }
     ]
   },
@@ -8926,7 +8926,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a chamois"
+        "text": "a chamois (Rupicapra rupicapra)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉamo (Rupicapra rupicapra)"
       }
     ]
   },
@@ -8958,6 +8962,20 @@
         "lang": "esperanto",
         "text": "varo"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Cans goldismitana = Goldsmith's wares."
+      },
+      {
+        "lang": "english",
+        "text": "Cans kefela = Brushmaker's wares."
+      },
+      {
+        "lang": "english",
+        "text": "Cans lätenik = Brassware."
+      }
     ]
   },
   {
@@ -8968,6 +8986,10 @@
       {
         "lang": "english",
         "text": "a warehouse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varmagazeno"
       }
     ]
   },
@@ -8982,7 +9004,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "stoko"
+        "text": "varstoko"
       }
     ]
   },
@@ -9005,6 +9027,10 @@
       {
         "lang": "english",
         "text": "a department store"
+      },
+      {
+        "lang": "esperanto",
+        "text": "varvendejo"
       }
     ]
   },
@@ -9016,6 +9042,10 @@
       {
         "lang": "english",
         "text": "warehouse, depot, magazine, storehouse (for goods)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vardeponejo"
       }
     ]
   },
@@ -9031,6 +9061,21 @@
       {
         "lang": "esperanto",
         "text": "pafarko"
+      }
+    ]
+  },
+  {
+    "word": "caran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "archer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pafarkisto"
       }
     ]
   },
@@ -9056,7 +9101,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "gorĝo, faringo, faŭko"
+        "text": "gorĝo, faringo, faŭko, buŝego"
       }
     ]
   },
