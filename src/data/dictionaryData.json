@@ -9362,7 +9362,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "konsilio, ĉambro, asembleo"
+        "text": "asembleo, konsilio, ĉambro"
       }
     ]
   },
@@ -9452,6 +9452,10 @@
       {
         "lang": "english",
         "text": "change (cash)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "monŝanĝo"
       }
     ]
   },
@@ -9612,7 +9616,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "gagata varo"
+        "text": "gagata varo, gagata juvelo"
       }
     ]
   },
@@ -9722,6 +9726,22 @@
     ]
   },
   {
+    "word": "lecek",
+    "roots": ["cek"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a stall of animals, a stable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "voliero, stalo"
+      }
+    ]
+  },
+  {
     "word": "cel",
     "lang": "volapuk",
     "category": "n.",
@@ -9778,6 +9798,28 @@
       {
         "lang": "esperanto",
         "text": "ĉambro"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Cem malädanas = Sick room, hospital ward"
+      }
+    ]
+  },
+  {
+    "word": "lecem",
+    "roots": ["cem"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hall, drawing room"
+      },
+      {
+        "lang": "esperanto",
+        "text": "salono"
       }
     ],
     "examples": [
@@ -9921,6 +9963,36 @@
     ]
   },
   {
+    "word": "lecen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "konvertiĝo, pento"
+      },
+      {
+        "lang": "esperanto",
+        "text": "penti"
+      }
+    ]
+  },
+  {
+    "word": "lecenön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to convert, to be converted (faith)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "penti"
+      }
+    ]
+  },
+  {
     "word": "cep",
     "lang": "volapuk",
     "category": "n.",
@@ -9942,7 +10014,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "threshing machine"
+        "text": "a threshing machine"
       },
       {
         "lang": "esperanto",
@@ -9972,7 +10044,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "thresher"
+        "text": "a thresher"
       },
       {
         "lang": "esperanto",
@@ -9987,7 +10059,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "threshing flail"
+        "text": "a threshing flail"
       },
       {
         "lang": "esperanto",
@@ -10007,6 +10079,51 @@
       {
         "lang": "esperanto",
         "text": "draŝi"
+      }
+    ]
+  },
+  {
+    "word": "cib",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chip, a sliver (length, thin, supper platelet of wood)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dehakaĵo"
+      }
+    ]
+  },
+  {
+    "word": "cid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chisel"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉizilo"
+      }
+    ]
+  },
+  {
+    "word": "cidön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chisel, to carve"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉizi"
       }
     ]
   },
@@ -43877,28 +43994,6 @@
       {
         "lang": "english",
         "text": "a conversion"
-      }
-    ]
-  },
-  {
-    "word": "lecek",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a stable"
-      }
-    ]
-  },
-  {
-    "word": "lecem",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "drawing-room"
       }
     ]
   },
