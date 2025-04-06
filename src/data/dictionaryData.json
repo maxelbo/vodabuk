@@ -10158,13 +10158,54 @@
     ]
   },
   {
+    "word": "cifacal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "chairmanship, office (function) of being the boss/chief"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estrado"
+      }
+    ]
+  },
+  {
+    "word": "cifam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "presidency, primacy, chairpersonship"
+      }
+    ]
+  },
+  {
+    "word": "cifef",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "board of directors, directorate, executive board, management board, managing committee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estraro"
+      }
+    ]
+  },
+  {
     "word": "cifazif",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "capital (of a country)"
+        "text": "capital city (of a country)"
       },
       {
         "lang": "esperanto",
