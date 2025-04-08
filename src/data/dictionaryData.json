@@ -10229,6 +10229,21 @@
     ]
   },
   {
+    "word": "cikor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "blueweed, chicory, succory"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cikorio"
+      }
+    ]
+  },
+  {
     "word": "cil",
     "lang": "volapuk",
     "category": "n.",
@@ -10239,7 +10254,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "infano"
+        "text": "infano, filo"
       }
     ]
   },
@@ -10262,6 +10277,10 @@
       {
         "lang": "english",
         "text": "a tricycle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "triciklo"
       }
     ]
   },
