@@ -10594,7 +10594,71 @@
     "translations": [
       {
         "lang": "english",
-        "text": "fun, humour"
+        "text": "a joke, a prank, fun, humour"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝerco"
+      }
+    ]
+  },
+  {
+    "word": "cogik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "funny, humorous, jokey, joking, facetious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝerca, amuza"
+      }
+    ]
+  },
+  {
+    "word": "cogan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "joker, jokester, prankster"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝercisto"
+      }
+    ]
+  },
+  {
+    "word": "coged",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "quip, wisecrack"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sprito"
+      }
+    ]
+  },
+  {
+    "word": "cogedik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "witty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sprita"
       }
     ]
   },
@@ -10606,17 +10670,6 @@
       {
         "lang": "english",
         "text": "a sense of humour"
-      }
-    ]
-  },
-  {
-    "word": "cogik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "funny, humorous, jokey"
       }
     ]
   },
