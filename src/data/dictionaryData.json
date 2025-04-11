@@ -2132,6 +2132,86 @@
     ]
   },
   {
+    "word": "ballog",
+    "roots": ["bal", "log"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one-eyedness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuokuleco"
+      }
+    ]
+  },
+  {
+    "word": "ballogik",
+    "roots": ["bal", "log"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one-eyed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuokula"
+      }
+    ]
+  },
+  {
+    "word": "ballogan",
+    "roots": ["bal", "log"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one-eyed person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuokululo"
+      }
+    ]
+  },
+  {
+    "word": "ballögik",
+    "roots": ["bal", "lög"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one-legged (person or animal)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unukrura (homo aǔ besto)"
+      }
+    ]
+  },
+  {
+    "word": "ballögädik",
+    "roots": ["bal", "lög"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one-legged (object)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unukrura (objekto)"
+      }
+    ]
+  },
+  {
     "word": "ballüodik",
     "roots": ["bal", "lüod"],
     "lang": "volapuk",
@@ -10710,7 +10790,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "violoncello"
+        "text": "cello, viola de gamba, violoncello"
+      },
+      {
+        "lang": "esperanto",
+        "text": "violonĉelo"
+      }
+    ]
+  },
+  {
+    "word": "colan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "cellist, violoncellist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "violonĉelisto"
       }
     ]
   },
@@ -10721,7 +10820,129 @@
     "translations": [
       {
         "lang": "english",
+        "text": "a hoe, a pick"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hojo"
+      }
+    ]
+  },
+  {
+    "word": "copön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be chopped, to be hacked, to be soil worked with a hoe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pioĉiĝi, hojiĝi"
+      }
+    ]
+  },
+  {
+    "word": "lecop",
+    "roots": ["cop"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
         "text": "a hoe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pioĉo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lecop teltuitik = A two-pronged pitchfork."
+      }
+    ]
+  },
+  {
+    "word": "cöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a heavy blow, a hack, a hit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hako"
+      }
+    ]
+  },
+  {
+    "word": "cöpön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chop, to hack"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pioĉi, haki"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Cöpön ad dileds = To chop into pieces."
+      }
+    ]
+  },
+  {
+    "word": "cöpilön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chop up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haketi"
+      }
+    ]
+  },
+  {
+    "word": "cöpülön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to chaff, to mince"
+      },
+      {
+        "lang": "esperanto",
+        "text": "haketi"
+      }
+    ]
+  },
+  {
+    "word": "becöpön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to hew, to chop (pig, etc.), to dress (stone)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉirkaǔhaki"
       }
     ]
   },
@@ -10911,50 +11132,6 @@
       {
         "lang": "esperanto",
         "text": "ĝangalo"
-      }
-    ]
-  },
-  {
-    "word": "cöp",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "heavy blow, hack, hit"
-      }
-    ]
-  },
-  {
-    "word": "cöpön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to chop, to hack"
-      }
-    ]
-  },
-  {
-    "word": "cöpilön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to chop up"
-      }
-    ]
-  },
-  {
-    "word": "cöpülön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to chaff, to mince"
       }
     ]
   },
@@ -50155,7 +50332,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a leg"
+        "text": "a leg (limb)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kruro, gambo (de homo aǔ besto)"
+      }
+    ]
+  },
+  {
+    "word": "lögäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a leg, a foot (of things)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stativo, kruro (de objekto)"
       }
     ]
   },
