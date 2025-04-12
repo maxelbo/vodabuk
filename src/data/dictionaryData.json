@@ -49975,7 +49975,7 @@
     ]
   },
   {
-    "word": "lö",
+    "word": "lö-",
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -50007,11 +50007,15 @@
   {
     "word": "löädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to rise, to stand up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leviĝi, ekstari"
       }
     ],
     "examples": [
@@ -50352,6 +50356,36 @@
       {
         "lang": "esperanto",
         "text": "stativo, kruro (de objekto)"
+      }
+    ]
+  },
+  {
+    "word": "lögil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a small leg"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krureto, gambeto"
+      }
+    ]
+  },
+  {
+    "word": "lögaklot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "trousers, pants"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pantalono"
       }
     ]
   },
