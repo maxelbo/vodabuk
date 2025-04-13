@@ -50005,6 +50005,31 @@
     ]
   },
   {
+    "word": "löikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become erect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rektiĝi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Malädan älöikon in bed oka = The ill person sat up in his bed."
+      },
+      {
+        "lang": "english",
+        "text": "Hers elöikons pö om = His hair stood on end."
+      }
+    ]
+  },
+  {
     "word": "löädön",
     "lang": "volapuk",
     "category": "int.",
@@ -50021,7 +50046,7 @@
     "examples": [
       {
         "lang": "english",
-        "text": "löädön se bed = to get up"
+        "text": "Löädön se bed = To get up."
       }
     ]
   },
@@ -50059,6 +50084,21 @@
       {
         "lang": "esperanto",
         "text": "loĝo"
+      }
+    ]
+  },
+  {
+    "word": "lödik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "resident, domiciled"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝanta"
       }
     ]
   },
