@@ -50304,7 +50304,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a loved one"
+        "text": "a loved one, a beloved"
+      },
+      {
+        "lang": "esperanto",
+        "text": "favorato, amato"
+      }
+    ]
+  },
+  {
+    "word": "löfäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "flirting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flirto"
       }
     ]
   },
@@ -50315,7 +50334,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a hobby"
+        "text": "a hobby, a loving disposition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hobio"
       }
     ]
   },
