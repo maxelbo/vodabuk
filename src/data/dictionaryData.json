@@ -50283,6 +50283,36 @@
     ]
   },
   {
+    "word": "löfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lovable, dear"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kara, aminda"
+      }
+    ]
+  },
+  {
+    "word": "löfön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to love, to be fond of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ami"
+      }
+    ]
+  },
+  {
     "word": "löfan",
     "lang": "volapuk",
     "category": "n.",
@@ -50328,6 +50358,21 @@
     ]
   },
   {
+    "word": "löfädön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to flirt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flirti"
+      }
+    ]
+  },
+  {
     "word": "löfäl",
     "lang": "volapuk",
     "category": "n.",
@@ -50343,6 +50388,21 @@
     ]
   },
   {
+    "word": "löfid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "charm"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dolĉeco, ĉarmo"
+      }
+    ]
+  },
+  {
     "word": "löfidik",
     "lang": "volapuk",
     "category": "adj.",
@@ -50350,28 +50410,40 @@
       {
         "lang": "english",
         "text": "appealing, charming"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉarma"
       }
     ]
   },
   {
-    "word": "löfik",
+    "word": "löfil",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "lovable, dear"
+        "text": "a liking, a fondness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝato"
       }
     ]
   },
   {
     "word": "löfilön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to like, to prefer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝati"
       }
     ]
   },
@@ -50394,17 +50466,6 @@
       {
         "lang": "english",
         "text": "kind"
-      }
-    ]
-  },
-  {
-    "word": "löfön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to love"
       }
     ]
   },
