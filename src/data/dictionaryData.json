@@ -50313,6 +50313,27 @@
     ]
   },
   {
+    "word": "löfü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for love of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pro amo al"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Dunom osi löfü ob = He does it for love of me."
+      }
+    ]
+  },
+  {
     "word": "löfan",
     "lang": "volapuk",
     "category": "n.",
@@ -50459,6 +50480,21 @@
     ]
   },
   {
+    "word": "löföf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "kindness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amindeco"
+      }
+    ]
+  },
+  {
     "word": "löföfik",
     "lang": "volapuk",
     "category": "adj.",
@@ -50466,6 +50502,10 @@
       {
         "lang": "english",
         "text": "kind"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amindeca"
       }
     ]
   },
