@@ -50510,13 +50510,32 @@
     ]
   },
   {
+    "word": "löfül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) caressing, fondling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kareso"
+      }
+    ]
+  },
+  {
     "word": "löfülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to caress, to fondle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "karesi"
       }
     ]
   },
