@@ -50624,11 +50624,30 @@
   {
     "word": "löl",
     "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "entire, whole, entirely, totality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuto, tutaĵo"
+      }
+    ]
+  },
+  {
+    "word": "lölik",
+    "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "entire, whole"
+        "text": "whole"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tuta"
       }
     ]
   },
@@ -50640,6 +50659,10 @@
       {
         "lang": "english",
         "text": "completely, wholly, quite"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tute"
       }
     ]
   },
