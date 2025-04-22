@@ -50734,6 +50734,25 @@
       {
         "lang": "english",
         "text": "complete"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompleta"
+      }
+    ]
+  },
+  {
+    "word": "lölöfükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to complete"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompletigi"
       }
     ]
   },
