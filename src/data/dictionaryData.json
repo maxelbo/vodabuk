@@ -50030,6 +50030,27 @@
     ]
   },
   {
+    "word": "löükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to raise up, to lift"
+      },
+      {
+        "lang": "esperanto",
+        "text": "levi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Löükön kapi = To raise one's hand."
+      }
+    ]
+  },
+  {
     "word": "löädön",
     "lang": "volapuk",
     "category": "int.",
@@ -51053,17 +51074,6 @@
       {
         "lang": "english",
         "text": "to pull up"
-      }
-    ]
-  },
-  {
-    "word": "löükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to raise up"
       }
     ]
   },
