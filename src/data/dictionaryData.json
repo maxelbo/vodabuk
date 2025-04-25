@@ -48375,6 +48375,70 @@
       {
         "lang": "english",
         "text": "praise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔdo"
+      }
+    ]
+  },
+  {
+    "word": "lobab",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "praiseworthiness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔdindeco"
+      }
+    ]
+  },
+  {
+    "word": "lobabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "praiseworthy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔdinda"
+      }
+    ]
+  },
+  {
+    "word": "lobam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) praiseing, praise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔdado"
+      }
+    ]
+  },
+  {
+    "word": "loban",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "praiser"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔdanto"
       }
     ]
   },
@@ -50047,6 +50111,10 @@
       {
         "lang": "english",
         "text": "Löükön kapi = To raise one's hand."
+      },
+      {
+        "lang": "english",
+        "text": "Löükön kapi = Levi manon."
       }
     ]
   },
