@@ -48443,6 +48443,21 @@
     ]
   },
   {
+    "word": "lobed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "obedience"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obeo"
+      }
+    ]
+  },
+  {
     "word": "lobedik",
     "lang": "volapuk",
     "category": "adj.",
@@ -48450,17 +48465,40 @@
       {
         "lang": "english",
         "text": "obedient"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obeema"
       }
     ]
   },
   {
     "word": "lobedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to obey"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obei"
+      }
+    ]
+  },
+  {
+    "word": "lobediäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "docility, submissiveness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "obeemo"
       }
     ]
   },
