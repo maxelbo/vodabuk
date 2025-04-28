@@ -48535,13 +48535,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "approval"
+        "text": "approval, applause, recognition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aprobo"
       }
-    ],
-    "examples": [
+    ]
+  },
+  {
+    "word": "lobülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
       {
         "lang": "english",
-        "text": "Logamio = On approval."
+        "text": "approving, appreciation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aproba"
+      }
+    ]
+  },
+  {
+    "word": "lobülön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to approve, to applaud"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aprobi"
       }
     ]
   },
@@ -48553,17 +48581,6 @@
       {
         "lang": "english",
         "text": "to cheer"
-      }
-    ]
-  },
-  {
-    "word": "lobülön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to applaud"
       }
     ]
   },
