@@ -48602,7 +48602,48 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a cargo, a load"
+        "text": "a cargo, a load (of goods)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝo"
+      }
+    ]
+  },
+  {
+    "word": "lodön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to load up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝi (la portaton)"
+      }
+    ]
+  },
+  {
+    "word": "belodön",
+    "roots": ["lod"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to load up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝi (la portanton)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Belodön nafi = To load a ship."
       }
     ]
   },
