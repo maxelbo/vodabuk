@@ -48652,13 +48652,47 @@
     ]
   },
   {
-    "word": "loenön",
+    "word": "loen",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to borrow (from); to loan"
+        "text": "taking a loan"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deprunto"
+      }
+    ]
+  },
+  {
+    "word": "loenan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "loaner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "depruntanto"
+      }
+    ]
+  },
+  {
+    "word": "loenön (de)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to loan (from), to borrow (from)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deprunti (de)"
       }
     ]
   },
