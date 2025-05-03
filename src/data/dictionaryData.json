@@ -48704,6 +48704,40 @@
       {
         "lang": "english",
         "text": "a frying-pan"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fritpato"
+      }
+    ]
+  },
+  {
+    "word": "loetamit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "roasted meat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rostaĵo"
+      }
+    ]
+  },
+  {
+    "word": "loetanög",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fried egg"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fritita ovo"
       }
     ]
   },
@@ -48732,11 +48766,15 @@
   {
     "word": "loetön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to fry, to roast"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rosti, friti"
       }
     ]
   },
