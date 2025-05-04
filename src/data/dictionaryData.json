@@ -48805,18 +48805,69 @@
     ]
   },
   {
+    "word": "lof",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) offering, offer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "propono, oferto"
+      }
+    ]
+  },
+  {
     "word": "lofön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to offer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "proponi, oferti"
+      }
+    ]
+  },
+  {
+    "word": "lofan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "offerer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ofertanto"
+      }
+    ]
+  },
+  {
+    "word": "lofot",
+    "roots": ["lof"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thing(s) on offer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oferto, proponaĵo"
       }
     ]
   },
   {
     "word": "lofüd",
+    "roots": ["lofüd"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
