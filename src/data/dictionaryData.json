@@ -48873,7 +48873,27 @@
     "translations": [
       {
         "lang": "english",
-        "text": "east"
+        "text": "the east"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oriento, eosto"
+      }
+    ]
+  },
+  {
+    "word": "lofüdik",
+    "roots": ["lofüd"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eastern"
+      },
+      {
+        "lang": "esperanto",
+        "text": "orienta, eosta"
       }
     ]
   },
