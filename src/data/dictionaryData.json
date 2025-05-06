@@ -48905,6 +48905,10 @@
       {
         "lang": "english",
         "text": "an eye"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulo"
       }
     ]
   },
@@ -48966,11 +48970,15 @@
   {
     "word": "logam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
         "text": "(sense of) sight, a view"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidado"
       }
     ]
   },
@@ -49213,6 +49221,21 @@
       {
         "lang": "english",
         "text": "to appear outwardly (like)"
+      }
+    ]
+  },
+  {
+    "word": "logöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "visually attractive, worth viewing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidinda"
       }
     ]
   },
