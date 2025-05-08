@@ -48913,6 +48913,27 @@
     ]
   },
   {
+    "word": "logön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to look, to see"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "To stare = Lülogön eki stedo."
+      }
+    ]
+  },
+  {
     "word": "logabob",
     "lang": "volapuk",
     "category": "n.",
@@ -48920,6 +48941,10 @@
       {
         "lang": "english",
         "text": "an eyebrow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "brovo"
       }
     ]
   },
@@ -48931,6 +48956,10 @@
       {
         "lang": "english",
         "text": "an eyeball"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulglobo"
       }
     ]
   },
@@ -48942,6 +48971,10 @@
       {
         "lang": "english",
         "text": "an eye socket"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulkavo, orbito"
       }
     ]
   },
@@ -48953,6 +48986,10 @@
       {
         "lang": "english",
         "text": "an eyelid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "palpebro"
       }
     ]
   },
@@ -48967,7 +49004,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "okulharo"
+        "text": "okulharo`"
       }
     ]
   },
@@ -49251,23 +49288,6 @@
       {
         "lang": "english",
         "text": "(tourist) attraction"
-      }
-    ]
-  },
-  {
-    "word": "logön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to look, to see"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "to stare = lülogön eki stedo"
       }
     ]
   },
