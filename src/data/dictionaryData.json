@@ -48913,6 +48913,21 @@
     ]
   },
   {
+    "word": "logik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "optical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okula"
+      }
+    ]
+  },
+  {
     "word": "logön",
     "lang": "volapuk",
     "category": "tr.",
@@ -49046,6 +49061,21 @@
     ]
   },
   {
+    "word": "logäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "visibility"
+      },
+      {
+        "lang": "esperanto",
+        "text": "videbleco"
+      }
+    ]
+  },
+  {
     "word": "logädik",
     "lang": "volapuk",
     "category": "adj.",
@@ -49053,17 +49083,40 @@
       {
         "lang": "english",
         "text": "visible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "videbla"
+      }
+    ]
+  },
+  {
+    "word": "logädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be visible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti videbla"
       }
     ]
   },
   {
     "word": "logädikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to become visible, to be seen"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fariĝi videbla"
       }
     ]
   },
@@ -49162,17 +49215,6 @@
       {
         "lang": "english",
         "text": "an optical illusion"
-      }
-    ]
-  },
-  {
-    "word": "logik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "optical"
       }
     ]
   },
