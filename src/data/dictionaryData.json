@@ -8697,51 +8697,6 @@
     ]
   },
   {
-    "word": "büologam",
-    "lang": "volapuk",
-    "category": "g.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "foreseeing, providence"
-      },
-      {
-        "lang": "esperanto",
-        "text": "antaǔvidante"
-      }
-    ]
-  },
-  {
-    "word": "büologed",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a preview"
-      },
-      {
-        "lang": "esperanto",
-        "text": "antaǔrigardo"
-      }
-    ]
-  },
-  {
-    "word": "büologön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to foresee, to see in advance"
-      },
-      {
-        "lang": "esperanto",
-        "text": "antaǔvidi"
-      }
-    ]
-  },
-  {
     "word": "büomesülön (ad)",
     "lang": "volapuk",
     "category": "v.",
@@ -49039,6 +48994,36 @@
     ]
   },
   {
+    "word": "logamafäg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eyesight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidado"
+      }
+    ]
+  },
+  {
+    "word": "logasaun",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ophthalmologist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oftalmologo"
+      }
+    ]
+  },
+  {
     "word": "logasaunüköp",
     "lang": "volapuk",
     "category": "n.",
@@ -49057,6 +49042,10 @@
       {
         "lang": "english",
         "text": "an eye drop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kolirio"
       }
     ]
   },
@@ -49123,11 +49112,15 @@
   {
     "word": "logädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be seen, to be visible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti videbla"
       }
     ]
   },
@@ -49138,7 +49131,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a glance, a look"
+        "text": "a glance, a look, a view"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rigardo"
       }
     ]
   },
@@ -49330,6 +49327,51 @@
       {
         "lang": "english",
         "text": "(tourist) attraction"
+      }
+    ]
+  },
+  {
+    "word": "büologam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "foreseeing, providence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔvidante"
+      }
+    ]
+  },
+  {
+    "word": "büologed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a preview"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔrigardo"
+      }
+    ]
+  },
+  {
+    "word": "büologön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to foresee, to see in advance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔvidi"
       }
     ]
   },
