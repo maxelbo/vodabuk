@@ -48994,6 +48994,21 @@
     ]
   },
   {
+    "word": "logamik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "optic, optical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vida"
+      }
+    ]
+  },
+  {
     "word": "logamafäg",
     "lang": "volapuk",
     "category": "n.",
@@ -49019,7 +49034,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "vidado"
+        "text": "vidsenso"
       }
     ]
   },
