@@ -49135,22 +49135,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "fariĝi videbla"
+        "text": "videbliĝi"
       }
     ]
   },
   {
-    "word": "logädön",
+    "word": "logädükön",
     "lang": "volapuk",
-    "category": "int.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to be seen, to be visible"
+        "text": "to make visible"
       },
       {
         "lang": "esperanto",
-        "text": "esti videbla"
+        "text": "videbligi"
       }
     ]
   },
