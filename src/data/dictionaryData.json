@@ -49049,7 +49049,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "oftalmologo"
+        "text": "oftalmologo, okulisto"
       }
     ]
   },
@@ -49242,6 +49242,21 @@
       {
         "lang": "english",
         "text": "an optical illusion"
+      }
+    ]
+  },
+  {
+    "word": "logisanan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an ophthalmologist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulisto, oftalmologo"
       }
     ]
   },
