@@ -49268,6 +49268,10 @@
       {
         "lang": "english",
         "text": "a face"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vizaĝo"
       }
     ],
     "examples": [
@@ -49284,7 +49288,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "mien"
+        "text": "air, mien"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mieno"
       }
     ]
   },
