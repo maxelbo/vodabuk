@@ -49282,6 +49282,21 @@
     ]
   },
   {
+    "word": "logodön (äs)",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to appear, to look (like)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aspekti kiel"
+      }
+    ]
+  },
+  {
     "word": "logodajäst",
     "lang": "volapuk",
     "category": "n.",
@@ -49304,17 +49319,6 @@
       {
         "lang": "english",
         "text": "features (of face)"
-      }
-    ]
-  },
-  {
-    "word": "logödön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to appear, to look (like)"
       }
     ]
   },
