@@ -48529,6 +48529,51 @@
     ]
   },
   {
+    "word": "lod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action or procedure of) loading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝo"
+      }
+    ]
+  },
+  {
+    "word": "lodan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "loader (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝanto"
+      }
+    ]
+  },
+  {
+    "word": "lodön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to load up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝi (la portaton)"
+      }
+    ]
+  },
+  {
     "word": "lodaspad",
     "lang": "volapuk",
     "category": "n.",
@@ -48551,21 +48596,6 @@
       {
         "lang": "esperanto",
         "text": "ŝarĝo"
-      }
-    ]
-  },
-  {
-    "word": "lodön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to load up"
-      },
-      {
-        "lang": "esperanto",
-        "text": "ŝarĝi (la portaton)"
       }
     ]
   },
