@@ -4038,17 +4038,6 @@
     ]
   },
   {
-    "word": "belodön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to load"
-      }
-    ]
-  },
-  {
     "word": "belügön (eki)",
     "lang": "volapuk",
     "category": "v.",
@@ -49341,6 +49330,10 @@
       {
         "lang": "english",
         "text": "a sight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aspekto"
       }
     ],
     "examples": [
@@ -49353,11 +49346,15 @@
   {
     "word": "logotön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to appear outwardly (like)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aspekti"
       }
     ]
   },
@@ -49377,13 +49374,32 @@
     ]
   },
   {
-    "word": "logöföt",
+    "word": "logöfot",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "(tourist) attraction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vidindaĵo"
+      }
+    ]
+  },
+  {
+    "word": "logöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "visor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "celilo"
       }
     ]
   },
