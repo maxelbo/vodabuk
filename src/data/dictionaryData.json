@@ -48604,6 +48604,36 @@
     ]
   },
   {
+    "word": "lodöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "place of loading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝloko"
+      }
+    ]
+  },
+  {
+    "word": "lodüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "time of loading"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝarĝtempo"
+      }
+    ]
+  },
+  {
     "word": "belodön",
     "roots": ["lod"],
     "lang": "volapuk",
@@ -48626,6 +48656,21 @@
       {
         "lang": "esperanto",
         "text": "Belodön nafi = Ŝarĝi ŝipon."
+      }
+    ]
+  },
+  {
+    "word": "loeg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an eye (log)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulo (log)"
       }
     ]
   },
