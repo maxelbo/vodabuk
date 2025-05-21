@@ -48817,17 +48817,6 @@
     ]
   },
   {
-    "word": "loföt",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a (specific) offer"
-      }
-    ]
-  },
-  {
     "word": "lof",
     "lang": "volapuk",
     "category": "n.",
@@ -48987,6 +48976,21 @@
     ]
   },
   {
+    "word": "logaglät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "eye-glass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulvitro"
+      }
+    ]
+  },
+  {
     "word": "logaglöp",
     "lang": "volapuk",
     "category": "n.",
@@ -48998,6 +49002,21 @@
       {
         "lang": "esperanto",
         "text": "okulglobo"
+      }
+    ]
+  },
+  {
+    "word": "logaher",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an eyelash"
+      },
+      {
+        "lang": "esperanto",
+        "text": "okulharo"
       }
     ]
   },
