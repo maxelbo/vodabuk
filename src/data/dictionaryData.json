@@ -49096,6 +49096,27 @@
     ]
   },
   {
+    "word": "logamo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "by sight, in person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔvide"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Logamo sevob omi = I know him in person."
+      }
+    ]
+  },
+  {
     "word": "logamafäg",
     "lang": "volapuk",
     "category": "n.",
