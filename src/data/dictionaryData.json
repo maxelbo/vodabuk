@@ -49091,7 +49091,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "vida"
+        "text": "laǔvida"
       }
     ]
   },
@@ -49169,6 +49169,10 @@
       {
         "lang": "english",
         "text": "an eye clinic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oftalmologejo"
       }
     ]
   },
@@ -49285,6 +49289,10 @@
       {
         "lang": "english",
         "text": "a peepshow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "seksgapejo, seksogapejo"
       }
     ]
   },
@@ -49302,11 +49310,15 @@
   {
     "word": "logedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to glance (at), to look (at)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rigardi, gapi"
       }
     ],
     "examples": [
