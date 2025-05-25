@@ -49586,7 +49586,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(theatre) box"
+        "text": "a (theatre) box, a loggia, a (masonic) lodge"
       },
       {
         "lang": "esperanto",
@@ -49602,17 +49602,10 @@
       {
         "lang": "english",
         "text": "a mirror"
-      }
-    ]
-  },
-  {
-    "word": "loktop",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "an octopus"
+        "lang": "esperanto",
+        "text": "spegulo"
       }
     ]
   },
@@ -49624,6 +49617,32 @@
       {
         "lang": "english",
         "text": "to be mirrored/reflected"
+      }
+    ]
+  },
+  {
+    "word": "lokam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "reflection"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respeguliĝo"
+      }
+    ]
+  },
+  {
+    "word": "loktop",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an octopus"
       }
     ]
   },
