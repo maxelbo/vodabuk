@@ -49612,11 +49612,15 @@
   {
     "word": "lokön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to be mirrored/reflected"
+        "text": "to be mirrored / reflected"
+      },
+      {
+        "lang": "esperanto",
+        "text": "respeguliĝi"
       }
     ]
   },
