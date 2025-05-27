@@ -49647,6 +49647,10 @@
       {
         "lang": "english",
         "text": "an octopus"
+      },
+      {
+        "lang": "esperanto",
+        "text": "polpo"
       }
     ]
   },
@@ -49657,18 +49661,55 @@
     "translations": [
       {
         "lang": "english",
-        "text": "home"
+        "text": "home, hearth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmo"
       }
     ]
   },
   {
-    "word": "lomädükön",
+    "word": "lomadustod",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to settle down"
+        "text": "cottage industry"
+      }
+    ]
+  },
+  {
+    "word": "lomädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be indigenous / native"
+      }
+    ]
+  },
+  {
+    "word": "lomädikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become indigenous / native"
+      }
+    ]
+  },
+  {
+    "word": "lomädükön (oki)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to settle down (somewhere)"
       }
     ]
   },
@@ -49691,6 +49732,10 @@
       {
         "lang": "english",
         "text": "homeland"
+      },
+      {
+        "lang": "esperanto",
+        "text": "patrujo"
       }
     ]
   },
