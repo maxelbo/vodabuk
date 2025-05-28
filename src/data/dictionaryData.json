@@ -49746,7 +49746,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(fellow) countryman"
+        "text": "(fellow) countryman, native (of a country)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "patrujano"
       }
     ]
   },
@@ -49758,6 +49762,10 @@
       {
         "lang": "english",
         "text": "homewards"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmo"
       }
     ]
   },
