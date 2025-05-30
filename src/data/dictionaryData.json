@@ -49765,7 +49765,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "hejmo"
+        "text": "hejmen"
       }
     ]
   },
@@ -49777,6 +49777,25 @@
       {
         "lang": "english",
         "text": "at home"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejme"
+      }
+    ]
+  },
+  {
+    "word": "lomöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "homeliness, cosiness, coziness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmeco"
       }
     ]
   },
@@ -49787,7 +49806,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "snug, cosy, homely"
+        "text": "snug, cosy, cozy, homely"
       },
       {
         "lang": "esperanto",
