@@ -49755,6 +49755,36 @@
     ]
   },
   {
+    "word": "lomänäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "patriotism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "patriotismo"
+      }
+    ]
+  },
+  {
+    "word": "lomapük",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mother tongue"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmlingvo"
+      }
+    ]
+  },
+  {
     "word": "lomio",
     "lang": "volapuk",
     "category": "adv.",
@@ -49766,6 +49796,36 @@
       {
         "lang": "esperanto",
         "text": "hejmen"
+      }
+    ]
+  },
+  {
+    "word": "lomioflek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(process of) heading for home, return home"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmenrevendo"
+      }
+    ]
+  },
+  {
+    "word": "lomiokömön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to come home"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmenveni"
       }
     ]
   },
