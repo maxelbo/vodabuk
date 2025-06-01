@@ -49681,6 +49681,21 @@
     ]
   },
   {
+    "word": "lomädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "indigenous, native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "indiĝena"
+      }
+    ]
+  },
+  {
     "word": "lomädön",
     "lang": "volapuk",
     "category": "int.",
@@ -49770,21 +49785,6 @@
     ]
   },
   {
-    "word": "lomapük",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "mother tongue"
-      },
-      {
-        "lang": "esperanto",
-        "text": "hejmlingvo"
-      }
-    ]
-  },
-  {
     "word": "lomio",
     "lang": "volapuk",
     "category": "adv.",
@@ -49841,6 +49841,36 @@
       {
         "lang": "esperanto",
         "text": "hejme"
+      }
+    ]
+  },
+  {
+    "word": "lomazif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "home town"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmurbo"
+      }
+    ]
+  },
+  {
+    "word": "lomapük",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mother tongue"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hejmlingvo"
       }
     ]
   },
