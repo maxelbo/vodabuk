@@ -49670,6 +49670,21 @@
     ]
   },
   {
+    "word": "lomanef",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the family"
+      },
+      {
+        "lang": "esperanto",
+        "text": "la familio"
+      }
+    ]
+  },
+  {
     "word": "lomadustod",
     "lang": "volapuk",
     "category": "n.",
@@ -49703,6 +49718,10 @@
       {
         "lang": "english",
         "text": "to be indigenous / native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti indiĝena"
       }
     ]
   },
@@ -49714,6 +49733,10 @@
       {
         "lang": "english",
         "text": "to become indigenous / native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fariĝi indiĝena, indiĝeniĝi"
       }
     ]
   },
@@ -49725,17 +49748,10 @@
       {
         "lang": "english",
         "text": "to settle down (somewhere)"
-      }
-    ]
-  },
-  {
-    "word": "lomänef",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "family"
+        "lang": "esperanto",
+        "text": "fari indiĝena, indiĝenigi"
       }
     ]
   },
