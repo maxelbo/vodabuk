@@ -50142,13 +50142,17 @@
     ]
   },
   {
-    "word": "loreidön",
+    "word": "loriot",
     "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to read out"
+        "text": "oriole (Oriolus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oriolo (Oriolus)"
       }
     ]
   },
@@ -74647,6 +74651,18 @@
       {
         "lang": "esperanto",
         "text": "erudicia"
+      }
+    ]
+  },
+  {
+    "word": "loreidön",
+    "roots": ["reid"],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to read out"
       }
     ]
   },
