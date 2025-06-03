@@ -50116,6 +50116,25 @@
       {
         "lang": "english",
         "text": "an opera"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opero"
+      }
+    ]
+  },
+  {
+    "word": "lopöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an opera house"
+      },
+      {
+        "lang": "esperanto",
+        "text": "operejo"
       }
     ]
   },
@@ -50127,6 +50146,40 @@
       {
         "lang": "english",
         "text": "an operetta"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opereto"
+      }
+    ]
+  },
+  {
+    "word": "lopakanitan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an opera singer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "operkantisto"
+      }
+    ]
+  },
+  {
+    "word": "lopasümik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "opera-like"
+      },
+      {
+        "lang": "esperanto",
+        "text": "opereca, opereska"
       }
     ]
   },
