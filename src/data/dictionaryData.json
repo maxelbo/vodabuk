@@ -50184,6 +50184,21 @@
     ]
   },
   {
+    "word": "lor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a laurel, a laurel tree (Laurus nobilis)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔro (Laurus nobilis)"
+      }
+    ]
+  },
+  {
     "word": "lord",
     "lang": "volapuk",
     "category": "n.",
@@ -50191,6 +50206,10 @@
       {
         "lang": "english",
         "text": "a lord"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lordo"
       }
     ]
   },
