@@ -50229,6 +50229,81 @@
     ]
   },
   {
+    "word": "loredäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a laureate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔreato"
+      }
+    ]
+  },
+  {
+    "word": "loredön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to crown with laurels"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kroni per laǔroj"
+      }
+    ]
+  },
+  {
+    "word": "losetans",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Ossetians"
+      },
+      {
+        "lang": "esperanto",
+        "text": "osetoj"
+      }
+    ]
+  },
+  {
+    "word": "losmanans",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Ottomans, Turks"
+      },
+      {
+        "lang": "esperanto",
+        "text": "otomanoj"
+      }
+    ]
+  },
+  {
+    "word": "losmin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "osmium (Os)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "osmio (Os)"
+      }
+    ]
+  },
+  {
     "word": "lord",
     "lang": "volapuk",
     "category": "n.",
