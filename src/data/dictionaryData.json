@@ -50100,11 +50100,29 @@
   {
     "word": "lonülön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr. dat.",
     "translations": [
       {
         "lang": "english",
-        "text": "to put, to submit (for consideration)"
+        "text": "to stipulat, to set, to put, to submit (for consideration)"
+      },
+      {
+        "lang": "english",
+        "text": "preskribi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lonülön stipis = To stipulate conditions."
+      },
+      {
+        "lang": "english",
+        "text": "Lonülön as sam = To set as an example / a model."
+      },
+      {
+        "lang": "english",
+        "text": "Lonülön eke säki = To ask somebody a question."
       }
     ]
   },
@@ -50289,21 +50307,6 @@
     ]
   },
   {
-    "word": "losulüsulüdalofüd (LSSL)",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "southeast to south, southeast by south (SEbS)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "sudoriento per sudo"
-      }
-    ]
-  },
-  {
     "word": "losmin",
     "lang": "volapuk",
     "category": "n.",
@@ -50315,6 +50318,21 @@
       {
         "lang": "esperanto",
         "text": "osmio (Os)"
+      }
+    ]
+  },
+  {
+    "word": "losulüsulüdalofüd (LSSL)",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "southeast to south, southeast by south (SEbS)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sudoriento per sudo"
       }
     ]
   },
