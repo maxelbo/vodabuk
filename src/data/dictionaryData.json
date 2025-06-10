@@ -49950,17 +49950,25 @@
       {
         "lang": "english",
         "text": "a decision"
+      },
+      {
+        "lang": "esperanto",
+        "text": "decido"
       }
     ]
   },
   {
     "word": "lonädön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to determine, to settle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "decidi"
       }
     ]
   },
@@ -49972,6 +49980,10 @@
       {
         "lang": "english",
         "text": "the (body of) the law, legislation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leĝaro"
       }
     ]
   },
@@ -49983,7 +49995,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "legal"
+        "text": "legal, lawful, statutory"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leĝa, laǔleĝa"
       }
     ]
   },
@@ -50004,13 +50020,32 @@
     ]
   },
   {
+    "word": "lonidisin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "draft law, draft bill"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leĝoprojekto"
+      }
+    ]
+  },
+  {
     "word": "loninefölön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to break the law"
+      },
+      {
+        "lang": "english",
+        "text": "fari kontraǔleĝaĵon, krimi"
       }
     ]
   },
@@ -50093,7 +50128,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to arrange, to ratify"
+        "text": "to determine, to set, to arrange, to ratify"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiksi"
       }
     ]
   },
@@ -50115,6 +50154,10 @@
       {
         "lang": "english",
         "text": "Lonülön stipis = To stipulate conditions."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Lonülön stipis = Preskribi kondiĉojn."
       },
       {
         "lang": "english",
