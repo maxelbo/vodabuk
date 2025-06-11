@@ -49958,6 +49958,21 @@
     ]
   },
   {
+    "word": "lonädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "decisive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plej grava, decida"
+      }
+    ]
+  },
+  {
     "word": "lonädön",
     "lang": "volapuk",
     "category": "tr.",
@@ -50000,6 +50015,22 @@
       {
         "lang": "esperanto",
         "text": "leĝa, laǔleĝa"
+      }
+    ]
+  },
+  {
+    "word": "lono",
+    "roots": ["lon"],
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "by law"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔleĝe"
       }
     ]
   },
@@ -52245,6 +52276,21 @@
       {
         "lang": "english",
         "text": "low (height)"
+      }
+    ]
+  },
+  {
+    "word": "lözit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Dace (Leuciscus leuciscus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leŭcisko (Leuciscus leuciscus)"
       }
     ]
   },
