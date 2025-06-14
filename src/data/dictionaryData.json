@@ -52105,6 +52105,21 @@
     ]
   },
   {
+    "word": "löpik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "above, upper"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supra"
+      }
+    ]
+  },
+  {
     "word": "löpan",
     "lang": "volapuk",
     "category": "n.",
@@ -52116,6 +52131,36 @@
       {
         "lang": "esperanto",
         "text": "superulo, estro"
+      }
+    ]
+  },
+  {
+    "word": "löpän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "uplands, highlands"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supra lando, altaĵo"
+      }
+    ]
+  },
+  {
+    "word": "löpänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a highlander"
+      },
+      {
+        "lang": "esperanto",
+        "text": "altaĵano"
       }
     ]
   },
