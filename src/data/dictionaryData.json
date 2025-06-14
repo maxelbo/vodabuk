@@ -52135,6 +52135,57 @@
     ]
   },
   {
+    "word": "löpio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "upwards"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supren"
+      }
+    ]
+  },
+  {
+    "word": "löpü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "above, over"
+      },
+      {
+        "lang": "esperanto",
+        "text": "super, supre de"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Löpü od = Above each other."
+      }
+    ]
+  },
+  {
+    "word": "löpikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to ascend, to climb, to rise, to soar"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supreniri"
+      }
+    ]
+  },
+  {
     "word": "löpän",
     "lang": "volapuk",
     "category": "n.",
@@ -52146,6 +52197,21 @@
       {
         "lang": "esperanto",
         "text": "supra lando, altaĵo"
+      }
+    ]
+  },
+  {
+    "word": "löpänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "relating to the uplands / highlands"
+      },
+      {
+        "lang": "esperanto",
+        "text": "altaĵa"
       }
     ]
   },
