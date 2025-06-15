@@ -52141,11 +52141,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "upwards"
+        "text": "upwards, overhead"
       },
       {
         "lang": "esperanto",
         "text": "supren"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Go löpo = Topmost / Uppermost."
       }
     ]
   },
@@ -52177,11 +52183,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to ascend, to climb, to rise, to soar"
+        "text": "to ascend, to climb, to rise, to soar, to take off (aeroplane)"
       },
       {
         "lang": "esperanto",
         "text": "supreniri"
+      }
+    ]
+  },
+  {
+    "word": "löpiköl",
+    "lang": "volapuk",
+    "category": "act. part.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ascending"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suprenirante"
       }
     ]
   },
@@ -52253,39 +52274,6 @@
     ]
   },
   {
-    "word": "löpikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to take off (aeroplane)"
-      }
-    ]
-  },
-  {
-    "word": "löpiköl",
-    "lang": "volapuk",
-    "category": "act. part.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "ascending"
-      }
-    ]
-  },
-  {
-    "word": "löpio",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "upward(s)"
-      }
-    ]
-  },
-  {
     "word": "löpiotovön",
     "lang": "volapuk",
     "category": "v.",
@@ -52293,34 +52281,6 @@
       {
         "lang": "english",
         "text": "to uplift"
-      }
-    ]
-  },
-  {
-    "word": "löpo",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "overhead, up(stairs)"
-      }
-    ],
-    "examples": [
-      {
-        "lang": "english",
-        "text": "go löpo = topmost"
-      }
-    ]
-  },
-  {
-    "word": "löpü",
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "above, on top of"
       }
     ]
   },
