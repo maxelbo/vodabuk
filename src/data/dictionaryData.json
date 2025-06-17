@@ -52156,6 +52156,21 @@
     ]
   },
   {
+    "word": "löpiö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "get up!, up!, upwards!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supren!"
+      }
+    ]
+  },
+  {
     "word": "löpü",
     "lang": "volapuk",
     "category": "prep.",
@@ -52203,6 +52218,21 @@
       {
         "lang": "esperanto",
         "text": "suprenirante"
+      }
+    ]
+  },
+  {
+    "word": "löpükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make rise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suprenirigi"
       }
     ]
   },
