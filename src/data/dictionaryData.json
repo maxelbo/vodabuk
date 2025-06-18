@@ -52315,6 +52315,46 @@
     ]
   },
   {
+    "word": "löpot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "height"
+      },
+      {
+        "lang": "esperanto",
+        "text": "supro"
+      }
+    ]
+  },
+  {
+    "word": "sülöpikam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) rising"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leviĝo"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Sülöpikam sola = Sunrise."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Sülöpikam sola = Sunleviĝo."
+      }
+    ]
+  },
+  {
     "word": "löstanön",
     "lang": "volapuk",
     "category": "v.",
