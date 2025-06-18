@@ -52355,6 +52355,36 @@
     ]
   },
   {
+    "word": "lösterän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "austria"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔstrio, aǔstrujo"
+      }
+    ]
+  },
+  {
+    "word": "lösteränan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "austrian (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔstro"
+      }
+    ]
+  },
+  {
     "word": "löstanön",
     "lang": "volapuk",
     "category": "v.",
