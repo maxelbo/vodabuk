@@ -52385,17 +52385,6 @@
     ]
   },
   {
-    "word": "löstanön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to stand up"
-      }
-    ]
-  },
-  {
     "word": "lösterän",
     "lang": "volapuk",
     "category": "n.",
@@ -85675,6 +85664,21 @@
       {
         "lang": "esperanto",
         "text": "stari"
+      }
+    ]
+  },
+  {
+    "word": "löstanön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stand up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stariĝi"
       }
     ]
   },
