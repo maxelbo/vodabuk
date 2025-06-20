@@ -52459,13 +52459,62 @@
     ]
   },
   {
+    "word": "löv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "low position"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malalta situo"
+      }
+    ]
+  },
+  {
     "word": "lövik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "low (height)"
+        "text": "low (height), small (in height)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malalta"
+      }
+    ]
+  },
+  {
+    "word": "lövo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "low"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malalte"
+      }
+    ]
+  },
+  {
+    "word": "lövio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lower, downwards"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malalten"
       }
     ]
   },
