@@ -3827,6 +3827,22 @@
     ]
   },
   {
+    "word": "lubeg",
+    "roots": ["begun"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) begging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "almozpeto"
+      }
+    ]
+  },
+  {
     "word": "begun",
     "roots": ["begun"],
     "lang": "volapuk",
@@ -52381,36 +52397,6 @@
       {
         "lang": "esperanto",
         "text": "aǔstro"
-      }
-    ]
-  },
-  {
-    "word": "lösterän",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "austria"
-      },
-      {
-        "lang": "esperanto",
-        "text": "Aŭstrio, Aǔstrujo"
-      }
-    ]
-  },
-  {
-    "word": "lösteränan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "austrian (person)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "aŭstro, Aǔstriano, Aǔstrujano"
       }
     ]
   },
