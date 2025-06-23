@@ -52412,17 +52412,6 @@
     ]
   },
   {
-    "word": "lötirön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to pull up"
-      }
-    ]
-  },
-  {
     "word": "lovemelik",
     "lang": "volapuk",
     "category": "adj.",
@@ -52430,6 +52419,10 @@
       {
         "lang": "english",
         "text": "overseas"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksterlanda"
       }
     ]
   },
@@ -54066,17 +54059,6 @@
       {
         "lang": "english",
         "text": "form of address"
-      }
-    ]
-  },
-  {
-    "word": "lütirön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to attract"
       }
     ]
   },
@@ -95574,6 +95556,28 @@
       {
         "lang": "english",
         "text": "to draw, to pull (jevods tirons vabi = the horses pull the carriage)"
+      }
+    ]
+  },
+  {
+    "word": "lötirön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pull up"
+      }
+    ]
+  },
+  {
+    "word": "lütirön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to attract"
       }
     ]
   },
