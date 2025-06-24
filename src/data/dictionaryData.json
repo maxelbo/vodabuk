@@ -46723,28 +46723,6 @@
     ]
   },
   {
-    "word": "letiröm",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a wrench"
-      }
-    ]
-  },
-  {
-    "word": "letirön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to drag, to haul"
-      }
-    ]
-  },
-  {
     "word": "letod",
     "lang": "volapuk",
     "category": "n.",
@@ -95571,6 +95549,47 @@
     ]
   },
   {
+    "word": "letiro",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "abruptly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "abrupte"
+      }
+    ]
+  },
+  {
+    "word": "letiröm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wrench"
+      }
+    ]
+  },
+  {
+    "word": "letirön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to jerk, to rip, to yank, to tear off, to drag, to haul"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tiregi"
+      }
+    ]
+  },
+  {
     "word": "lütirön",
     "lang": "volapuk",
     "category": "tr.",
@@ -95578,6 +95597,10 @@
       {
         "lang": "english",
         "text": "to attract"
+      },
+      {
+        "lang": "esperanto",
+        "text": "altiri"
       }
     ]
   },
