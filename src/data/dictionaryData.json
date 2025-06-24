@@ -46723,28 +46723,6 @@
     ]
   },
   {
-    "word": "letod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "agony"
-      }
-    ]
-  },
-  {
-    "word": "letodön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to defy, to torment"
-      }
-    ]
-  },
-  {
     "word": "letöbid",
     "lang": "volapuk",
     "category": "n.",
@@ -95711,6 +95689,47 @@
       {
         "lang": "english",
         "text": "to brave, confront, face"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ribeli"
+      }
+    ]
+  },
+  {
+    "word": "letod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agony"
+      }
+    ]
+  },
+  {
+    "word": "letodik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "arrogant, defiant challenge"
+      }
+    ]
+  },
+  {
+    "word": "letodön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to defy, to torment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turmenti"
       }
     ]
   },
