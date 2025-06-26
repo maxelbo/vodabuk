@@ -95667,6 +95667,10 @@
       {
         "lang": "english",
         "text": "rebellious, spiteful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔstarema, ribelema"
       }
     ]
   },
@@ -95684,7 +95688,7 @@
   {
     "word": "todön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -95704,6 +95708,10 @@
       {
         "lang": "english",
         "text": "agony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "turmento"
       }
     ]
   },
