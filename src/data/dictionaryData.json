@@ -95627,6 +95627,21 @@
     ]
   },
   {
+    "word": "tjadän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Chad (country)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉado"
+      }
+    ]
+  },
+  {
     "word": "to",
     "lang": "volapuk",
     "category": "prep.",
@@ -95682,6 +95697,10 @@
       {
         "lang": "english",
         "text": "defiantly, obstinately"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontraǔstare"
       }
     ]
   },
