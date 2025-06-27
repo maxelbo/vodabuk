@@ -95649,6 +95649,10 @@
       {
         "lang": "english",
         "text": "despite, in spite of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malgraǔ"
       }
     ]
   },
@@ -95660,6 +95664,25 @@
       {
         "lang": "english",
         "text": "despite, in spite of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malgraǔ ke, kvankam"
+      }
+    ]
+  },
+  {
+    "word": "too",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "however, despite everything, nevertheless, on the other hand"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tamen, malgraǔe, malgraǔ tio"
       }
     ]
   },
