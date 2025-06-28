@@ -95694,6 +95694,10 @@
       {
         "lang": "english",
         "text": "October"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oktobro"
       }
     ]
   },
@@ -95791,6 +95795,25 @@
       {
         "lang": "english",
         "text": "a cake"
+      },
+      {
+        "lang": "esperanto",
+        "text": "torto"
+      }
+    ]
+  },
+  {
+    "word": "toen",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sound (in general)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sonorigo"
       }
     ]
   },
