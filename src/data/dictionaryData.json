@@ -95820,11 +95820,15 @@
   {
     "word": "toenön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to chink, to clink, to (make a) sound, to ring out"
+        "text": "to chink, to clink, to sound, to (make a) sound, to ring out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sonorigi"
       }
     ]
   },
@@ -95836,6 +95840,10 @@
       {
         "lang": "english",
         "text": "a drip, a drop"
+      },
+      {
+        "lang": "esperanto",
+        "text": "guto"
       }
     ]
   },
@@ -95847,6 +95855,10 @@
       {
         "lang": "english",
         "text": "a droplet, a tricklet"
+      },
+      {
+        "lang": "esperanto",
+        "text": "guteto"
       }
     ]
   },
