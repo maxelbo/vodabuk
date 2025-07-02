@@ -95940,6 +95940,21 @@
     ]
   },
   {
+    "word": "ton",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a noise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tono, sono"
+      }
+    ]
+  },
+  {
     "word": "tonat",
     "lang": "volapuk",
     "category": "n.",
@@ -95947,6 +95962,10 @@
       {
         "lang": "english",
         "text": "a letter (of the alphabet)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "litero"
       }
     ]
   },
