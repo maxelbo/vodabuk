@@ -95981,6 +95981,21 @@
     ]
   },
   {
+    "word": "tonatan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cassette"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kasedo"
+      }
+    ]
+  },
+  {
     "word": "tonatanil",
     "lang": "volapuk",
     "category": "n.",
@@ -95988,6 +96003,10 @@
       {
         "lang": "english",
         "text": "a (cassette) tape"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kasedo"
       }
     ]
   },
