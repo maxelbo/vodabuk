@@ -95977,6 +95977,10 @@
       {
         "lang": "english",
         "text": "spelling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "literumado"
       }
     ]
   },
@@ -96013,11 +96017,15 @@
   {
     "word": "tonatön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to spell"
+      },
+      {
+        "lang": "esperanto",
+        "text": "literumi"
       }
     ]
   },
@@ -96029,6 +96037,10 @@
       {
         "lang": "english",
         "text": "alliteration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aliteracio"
       }
     ]
   },
