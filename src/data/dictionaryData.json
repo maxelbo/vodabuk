@@ -95955,6 +95955,21 @@
     ]
   },
   {
+    "word": "tonik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "phonetic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fonetika"
+      }
+    ]
+  },
+  {
     "word": "tonat",
     "lang": "volapuk",
     "category": "n.",
@@ -96077,22 +96092,15 @@
   {
     "word": "tonärön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to thunder"
-      }
-    ]
-  },
-  {
-    "word": "tonik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "phonetic"
+        "lang": "esperanto",
+        "text": "tondri"
       }
     ]
   },
