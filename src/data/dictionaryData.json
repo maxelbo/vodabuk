@@ -96060,6 +96060,21 @@
     ]
   },
   {
+    "word": "tonät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gunshot sound"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pafbruo"
+      }
+    ]
+  },
+  {
     "word": "tonav",
     "lang": "volapuk",
     "category": "n.",
@@ -96086,6 +96101,21 @@
       {
         "lang": "esperanto",
         "text": "sonoro"
+      }
+    ]
+  },
+  {
+    "word": "tonär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thunder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tondro"
       }
     ]
   },
