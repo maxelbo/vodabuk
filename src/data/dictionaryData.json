@@ -96105,36 +96105,6 @@
     ]
   },
   {
-    "word": "tonär",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "thunder"
-      },
-      {
-        "lang": "esperanto",
-        "text": "tondro"
-      }
-    ]
-  },
-  {
-    "word": "tonärön",
-    "lang": "volapuk",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to thunder"
-      },
-      {
-        "lang": "esperanto",
-        "text": "tondri"
-      }
-    ]
-  },
-  {
     "word": "toninämiükian",
     "lang": "volapuk",
     "category": "n.",
@@ -96274,6 +96244,54 @@
       {
         "lang": "english",
         "text": "to tunnel"
+      }
+    ]
+  },
+  {
+    "word": "tonär",
+    "lang": "volapuk",
+    "roots": ["tonär"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thunder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tondro"
+      }
+    ]
+  },
+  {
+    "word": "tonärön",
+    "lang": "volapuk",
+    "roots": ["tonär"],
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to thunder"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tondri"
+      }
+    ]
+  },
+  {
+    "word": "tonäratonat",
+    "lang": "volapuk",
+    "roots": ["tonär"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "thunder clap"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tondrosono"
       }
     ]
   },
