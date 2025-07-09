@@ -96296,6 +96296,22 @@
     ]
   },
   {
+    "word": "tonen",
+    "lang": "volapuk",
+    "roots": ["tonen"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tuna (Thunnus thynnus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tinuso, tino, tinno (Thunnus thynnus)"
+      }
+    ]
+  },
+  {
     "word": "tood",
     "lang": "volapuk",
     "category": "n.",
