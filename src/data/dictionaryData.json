@@ -96393,6 +96393,36 @@
       }
     ]
   },
+    {
+    "word": "topik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "local"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loka"
+      }
+    ]
+  },
+  {
+    "word": "topön (len)",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lie, to be situated (by/on)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kuŝi, situi"
+      }
+    ]
+  },
   {
     "word": "topam",
     "lang": "volapuk",
@@ -96412,6 +96442,10 @@
       {
         "lang": "english",
         "text": "a region"
+      },
+      {
+        "lang": "esperanto",
+        "text": "regiono"
       }
     ]
   },
@@ -96423,6 +96457,10 @@
       {
         "lang": "english",
         "text": "a locality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loĝloko"
       }
     ]
   },
@@ -96445,28 +96483,6 @@
       {
         "lang": "english",
         "text": "site"
-      }
-    ]
-  },
-  {
-    "word": "topik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "local"
-      }
-    ]
-  },
-  {
-    "word": "topön (len)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to lie, to be situated (by/on)"
       }
     ]
   },
