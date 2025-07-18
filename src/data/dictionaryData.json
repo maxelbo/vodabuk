@@ -96349,6 +96349,10 @@
       {
         "lang": "english",
         "text": "a driving licence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stirpermesilo (por aǔto), stirrajtigilo (por aǔto)"
       }
     ]
   },
@@ -96360,6 +96364,10 @@
       {
         "lang": "english",
         "text": "a car park"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔtoparkejo"
       }
     ]
   },
@@ -96467,7 +96475,7 @@
   {
     "word": "topätikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
