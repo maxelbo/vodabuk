@@ -96502,6 +96502,25 @@
       {
         "lang": "english",
         "text": "a bull"
+      },
+      {
+        "lang": "esperanto",
+        "text": "taǔro, virbovo"
+      }
+    ]
+  },
+  {
+    "word": "torül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a bullock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "virbovido"
       }
     ]
   },
@@ -96513,6 +96532,25 @@
       {
         "lang": "english",
         "text": "a bulldog"
+      },
+      {
+        "lang": "esperanto",
+        "text": "buldogo"
+      }
+    ]
+  },
+  {
+    "word": "sitor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Taurus (constellation)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Taǔro (konstelacio)"
       }
     ]
   },
