@@ -9,7 +9,7 @@
 - Search for words in the Volapük language
 - View the definition of a word
 - More than 8,000 words in the dictionary
-- Coming soon: Change the language between English and Esperanto
+- Swap the language between English and Esperanto
 
 ## Sources
 
