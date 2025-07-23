@@ -96401,7 +96401,7 @@
       }
     ]
   },
-    {
+  {
     "word": "topik",
     "lang": "volapuk",
     "category": "adj.",
@@ -96413,6 +96413,21 @@
       {
         "lang": "esperanto",
         "text": "loka"
+      }
+    ]
+  },
+  {
+    "word": "topo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "locally"
+      },
+      {
+        "lang": "esperanto",
+        "text": "loke"
       }
     ]
   },
@@ -96546,7 +96561,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "Taurus (constellation)"
+        "text": "Taurus (const.)"
       },
       {
         "lang": "esperanto",
@@ -97497,6 +97512,21 @@
       {
         "lang": "english",
         "text": "jagged, serrated"
+      }
+    ]
+  },
+  {
+    "word": "situkan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Tucana (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tukano (konstelacio)"
       }
     ]
   },
@@ -99434,6 +99464,21 @@
       {
         "lang": "esperanto",
         "text": "baleno"
+      }
+    ]
+  },
+  {
+    "word": "sivalüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Cetus (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baleno (konstelacio)"
       }
     ]
   },
