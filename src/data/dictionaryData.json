@@ -99842,6 +99842,36 @@
     ]
   },
   {
+    "word": "sivatan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Aquarius (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akvisto (konstelacio)"
+      }
+    ]
+  },
+  {
+    "word": "sivatasnek",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Hydra (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hidro (konstelacio)"
+      }
+    ]
+  },
+  {
     "word": "vaulön",
     "lang": "volapuk",
     "category": "v.",
