@@ -94173,6 +94173,25 @@
       {
         "lang": "english",
         "text": "twins"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝemeloj"
+      }
+    ]
+  },
+  {
+    "word": "siteläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Gemini (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝemeloj (konstelacio)"
       }
     ]
   },
@@ -100066,6 +100085,10 @@
       {
         "lang": "english",
         "text": "weight"
+      },
+      {
+        "lang": "esperanto",
+        "text": "peso"
       }
     ]
   },
@@ -100110,6 +100133,21 @@
       {
         "lang": "english",
         "text": "to weigh (objects)"
+      }
+    ]
+  },
+  {
+    "word": "sivätöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Libra (const.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pesilo (konstelacio)"
       }
     ]
   },
