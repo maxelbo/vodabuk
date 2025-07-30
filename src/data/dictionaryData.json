@@ -99791,6 +99791,66 @@
     ]
   },
   {
+    "word": "vatöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "watery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akveca"
+      }
+    ]
+  },
+  {
+    "word": "vatam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "irrigation, watering"
+      },
+      {
+        "lang": "esperanto",
+        "text": "irigacio"
+      }
+    ]
+  },
+  {
+    "word": "vatav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hydrology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hidrologio"
+      }
+    ]
+  },
+  {
+    "word": "vated",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hydration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hidrato"
+      }
+    ]
+  },
+  {
     "word": "vatafal",
     "lang": "volapuk",
     "category": "n.",
@@ -99817,51 +99877,6 @@
       {
         "lang": "esperanto",
         "text": "galinolo (Gallinula), cindra galinokrekso (Gallicrex cinerea)"
-      }
-    ]
-  },
-  {
-    "word": "vatam",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "irrigation, watering"
-      },
-      {
-        "lang": "esperanto",
-        "text": "irigacio"
-      }
-    ]
-  },
-  {
-    "word": "vatam",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "hydrology"
-      },
-      {
-        "lang": "esperanto",
-        "text": "hidrologio"
-      }
-    ]
-  },
-  {
-    "word": "vated",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "hydration"
-      },
-      {
-        "lang": "esperanto",
-        "text": "hidrato"
       }
     ]
   },
