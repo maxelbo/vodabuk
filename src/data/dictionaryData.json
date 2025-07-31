@@ -99776,6 +99776,21 @@
     ]
   },
   {
+    "word": "vatön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to irrigate, to water"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akvi, akvumi, irigacii"
+      }
+    ]
+  },
+  {
     "word": "vatöf",
     "lang": "volapuk",
     "category": "n.",
@@ -99888,6 +99903,10 @@
       {
         "lang": "english",
         "text": "water level"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akvonivelo"
       }
     ]
   },
@@ -99898,7 +99917,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a weeping willow (tree)"
+        "text": "a weeping willow (Salix babylonica)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "babilona saliko (Salix babylonica)"
       }
     ]
   },
@@ -99947,28 +99970,6 @@
       {
         "lang": "english",
         "text": "water-proof, water-tight"
-      }
-    ]
-  },
-  {
-    "word": "vatöf",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "watery"
-      }
-    ]
-  },
-  {
-    "word": "vatön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to irrigate, to water"
       }
     ]
   },
