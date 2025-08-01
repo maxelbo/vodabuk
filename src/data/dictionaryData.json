@@ -100004,13 +100004,32 @@
     ]
   },
   {
+    "word": "vaul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) barking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bojado"
+      }
+    ]
+  },
+  {
     "word": "vaulön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to bark"
+      },
+      {
+        "lang": "esperanto",
+        "text": "boji"
       }
     ]
   },
