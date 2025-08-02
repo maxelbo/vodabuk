@@ -100040,18 +100040,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a bilberry"
+        "text": "a bilberry (Vaccinium myrtillus)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mirtelo (Vaccinium myrtillus)"
       }
     ]
   },
   {
-    "word": "vääk",
+    "word": "väd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "serum, whey"
+      },
+      {
+        "lang": "esperanto",
+        "text": "selakto"
+      }
+    ]
+  },
+  {
+    "word": "väk",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "wax"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vakso"
       }
     ]
   },
