@@ -100079,35 +100079,58 @@
     ]
   },
   {
+    "word": "väkik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "waxen, waxy, made of wax"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vaksa"
+      }
+    ]
+  },
+  {
+    "word": "väkön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to wax, to (coat with) wax"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vaksi"
+      }
+    ]
+  },
+  {
+    "word": "väkakandel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wax candle"
+      }
+    ]
+  },
+  {
     "word": "väkamagot",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a wax figure/model"
-      }
-    ]
-  },
-  {
-    "word": "vääkik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+        "text": "waxwork, a wax figure/model"
+      },
       {
-        "lang": "english",
-        "text": "waxen"
-      }
-    ]
-  },
-  {
-    "word": "vääkön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to (coat with) wax"
+        "lang": "esperanto",
+        "text": "vaksa statuo"
       }
     ]
   },
