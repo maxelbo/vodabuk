@@ -100004,6 +100004,21 @@
     ]
   },
   {
+    "word": "vatikän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the Vatican"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vatikano"
+      }
+    ]
+  },
+  {
     "word": "vaul",
     "lang": "volapuk",
     "category": "n.",
@@ -100116,6 +100131,10 @@
       {
         "lang": "english",
         "text": "a wax candle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vakskandelo"
       }
     ]
   },
@@ -100142,6 +100161,40 @@
       {
         "lang": "english",
         "text": "a choice"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elekto"
+      }
+    ]
+  },
+  {
+    "word": "väl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "one who chooses / selects"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elektanto"
+      }
+    ]
+  },
+  {
+    "word": "väläb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chosen one"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elektito"
       }
     ]
   },
