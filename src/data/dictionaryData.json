@@ -100229,6 +100229,36 @@
     ]
   },
   {
+    "word": "väledot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "refuse, waste, residue, lees, husks, grounds, dross, dregs, draff"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rekremento, feĉo"
+      }
+    ]
+  },
+  {
+    "word": "väledön",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to discard, to reject"
+      },
+      {
+        "lang": "esperanto",
+        "text": ""
+      }
+    ]
+  },
+  {
     "word": "välid",
     "lang": "volapuk",
     "category": "n.",
