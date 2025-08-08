@@ -100519,11 +100519,15 @@
   {
     "word": "vedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to become"
+      },
+      {
+        "lang": "esperanto",
+        "text": "iĝi, fariĝi"
       }
     ]
   },
@@ -100590,6 +100594,10 @@
       {
         "lang": "english",
         "text": "road, way"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vojo"
       }
     ]
   },
@@ -100601,6 +100609,31 @@
       {
         "lang": "english",
         "text": "on the way"
+      },
+      {
+        "lang": "esperanto",
+        "text": "voje"
+      }
+    ]
+  },
+  {
+    "word": "vegam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "travelling, traveling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "veturado, vojaĝado"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Vegam lü bel = Mountain trip."
       }
     ]
   },
