@@ -100689,6 +100689,10 @@
       {
         "lang": "english",
         "text": "a slug"
+      },
+      {
+        "lang": "esperanto",
+        "text": "limako"
       }
     ]
   },
@@ -100699,7 +100703,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "distance"
+        "text": "distance, a route, stretch of way"
+      },
+      {
+        "lang": "esperanto",
+        "text": "distanco"
       }
     ]
   },
@@ -100711,17 +100719,25 @@
       {
         "lang": "english",
         "text": "signpost"
+      },
+      {
+        "lang": "esperanto",
+        "text": "trafikŝildo"
       }
     ]
   },
   {
     "word": "vegikön (lü)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to set off (for)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekiri"
       }
     ]
   },
@@ -100733,6 +100749,10 @@
       {
         "lang": "english",
         "text": "a lane"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koridoro"
       }
     ]
   },
