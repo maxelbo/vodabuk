@@ -100617,6 +100617,21 @@
     ]
   },
   {
+    "word": "vegü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on the way to"
+      },
+      {
+        "lang": "esperanto",
+        "text": "veture tra"
+      }
+    ]
+  },
+  {
     "word": "vegam",
     "lang": "volapuk",
     "category": "g.",
@@ -100764,6 +100779,10 @@
       {
         "lang": "english",
         "text": "transport"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transporto"
       }
     ]
   },
