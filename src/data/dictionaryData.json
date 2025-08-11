@@ -100805,17 +100805,25 @@
       {
         "lang": "english",
         "text": "a vehicle"
+      },
+      {
+        "lang": "esperanto",
+        "text": "veturilo"
       }
     ]
   },
   {
     "word": "veigön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to transport"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transporti"
       }
     ]
   },
@@ -100827,6 +100835,55 @@
       {
         "lang": "english",
         "text": "a vein (anatomy)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vejno"
+      }
+    ]
+  },
+  {
+    "word": "veit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(state of) being wide"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vasteco"
+      }
+    ]
+  },
+  {
+    "word": "veitik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "vast, far (distant on all sides)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vasta"
+      }
+    ]
+  },
+  {
+    "word": "veitacedim",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "liberalism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "liberalismo"
       }
     ]
   },
@@ -100837,7 +100894,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "liberal"
+        "text": "liberal (view)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "liberala"
       }
     ]
   },
@@ -100849,17 +100910,6 @@
       {
         "lang": "english",
         "text": "haddock"
-      }
-    ]
-  },
-  {
-    "word": "veitik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "vast"
       }
     ]
   },
