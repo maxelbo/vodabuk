@@ -100169,7 +100169,7 @@
     ]
   },
   {
-    "word": "väl",
+    "word": "välan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -100296,6 +100296,40 @@
       {
         "lang": "english",
         "text": "an inventory (stocktaking)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inventaro"
+      }
+    ]
+  },
+  {
+    "word": "väntaram",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "taking stock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inventarado"
+      }
+    ]
+  },
+  {
+    "word": "väntarön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take stock"
+      },
+      {
+        "lang": "esperanto",
+        "text": "inventari"
       }
     ]
   },
