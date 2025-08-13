@@ -100345,6 +100345,21 @@
     ]
   },
   {
+    "word": "väntrilok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ventriloquism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ventroparolado"
+      }
+    ]
+  },
+  {
     "word": "väntrilokan",
     "lang": "volapuk",
     "category": "n.",
@@ -100352,6 +100367,10 @@
       {
         "lang": "english",
         "text": "a ventriloquist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ventroparolanto"
       }
     ]
   },
@@ -100362,7 +100381,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an aroma, a perfume"
+        "text": "an aroma, a perfume, a scent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parfumo"
       }
     ]
   },
