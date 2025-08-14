@@ -100385,7 +100385,67 @@
       },
       {
         "lang": "esperanto",
-        "text": "parfumo"
+        "text": "parfumo, aromo"
+      }
+    ]
+  },
+  {
+    "word": "väpik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "perfumed, scented"
+      },
+      {
+        "lang": "esperanto",
+        "text": "parfuma, aroma"
+      }
+    ]
+  },
+  {
+    "word": "väpön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to smell sweetly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aromi, vaporiĝi"
+      }
+    ]
+  },
+  {
+    "word": "väpöfik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "etheric"
+      },
+      {
+        "lang": "esperanto",
+        "text": "etera"
+      }
+    ]
+  },
+  {
+    "word": "väpöfaleül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "quick-drying oil"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rapide sekiĝanta oleo"
       }
     ]
   },
@@ -100408,6 +100468,10 @@
       {
         "lang": "english",
         "text": "a verb tense"
+      },
+      {
+        "lang": "esperanto",
+        "text": "verba tempo"
       }
     ]
   },
