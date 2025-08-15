@@ -100457,6 +100457,55 @@
       {
         "lang": "english",
         "text": "a (drinking) glass, a tumbler"
+      },
+      {
+        "lang": "esperanto",
+        "text": "glaso"
+      }
+    ]
+  },
+  {
+    "word": "väret",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a measuring glass"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plenglaso"
+      }
+    ]
+  },
+  {
+    "word": "levär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a roamer, a rummer (a type of wine glass)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pokalo"
+      }
+    ]
+  },
+  {
+    "word": "värb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a verb"
+      },
+      {
+        "lang": "esperanto",
+        "text": "verbo"
       }
     ]
   },
@@ -100472,17 +100521,6 @@
       {
         "lang": "esperanto",
         "text": "verba tempo"
-      }
-    ]
-  },
-  {
-    "word": "väret",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a glass (of)"
       }
     ]
   },
