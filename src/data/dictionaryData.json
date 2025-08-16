@@ -46863,17 +46863,6 @@
     ]
   },
   {
-    "word": "leveg",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a highway, a road"
-      }
-    ]
-  },
-  {
     "word": "levemik",
     "lang": "volapuk",
     "category": "adj.",
@@ -53461,17 +53450,6 @@
       {
         "lang": "english",
         "text": "cart"
-      }
-    ]
-  },
-  {
-    "word": "luveg",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "lane, path (in the country)"
       }
     ]
   },
@@ -100752,7 +100730,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "road, way"
+        "text": "a road, a way"
       },
       {
         "lang": "esperanto",
@@ -100927,6 +100905,66 @@
       {
         "lang": "esperanto",
         "text": "koridoro"
+      }
+    ]
+  },
+  {
+    "word": "leveg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a highway"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝoseo, ĉefvojo"
+      }
+    ]
+  },
+  {
+    "word": "luveg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lane, path (in the country)"
+      },
+      {
+        "lang": "english",
+        "text": "vojeto"
+      }
+    ]
+  },
+  {
+    "word": "movegön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to drive away, to move away (general sense)"
+      },
+      {
+        "lang": "english",
+        "text": "foriri"
+      }
+    ]
+  },
+  {
+    "word": "seveg",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exit, way out"
+      },
+      {
+        "lang": "english",
+        "text": "eliro"
       }
     ]
   },
