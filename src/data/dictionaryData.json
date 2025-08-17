@@ -100969,6 +100969,36 @@
     ]
   },
   {
+    "word": "sevegam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ride (excursion in a vehicle), being on a ride"
+      },
+      {
+        "lang": "english",
+        "text": "veturado"
+      }
+    ]
+  },
+  {
+    "word": "sevegön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to exit, to go for a ride"
+      },
+      {
+        "lang": "english",
+        "text": "eliri, veturi"
+      }
+    ]
+  },
+  {
     "word": "veig",
     "lang": "volapuk",
     "category": "n.",
@@ -101021,6 +101051,36 @@
       {
         "lang": "esperanto",
         "text": "transporti"
+      }
+    ]
+  },
+  {
+    "word": "seveig",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "export"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksporto"
+      }
+    ]
+  },
+  {
+    "word": "seveigan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exporter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksportisto"
       }
     ]
   },
