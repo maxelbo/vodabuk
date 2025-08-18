@@ -8797,6 +8797,10 @@
       {
         "lang": "english",
         "text": "business"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aferoj, negoco"
       }
     ]
   },
@@ -8808,6 +8812,10 @@
       {
         "lang": "english",
         "text": "businessman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aferisto, negocisto"
       }
     ]
   },
@@ -101081,6 +101089,66 @@
       {
         "lang": "esperanto",
         "text": "eksportisto"
+      }
+    ]
+  },
+  {
+    "word": "seveigön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to export"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksporti"
+      }
+    ]
+  },
+  {
+    "word": "seveigabüsid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "export business"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksporta negoco"
+      }
+    ]
+  },
+  {
+    "word": "seveigated",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "export trade"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksporta komerco"
+      }
+    ]
+  },
+  {
+    "word": "seveigatol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "export tax / toll"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksporta imposto"
       }
     ]
   },
