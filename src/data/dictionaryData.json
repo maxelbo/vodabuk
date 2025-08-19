@@ -100962,6 +100962,51 @@
     ]
   },
   {
+    "word": "movego",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "out of the way"
+      },
+      {
+        "lang": "english",
+        "text": "for de la vojo"
+      }
+    ]
+  },
+  {
+    "word": "movegö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "out of the way! move aside!"
+      },
+      {
+        "lang": "english",
+        "text": "moviĝu for!"
+      }
+    ]
+  },
+  {
+    "word": "movegön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to move away"
+      },
+      {
+        "lang": "english",
+        "text": "moviĝi for"
+      }
+    ]
+  },
+  {
     "word": "seveg",
     "lang": "volapuk",
     "category": "n.",
