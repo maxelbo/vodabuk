@@ -8775,6 +8775,115 @@
       {
         "lang": "english",
         "text": "an office"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oficejo, kontoro"
+      }
+    ]
+  },
+  {
+    "word": "büran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a clerk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontoristo, oficisto"
+      }
+    ]
+  },
+  {
+    "word": "bürüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "office hours"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kontorhoroj, ofichoroj"
+      }
+    ]
+  },
+  {
+    "word": "büracif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "office manager"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oficestro"
+      }
+    ]
+  },
+  {
+    "word": "bürem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "preemption, purchase by right of preemption"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔaĉetaĵo, aĉetaĵo aĉetita per ekskluziva rajto de antaǔaĉeto"
+      }
+    ]
+  },
+  {
+    "word": "büreman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "preemptor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔaĉetanto"
+      }
+    ]
+  },
+  {
+    "word": "büremön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to buy by right of preemption"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aĉeti per ekskluziva rajto de antaǔaĉeto"
+      }
+    ]
+  },
+  {
+    "word": "bürät",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a burette"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bureto"
       }
     ]
   },
@@ -8786,6 +8895,10 @@
       {
         "lang": "english",
         "text": "bureaucracy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "burokratio"
       }
     ]
   },
