@@ -77014,6 +77014,36 @@
     ]
   },
   {
+    "word": "büröletan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a predecessor, a forebear, an ancestor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "praulo, antaǔulo"
+      }
+    ]
+  },
+  {
+    "word": "büröletanikult",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ancestor worship"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kulto al prauloj"
+      }
+    ]
+  },
+  {
     "word": "rölastul",
     "lang": "volapuk",
     "category": "n.",
@@ -77021,6 +77051,10 @@
       {
         "lang": "english",
         "text": "a wheelchair"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rulseĝo, radseĝo"
       }
     ]
   },
@@ -77032,6 +77066,10 @@
       {
         "lang": "english",
         "text": "a race-horse"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kurĉevalo"
       }
     ]
   },
