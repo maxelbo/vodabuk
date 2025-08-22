@@ -8939,7 +8939,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "executive, manager"
+        "text": "a chief executive, a general manager, a managing director"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝenerala direktoro, entreprena afergvidanto, ĉefa entreprena oficisto"
       }
     ]
   },
@@ -8951,6 +8955,10 @@
       {
         "lang": "english",
         "text": "commercial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "negoca"
       }
     ]
   },
