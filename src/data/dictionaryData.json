@@ -8508,6 +8508,55 @@
       {
         "lang": "english",
         "text": "print"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presado"
+      }
+    ]
+  },
+  {
+    "word": "bükik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "partaining to printing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presa"
+      }
+    ]
+  },
+  {
+    "word": "bükan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a printer (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presisto"
+      }
+    ]
+  },
+  {
+    "word": "bükav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "art of printing, typography"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presarto, tipografio"
       }
     ]
   },
@@ -8518,7 +8567,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a printed paper"
+        "text": "a printed paper, a printed matter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "presaĵo"
       }
     ]
   },
@@ -8530,6 +8583,21 @@
       {
         "lang": "english",
         "text": "to print"
+      }
+    ]
+  },
+  {
+    "word": "bül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mash, porridge, puree"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaĉo"
       }
     ]
   },
@@ -103557,17 +103625,10 @@
       {
         "lang": "english",
         "text": "work"
-      }
-    ]
-  },
-  {
-    "word": "vobadel",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "a working day"
+        "lang": "esperanto",
+        "text": "laboro"
       }
     ]
   },
@@ -103579,6 +103640,25 @@
       {
         "lang": "english",
         "text": "a worker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laboristo"
+      }
+    ]
+  },
+  {
+    "word": "vobadel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a working day"
+      },
+      {
+        "lang": "esperanto",
+        "text": "labortago"
       }
     ]
   },
