@@ -8665,6 +8665,21 @@
     ]
   },
   {
+    "word": "bünik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pear-like"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pira"
+      }
+    ]
+  },
+  {
     "word": "bünep",
     "lang": "volapuk",
     "category": "n.",
@@ -8691,6 +8706,36 @@
       {
         "lang": "esperanto",
         "text": "pirujo, pirarbo (Pyrus)"
+      }
+    ]
+  },
+  {
+    "word": "bünafomik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pear-shaped"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pirforma"
+      }
+    ]
+  },
+  {
+    "word": "bünamust",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "perry, pear wine, pear cider"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pirvino, pircidro"
       }
     ]
   },
@@ -80765,17 +80810,6 @@
     ]
   },
   {
-    "word": "seveigön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to export"
-      }
-    ]
-  },
-  {
     "word": "sevön",
     "lang": "volapuk",
     "category": "v.",
@@ -101184,7 +101218,7 @@
       },
       {
         "lang": "english",
-        "text": "foriri"
+        "text": "foriri, moviĝi for"
       }
     ]
   },
@@ -101215,21 +101249,6 @@
       {
         "lang": "english",
         "text": "moviĝu for!"
-      }
-    ]
-  },
-  {
-    "word": "movegön",
-    "lang": "volapuk",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to move away"
-      },
-      {
-        "lang": "english",
-        "text": "moviĝi for"
       }
     ]
   },
