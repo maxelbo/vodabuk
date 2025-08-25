@@ -64654,6 +64654,70 @@
       {
         "lang": "english",
         "text": "knowledge, learning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kono, scio"
+      }
+    ]
+  },
+  {
+    "word": "nola",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in the know, knowledgeable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scia"
+      }
+    ]
+  },
+  {
+    "word": "nolam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(state of) knowing, kowledge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sciado"
+      }
+    ]
+  },
+  {
+    "word": "nolal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "All-Knowing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "la Ĉiokona"
+      }
+    ]
+  },
+  {
+    "word": "bünol",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "previous scientificity / scholarship"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔscio"
       }
     ]
   },
