@@ -64692,6 +64692,21 @@
     ]
   },
   {
+    "word": "nolan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "kowledgeable person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scianto"
+      }
+    ]
+  },
+  {
     "word": "nolal",
     "lang": "volapuk",
     "category": "n.",
@@ -64703,6 +64718,96 @@
       {
         "lang": "esperanto",
         "text": "la Ĉiokona"
+      }
+    ]
+  },
+  {
+    "word": "nolav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "science"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scienco"
+      }
+    ]
+  },
+  {
+    "word": "nolavan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "scientist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sciencisto"
+      }
+    ]
+  },
+  {
+    "word": "nolavik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "scientific"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scienca"
+      }
+    ]
+  },
+  {
+    "word": "nolavanef",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "scientific confraternity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sciencistaro"
+      }
+    ]
+  },
+  {
+    "word": "noliäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "lust for knowledge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sciavido, scivolemo"
+      }
+    ]
+  },
+  {
+    "word": "nolaliegik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "very knowledgeable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "multescia, multscia"
       }
     ]
   },
