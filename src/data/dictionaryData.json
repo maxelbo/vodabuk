@@ -64662,13 +64662,13 @@
     ]
   },
   {
-    "word": "nola",
+    "word": "nolik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "in the know, knowledgeable"
+        "text": "in the know, knowledgeable, erudite, learned"
       },
       {
         "lang": "esperanto",
@@ -64849,28 +64849,6 @@
     ]
   },
   {
-    "word": "nolav",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "science"
-      }
-    ]
-  },
-  {
-    "word": "nolavan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a scientist"
-      }
-    ]
-  },
-  {
     "word": "noliälik",
     "lang": "volapuk",
     "category": "adj.",
@@ -64878,17 +64856,6 @@
       {
         "lang": "english",
         "text": "inquisitive"
-      }
-    ]
-  },
-  {
-    "word": "nolik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "erudite, learnéd"
       }
     ]
   },
