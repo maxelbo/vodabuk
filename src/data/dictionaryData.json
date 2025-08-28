@@ -64782,6 +64782,21 @@
     ]
   },
   {
+    "word": "nolavön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to seek (scientific) knowledge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scienca"
+      }
+    ]
+  },
+  {
     "word": "nolavanef",
     "lang": "volapuk",
     "category": "adj.",
@@ -64886,6 +64901,10 @@
       {
         "lang": "english",
         "text": "(the) north"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nordo"
       }
     ]
   },
@@ -64896,7 +64915,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "northern"
+        "text": "north, northern, northerly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norda"
+      }
+    ]
+  },
+  {
+    "word": "nolüdo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in the north"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norde"
       }
     ]
   },
