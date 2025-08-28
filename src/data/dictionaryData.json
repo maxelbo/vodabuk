@@ -64677,6 +64677,21 @@
     ]
   },
   {
+    "word": "nolön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to know (facts)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scii"
+      }
+    ]
+  },
+  {
     "word": "nolam",
     "lang": "volapuk",
     "category": "g.",
@@ -64797,6 +64812,21 @@
     ]
   },
   {
+    "word": "noliälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inquisitive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sciavida, scivolema"
+      }
+    ]
+  },
+  {
     "word": "nolaliegik",
     "lang": "volapuk",
     "category": "adj.",
@@ -64845,28 +64875,6 @@
       {
         "lang": "english",
         "text": "dissertation (university)"
-      }
-    ]
-  },
-  {
-    "word": "noliälik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "inquisitive"
-      }
-    ]
-  },
-  {
-    "word": "nolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to know (facts)"
       }
     ]
   },
