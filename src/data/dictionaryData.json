@@ -64939,6 +64939,66 @@
     ]
   },
   {
+    "word": "nolüdalosüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "north-east"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nordoriento"
+      }
+    ]
+  },
+  {
+    "word": "nolüdalosüdik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "north easterly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nordorienta"
+      }
+    ]
+  },
+  {
+    "word": "nolüdavesüd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "north-west"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nordokcidento"
+      }
+    ]
+  },
+  {
+    "word": "nolüdavesüdik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "north westerly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nordokcidenta"
+      }
+    ]
+  },
+  {
     "word": "nom",
     "lang": "volapuk",
     "category": "n.",
