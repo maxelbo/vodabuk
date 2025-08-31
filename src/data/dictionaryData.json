@@ -64939,6 +64939,51 @@
     ]
   },
   {
+    "word": "nolüdao",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "from the north"
+      },
+      {
+        "lang": "esperanto",
+        "text": "el la nordo"
+      }
+    ]
+  },
+  {
+    "word": "nolüdio",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "northwards, to the north"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norden"
+      }
+    ]
+  },
+  {
+    "word": "nolüdän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "northern land"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norda lando"
+      }
+    ]
+  },
+  {
     "word": "nolüdalosüd",
     "lang": "volapuk",
     "category": "n.",
