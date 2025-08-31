@@ -64969,6 +64969,21 @@
     ]
   },
   {
+    "word": "nolüdü",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "north of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norde de"
+      }
+    ]
+  },
+  {
     "word": "nolüdän",
     "lang": "volapuk",
     "category": "n.",
@@ -65050,7 +65065,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a rule (regulation); the norm (standard)"
+        "text": "a rule (regulation), the norm (standard)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "regulo, normo"
       }
     ]
   },
@@ -65062,6 +65081,10 @@
       {
         "lang": "english",
         "text": "a nomad"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomado"
       }
     ]
   },
@@ -65084,6 +65107,21 @@
       {
         "lang": "english",
         "text": "regular"
+      }
+    ]
+  },
+  {
+    "word": "nomäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "regular course of things, normality"
+      },
+      {
+        "lang": "esperanto",
+        "text": "normeco"
       }
     ]
   },
