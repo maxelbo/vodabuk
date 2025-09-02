@@ -65133,6 +65133,16 @@
       {
         "lang": "english",
         "text": "regular"
+      },
+      {
+        "lang": "esperanto",
+        "text": "regula"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Man äs glok so nomädik = A man i regular as clockwork."
       }
     ]
   },
