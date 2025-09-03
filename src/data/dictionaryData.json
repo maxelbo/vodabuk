@@ -65142,40 +65142,41 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Man äs glok so nomädik = A man i regular as clockwork."
-      }
-    ]
-  },
-  {
-    "word": "nomöfiko",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+        "text": "Man äs glok so nomädik = A man is regular as clockwork."
+      },
       {
-        "lang": "english",
-        "text": "regular"
+        "lang": "esperanto",
+        "text": "Man äs glok so nomädik = Homo estas tiel regula kiel horloĝo."
       }
     ]
   },
   {
     "word": "nomükam",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
         "text": "adjustment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reguligado"
       }
     ]
   },
   {
     "word": "nomükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to regulate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "reguligi"
       }
     ]
   },
