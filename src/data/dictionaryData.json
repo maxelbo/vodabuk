@@ -65181,6 +65181,21 @@
     ]
   },
   {
+    "word": "nominatif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nominative case (grammar)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nominativo"
+      }
+    ]
+  },
+  {
     "word": "nonik",
     "lang": "volapuk",
     "category": "adj.",
@@ -65188,6 +65203,10 @@
       {
         "lang": "english",
         "text": "none, not any"
+      },
+      {
+        "lang": "esperanto",
+        "text": "neniu, nenia"
       }
     ]
   },
