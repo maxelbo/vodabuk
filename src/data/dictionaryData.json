@@ -65196,17 +65196,42 @@
     ]
   },
   {
+    "word": "non",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "non-existence, nothingness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nenieco"
+      }
+    ]
+  },
+  {
     "word": "nonik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "none, not any"
+        "text": "no, none, not any"
       },
       {
         "lang": "esperanto",
         "text": "neniu, nenia"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Mon nonik = No money."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Mon nonik = Neniu mono."
       }
     ]
   },
