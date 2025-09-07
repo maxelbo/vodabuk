@@ -65236,6 +65236,21 @@
     ]
   },
   {
+    "word": "nonön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to not be, to not exist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malesti, malekzisti"
+      }
+    ]
+  },
+  {
     "word": "nonikna",
     "lang": "volapuk",
     "category": "adv.",
@@ -65249,11 +65264,15 @@
   {
     "word": "noön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to deny"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nei"
       }
     ]
   },
