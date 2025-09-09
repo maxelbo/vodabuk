@@ -65350,13 +65350,47 @@
     ]
   },
   {
-    "word": "nosükön",
+    "word": "nosam",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "g.",
     "translations": [
       {
         "lang": "english",
-        "text": "to cancel, to delete, to destroy"
+        "text": "(state of) being void / futile, voidance, voidness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nuleco"
+      }
+    ]
+  },
+  {
+    "word": "nosikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be annihilated, to cease"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉesi, neniiĝi"
+      }
+    ]
+  },
+  {
+    "word": "nosükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to annihilate, to ruin, to cancel, to delete, to destroy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "neniigi"
       }
     ]
   },
