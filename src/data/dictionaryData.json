@@ -65350,6 +65350,21 @@
     ]
   },
   {
+    "word": "nosik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "void, being nothing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nula"
+      }
+    ]
+  },
+  {
     "word": "nosam",
     "lang": "volapuk",
     "category": "g.",
@@ -65391,6 +65406,22 @@
       {
         "lang": "esperanto",
         "text": "neniigi"
+      }
+    ]
+  },
+  {
+    "word": "nosdum",
+    "roots": ["nos", "dum"],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "idleness, inaction"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nenifarado"
       }
     ]
   },
@@ -65578,6 +65609,10 @@
       {
         "lang": "english",
         "text": "now"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nun"
       }
     ]
   },
@@ -65589,6 +65624,10 @@
       {
         "lang": "english",
         "text": "a nose"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nazo"
       }
     ]
   },
@@ -65600,6 +65639,10 @@
       {
         "lang": "english",
         "text": "a nostril"
+      },
+      {
+        "lang": "esperanto",
+        "text": "naztruo, nazotruo"
       }
     ]
   },
