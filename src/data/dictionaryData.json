@@ -65554,6 +65554,10 @@
       {
         "lang": "english",
         "text": "an egg"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ovo"
       }
     ]
   },
@@ -65575,7 +65579,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an (edible) nut"
+        "text": "a nut (edible)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nukso"
       }
     ]
   },
@@ -65669,6 +65677,61 @@
       {
         "lang": "esperanto",
         "text": "tegmento"
+      }
+    ]
+  },
+  {
+    "word": "nufön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to roof"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tegmenti"
+      }
+    ]
+  },
+  {
+    "word": "nufam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) roofing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tegmentado"
+      }
+    ]
+  },
+  {
+    "word": "nufed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ceiling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plafono"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Nufed cema = Ceiling of a room."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Nufed cema = Ĉambra plafono."
       }
     ]
   },
