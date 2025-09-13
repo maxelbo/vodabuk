@@ -65494,22 +65494,30 @@
   {
     "word": "notodön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to express (thoughts)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esprimi"
       }
     ]
   },
   {
     "word": "notükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to express, to make known"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konatigi"
       }
     ]
   },
@@ -65521,17 +65529,70 @@
       {
         "lang": "english",
         "text": "November"
+      },
+      {
+        "lang": "esperanto",
+        "text": "novembro"
+      }
+    ]
+  },
+  {
+    "word": "novulik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "pertaining to November"
+      },
+      {
+        "lang": "esperanto",
+        "text": "novembra"
+      }
+    ]
+  },
+  {
+    "word": "noy",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "drowning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dronado"
       }
     ]
   },
   {
     "word": "noyön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to drown"
+      },
+      {
+        "lang": "esperanto",
+        "text": "droni"
+      }
+    ]
+  },
+  {
+    "word": "nöyön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make drown"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dronigi"
       }
     ]
   },
@@ -65558,6 +65619,21 @@
       {
         "lang": "esperanto",
         "text": "ovo"
+      }
+    ]
+  },
+  {
+    "word": "nögön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lay eggs"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ovdemeti, ovellasi, ellasi / demeti ovojn"
       }
     ]
   },
