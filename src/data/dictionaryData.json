@@ -64263,6 +64263,55 @@
       {
         "lang": "english",
         "text": "an island"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insulo"
+      }
+    ]
+  },
+  {
+    "word": "nisulan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an islander"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insulano"
+      }
+    ]
+  },
+  {
+    "word": "nisulagrup",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an archipelago"
+      },
+      {
+        "lang": "esperanto",
+        "text": "insularo"
+      }
+    ]
+  },
+  {
+    "word": "tinisul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a peninsula"
+      },
+      {
+        "lang": "esperanto",
+        "text": "duoninsulo"
       }
     ]
   },
@@ -96281,17 +96330,6 @@
       {
         "lang": "english",
         "text": "a moment"
-      }
-    ]
-  },
-  {
-    "word": "tinisul",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a peninsula"
       }
     ]
   },
