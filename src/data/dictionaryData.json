@@ -64323,17 +64323,10 @@
       {
         "lang": "english",
         "text": "an interest"
-      }
-    ]
-  },
-  {
-    "word": "nitedälön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "to be interested (in/about)"
+        "lang": "esperanto",
+        "text": "intereso"
       }
     ]
   },
@@ -64345,17 +64338,70 @@
       {
         "lang": "english",
         "text": "interesting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interesa"
       }
     ]
   },
   {
     "word": "nitedön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to interest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interesi"
+      }
+    ]
+  },
+  {
+    "word": "nitedāl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "interest, the being interested"
+      },
+      {
+        "lang": "esperanto",
+        "text": "intereso"
+      }
+    ]
+  },
+  {
+    "word": "nitedālik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "interested"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interesiĝita"
+      }
+    ]
+  },
+  {
+    "word": "nitedälön (dö/tefü)",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be interested (in/about)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interesiĝi pri"
       }
     ]
   },
