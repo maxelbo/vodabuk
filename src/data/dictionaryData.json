@@ -64361,6 +64361,21 @@
     ]
   },
   {
+    "word": "nitedāb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "interested person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interesito"
+      }
+    ]
+  },
+  {
     "word": "nitedāl",
     "lang": "volapuk",
     "category": "n.",
@@ -64371,7 +64386,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "intereso"
+        "text": "interesiĝo"
       }
     ]
   },
@@ -64402,6 +64417,21 @@
       {
         "lang": "esperanto",
         "text": "interesiĝi pri"
+      }
+    ]
+  },
+  {
+    "word": "nitedälazeläk",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sphere of interest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sfero de intereso"
       }
     ]
   },
@@ -65929,17 +65959,6 @@
       {
         "lang": "english",
         "text": "a roof terrace"
-      }
-    ]
-  },
-  {
-    "word": "nufed",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a ceiling"
       }
     ]
   },
