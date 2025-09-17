@@ -64343,6 +64343,16 @@
         "lang": "esperanto",
         "text": "interesa"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Mu nitedik = Very interesting."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Mu nitedik = Tre interesa."
+      }
     ]
   },
   {
@@ -64443,6 +64453,10 @@
       {
         "lang": "english",
         "text": "a staple"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krampo"
       }
     ]
   },
@@ -64454,6 +64468,10 @@
       {
         "lang": "english",
         "text": "a stapler"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krampilo"
       }
     ]
   },
