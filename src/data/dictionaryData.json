@@ -64768,6 +64768,36 @@
     ]
   },
   {
+    "word": "nok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a knuckle (of finger)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fingrartiko"
+      }
+    ]
+  },
+  {
+    "word": "nokam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action of) knocking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frapado"
+      }
+    ]
+  },
+  {
     "word": "noköm",
     "lang": "volapuk",
     "category": "n.",
@@ -64775,17 +64805,25 @@
       {
         "lang": "english",
         "text": "a door knocker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frapilo"
       }
     ]
   },
   {
     "word": "nokön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to knock"
+      },
+      {
+        "lang": "english",
+        "text": "brue frapiĝi"
       }
     ]
   },
