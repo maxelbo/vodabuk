@@ -65484,6 +65484,21 @@
     ]
   },
   {
+    "word": "norin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "norium (No), a rejected element related to hafnium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "norium (No), malakceptita elemento rilata al hafnio"
+      }
+    ]
+  },
+  {
     "word": "norm",
     "lang": "volapuk",
     "category": "n.",
@@ -65514,6 +65529,21 @@
     ]
   },
   {
+    "word": "normalien",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a vertical line, a perpendicular line"
+      },
+      {
+        "lang": "esperanto",
+        "text": "orta linio"
+      }
+    ]
+  },
+  {
     "word": "norg",
     "lang": "volapuk",
     "category": "n.",
@@ -65525,21 +65555,6 @@
       {
         "lang": "esperanto",
         "text": "norena lingvo, malnovnordlanda lingvo"
-      }
-    ]
-  },
-  {
-    "word": "norin",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "norium (a rejected name for hafnium)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "malnova nomo de hafnio (Hf)"
       }
     ]
   },
