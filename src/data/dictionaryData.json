@@ -64828,6 +64828,21 @@
     ]
   },
   {
+    "word": "noktud",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "little owl, owl of Athena, owl of Minerva (Athene noctua)"
+      },
+      {
+        "lang": "english",
+        "text": "noktuo (Athene noctua)"
+      }
+    ]
+  },
+  {
     "word": "nol",
     "lang": "volapuk",
     "category": "n.",
@@ -65469,13 +65484,32 @@
     ]
   },
   {
+    "word": "norm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "verticalness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "orteco"
+      }
+    ]
+  },
+  {
     "word": "normik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "vertical"
+        "text": "vertical, perpendicular"
+      },
+      {
+        "lang": "esperanto",
+        "text": "orta"
       }
     ]
   },
