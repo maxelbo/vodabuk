@@ -65853,6 +65853,21 @@
     ]
   },
   {
+    "word": "nögem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an spawn (of fish, frogs, etc.)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frajo"
+      }
+    ]
+  },
+  {
     "word": "nögön",
     "lang": "volapuk",
     "category": "tr.",
@@ -65968,6 +65983,10 @@
       {
         "lang": "english",
         "text": "a fingernail, a toenail"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ungo"
       }
     ]
   },
@@ -66156,6 +66175,36 @@
     ]
   },
   {
+    "word": "nul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "newness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "novo"
+      }
+    ]
+  },
+  {
+    "word": "nulan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "novice"
+      },
+      {
+        "lang": "esperanto",
+        "text": "novulo"
+      }
+    ]
+  },
+  {
     "word": "nulik",
     "lang": "volapuk",
     "category": "adj.",
@@ -66163,6 +66212,10 @@
       {
         "lang": "english",
         "text": "new"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nova"
       }
     ]
   },
