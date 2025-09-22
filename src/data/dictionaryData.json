@@ -66220,13 +66220,32 @@
     ]
   },
   {
+    "word": "nuläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modernity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "noveco"
+      }
+    ]
+  },
+  {
     "word": "nulod",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "an innovation"
+        "text": "a novelty, an innovation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "novaĵo"
       }
     ]
   },
