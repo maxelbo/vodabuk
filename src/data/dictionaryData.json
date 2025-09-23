@@ -66230,7 +66230,52 @@
       },
       {
         "lang": "esperanto",
-        "text": "noveco"
+        "text": "noveco, moderneco"
+      }
+    ]
+  },
+  {
+    "word": "nulädim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modernism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "modernismo"
+      }
+    ]
+  },
+  {
+    "word": "nulädiman",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modernist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "modernisto"
+      }
+    ]
+  },
+  {
+    "word": "nulädükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modernize, modernise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "modernigi"
       }
     ]
   },
