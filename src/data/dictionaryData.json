@@ -66109,72 +66109,6 @@
     ]
   },
   {
-    "word": "nulastonik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "neolithic"
-      }
-    ]
-  },
-  {
-    "word": "nuläd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "novelty"
-      }
-    ]
-  },
-  {
-    "word": "nulädik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "modern, up-to-date"
-      }
-    ]
-  },
-  {
-    "word": "nulälik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "curious, inquisitive"
-      }
-    ]
-  },
-  {
-    "word": "nulälikön (dö)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be curious (about)"
-      }
-    ]
-  },
-  {
-    "word": "nulälön (va)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to wonder (if/whether)"
-      }
-    ]
-  },
-  {
     "word": "nul",
     "lang": "volapuk",
     "category": "n.",
@@ -66235,6 +66169,17 @@
     ]
   },
   {
+    "word": "nulädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "modern, up-to-date"
+      }
+    ]
+  },
+  {
     "word": "nulädim",
     "lang": "volapuk",
     "category": "n.",
@@ -66280,17 +66225,58 @@
     ]
   },
   {
-    "word": "nulod",
+    "word": "nuläl",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a novelty, an innovation"
+        "text": "curiosity, inquisitiveness, nosiness"
       },
       {
         "lang": "esperanto",
-        "text": "novaĵo"
+        "text": "scivolemo"
+      }
+    ]
+  },
+  {
+    "word": "nulälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "curiou, inquisitive, nosy, prying"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scivolemo"
+      }
+    ]
+  },
+  {
+    "word": "nulälikön (dö)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be curious (about)"
+      }
+    ]
+  },
+  {
+    "word": "nulälön (va)",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to wonder (if/whether)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "scivoli (ĉu)"
       }
     ]
   },
@@ -66330,6 +66316,17 @@
       {
         "lang": "english",
         "text": "Blöto nulüdön = To breast-feed"
+      }
+    ]
+  },
+  {
+    "word": "nulastonik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "neolithic"
       }
     ]
   },
