@@ -66281,35 +66281,79 @@
     ]
   },
   {
+    "word": "nulul",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a renewal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "renovigo"
+      }
+    ]
+  },
+  {
     "word": "nululön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to renew"
+      },
+      {
+        "lang": "esperanto",
+        "text": "renovigi"
       }
     ]
   },
   {
     "word": "nulüd",
     "lang": "volapuk",
+    "roots": ["nulüd"],
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "food, nourishment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nutrado"
+      }
+    ]
+  },
+  {
+    "word": "nulüdik",
+    "lang": "volapuk",
+    "roots": ["nulüd"],
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "nourishing"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nutra"
       }
     ]
   },
   {
     "word": "nulüdön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to feed, to nourish, to nurture"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nutri"
       }
     ],
     "examples": [
