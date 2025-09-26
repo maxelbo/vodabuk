@@ -66311,6 +66311,17 @@
     ]
   },
   {
+    "word": "nulastonik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "neolithic"
+      }
+    ]
+  },
+  {
     "word": "nulüd",
     "lang": "volapuk",
     "roots": ["nulüd"],
@@ -66359,18 +66370,11 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Blöto nulüdön = To breast-feed"
-      }
-    ]
-  },
-  {
-    "word": "nulastonik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
+        "text": "Blöto nulüdön = To breast-feed / breastfeed."
+      },
       {
-        "lang": "english",
-        "text": "neolithic"
+        "lang": "esperanto",
+        "text": "Blöto nulüdön = Mamnutri."
       }
     ]
   },
@@ -66382,6 +66386,40 @@
       {
         "lang": "english",
         "text": "number (an amount)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nombro"
+      }
+    ]
+  },
+  {
+    "word": "numam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(acttion of) calculating, calculation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nombrado"
+      }
+    ]
+  },
+  {
+    "word": "numan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a calculator (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nombranto"
       }
     ]
   },
@@ -66392,7 +66430,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a digit, a figure, a number"
+        "text": "a digit, a figure, a numeral"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cifero"
       }
     ]
   },
@@ -66404,6 +66446,10 @@
       {
         "lang": "english",
         "text": "a dial (on clock)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ciferplato"
       }
     ]
   },
