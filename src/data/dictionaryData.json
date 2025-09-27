@@ -66394,6 +66394,21 @@
     ]
   },
   {
+    "word": "numik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "numerical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔnombra"
+      }
+    ]
+  },
+  {
     "word": "numam",
     "lang": "volapuk",
     "category": "g.",
@@ -66476,13 +66491,32 @@
     ]
   },
   {
-    "word": "numädön",
+    "word": "numäd",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to count"
+        "text": "enumaration, counting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nombrado"
+      }
+    ]
+  },
+  {
+    "word": "numädön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to count, to enumarate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nombri"
       }
     ]
   },
@@ -66494,6 +66528,10 @@
       {
         "lang": "english",
         "text": "an exponent (maths)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eksponento"
       }
     ]
   },
