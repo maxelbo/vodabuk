@@ -1078,11 +1078,15 @@
     ]
   },
   {
-    "word": "badicedön",
+    "word": "badocedön",
     "roots": ["bad"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
+      {
+        "lang": "english",
+        "text": "to take amiss"
+      },
       {
         "lang": "esperanto",
         "text": "malbone akcepti"
@@ -1112,6 +1116,10 @@
     "category": "n.",
     "translations": [
       {
+        "lang": "english",
+        "text": "something bad"
+      },
+      {
         "lang": "esperanto",
         "text": "ia malbono"
       }
@@ -1123,6 +1131,10 @@
     "lang": "volapuk",
     "category": "int.",
     "translations": [
+      {
+        "lang": "english",
+        "text": "to become bad"
+      },
       {
         "lang": "esperanto",
         "text": "malboniĝi"
@@ -1258,6 +1270,10 @@
     "lang": "volapuk",
     "category": "n.",
     "translations": [
+      {
+        "lang": "english",
+        "text": "ill-will"
+      },
       {
         "lang": "esperanto",
         "text": "malbonvolo"
@@ -88793,7 +88809,7 @@
     "category": "tr.",
     "translations": [
       {
-        "lang": "esperanto",
+        "lang": "english",
         "text": "to turn into stone, to stone"
       },
       {
