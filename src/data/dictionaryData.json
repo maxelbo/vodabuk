@@ -1078,22 +1078,6 @@
     ]
   },
   {
-    "word": "badocedön",
-    "roots": ["bad"],
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to take amiss"
-      },
-      {
-        "lang": "esperanto",
-        "text": "malbone akcepti"
-      }
-    ]
-  },
-  {
     "word": "badik",
     "roots": ["bad"],
     "lang": "volapuk",
@@ -10377,6 +10361,21 @@
       {
         "lang": "esperanto",
         "text": "draŝi"
+      }
+    ]
+  },
+  {
+    "word": "ficepön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to completely thresh"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tradraŝi"
       }
     ]
   },
@@ -20810,17 +20809,6 @@
       {
         "lang": "english",
         "text": "mild"
-      }
-    ]
-  },
-  {
-    "word": "ficepön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "esperanto",
-        "text": "tradraŝi"
       }
     ]
   },
@@ -69464,6 +69452,7 @@
   },
   {
     "word": "pebluvüköl",
+    "lang": "volapuk",
     "category": "act. part.",
     "translations": [
       {
@@ -77462,8 +77451,12 @@
     "category": "n.",
     "translations": [
       {
+        "lang": "english",
+        "text": "roach, common roach (Rutilus rutilus)"
+      },
+      {
         "lang": "esperanto",
-        "text": "ploto"
+        "text": "ploto (Rutilus rutilus)"
       }
     ]
   },
@@ -109825,7 +109818,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "montranta spiritan abstraktaĵon de la radiko"
+        "text": "montranta spiritan abstraktaĵon de la radiko, spirita eco, mensa eco"
       }
     ]
   },
