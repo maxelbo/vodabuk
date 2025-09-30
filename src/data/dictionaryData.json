@@ -20820,6 +20820,40 @@
       {
         "lang": "english",
         "text": "food"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝo, manĝado"
+      }
+    ]
+  },
+  {
+    "word": "fidön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to eat"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝi"
+      }
+    ]
+  },
+  {
+    "word": "fidäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a meal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝo"
       }
     ]
   },
@@ -20842,6 +20876,10 @@
       {
         "lang": "english",
         "text": "a dining room"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝoĉambro"
       }
     ]
   },
@@ -20853,17 +20891,6 @@
       {
         "lang": "english",
         "text": "a chopstick"
-      }
-    ]
-  },
-  {
-    "word": "fidäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a meal"
       }
     ]
   },
@@ -20886,6 +20913,10 @@
       {
         "lang": "english",
         "text": "a dinner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tagmanĝo"
       }
     ]
   },
@@ -20912,13 +20943,17 @@
     ]
   },
   {
-    "word": "fidön",
+    "word": "fidot",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to eat"
+        "text": "food"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝaĵo"
       }
     ]
   },
@@ -103064,6 +103099,10 @@
       {
         "lang": "english",
         "text": "important"
+      },
+      {
+        "lang": "esperanto",
+        "text": "grava"
       }
     ]
   },
@@ -103075,12 +103114,20 @@
       {
         "lang": "english",
         "text": "most important"
+      },
+      {
+        "lang": "esperanto",
+        "text": "plej grava"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Fided binon fidäd veütikün dela = Dinner is the most important meal of the day."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Fided binon fidäd veütikün dela = La tagmanĝo estas la plej grava manĝo de la tago."
       }
     ]
   },
@@ -109743,7 +109790,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "montranta kvanton de la radiko"
+        "text": "nomo de unuo (post numeralo), montranta kvanton de la radiko"
       }
     ]
   },
@@ -109758,7 +109805,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "-ologio (montranta sciencan fakon)"
+        "text": "scienco, -ologio (montranta sciencan fakon)"
       }
     ]
   },
@@ -109823,6 +109870,21 @@
     ]
   },
   {
+    "word": "-äm",
+    "lang": "volapuk",
+    "category": "suf.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "organ"
+      },
+      {
+        "lang": "esperanto",
+        "text": "organo"
+      }
+    ]
+  },
+  {
     "word": "-ät",
     "lang": "volapuk",
     "category": "suf.",
@@ -109833,7 +109895,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "montranta abstraktaĵon de la radiko"
+        "text": "montranta abstraktaĵon de la radiko, abstrakta nocio, -eco"
       }
     ]
   },
@@ -109908,7 +109970,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "-ist (faranto de), faranto"
+        "text": "-ist (faranto de), faranto, maro (post artikolo)"
       }
     ]
   },
