@@ -76902,17 +76902,47 @@
       },
       {
         "lang": "esperanto",
-        "text": "reto (Vüresod = la Interreto)"
+        "text": "reto"
       }
     ],
     "examples": [
       {
         "lang": "english",
-        "text": "Vüresod = the Internet."
+        "text": "Vüresod / Bevüresod = the Internet."
       },
       {
         "lang": "esperanto",
-        "text": "Vüresod = Interreto"
+        "text": "Vüresod / Bevüresod = Interreto"
+      }
+    ]
+  },
+  {
+    "word": "bevüresod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the Internet"
+      },
+      {
+        "lang": "english",
+        "text": "interreto"
+      }
+    ]
+  },
+  {
+    "word": "bevüresodaladet",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an internet link, an internet address, a URL"
+      },
+      {
+        "lang": "english",
+        "text": "interreta ligilo, interreta adreso"
       }
     ]
   },
