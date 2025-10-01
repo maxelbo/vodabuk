@@ -20902,6 +20902,10 @@
       {
         "lang": "english",
         "text": "a menu (table d'hôte)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "menuo"
       }
     ]
   },
@@ -20928,6 +20932,10 @@
       {
         "lang": "english",
         "text": "to dine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tagmanĝi"
       }
     ]
   },
@@ -20939,6 +20947,10 @@
       {
         "lang": "english",
         "text": "eatable, edible"
+      },
+      {
+        "lang": "esperanto",
+        "text": "manĝebla"
       }
     ]
   },
@@ -78083,11 +78095,58 @@
   {
     "word": "ronät",
     "lang": "volapuk",
+    "roots": ["ronät"],
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "a faucet, a tap"
+      },
+      {
+        "lang": "esperanto",
+        "text": "krano"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Ronät len tub = Tap on a barrel."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Ronät len tub = Krano sur barelo."
+      }
+    ]
+  },
+  {
+    "word": "ronätosumön",
+    "lang": "volapuk",
+    "roots": ["ronät"],
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to tap off"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preni el krano"
+      }
+    ]
+  },
+  {
+    "word": "rop",
+    "lang": "volapuk",
+    "roots": ["rop"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "interruption"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interrompo"
       }
     ]
   },
