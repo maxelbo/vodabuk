@@ -48374,7 +48374,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a link (connection)"
+        "text": "an illusion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "iluzio"
       }
     ]
   },
@@ -76908,11 +76912,11 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Vüresod / Bevüresod = the Internet."
+        "text": "Bevüresod = the Internet."
       },
       {
         "lang": "esperanto",
-        "text": "Vüresod / Bevüresod = Interreto"
+        "text": "Bevüresod = Interreto"
       }
     ]
   },
