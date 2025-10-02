@@ -78135,6 +78135,21 @@
     ]
   },
   {
+    "word": "rood",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an order (taxonomy)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ordo (taksonomio)"
+      }
+    ]
+  },
+  {
     "word": "rop",
     "lang": "volapuk",
     "roots": ["rop"],
@@ -78151,28 +78166,17 @@
     ]
   },
   {
-    "word": "rood",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an order (taxonomy)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "ordo (taksonomio)"
-      }
-    ]
-  },
-  {
     "word": "ropön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to interrupt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "interrompi"
       }
     ]
   },
@@ -78237,6 +78241,21 @@
     ]
   },
   {
+    "word": "rosadakölik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rose-coloured, rose-colored"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozkolora"
+      }
+    ]
+  },
+  {
     "word": "rosin",
     "lang": "volapuk",
     "category": "n.",
@@ -78244,6 +78263,10 @@
       {
         "lang": "english",
         "text": "a raisin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rosino, sekvinbero"
       }
     ]
   },
