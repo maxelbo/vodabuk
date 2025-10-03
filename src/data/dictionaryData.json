@@ -78238,6 +78238,57 @@
         "lang": "esperanto",
         "text": "rozo"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Rosad tumbledik = Centripetal rose."
+      }
+    ]
+  },
+  {
+    "word": "rosadik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rosy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "roza"
+      }
+    ]
+  },
+  {
+    "word": "rosadabimül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rose bush"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozarbeto"
+      }
+    ]
+  },
+  {
+    "word": "rosadaköl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rose-colour, rose-color"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozkoloro"
+      }
     ]
   },
   {
