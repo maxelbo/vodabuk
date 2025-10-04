@@ -78262,6 +78262,21 @@
     ]
   },
   {
+    "word": "rosadil",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "little rose"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozeto"
+      }
+    ]
+  },
+  {
     "word": "rosadabimül",
     "lang": "volapuk",
     "category": "n.",
@@ -78307,6 +78322,31 @@
     ]
   },
   {
+    "word": "rosadakronül",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a rosary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rozario"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Plekön rosadakronüli = To pray the rosary."  
+      },
+      {
+        "lang": "esperanto",
+        "text": "Plekön rosadakronüli = Preĝi rozarion."  
+      }
+    ]
+  },
+  {
     "word": "rosin",
     "lang": "volapuk",
     "category": "n.",
@@ -78328,7 +78368,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a routine, a template (computer)"
+        "text": "a routine, inefficient habitual routine, a template (computer)"
       },
       {
         "lang": "esperanto",
@@ -78343,7 +78383,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "routinely"
+        "text": "routinely, in the same old dawdling way"
       },
       {
         "lang": "esperanto",
@@ -78393,6 +78433,21 @@
       {
         "lang": "esperanto",
         "text": "mallarĝa"
+      }
+    ]
+  },
+  {
+    "word": "rovanudik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "leptorrhine, with a narrow nose"
+      },
+      {
+        "lang": "esperanto",
+        "text": "havanta mallarĝan nazon, mallarĝnaza"
       }
     ]
   },
