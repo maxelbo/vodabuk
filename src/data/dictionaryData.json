@@ -96689,6 +96689,10 @@
       {
         "lang": "english",
         "text": "logic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "logiko"
       }
     ]
   },
@@ -96700,6 +96704,25 @@
       {
         "lang": "english",
         "text": "logical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "logika"
+      }
+    ]
+  },
+  {
+    "word": "tikov",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "conceivability"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imagpovo"
       }
     ]
   },
@@ -96710,7 +96733,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "imaginable"
+        "text": "imaginable, conceivable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imagebla"
       }
     ]
   },
