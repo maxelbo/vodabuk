@@ -96703,11 +96703,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "logical"
+        "text": "logic, logical"
       },
       {
         "lang": "esperanto",
         "text": "logika"
+      }
+    ]
+  },
+  {
+    "word": "tikavan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "logician"
+      },
+      {
+        "lang": "esperanto",
+        "text": "logikisto"
       }
     ]
   },
@@ -96748,7 +96763,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "concept"
+        "text": "concept, concideration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsidero"
       }
     ]
   },
@@ -96759,7 +96778,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to have a look at; to inspect"
+        "text": "to concider, to have a look at; to inspect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsideri"
+      }
+    ]
+  },
+  {
+    "word": "tikäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the mind, reasoning (faculty)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "menso"
+      }
+    ]
+  },
+  {
+    "word": "tikälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mental, rational"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mensa"
+      }
+    ]
+  },
+  {
+    "word": "tikälim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rationalism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "raciismo, racionalismo"
       }
     ]
   },
@@ -96771,17 +96839,6 @@
       {
         "lang": "english",
         "text": "reasoning"
-      }
-    ]
-  },
-  {
-    "word": "tikälik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "mental"
       }
     ]
   },
