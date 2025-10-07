@@ -96633,29 +96633,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "thought"
+        "text": "a thought"
+      },
+      {
+        "lang": "esperanto",
+        "text": "penso"
       }
     ]
   },
   {
-    "word": "tikädabik",
+    "word": "tikön (dö)",
     "lang": "volapuk",
-    "category": "adj.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "considerable"
+        "text": "to think about"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pensi pri"
       }
     ]
   },
   {
-    "word": "tikamagot",
+    "word": "tiko",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "adv.",
     "translations": [
       {
         "lang": "english",
-        "text": "an idea"
+        "text": "in thought"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pense"
       }
     ]
   },
@@ -96667,17 +96679,6 @@
       {
         "lang": "english",
         "text": "a thinker"
-      }
-    ]
-  },
-  {
-    "word": "tikasököd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a line of thought"
       }
     ]
   },
@@ -96786,6 +96787,17 @@
       }
     ]
   },
+    {
+    "word": "tikädabik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "considerable"
+      }
+    ]
+  },
   {
     "word": "tikäl",
     "lang": "volapuk",
@@ -96832,6 +96844,21 @@
     ]
   },
   {
+    "word": "tikälimik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rationalistic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "raciisma, racionalisma"
+      }
+    ]
+  },
+  {
     "word": "tikälamod",
     "lang": "volapuk",
     "category": "n.",
@@ -96850,6 +96877,32 @@
       {
         "lang": "english",
         "text": "a (sudden) idea"
+      },
+      {
+        "lang": "esperanto",
+        "text": "subita ideo"
+      }
+    ]
+  },
+  {
+    "word": "tikamagot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an idea"
+      }
+    ]
+  },
+  {
+    "word": "tikasököd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a line of thought"
       }
     ]
   },
