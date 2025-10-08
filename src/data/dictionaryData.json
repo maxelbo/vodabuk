@@ -13063,28 +13063,6 @@
     ]
   },
   {
-    "word": "datikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to devise, to think out"
-      }
-    ]
-  },
-  {
-    "word": "datikovik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "imaginable"
-      }
-    ]
-  },
-  {
     "word": "datomön",
     "lang": "volapuk",
     "category": "v.",
@@ -96648,11 +96626,56 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to think about"
+        "text": "to think about, to opine"
       },
       {
         "lang": "esperanto",
         "text": "pensi pri"
+      }
+    ]
+  },
+  {
+    "word": "datik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(process of) conceiving, thinking out/up, devisal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elpenso"
+      }
+    ]
+  },
+  {
+    "word": "datikön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to conceive, to invent, to thinking out/up, to devise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elpensi"
+      }
+    ]
+  },
+  {
+    "word": "datikovik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imaginable, conceivable"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elpensebla"
       }
     ]
   },
@@ -96940,6 +96963,36 @@
     ]
   },
   {
+    "word": "tikodön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to imagine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "imagi"
+      }
+    ]
+  },
+  {
+    "word": "tikodükön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to suggest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sugest"
+      }
+    ]
+  },
+  {
     "word": "tikodiloveblin",
     "lang": "volapuk",
     "category": "n.",
@@ -96980,17 +97033,6 @@
       {
         "lang": "english",
         "text": "to turn over (in the mind)"
-      }
-    ]
-  },
-  {
-    "word": "tikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to opine, to think (about)"
       }
     ]
   },
