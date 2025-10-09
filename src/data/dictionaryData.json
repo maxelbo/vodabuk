@@ -96645,7 +96645,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "elpenso"
+        "text": "elpenso, inventado"
+      }
+    ]
+  },
+  {
+    "word": "datikan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inventor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elpensanto, inventisto"
       }
     ]
   },
@@ -96660,7 +96675,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "elpensi"
+        "text": "elpensi, inventi"
       }
     ]
   },
@@ -96702,6 +96717,10 @@
       {
         "lang": "english",
         "text": "a thinker"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pensanto"
       }
     ]
   },
@@ -96915,6 +96934,10 @@
       {
         "lang": "english",
         "text": "an idea"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ideo"
       }
     ]
   },
