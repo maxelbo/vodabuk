@@ -4708,17 +4708,6 @@
     ]
   },
   {
-    "word": "betikön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to consider"
-      }
-    ]
-  },
-  {
     "word": "betun",
     "lang": "volapuk",
     "category": "n.",
@@ -96641,7 +96630,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to think something"
+        "text": "to consider"
       },
       {
         "lang": "esperanto",
@@ -97472,13 +97461,47 @@
     ]
   },
   {
+    "word": "titär",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "titration"
+      },
+      {
+        "lang": "esperanto",
+        "text": "titro"
+      }
+    ]
+  },
+  {
+    "word": "tiv",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "negotiation"
+      },
+      {
+        "lang": "esperanto",
+        "text": "intertrakto, negocado"
+      }
+    ]
+  },
+  {
     "word": "tivön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "(tefü) to negotiate (regarding)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "intertrakti kun, negocii kun"
       }
     ]
   },
