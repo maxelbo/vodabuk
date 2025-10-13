@@ -43734,17 +43734,6 @@
     ]
   },
   {
-    "word": "lay",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "garlic"
-      }
-    ]
-  },
-  {
     "word": "layet",
     "lang": "volapuk",
     "category": "n.",
@@ -43752,6 +43741,10 @@
       {
         "lang": "english",
         "text": "a drawer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tirkesto"
       }
     ]
   },
@@ -43884,6 +43877,10 @@
       {
         "lang": "english",
         "text": "garlic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ajlo"
       }
     ]
   },
@@ -97306,6 +97303,21 @@
     ]
   },
   {
+    "word": "tiret",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a drawer"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tirilo"
+      }
+    ]
+  },
+  {
     "word": "tiren",
     "lang": "volapuk",
     "category": "n.",
@@ -97313,6 +97325,10 @@
       {
         "lang": "english",
         "text": "tyranny"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tiraneco"
       }
     ]
   },
@@ -97324,6 +97340,10 @@
       {
         "lang": "english",
         "text": "a tyrant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tirano"
       }
     ]
   },
