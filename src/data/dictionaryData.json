@@ -43903,6 +43903,10 @@
       {
         "lang": "english",
         "text": "country, land"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lando"
       }
     ]
   },
@@ -43913,7 +43917,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "country (as opposed to town)"
+        "text": "country (as opposed to town), countryside"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kamparo"
+      }
+    ]
+  },
+  {
+    "word": "länädadom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a country house"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉaleto, daĉo"
       }
     ]
   },
@@ -43924,7 +43947,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "ground, terrain"
+        "text": "a field, a plot of land, ground, terrain"
       },
       {
         "lang": "esperanto",
