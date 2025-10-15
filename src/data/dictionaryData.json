@@ -43911,6 +43911,51 @@
     ]
   },
   {
+    "word": "itlänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "autochthonous"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔtoktono"
+      }
+    ]
+  },
+  {
+    "word": "nilän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "inland, the interior (of a country)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enlando"
+      }
+    ]
+  },
+  {
+    "word": "länad",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a landscape"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pejzaĝo"
+      }
+    ]
+  },
+  {
     "word": "länäd",
     "lang": "volapuk",
     "category": "n.",
@@ -63953,17 +63998,6 @@
       {
         "lang": "english",
         "text": "neighbouring"
-      }
-    ]
-  },
-  {
-    "word": "nilän",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "interior (of country)"
       }
     ]
   },
