@@ -43971,6 +43971,21 @@
     ]
   },
   {
+    "word": "länädik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rural"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kampara"
+      }
+    ]
+  },
+  {
     "word": "länädadom",
     "lang": "volapuk",
     "category": "n.",
@@ -43982,6 +43997,21 @@
       {
         "lang": "esperanto",
         "text": "ĉaleto, daĉo"
+      }
+    ]
+  },
+  {
+    "word": "länädapoldan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a field warden, a country policeman, a constable, a gendarme"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝendarmo"
       }
     ]
   },
