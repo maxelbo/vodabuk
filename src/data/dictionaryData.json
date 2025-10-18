@@ -30556,38 +30556,6 @@
     ]
   },
   {
-    "word": "itlänan",
-    "roots": ["it", "län"],
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "native"
-      },
-      {
-        "lang": "esperanto",
-        "text": "indiĝeno"
-      }
-    ]
-  },
-  {
-    "word": "itlänik",
-    "roots": ["it", "län"],
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "domestic, internal, native"
-      },
-      {
-        "lang": "esperanto",
-        "text": "indiĝena, interna"
-      }
-    ]
-  },
-  {
     "word": "ito",
     "roots": ["it"],
     "lang": "volapuk",
@@ -43912,16 +43880,33 @@
   },
   {
     "word": "itlänan",
+    "roots": ["it", "län"],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "autochthonous"
+        "text": "an autochthonous person, native"
       },
       {
         "lang": "esperanto",
-        "text": "aǔtoktono"
+        "text": "aǔtoktono, indiĝeno"
+      }
+    ]
+  },
+  {
+    "word": "itlänik",
+    "roots": ["it", "län"],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "autochthonous, domestic, internal, native"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aǔtoktona, indiĝena, interna"
       }
     ]
   },
@@ -44042,6 +44027,21 @@
     ]
   },
   {
+    "word": "länodan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "landscape painter, gardener"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pejzaĝisto"
+      }
+    ]
+  },
+  {
     "word": "läo",
     "lang": "volapuk",
     "category": "prep.",
@@ -44071,6 +44071,21 @@
       {
         "lang": "english",
         "text": "an apprentice boy"
+      }
+    ]
+  },
+  {
+    "word": "lärn",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(action or process of) learning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lernado"
       }
     ]
   },
