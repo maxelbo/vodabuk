@@ -43728,6 +43728,51 @@
     ]
   },
   {
+    "word": "läo",
+    "lang": "volapuk",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in addition"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aldone"
+      }
+    ]
+  },
+  {
+    "word": "läod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an addition, an epithet, adjunct, an apposition, an attribute (linguistics)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aldono, epiteto, atributo"
+      }
+    ]
+  },
+  {
+    "word": "läodaset",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an adjectival clause, an adjectival sentence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "adjektiva frazo"
+      }
+    ]
+  },
+  {
     "word": "läb",
     "lang": "volapuk",
     "category": "n.",
@@ -44038,28 +44083,6 @@
       {
         "lang": "esperanto",
         "text": "pejzaĝisto"
-      }
-    ]
-  },
-  {
-    "word": "läo",
-    "lang": "volapuk",
-    "category": "prep.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "in addition"
-      }
-    ]
-  },
-  {
-    "word": "läod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an addition, an epithet"
       }
     ]
   },
