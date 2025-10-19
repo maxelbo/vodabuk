@@ -82055,6 +82055,10 @@
       {
         "lang": "english",
         "text": "a sentence (a group of words)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frazo, prepozicio"
       }
     ]
   },
@@ -82066,6 +82070,10 @@
       {
         "lang": "english",
         "text": "an assertion, a statement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "aserto"
       }
     ]
   },
