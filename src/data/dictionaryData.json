@@ -43872,6 +43872,51 @@
     ]
   },
   {
+    "word": "lägüptän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "egypt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "egiptio"
+      }
+    ]
+  },
+  {
+    "word": "lägüptänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an egyptian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "egipto"
+      }
+    ]
+  },
+  {
+    "word": "lägüptänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "egyptian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "egipta"
+      }
+    ]
+  },
+  {
     "word": "läkön",
     "lang": "volapuk",
     "category": "v.",
@@ -82085,6 +82130,10 @@
       {
         "lang": "english",
         "text": "a paragraph"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alineo"
       }
     ]
   },
