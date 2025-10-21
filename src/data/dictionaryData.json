@@ -43917,13 +43917,47 @@
     ]
   },
   {
-    "word": "läkön",
+    "word": "läk",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to lick"
+        "text": "(action of) lapping, licking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lekado"
+      }
+    ]
+  },
+  {
+    "word": "läkön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lick, to lap up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "leki"
+      }
+    ]
+  },
+  {
+    "word": "läktor",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a post as lector (univeristy, religion)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lektoreco"
       }
     ]
   },
