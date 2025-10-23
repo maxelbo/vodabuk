@@ -43962,6 +43962,21 @@
     ]
   },
   {
+    "word": "läktoran",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a lector (univeristy, religion)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lektoro"
+      }
+    ]
+  },
+  {
     "word": "läl",
     "lang": "volapuk",
     "category": "n.",
@@ -44121,17 +44136,6 @@
       {
         "lang": "esperanto",
         "text": "tereno"
-      }
-    ]
-  },
-  {
-    "word": "länem",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a nickname"
       }
     ]
   },
@@ -62387,6 +62391,26 @@
       {
         "lang": "english",
         "text": "a name"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nomo"
+      }
+    ]
+  },
+    {
+    "word": "länem",
+    "lang": "volapuk",
+    "roots": ["nem"],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a nickname"
+      },
+      {
+        "lang": "esperanto",
+        "text": "alnomo, kromnomo"
       }
     ]
   },
@@ -62398,6 +62422,10 @@
       {
         "lang": "english",
         "text": "a signature"
+      },
+      {
+        "lang": "esperanto",
+        "text": "subskribo"
       }
     ]
   },
