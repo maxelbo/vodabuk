@@ -57719,13 +57719,17 @@
     ]
   },
   {
-    "word": "misekim",
+    "word": "miser",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "defeatism"
+        "text": "mercy, compassion, kind-heartedness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mizero, kompato"
       }
     ]
   },
@@ -57736,18 +57740,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "wretched"
+        "text": "wretched, poor, merciful"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mizera, kompata"
       }
     ]
   },
   {
-    "word": "mismelön",
+    "word": "miserön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to stink"
+        "text": "to have mercy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kompati"
       }
     ]
   },
@@ -62426,17 +62438,6 @@
       {
         "lang": "esperanto",
         "text": "subskribo"
-      }
-    ]
-  },
-  {
-    "word": "nemisedik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "unmistakeable"
       }
     ]
   },
@@ -81535,6 +81536,21 @@
     ]
   },
   {
+    "word": "misekim",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "defeatism"
+      },
+      {
+        "lang": "esperanto",
+        "text": "defetism"
+      }
+    ]
+  },
+  {
     "word": "sekaliegik",
     "lang": "volapuk",
     "category": "adj.",
@@ -84548,6 +84564,51 @@
       {
         "lang": "english",
         "text": "(ÄS) to smell (of)"
+      }
+    ]
+  },
+  {
+    "word": "mismel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a fetor, a stench, a stink, an odor, a bad smell"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fetoro, haladzo, miasmo"
+      }
+    ]
+  },
+  {
+    "word": "mismelik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fetid, malodorous, stinky, bad-smelling"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fetora, haladza, malbonodora"
+      }
+    ]
+  },
+  {
+    "word": "mismelön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stink"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fetori, malbonodori, stinki"
       }
     ]
   },
