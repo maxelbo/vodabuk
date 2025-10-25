@@ -84615,11 +84615,30 @@
   {
     "word": "smetön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to melt, to thaw"
+        "text": "to melt itself, to thaw"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fandiĝi"
+      }
+    ]
+  },
+  {
+    "word": "smif",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "emery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "smirgo"
       }
     ]
   },
@@ -84631,6 +84650,10 @@
       {
         "lang": "english",
         "text": "laughter"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rido"
       }
     ]
   },
