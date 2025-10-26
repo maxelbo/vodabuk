@@ -84643,6 +84643,21 @@
     ]
   },
   {
+    "word": "smifogleinön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to smooth with emery"
+      },
+      {
+        "lang": "esperanto",
+        "text": "smirgigi"
+      }
+    ]
+  },
+  {
     "word": "smil",
     "lang": "volapuk",
     "category": "n.",
@@ -84658,13 +84673,17 @@
     ]
   },
   {
-    "word": "smilarorül",
+    "word": "smilan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a burst of laughter"
+        "text": "a laughing person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ridanto"
       }
     ]
   },
@@ -84676,6 +84695,21 @@
       {
         "lang": "english",
         "text": "a smile"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rideto"
+      }
+    ]
+  },
+  {
+    "word": "smilarorül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a burst of laughter"
       }
     ]
   },
