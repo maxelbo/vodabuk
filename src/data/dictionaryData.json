@@ -84688,6 +84688,27 @@
     ]
   },
   {
+    "word": "smilön (dö)",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to laugh (at)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ridi (pri)"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "esperanto",
+        "text": "Smilön nelaodiko = To chuckle."
+      }
+    ]
+  },
+  {
     "word": "smilil",
     "lang": "volapuk",
     "category": "n.",
@@ -84703,6 +84724,21 @@
     ]
   },
   {
+    "word": "smililön (dö)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to smile (about)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "rideti (pri)"
+      }
+    ]
+  },
+  {
     "word": "smilarorül",
     "lang": "volapuk",
     "category": "n.",
@@ -84714,17 +84750,6 @@
     ]
   },
   {
-    "word": "smililön (dö)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to smile (about)"
-      }
-    ]
-  },
-  {
     "word": "smilöfik",
     "lang": "volapuk",
     "category": "adj.",
@@ -84732,28 +84757,10 @@
       {
         "lang": "english",
         "text": "ridiculous"
-      }
-    ]
-  },
-  {
-    "word": "smilön (dö)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
+      },
       {
-        "lang": "english",
-        "text": "to laugh (at)"
-      }
-    ]
-  },
-  {
-    "word": "smilön nelaodiko",
-    "lang": "volapuk",
-    "category": "v. phr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to chuckle"
+        "lang": "esperanto",
+        "text": "ridinda"
       }
     ]
   },
