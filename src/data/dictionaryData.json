@@ -84765,6 +84765,21 @@
     ]
   },
   {
+    "word": "smit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "forging"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forĝo"
+      }
+    ]
+  },
+  {
     "word": "smitan",
     "lang": "volapuk",
     "category": "n.",
@@ -84772,17 +84787,25 @@
       {
         "lang": "english",
         "text": "a blacksmith, a smith"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forĝisto"
       }
     ]
   },
   {
     "word": "smitön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to forge"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forĝi"
       }
     ]
   },
