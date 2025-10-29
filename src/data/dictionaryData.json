@@ -84810,13 +84810,47 @@
     ]
   },
   {
-    "word": "smivön",
+    "word": "smiv",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to lubricate, to smear"
+        "text": "grease, lubricant"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝmiraĵo"
+      }
+    ]
+  },
+  {
+    "word": "smivam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "greasing, lubricating"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝmirado"
+      }
+    ]
+  },
+  {
+    "word": "smivön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to lubricate, to smear, to grease, to oil"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝmiri"
       }
     ]
   },
