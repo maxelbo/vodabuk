@@ -84892,28 +84892,65 @@
       {
         "lang": "english",
         "text": "smoke"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fumo"
       }
     ]
   },
   {
     "word": "smokön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to smoke"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fumi"
       }
     ]
   },
   {
     "word": "smökön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to smoke (tobacco)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fumi"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Smökön zigari= To smoke a cigar."
+      },
+      {
+        "lang": "esperanto",
+        "text": "Smökön zigari= Fumi cigaron."
+      }
+    ]
+  },
+  {
+    "word": "smökacem",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a smoke room"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fumejo"
       }
     ]
   },
