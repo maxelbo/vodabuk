@@ -81193,11 +81193,30 @@
   {
     "word": "sedön",
     "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to send, to consign"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sendi"
+      }
+    ]
+  },
+  {
+    "word": "sesedön",
+    "lang": "volapuk",
     "category": "v.",
     "translations": [
       {
         "lang": "english",
-        "text": "to send"
+        "text": "to broadcast"
+      },
+      {
+        "lang": "esperanto",
+        "text": "radiodissendi"
       }
     ]
   },
@@ -82123,17 +82142,6 @@
       {
         "lang": "esperanto",
         "text": "serafa"
-      }
-    ]
-  },
-  {
-    "word": "sesedön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to broadcast"
       }
     ]
   },
@@ -84887,15 +84895,30 @@
   {
     "word": "smok",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "smoke"
+        "text": "to smoke"
       },
       {
         "lang": "esperanto",
-        "text": "fumo"
+        "text": "fumi"
+      }
+    ]
+  },
+  {
+    "word": "smokik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "smoky"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fuma"
       }
     ]
   },
@@ -84915,6 +84938,21 @@
     ]
   },
   {
+    "word": "smök",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "(act of) smoking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fumado"
+      }
+    ]
+  },
+  {
     "word": "smökön",
     "lang": "volapuk",
     "category": "tr.",
@@ -84925,7 +84963,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "fumi"
+        "text": "fumi (ion)"
       }
     ],
     "examples": [
@@ -84946,7 +84984,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a smoke room"
+        "text": "a smoking room"
       },
       {
         "lang": "esperanto",
