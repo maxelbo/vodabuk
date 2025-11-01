@@ -26109,17 +26109,6 @@
     ]
   },
   {
-    "word": "gesedön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to return, to send back"
-      }
-    ]
-  },
-  {
     "word": "get",
     "lang": "volapuk",
     "category": "n.",
@@ -51450,17 +51439,6 @@
       {
         "lang": "english",
         "text": "a transcription"
-      }
-    ]
-  },
-  {
-    "word": "lovesedön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to transmit"
       }
     ]
   },
@@ -81206,6 +81184,36 @@
     ]
   },
   {
+    "word": "sedäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a delegate, an envoy, a messenger"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sendito"
+      }
+    ]
+  },
+  {
+    "word": "lesedäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a missionary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "misionario"
+      }
+    ]
+  },
+  {
     "word": "sesedön",
     "lang": "volapuk",
     "category": "v.",
@@ -81217,6 +81225,32 @@
       {
         "lang": "esperanto",
         "text": "radiodissendi"
+      }
+    ]
+  },
+  {
+    "word": "gesedön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to return, to send back"
+      },
+      {
+        "lang": "esperanto",
+        "text": "resendi"
+      }
+    ]
+  },
+  {
+    "word": "lovesedön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to transmit"
       }
     ]
   },
