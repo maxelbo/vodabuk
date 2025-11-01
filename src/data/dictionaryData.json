@@ -14669,17 +14669,6 @@
     ]
   },
   {
-    "word": "desedan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a sender"
-      }
-    ]
-  },
-  {
     "word": "desin",
     "lang": "volapuk",
     "category": "n.",
@@ -81147,24 +81136,32 @@
     ]
   },
   {
-    "word": "sedanef",
+    "word": "sedan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "an expedition"
+        "text": "a consigner, a sender"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sendanto, sendinto"
       }
     ]
   },
   {
-    "word": "sedit",
+    "word": "sedanunan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a departure, a resignation"
+        "text": "an emissary"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sendita mesaĝisto, heroldo, kuriero"
       }
     ]
   },
@@ -81251,6 +81248,62 @@
       {
         "lang": "english",
         "text": "to transmit"
+      }
+    ]
+  },
+  {
+    "word": "sedit",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a departure, a resignation"
+      }
+    ]
+  },
+  {
+    "word": "sedot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a consignment, a shipment, a sent good"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sendaĵo"
+      }
+    ]
+  },
+  {
+    "word": "desed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dispatching (the start of the action)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elsendo"
+      }
+    ]
+  },
+  {
+    "word": "desedan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dispatcher"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elsendinto, elsendanto"
       }
     ]
   },
