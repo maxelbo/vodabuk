@@ -81314,7 +81314,41 @@
     "translations": [
       {
         "lang": "english",
-        "text": "safety"
+        "text": "safety, security"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekureco"
+      }
+    ]
+  },
+  {
+    "word": "sefik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "safe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekura"
+      }
+    ]
+  },
+  {
+    "word": "sefön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be safe"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti sekura"
       }
     ]
   },
@@ -81326,6 +81360,10 @@
       {
         "lang": "english",
         "text": "a safety-pin"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekureca pinglo"
       }
     ]
   },
@@ -81359,17 +81397,6 @@
       {
         "lang": "english",
         "text": "a place of safety, a refuge"
-      }
-    ]
-  },
-  {
-    "word": "sefik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "safe"
       }
     ]
   },
