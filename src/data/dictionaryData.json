@@ -18829,6 +18829,17 @@
     ]
   },
   {
+    "word": "däfalot",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rubbish"
+      }
+    ]
+  },
+  {
     "word": "defal",
     "lang": "volapuk",
     "category": "n.",
@@ -18855,6 +18866,51 @@
       {
         "lang": "esperanto",
         "text": "defali"
+      }
+    ]
+  },
+  {
+    "word": "sefal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "falling-out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elfalo"
+      }
+    ]
+  },
+  {
+    "word": "sefalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall out"
+      },
+      {
+        "lang": "esperanto",
+        "text": "elfali"
+      }
+    ]
+  },
+  {
+    "word": "seafalön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to fall to pieces"
+      },
+      {
+        "lang": "esperanto",
+        "text": "disfali"
       }
     ]
   },
@@ -18945,17 +19001,6 @@
       {
         "lang": "esperanto",
         "text": "invadi"
-      }
-    ]
-  },
-  {
-    "word": "däfalot",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "rubbish"
       }
     ]
   },
@@ -81386,6 +81431,10 @@
       {
         "lang": "english",
         "text": "a safety belt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekurzono"
       }
     ]
   },
