@@ -19117,6 +19117,36 @@
     ]
   },
   {
+    "word": "fan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "capture"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaptado"
+      }
+    ]
+  },
+  {
+    "word": "fanan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a captor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kaptisto"
+      }
+    ]
+  },
+  {
     "word": "fanapled",
     "lang": "volapuk",
     "category": "n.",
