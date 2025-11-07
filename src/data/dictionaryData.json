@@ -18918,7 +18918,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to fall to pieces"
+        "text": "to fall apart, to fall to pieces"
       },
       {
         "lang": "esperanto",
@@ -19143,6 +19143,36 @@
       {
         "lang": "esperanto",
         "text": "kaptisto"
+      }
+    ]
+  },
+  {
+    "word": "fanäb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an arrestee, a captive, a detainee, a prisoner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberulo, kaptito"
+      }
+    ]
+  },
+  {
+    "word": "fanäbik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "captive"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mallibera"
       }
     ]
   },
@@ -81098,17 +81128,6 @@
       {
         "lang": "english",
         "text": "a seat"
-      }
-    ]
-  },
-  {
-    "word": "seafalön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to fall apart"
       }
     ]
   },
