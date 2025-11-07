@@ -19177,6 +19177,36 @@
     ]
   },
   {
+    "word": "fanäbön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be imprisioned"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberi, esti kaptita"
+      }
+    ]
+  },
+  {
+    "word": "fanäbikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be captured, to become imprisioned"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberiĝi, kaptiĝi"
+      }
+    ]
+  },
+  {
     "word": "fanapled",
     "lang": "volapuk",
     "category": "n.",
