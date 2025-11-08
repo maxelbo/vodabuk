@@ -14,14 +14,38 @@
       }
     ],
     "examples": [
-      { "lang": "english", "text": "A düp = Per hour" },
-      { "lang": "english", "text": "A dolars tel = At 2 dollars each" },
-      { "lang": "english", "text": "Balats tel a pänids kil = Two items at threepence." },
-      { "lang": "english", "text": "Pouns deg a pösod bal = Ten pounds per person." },
-      { "lang": "english", "text": "A mans kil = Per three men." },
-      { "lang": "english", "text": "A del = Per day." },
-      { "lang": "english", "text": "Ai a step = Step by step." },
-      { "lang": "english", "text": "Selön a met = To sell by the metre." }
+      {
+        "lang": "english",
+        "text": "A düp = Per hour"
+      },
+      {
+        "lang": "english",
+        "text": "A dolars tel = At 2 dollars each"
+      },
+      {
+        "lang": "english",
+        "text": "Balats tel a pänids kil = Two items at threepence."
+      },
+      {
+        "lang": "english",
+        "text": "Pouns deg a pösod bal = Ten pounds per person."
+      },
+      {
+        "lang": "english",
+        "text": "A mans kil = Per three men."
+      },
+      {
+        "lang": "english",
+        "text": "A del = Per day."
+      },
+      {
+        "lang": "english",
+        "text": "Ai a step = Step by step."
+      },
+      {
+        "lang": "english",
+        "text": "Selön a met = To sell by the metre."
+      }
     ]
   },
   {
@@ -92,7 +116,9 @@
   },
   {
     "word": "adät",
-    "roots": ["dät"],
+    "roots": [
+      "dät"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -126,7 +152,9 @@
   },
   {
     "word": "adel",
-    "roots": ["del"],
+    "roots": [
+      "del"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -142,7 +170,9 @@
   },
   {
     "word": "adelo",
-    "roots": ["del"],
+    "roots": [
+      "del"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -158,7 +188,9 @@
   },
   {
     "word": "adelao",
-    "roots": ["del"],
+    "roots": [
+      "del"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -224,7 +256,9 @@
   },
   {
     "word": "agödo",
-    "roots": ["göd"],
+    "roots": [
+      "göd"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -307,7 +341,10 @@
   },
   {
     "word": "aidelik",
-    "roots": ["ai", "del"],
+    "roots": [
+      "ai",
+      "del"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -333,7 +370,10 @@
   },
   {
     "word": "aipo",
-    "roots": ["ai", "po"],
+    "roots": [
+      "ai",
+      "po"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -349,7 +389,10 @@
   },
   {
     "word": "aipos",
-    "roots": ["ai", "po"],
+    "roots": [
+      "ai",
+      "po"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -371,7 +414,9 @@
   },
   {
     "word": "al",
-    "roots": ["al"],
+    "roots": [
+      "al"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -387,7 +432,9 @@
   },
   {
     "word": "alan",
-    "roots": ["al"],
+    "roots": [
+      "al"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -403,7 +450,10 @@
   },
   {
     "word": "aldelik",
-    "roots": ["al", "del"],
+    "roots": [
+      "al",
+      "del"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -419,7 +469,9 @@
   },
   {
     "word": "alik",
-    "roots": ["al"],
+    "roots": [
+      "al"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -450,7 +502,9 @@
   },
   {
     "word": "alna",
-    "roots": ["al"],
+    "roots": [
+      "al"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -466,7 +520,9 @@
   },
   {
     "word": "alo",
-    "roots": ["al"],
+    "roots": [
+      "al"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -482,7 +538,10 @@
   },
   {
     "word": "alseimik",
-    "roots": ["al", "seim"],
+    "roots": [
+      "al",
+      "seim"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -498,7 +557,10 @@
   },
   {
     "word": "alyelik",
-    "roots": ["al", "yel"],
+    "roots": [
+      "al",
+      "yel"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -514,7 +576,9 @@
   },
   {
     "word": "aneito",
-    "roots": ["neit"],
+    "roots": [
+      "neit"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -546,7 +610,9 @@
   {
     "word": "anu",
     "lang": "volapuk",
-    "roots": ["nu"],
+    "roots": [
+      "nu"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -562,7 +628,11 @@
   {
     "word": "aposzedelo",
     "lang": "volapuk",
-    "roots": ["pos", "ze", "del"],
+    "roots": [
+      "pos",
+      "ze",
+      "del"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -578,7 +648,9 @@
   {
     "word": "as",
     "lang": "volapuk",
-    "roots": ["as"],
+    "roots": [
+      "as"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -594,7 +666,9 @@
   {
     "word": "asä",
     "lang": "volapuk",
-    "roots": ["as"],
+    "roots": [
+      "as"
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -610,7 +684,9 @@
   {
     "word": "asoaro",
     "lang": "volapuk",
-    "roots": ["soar"],
+    "roots": [
+      "soar"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -626,7 +702,9 @@
   {
     "word": "at",
     "lang": "volapuk",
-    "roots": ["at"],
+    "roots": [
+      "at"
+    ],
     "category": "dem. pron.",
     "translations": [
       {
@@ -652,7 +730,9 @@
   {
     "word": "atna",
     "lang": "volapuk",
-    "roots": ["at"],
+    "roots": [
+      "at"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -668,7 +748,9 @@
   {
     "word": "atimo",
     "lang": "volapuk",
-    "roots": ["tim"],
+    "roots": [
+      "tim"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -684,7 +766,9 @@
   {
     "word": "atos",
     "lang": "volapuk",
-    "roots": ["at"],
+    "roots": [
+      "at"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -700,7 +784,9 @@
   {
     "word": "ä",
     "lang": "volapuk",
-    "roots": ["dead"],
+    "roots": [
+      "dead"
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -716,7 +802,9 @@
   {
     "word": "ädeadöl",
     "lang": "volapuk",
-    "roots": ["dead"],
+    "roots": [
+      "dead"
+    ],
     "category": "act. part.",
     "translations": [
       {
@@ -732,7 +820,9 @@
   {
     "word": "ädelo",
     "lang": "volapuk",
-    "roots": ["del"],
+    "roots": [
+      "del"
+    ],
     "category": "adj.",
     "translations": [
       {
@@ -773,7 +863,9 @@
   {
     "word": "äneito",
     "lang": "volapuk",
-    "roots": ["neit"],
+    "roots": [
+      "neit"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -789,7 +881,9 @@
   {
     "word": "änu",
     "lang": "volapuk",
-    "roots": ["nu"],
+    "roots": [
+      "nu"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -805,7 +899,9 @@
   {
     "word": "äs",
     "lang": "volapuk",
-    "roots": ["äs"],
+    "roots": [
+      "äs"
+    ],
     "category": "prep.",
     "translations": [
       {
@@ -821,7 +917,9 @@
   {
     "word": "äsä",
     "lang": "volapuk",
-    "roots": ["äs"],
+    "roots": [
+      "äs"
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -843,7 +941,9 @@
   {
     "word": "äsi",
     "lang": "volapuk",
-    "roots": ["äs"],
+    "roots": [
+      "äs"
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -859,7 +959,9 @@
   {
     "word": "äsoaro",
     "lang": "volapuk",
-    "roots": ["soar"],
+    "roots": [
+      "soar"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -875,7 +977,10 @@
   {
     "word": "äsva",
     "lang": "volapuk",
-    "roots": ["äs", "va"],
+    "roots": [
+      "äs",
+      "va"
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -891,7 +996,10 @@
   {
     "word": "äsvo",
     "lang": "volapuk",
-    "roots": ["äs", "vo"],
+    "roots": [
+      "äs",
+      "vo"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -906,7 +1014,9 @@
   },
   {
     "word": "ävigo",
-    "roots": ["vig"],
+    "roots": [
+      "vig"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -922,7 +1032,9 @@
   },
   {
     "word": "äyelik",
-    "roots": ["yel"],
+    "roots": [
+      "yel"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -938,7 +1050,9 @@
   },
   {
     "word": "äyelo",
-    "roots": ["yel"],
+    "roots": [
+      "yel"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -954,7 +1068,9 @@
   },
   {
     "word": "ba",
-    "roots": ["ba"],
+    "roots": [
+      "ba"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -1015,7 +1131,9 @@
   },
   {
     "word": "babülonän",
-    "roots": ["babŭlon"],
+    "roots": [
+      "babŭlon"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1031,7 +1149,9 @@
   },
   {
     "word": "bad",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1047,7 +1167,9 @@
   },
   {
     "word": "badäl",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1063,7 +1185,9 @@
   },
   {
     "word": "badälik",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1079,7 +1203,9 @@
   },
   {
     "word": "badik",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1095,7 +1221,9 @@
   },
   {
     "word": "badikos",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1111,7 +1239,9 @@
   },
   {
     "word": "badikön",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -1127,7 +1257,9 @@
   },
   {
     "word": "badikum",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1143,7 +1275,9 @@
   },
   {
     "word": "badikumo",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -1159,7 +1293,9 @@
   },
   {
     "word": "badikumön",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1175,7 +1311,9 @@
   },
   {
     "word": "badim",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1191,7 +1329,9 @@
   },
   {
     "word": "badiman",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1203,7 +1343,9 @@
   },
   {
     "word": "badimik",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1219,7 +1361,10 @@
   },
   {
     "word": "badinilud",
-    "roots": ["bad", "nilud"],
+    "roots": [
+      "bad",
+      "nilud"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1235,7 +1380,10 @@
   },
   {
     "word": "badiniludön (tefü)",
-    "roots": ["bad", "nilud"],
+    "roots": [
+      "bad",
+      "nilud"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1266,7 +1414,10 @@
   },
   {
     "word": "badocedön",
-    "roots": ["bad", "ced"],
+    "roots": [
+      "bad",
+      "ced"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -1282,7 +1433,9 @@
   },
   {
     "word": "badöf",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1298,7 +1451,10 @@
   },
   {
     "word": "badöfafredik",
-    "roots": ["bad", "fred"],
+    "roots": [
+      "bad",
+      "fred"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1314,7 +1470,9 @@
   },
   {
     "word": "badöfil",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1330,7 +1488,9 @@
   },
   {
     "word": "badükön",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -1346,7 +1506,9 @@
   },
   {
     "word": "badükumam",
-    "roots": ["bad"],
+    "roots": [
+      "bad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1362,7 +1524,9 @@
   },
   {
     "word": "bafod",
-    "roots": ["bafod"],
+    "roots": [
+      "bafod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1378,7 +1542,9 @@
   },
   {
     "word": "bagaf",
-    "roots": ["bagaf"],
+    "roots": [
+      "bagaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1394,7 +1560,9 @@
   },
   {
     "word": "bai",
-    "roots": ["bai"],
+    "roots": [
+      "bai"
+    ],
     "lang": "volapuk",
     "category": "prep.",
     "translations": [
@@ -1410,7 +1578,9 @@
   },
   {
     "word": "baiädiko",
-    "roots": ["bai"],
+    "roots": [
+      "bai"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -1422,7 +1592,9 @@
   },
   {
     "word": "baiädön (bai)",
-    "roots": ["bai"],
+    "roots": [
+      "bai"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1438,7 +1610,10 @@
   },
   {
     "word": "baicedön (ko)",
-    "roots": ["bai", "ced"],
+    "roots": [
+      "bai",
+      "ced"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1454,7 +1629,9 @@
   },
   {
     "word": "baik",
-    "roots": ["ba"],
+    "roots": [
+      "ba"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1470,7 +1647,9 @@
   },
   {
     "word": "baiko",
-    "roots": ["ba"],
+    "roots": [
+      "ba"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -1486,7 +1665,9 @@
   },
   {
     "word": "bailön",
-    "roots": ["bail"],
+    "roots": [
+      "bail"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1502,7 +1683,9 @@
   },
   {
     "word": "baiodön (ko)",
-    "roots": ["bai"],
+    "roots": [
+      "bai"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1518,7 +1701,10 @@
   },
   {
     "word": "baisenäl",
-    "roots": ["bai", "sen"],
+    "roots": [
+      "bai",
+      "sen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1534,7 +1720,10 @@
   },
   {
     "word": "baitimädik",
-    "roots": ["bai", "tim"],
+    "roots": [
+      "bai",
+      "tim"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1550,7 +1739,10 @@
   },
   {
     "word": "baitonav",
-    "roots": ["bai", "ton"],
+    "roots": [
+      "bai",
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1566,7 +1758,10 @@
   },
   {
     "word": "baitonik",
-    "roots": ["bai", "ton"],
+    "roots": [
+      "bai",
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1582,7 +1777,10 @@
   },
   {
     "word": "baitonükön",
-    "roots": ["bai", "ton"],
+    "roots": [
+      "bai",
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1598,7 +1796,10 @@
   },
   {
     "word": "baivögön (bai, ko)",
-    "roots": ["bai", "vög"],
+    "roots": [
+      "bai",
+      "vög"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -1614,7 +1815,9 @@
   },
   {
     "word": "bakan",
-    "roots": ["bak"],
+    "roots": [
+      "bak"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1630,7 +1833,10 @@
   },
   {
     "word": "bakaston",
-    "roots": ["bak", "ston"],
+    "roots": [
+      "bak",
+      "ston"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1646,7 +1852,9 @@
   },
   {
     "word": "baköp",
-    "roots": ["bak"],
+    "roots": [
+      "bak"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1662,7 +1870,9 @@
   },
   {
     "word": "bakter",
-    "roots": ["bakter"],
+    "roots": [
+      "bakter"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1678,7 +1888,9 @@
   },
   {
     "word": "bakterav",
-    "roots": ["bakter"],
+    "roots": [
+      "bakter"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1694,7 +1906,9 @@
   },
   {
     "word": "bakud",
-    "roots": ["bakud"],
+    "roots": [
+      "bakud"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1710,7 +1924,9 @@
   },
   {
     "word": "bakun",
-    "roots": ["bakun"],
+    "roots": [
+      "bakun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1732,7 +1948,9 @@
   },
   {
     "word": "bal",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "num.",
     "translations": [
@@ -1754,7 +1972,9 @@
   },
   {
     "word": "balan",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1770,7 +1990,9 @@
   },
   {
     "word": "balat",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1786,7 +2008,9 @@
   },
   {
     "word": "balatik",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1802,7 +2026,9 @@
   },
   {
     "word": "baläd",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1824,7 +2050,9 @@
   },
   {
     "word": "balädam",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "g.",
     "translations": [
@@ -1840,7 +2068,9 @@
   },
   {
     "word": "balädik",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -1856,7 +2086,9 @@
   },
   {
     "word": "balädikam",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "g.",
     "translations": [
@@ -1878,7 +2110,9 @@
   },
   {
     "word": "balädikön (ko)",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -1894,7 +2128,9 @@
   },
   {
     "word": "balädü",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "prep.",
     "translations": [
@@ -1910,7 +2146,9 @@
   },
   {
     "word": "balädükön",
-    "roots": ["baläd"],
+    "roots": [
+      "baläd"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -1926,7 +2164,9 @@
   },
   {
     "word": "balät",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1957,7 +2197,10 @@
   },
   {
     "word": "balhon",
-    "roots": ["bal", "hon"],
+    "roots": [
+      "bal",
+      "hon"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1973,7 +2216,9 @@
   },
   {
     "word": "balib",
-    "roots": ["balib"],
+    "roots": [
+      "balib"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -1989,7 +2234,9 @@
   },
   {
     "word": "balibijeifan",
-    "roots": ["balib"],
+    "roots": [
+      "balib"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2005,7 +2252,9 @@
   },
   {
     "word": "balibik",
-    "roots": ["balib"],
+    "roots": [
+      "balib"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2021,7 +2270,9 @@
   },
   {
     "word": "balibön",
-    "roots": ["balib"],
+    "roots": [
+      "balib"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -2037,7 +2288,9 @@
   },
   {
     "word": "balid",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2049,7 +2302,9 @@
   },
   {
     "word": "balidan",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2061,7 +2316,10 @@
   },
   {
     "word": "balidbitid",
-    "roots": ["bal", "bit"],
+    "roots": [
+      "bal",
+      "bit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2073,7 +2331,10 @@
   },
   {
     "word": "balidnaedo",
-    "roots": ["bal", "naed"],
+    "roots": [
+      "bal",
+      "naed"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -2085,7 +2346,9 @@
   },
   {
     "word": "balido",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -2097,7 +2360,9 @@
   },
   {
     "word": "balik",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2109,7 +2374,9 @@
   },
   {
     "word": "balion",
-    "roots": ["balion"],
+    "roots": [
+      "balion"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2121,7 +2388,9 @@
   },
   {
     "word": "balionan",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2133,7 +2402,10 @@
   },
   {
     "word": "ballog",
-    "roots": ["bal", "log"],
+    "roots": [
+      "bal",
+      "log"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2149,7 +2421,10 @@
   },
   {
     "word": "ballogik",
-    "roots": ["bal", "log"],
+    "roots": [
+      "bal",
+      "log"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2165,7 +2440,10 @@
   },
   {
     "word": "ballogan",
-    "roots": ["bal", "log"],
+    "roots": [
+      "bal",
+      "log"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2181,7 +2459,10 @@
   },
   {
     "word": "ballögik",
-    "roots": ["bal", "lög"],
+    "roots": [
+      "bal",
+      "lög"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2197,7 +2478,10 @@
   },
   {
     "word": "ballögädik",
-    "roots": ["bal", "lög"],
+    "roots": [
+      "bal",
+      "lög"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2213,7 +2497,10 @@
   },
   {
     "word": "ballüodik",
-    "roots": ["bal", "lüod"],
+    "roots": [
+      "bal",
+      "lüod"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2225,7 +2512,9 @@
   },
   {
     "word": "balna",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -2237,7 +2526,9 @@
   },
   {
     "word": "balnum",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2253,7 +2544,9 @@
   },
   {
     "word": "balnumik",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2269,7 +2562,9 @@
   },
   {
     "word": "balo",
-    "roots": ["bal"],
+    "roots": [
+      "bal"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -2281,7 +2576,9 @@
   },
   {
     "word": "balsamin",
-    "roots": ["balsam"],
+    "roots": [
+      "balsam"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2293,7 +2590,9 @@
   },
   {
     "word": "balsamükön",
-    "roots": ["balsam"],
+    "roots": [
+      "balsam"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -2305,7 +2604,10 @@
   },
   {
     "word": "balsotik",
-    "roots": ["bal", "sot"],
+    "roots": [
+      "bal",
+      "sot"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2332,7 +2634,9 @@
   },
   {
     "word": "balug",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2348,7 +2652,9 @@
   },
   {
     "word": "balugäl",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2364,7 +2670,9 @@
   },
   {
     "word": "balugälik",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2380,7 +2688,9 @@
   },
   {
     "word": "balugik",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2396,7 +2706,9 @@
   },
   {
     "word": "balugiko",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -2412,7 +2724,9 @@
   },
   {
     "word": "balugöf",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2428,7 +2742,9 @@
   },
   {
     "word": "balugön",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -2444,7 +2760,9 @@
   },
   {
     "word": "balugükön",
-    "roots": ["balug"],
+    "roots": [
+      "balug"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -2600,7 +2918,9 @@
   },
   {
     "word": "bam",
-    "roots": ["bam"],
+    "roots": [
+      "bam"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2616,7 +2936,9 @@
   },
   {
     "word": "bambud",
-    "roots": ["bambud"],
+    "roots": [
+      "bambud"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2662,7 +2984,10 @@
   },
   {
     "word": "banacem",
-    "roots": ["ban", "cem"],
+    "roots": [
+      "ban",
+      "cem"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2693,7 +3018,10 @@
   },
   {
     "word": "banatop",
-    "roots": ["ban", "top"],
+    "roots": [
+      "ban",
+      "top"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2720,7 +3048,9 @@
   },
   {
     "word": "banorem",
-    "roots": ["banorem"],
+    "roots": [
+      "banorem"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2732,7 +3062,9 @@
   },
   {
     "word": "bank",
-    "roots": ["bank"],
+    "roots": [
+      "bank"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2744,7 +3076,10 @@
   },
   {
     "word": "bankazöt",
-    "roots": ["bank", "zöt"],
+    "roots": [
+      "bank",
+      "zöt"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2756,7 +3091,9 @@
   },
   {
     "word": "banön (in)",
-    "roots": ["ban"],
+    "roots": [
+      "ban"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -2768,7 +3105,9 @@
   },
   {
     "word": "banöp",
-    "roots": ["ban"],
+    "roots": [
+      "ban"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2780,7 +3119,9 @@
   },
   {
     "word": "baol",
-    "roots": ["baol"],
+    "roots": [
+      "baol"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2792,7 +3133,9 @@
   },
   {
     "word": "baolet",
-    "roots": ["baol"],
+    "roots": [
+      "baol"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2804,7 +3147,9 @@
   },
   {
     "word": "baonan",
-    "roots": ["baon"],
+    "roots": [
+      "baon"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2816,7 +3161,9 @@
   },
   {
     "word": "bap",
-    "roots": ["bap"],
+    "roots": [
+      "bap"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2832,7 +3179,9 @@
   },
   {
     "word": "bapäl",
-    "roots": ["bap"],
+    "roots": [
+      "bap"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2848,7 +3197,9 @@
   },
   {
     "word": "bapälik",
-    "roots": ["bap"],
+    "roots": [
+      "bap"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2864,7 +3215,9 @@
   },
   {
     "word": "bapik",
-    "roots": ["bap"],
+    "roots": [
+      "bap"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2880,7 +3233,9 @@
   },
   {
     "word": "bapükön",
-    "roots": ["bap"],
+    "roots": [
+      "bap"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -2892,7 +3247,9 @@
   },
   {
     "word": "barak",
-    "roots": ["barak"],
+    "roots": [
+      "barak"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2908,7 +3265,9 @@
   },
   {
     "word": "barbar",
-    "roots": ["barbar"],
+    "roots": [
+      "barbar"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2924,7 +3283,9 @@
   },
   {
     "word": "barbaran",
-    "roots": ["barbar"],
+    "roots": [
+      "barbar"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2940,7 +3301,9 @@
   },
   {
     "word": "barbarik",
-    "roots": ["barbar"],
+    "roots": [
+      "barbar"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -2956,7 +3319,9 @@
   },
   {
     "word": "barbarim",
-    "roots": ["barbar"],
+    "roots": [
+      "barbar"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2972,7 +3337,9 @@
   },
   {
     "word": "barbut",
-    "roots": ["barbut"],
+    "roots": [
+      "barbut"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -2988,7 +3355,9 @@
   },
   {
     "word": "basar",
-    "roots": ["basar"],
+    "roots": [
+      "basar"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3004,7 +3373,9 @@
   },
   {
     "word": "basänt",
-    "roots": ["basänt"],
+    "roots": [
+      "basänt"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3020,7 +3391,9 @@
   },
   {
     "word": "barin",
-    "roots": ["barin"],
+    "roots": [
+      "barin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3036,7 +3409,9 @@
   },
   {
     "word": "basil",
-    "roots": ["basil"],
+    "roots": [
+      "basil"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3052,7 +3427,9 @@
   },
   {
     "word": "basin",
-    "roots": ["basin"],
+    "roots": [
+      "basin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3068,7 +3445,9 @@
   },
   {
     "word": "barikad",
-    "roots": ["barikad"],
+    "roots": [
+      "barikad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3084,7 +3463,9 @@
   },
   {
     "word": "baskül",
-    "roots": ["bask"],
+    "roots": [
+      "bask"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3100,7 +3481,10 @@
   },
   {
     "word": "bataflapön",
-    "roots": ["bat", "flap"],
+    "roots": [
+      "bat",
+      "flap"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -3112,7 +3496,10 @@
   },
   {
     "word": "batatonät",
-    "roots": ["bat", "ton"],
+    "roots": [
+      "bat",
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3124,7 +3511,9 @@
   },
   {
     "word": "batül",
-    "roots": ["bat"],
+    "roots": [
+      "bat"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3136,7 +3525,9 @@
   },
   {
     "word": "bavet",
-    "roots": ["bavet"],
+    "roots": [
+      "bavet"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3152,7 +3543,9 @@
   },
   {
     "word": "bazil",
-    "roots": ["bazil"],
+    "roots": [
+      "bazil"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3168,7 +3561,9 @@
   },
   {
     "word": "bäad",
-    "roots": ["bäad"],
+    "roots": [
+      "bäad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3180,7 +3575,9 @@
   },
   {
     "word": "bäjunik",
-    "roots": ["bäjun"],
+    "roots": [
+      "bäjun"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -3192,7 +3589,9 @@
   },
   {
     "word": "bäk",
-    "roots": ["bäk"],
+    "roots": [
+      "bäk"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3204,7 +3603,10 @@
   },
   {
     "word": "bäkabom",
-    "roots": ["bäk", "bom"],
+    "roots": [
+      "bäk",
+      "bom"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3220,7 +3622,11 @@
   },
   {
     "word": "bäkabomakölüm",
-    "roots": ["bäk", "bom", "kölüm"],
+    "roots": [
+      "bäk",
+      "bom",
+      "kölüm"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3232,7 +3638,10 @@
   },
   {
     "word": "bäkasiem",
-    "roots": ["bäk", "siem"],
+    "roots": [
+      "bäk",
+      "siem"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3244,7 +3653,10 @@
   },
   {
     "word": "bäkavireb",
-    "roots": ["bäk", "vireb"],
+    "roots": [
+      "bäk",
+      "vireb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3256,7 +3668,9 @@
   },
   {
     "word": "bäl",
-    "roots": ["bäl"],
+    "roots": [
+      "bäl"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3268,7 +3682,9 @@
   },
   {
     "word": "bälät",
-    "roots": ["bäl"],
+    "roots": [
+      "bäl"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3280,7 +3696,9 @@
   },
   {
     "word": "bälätöp",
-    "roots": ["bäl"],
+    "roots": [
+      "bäl"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3292,7 +3710,9 @@
   },
   {
     "word": "bäld",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3304,7 +3724,10 @@
   },
   {
     "word": "bäldagravik",
-    "roots": ["bäld", "grav"],
+    "roots": [
+      "bäld",
+      "grav"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -3316,7 +3739,9 @@
   },
   {
     "word": "bäldädan",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3328,7 +3753,9 @@
   },
   {
     "word": "bäldädik",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -3344,7 +3771,9 @@
   },
   {
     "word": "bäldik",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -3356,7 +3785,9 @@
   },
   {
     "word": "bäldikam",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3368,7 +3799,9 @@
   },
   {
     "word": "bäldot",
-    "roots": ["bäld"],
+    "roots": [
+      "bäld"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3380,7 +3813,10 @@
   },
   {
     "word": "bäldotakompenan",
-    "roots": ["bäld", "kompen"],
+    "roots": [
+      "bäld",
+      "kompen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3392,7 +3828,9 @@
   },
   {
     "word": "bälied",
-    "roots": ["bälied"],
+    "roots": [
+      "bälied"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3404,7 +3842,9 @@
   },
   {
     "word": "bälid",
-    "roots": ["bäl"],
+    "roots": [
+      "bäl"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3416,7 +3856,9 @@
   },
   {
     "word": "bälun",
-    "roots": ["bälun"],
+    "roots": [
+      "bälun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3439,7 +3881,9 @@
   },
   {
     "word": "bän",
-    "roots": ["bän"],
+    "roots": [
+      "bän"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3451,7 +3895,9 @@
   },
   {
     "word": "bänsin",
-    "roots": ["bänsin"],
+    "roots": [
+      "bänsin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3463,7 +3909,10 @@
   },
   {
     "word": "bänsinacub",
-    "roots": ["bänsin", "cub"],
+    "roots": [
+      "bänsin",
+      "cub"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3475,7 +3924,10 @@
   },
   {
     "word": "bänsinafegeb",
-    "roots": ["bänsin", "geb"],
+    "roots": [
+      "bänsin",
+      "geb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3487,7 +3939,10 @@
   },
   {
     "word": "bänsinapömöp",
-    "roots": ["bänsin", "pöm"],
+    "roots": [
+      "bänsin",
+      "pöm"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3499,7 +3954,10 @@
   },
   {
     "word": "bänsinatuin",
-    "roots": ["bänsin", "tuin"],
+    "roots": [
+      "bänsin",
+      "tuin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3511,7 +3969,9 @@
   },
   {
     "word": "bänsinöp",
-    "roots": ["bänsin"],
+    "roots": [
+      "bänsin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3523,7 +3983,9 @@
   },
   {
     "word": "bänüpo",
-    "roots": ["bän"],
+    "roots": [
+      "bän"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -3535,7 +3997,9 @@
   },
   {
     "word": "bänyun",
-    "roots": ["bänyun"],
+    "roots": [
+      "bänyun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3547,7 +4011,10 @@
   },
   {
     "word": "bätazib",
-    "roots": ["bät", "zib"],
+    "roots": [
+      "bät",
+      "zib"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3559,7 +4026,9 @@
   },
   {
     "word": "bäset",
-    "roots": ["bäset"],
+    "roots": [
+      "bäset"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3571,7 +4040,9 @@
   },
   {
     "word": "bäsin",
-    "roots": ["bäsin"],
+    "roots": [
+      "bäsin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3608,7 +4079,9 @@
   },
   {
     "word": "beb",
-    "roots": ["beb"],
+    "roots": [
+      "beb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3620,7 +4093,9 @@
   },
   {
     "word": "bebül",
-    "roots": ["beb"],
+    "roots": [
+      "beb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3632,7 +4107,9 @@
   },
   {
     "word": "bed",
-    "roots": ["bed"],
+    "roots": [
+      "bed"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3644,7 +4121,10 @@
   },
   {
     "word": "bedastofed",
-    "roots": ["bed", "stof"],
+    "roots": [
+      "bed",
+      "stof"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3656,7 +4136,9 @@
   },
   {
     "word": "befeilön",
-    "roots": ["feil"],
+    "roots": [
+      "feil"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -3686,7 +4168,9 @@
   },
   {
     "word": "befeit",
-    "roots": ["feit"],
+    "roots": [
+      "feit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3698,7 +4182,9 @@
   },
   {
     "word": "befeitovik",
-    "roots": ["feit"],
+    "roots": [
+      "feit"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -3710,7 +4196,10 @@
   },
   {
     "word": "befoön",
-    "roots": ["be", "fo"],
+    "roots": [
+      "be",
+      "fo"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -3722,7 +4211,9 @@
   },
   {
     "word": "beg",
-    "roots": ["beg"],
+    "roots": [
+      "beg"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3734,7 +4225,9 @@
   },
   {
     "word": "began",
-    "roots": ["beg"],
+    "roots": [
+      "beg"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3746,7 +4239,10 @@
   },
   {
     "word": "begapenäd",
-    "roots": ["beg", "pen"],
+    "roots": [
+      "beg",
+      "pen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3758,7 +4254,9 @@
   },
   {
     "word": "begesag",
-    "roots": ["gesag"],
+    "roots": [
+      "gesag"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3770,7 +4268,9 @@
   },
   {
     "word": "begesagön",
-    "roots": ["gesag"],
+    "roots": [
+      "gesag"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -3786,7 +4286,9 @@
   },
   {
     "word": "begö",
-    "roots": ["beg"],
+    "roots": [
+      "beg"
+    ],
     "lang": "volapuk",
     "category": "interj.",
     "translations": [
@@ -3798,7 +4300,9 @@
   },
   {
     "word": "begön",
-    "roots": ["beg"],
+    "roots": [
+      "beg"
+    ],
     "lang": "volapuk",
     "category": "tr. dat.",
     "translations": [
@@ -3828,7 +4332,9 @@
   },
   {
     "word": "lubeg",
-    "roots": ["begun"],
+    "roots": [
+      "begun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3844,7 +4350,9 @@
   },
   {
     "word": "begun",
-    "roots": ["begun"],
+    "roots": [
+      "begun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3860,7 +4368,9 @@
   },
   {
     "word": "begrämön",
-    "roots": ["gräm"],
+    "roots": [
+      "gräm"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -3876,7 +4386,9 @@
   },
   {
     "word": "bei",
-    "roots": ["bei"],
+    "roots": [
+      "bei"
+    ],
     "lang": "volapuk",
     "category": "prep.",
     "translations": [
@@ -3888,7 +4400,9 @@
   },
   {
     "word": "beian",
-    "roots": ["bei"],
+    "roots": [
+      "bei"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3900,7 +4414,10 @@
   },
   {
     "word": "beigolön",
-    "roots": ["bei", "gol"],
+    "roots": [
+      "bei",
+      "gol"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -3912,7 +4429,9 @@
   },
   {
     "word": "beitil",
-    "roots": ["beit"],
+    "roots": [
+      "beit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -3928,7 +4447,9 @@
   },
   {
     "word": "beitön",
-    "roots": ["beit"],
+    "roots": [
+      "beit"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -3944,7 +4465,10 @@
   },
   {
     "word": "beivegön",
-    "roots": ["bei", "veg"],
+    "roots": [
+      "bei",
+      "veg"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -4767,7 +5291,10 @@
   },
   {
     "word": "bevünetik",
-    "roots": ["bevü", "net"],
+    "roots": [
+      "bevü",
+      "net"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -6577,7 +7104,9 @@
   },
   {
     "word": "bod",
-    "roots": ["bod"],
+    "roots": [
+      "bod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -6589,7 +7118,9 @@
   },
   {
     "word": "bodel",
-    "roots": ["bod"],
+    "roots": [
+      "bod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -6601,7 +7132,9 @@
   },
   {
     "word": "bodiär",
-    "roots": ["bod"],
+    "roots": [
+      "bod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -9998,7 +10531,9 @@
   },
   {
     "word": "lecek",
-    "roots": ["cek"],
+    "roots": [
+      "cek"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -10080,7 +10615,9 @@
   },
   {
     "word": "lecem",
-    "roots": ["cem"],
+    "roots": [
+      "cem"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -11051,7 +11588,9 @@
   },
   {
     "word": "lecop",
-    "roots": ["cop"],
+    "roots": [
+      "cop"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -13907,7 +14446,10 @@
   },
   {
     "word": "deadanagaläd",
-    "roots": ["dead", "gal"],
+    "roots": [
+      "dead",
+      "gal"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19147,6 +19689,21 @@
     ]
   },
   {
+    "word": "fanön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to capture, to catch"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kapti"
+      }
+    ]
+  },
+  {
     "word": "fanäb",
     "lang": "volapuk",
     "category": "n.",
@@ -19202,18 +19759,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "malliberiĝi, kaptiĝi"
+        "text": "malliberiĝi, kaptiĝi, arestiĝi"
       }
     ]
   },
   {
-    "word": "fanapled",
+    "word": "fanäbükön",
     "lang": "volapuk",
-    "category": "n.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "a (game of) 'tig'"
+        "text": "to arrest, to imprison"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberigi"
       }
     ]
   },
@@ -19236,6 +19797,10 @@
       {
         "lang": "english",
         "text": "a prison"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberejo, prizono, karcero, arestejo"
       }
     ]
   },
@@ -19247,17 +19812,25 @@
       {
         "lang": "english",
         "text": "a prisoner"
+      },
+      {
+        "lang": "esperanto",
+        "text": "prizonulo"
       }
     ]
   },
   {
     "word": "fanäböpön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "(to be in) prison"
+        "text": "to imprison, to incarcerate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enprizonigi, enkarcerigi"
       }
     ]
   },
@@ -19273,17 +19846,6 @@
     ]
   },
   {
-    "word": "fanäbükön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to arrest"
-      }
-    ]
-  },
-  {
     "word": "fanädön",
     "lang": "volapuk",
     "category": "v.",
@@ -19295,13 +19857,13 @@
     ]
   },
   {
-    "word": "fanön",
+    "word": "fanapled",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to catch"
+        "text": "a (game of) 'tig'"
       }
     ]
   },
@@ -19406,7 +19968,10 @@
   },
   {
     "word": "fatisasen",
-    "roots": ["fat", "sasen"],
+    "roots": [
+      "fat",
+      "sasen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19418,7 +19983,10 @@
   },
   {
     "word": "fatül kritid",
-    "roots": ["fat", "krit"],
+    "roots": [
+      "fat",
+      "krit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19441,7 +20009,9 @@
   },
   {
     "word": "favik",
-    "roots": ["fav"],
+    "roots": [
+      "fav"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -19453,7 +20023,9 @@
   },
   {
     "word": "favön",
-    "roots": ["fav"],
+    "roots": [
+      "fav"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19471,7 +20043,9 @@
   },
   {
     "word": "fäd",
-    "roots": ["fäd"],
+    "roots": [
+      "fäd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19493,7 +20067,9 @@
   },
   {
     "word": "fädik",
-    "roots": ["fäd"],
+    "roots": [
+      "fäd"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -19505,7 +20081,9 @@
   },
   {
     "word": "fädiko",
-    "roots": ["fäd"],
+    "roots": [
+      "fäd"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -19517,7 +20095,9 @@
   },
   {
     "word": "fädo",
-    "roots": ["fäd"],
+    "roots": [
+      "fäd"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -19529,7 +20109,9 @@
   },
   {
     "word": "fäg",
-    "roots": ["fäg"],
+    "roots": [
+      "fäg"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19545,7 +20127,9 @@
   },
   {
     "word": "fägik",
-    "roots": ["fäg"],
+    "roots": [
+      "fäg"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -19561,7 +20145,9 @@
   },
   {
     "word": "fägiko",
-    "roots": ["fäg"],
+    "roots": [
+      "fäg"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -19573,7 +20159,9 @@
   },
   {
     "word": "fägön",
-    "roots": ["fäg"],
+    "roots": [
+      "fäg"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19585,7 +20173,9 @@
   },
   {
     "word": "fäkam",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19597,7 +20187,9 @@
   },
   {
     "word": "fäkäd",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19609,7 +20201,9 @@
   },
   {
     "word": "fäkädik",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -19636,7 +20230,10 @@
   },
   {
     "word": "fäiknibön",
-    "roots": ["fäi", "knib"],
+    "roots": [
+      "fäi",
+      "knib"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19648,7 +20245,10 @@
   },
   {
     "word": "fäiknopön",
-    "roots": ["fäi", "knop"],
+    "roots": [
+      "fäi",
+      "knop"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19660,7 +20260,10 @@
   },
   {
     "word": "fäiskrubön",
-    "roots": ["fäi", "skrub"],
+    "roots": [
+      "fäi",
+      "skrub"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19672,7 +20275,10 @@
   },
   {
     "word": "fäisteigädön",
-    "roots": ["fäi", "steig"],
+    "roots": [
+      "fäi",
+      "steig"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19684,7 +20290,10 @@
   },
   {
     "word": "fäitanön",
-    "roots": ["fäi", "tan"],
+    "roots": [
+      "fäi",
+      "tan"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -19696,7 +20305,9 @@
   },
   {
     "word": "fäkädiko",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -19708,7 +20319,9 @@
   },
   {
     "word": "fäkädükön",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -19720,7 +20333,9 @@
   },
   {
     "word": "fäk",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -19736,7 +20351,9 @@
   },
   {
     "word": "fäkik",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -19752,7 +20369,9 @@
   },
   {
     "word": "fäkikön",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -19768,7 +20387,9 @@
   },
   {
     "word": "fäkön",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -19784,7 +20405,9 @@
   },
   {
     "word": "fäküköl",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "act. part.",
     "translations": [
@@ -19796,7 +20419,9 @@
   },
   {
     "word": "fäkükön",
-    "roots": ["fäk"],
+    "roots": [
+      "fäk"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -20008,7 +20633,9 @@
   },
   {
     "word": "feablunedön",
-    "roots": ["blun"],
+    "roots": [
+      "blun"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -20024,7 +20651,9 @@
   },
   {
     "word": "feafomöm",
-    "roots": ["fom"],
+    "roots": [
+      "fom"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20040,7 +20669,9 @@
   },
   {
     "word": "feajafön (ad)",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -20052,7 +20683,9 @@
   },
   {
     "word": "fealotädön",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -20064,7 +20697,9 @@
   },
   {
     "word": "feapladön",
-    "roots": ["plad"],
+    "roots": [
+      "plad"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -20080,7 +20715,9 @@
   },
   {
     "word": "featonatam",
-    "roots": ["ton"],
+    "roots": [
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20103,7 +20740,9 @@
   },
   {
     "word": "featonatön",
-    "roots": ["ton"],
+    "roots": [
+      "ton"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -20115,7 +20754,10 @@
   },
   {
     "word": "febakatäd",
-    "roots": ["feb", "katäd"],
+    "roots": [
+      "feb",
+      "katäd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20127,7 +20769,9 @@
   },
   {
     "word": "febäd",
-    "roots": ["feb"],
+    "roots": [
+      "feb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20143,7 +20787,9 @@
   },
   {
     "word": "febod",
-    "roots": ["feb"],
+    "roots": [
+      "feb"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20159,7 +20805,9 @@
   },
   {
     "word": "febul",
-    "roots": ["febul"],
+    "roots": [
+      "febul"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20175,7 +20823,9 @@
   },
   {
     "word": "fed",
-    "roots": ["fed"],
+    "roots": [
+      "fed"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -20187,7 +20837,9 @@
   },
   {
     "word": "fedik",
-    "roots": ["fed"],
+    "roots": [
+      "fed"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -20199,7 +20851,9 @@
   },
   {
     "word": "fedön (ko / ta)",
-    "roots": ["fed"],
+    "roots": [
+      "fed"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -28132,7 +28786,10 @@
   },
   {
     "word": "gredaked",
-    "roots": ["gred", "ked"],
+    "roots": [
+      "gred",
+      "ked"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30642,7 +31299,11 @@
   },
   {
     "word": "italifajenäd",
-    "roots": ["it", "lif", "jen"],
+    "roots": [
+      "it",
+      "lif",
+      "jen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30654,7 +31315,10 @@
   },
   {
     "word": "itfräd",
-    "roots": ["it", "fräd"],
+    "roots": [
+      "it",
+      "fräd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30666,7 +31330,10 @@
   },
   {
     "word": "itjäfidik",
-    "roots": ["it", "jäf"],
+    "roots": [
+      "it",
+      "jäf"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -30682,7 +31349,9 @@
   },
   {
     "word": "ito",
-    "roots": ["it"],
+    "roots": [
+      "it"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -30709,7 +31378,9 @@
   },
   {
     "word": "jaben",
-    "roots": ["jaben"],
+    "roots": [
+      "jaben"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30725,7 +31396,9 @@
   },
   {
     "word": "jad",
-    "roots": ["jad"],
+    "roots": [
+      "jad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30741,7 +31414,10 @@
   },
   {
     "word": "jadamagod",
-    "roots": ["jad", "mog"],
+    "roots": [
+      "jad",
+      "mog"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30757,7 +31433,9 @@
   },
   {
     "word": "jadik",
-    "roots": ["jad"],
+    "roots": [
+      "jad"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -30773,7 +31451,9 @@
   },
   {
     "word": "jadön",
-    "roots": ["jad"],
+    "roots": [
+      "jad"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -30789,7 +31469,9 @@
   },
   {
     "word": "jadot",
-    "roots": ["jad"],
+    "roots": [
+      "jad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30805,7 +31487,9 @@
   },
   {
     "word": "jaf",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30821,7 +31505,9 @@
   },
   {
     "word": "jafäb",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30837,7 +31523,9 @@
   },
   {
     "word": "jafäd",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30853,7 +31541,9 @@
   },
   {
     "word": "jafädön",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -30869,7 +31559,9 @@
   },
   {
     "word": "jafäl",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -30885,7 +31577,9 @@
   },
   {
     "word": "jafiäl",
-    "roots": ["jaf"],
+    "roots": [
+      "jaf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -31901,7 +32595,9 @@
   },
   {
     "word": "jen",
-    "roots": ["jen"],
+    "roots": [
+      "jen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -31917,7 +32613,9 @@
   },
   {
     "word": "jenäd",
-    "roots": ["jen"],
+    "roots": [
+      "jen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -31933,7 +32631,9 @@
   },
   {
     "word": "jenav",
-    "roots": ["jen"],
+    "roots": [
+      "jen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -38632,7 +39332,9 @@
   {
     "word": "takomip",
     "lang": "volapuk",
-    "roots": ["komip"],
+    "roots": [
+      "komip"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -38648,7 +39350,9 @@
   {
     "word": "komit",
     "lang": "volapuk",
-    "roots": ["komit"],
+    "roots": [
+      "komit"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -38664,7 +39368,9 @@
   {
     "word": "komitön",
     "lang": "volapuk",
-    "roots": ["komit"],
+    "roots": [
+      "komit"
+    ],
     "category": "tr.",
     "translations": [
       {
@@ -38680,7 +39386,9 @@
   {
     "word": "komitat",
     "lang": "volapuk",
-    "roots": ["komit"],
+    "roots": [
+      "komit"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -38696,7 +39404,9 @@
   {
     "word": "komitet",
     "lang": "volapuk",
-    "roots": ["komit"],
+    "roots": [
+      "komit"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -40807,7 +41517,9 @@
   },
   {
     "word": "krod",
-    "roots": ["krod"],
+    "roots": [
+      "krod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40823,7 +41535,9 @@
   },
   {
     "word": "krodam",
-    "roots": ["krod"],
+    "roots": [
+      "krod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40839,7 +41553,9 @@
   },
   {
     "word": "krok",
-    "roots": ["krok"],
+    "roots": [
+      "krok"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40855,7 +41571,9 @@
   },
   {
     "word": "krökid",
-    "roots": ["krökid"],
+    "roots": [
+      "krökid"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40871,7 +41589,9 @@
   },
   {
     "word": "krokod",
-    "roots": ["krokod"],
+    "roots": [
+      "krokod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40887,7 +41607,9 @@
   },
   {
     "word": "krokodön",
-    "roots": ["krokod"],
+    "roots": [
+      "krokod"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -40903,7 +41625,9 @@
   },
   {
     "word": "krolig",
-    "roots": ["krolig"],
+    "roots": [
+      "krolig"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40919,7 +41643,9 @@
   },
   {
     "word": "kromosom",
-    "roots": ["kromosom"],
+    "roots": [
+      "kromosom"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40935,7 +41661,9 @@
   },
   {
     "word": "kronam",
-    "roots": ["kron"],
+    "roots": [
+      "kron"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -40951,7 +41679,9 @@
   },
   {
     "word": "kronig",
-    "roots": ["kronig"],
+    "roots": [
+      "kronig"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -41540,7 +42270,9 @@
   },
   {
     "word": "kusadön",
-    "roots": ["kusad"],
+    "roots": [
+      "kusad"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -41552,7 +42284,9 @@
   },
   {
     "word": "kusen",
-    "roots": ["kusen"],
+    "roots": [
+      "kusen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -42383,7 +43117,9 @@
   },
   {
     "word": "ladöfo",
-    "roots": ["lad"],
+    "roots": [
+      "lad"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -44144,7 +44880,10 @@
   },
   {
     "word": "itlänan",
-    "roots": ["it", "län"],
+    "roots": [
+      "it",
+      "län"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -44160,7 +44899,10 @@
   },
   {
     "word": "itlänik",
-    "roots": ["it", "län"],
+    "roots": [
+      "it",
+      "län"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -49186,7 +49928,9 @@
   },
   {
     "word": "belodön",
-    "roots": ["lod"],
+    "roots": [
+      "lod"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -49414,7 +50158,9 @@
   },
   {
     "word": "lofot",
-    "roots": ["lof"],
+    "roots": [
+      "lof"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -49430,7 +50176,9 @@
   },
   {
     "word": "lofüd",
-    "roots": ["lofüd"],
+    "roots": [
+      "lofüd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -49446,7 +50194,9 @@
   },
   {
     "word": "lofüdik",
-    "roots": ["lofüd"],
+    "roots": [
+      "lofüd"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -50555,7 +51305,9 @@
   },
   {
     "word": "lonik",
-    "roots": ["lon"],
+    "roots": [
+      "lon"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -50571,7 +51323,9 @@
   },
   {
     "word": "lono",
-    "roots": ["lon"],
+    "roots": [
+      "lon"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -50587,7 +51341,9 @@
   },
   {
     "word": "talonik",
-    "roots": ["lon"],
+    "roots": [
+      "lon"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -51015,7 +51771,9 @@
   },
   {
     "word": "lot",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51031,7 +51789,9 @@
   },
   {
     "word": "lotan",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51047,7 +51807,9 @@
   },
   {
     "word": "lotön",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -51063,7 +51825,9 @@
   },
   {
     "word": "lotädön",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -51085,7 +51849,9 @@
   },
   {
     "word": "loted",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51101,7 +51867,9 @@
   },
   {
     "word": "lotedön",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -51117,7 +51885,9 @@
   },
   {
     "word": "lotid",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51133,7 +51903,9 @@
   },
   {
     "word": "lotidan",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51149,7 +51921,9 @@
   },
   {
     "word": "lotidiäl",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51165,7 +51939,9 @@
   },
   {
     "word": "lotidiälik",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -51181,7 +51957,9 @@
   },
   {
     "word": "lotidön",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -51197,7 +51975,9 @@
   },
   {
     "word": "lotidäb",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51213,7 +51993,9 @@
   },
   {
     "word": "lotidöp",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -51229,7 +52011,9 @@
   },
   {
     "word": "lotidöpan",
-    "roots": ["lot"],
+    "roots": [
+      "lot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -61188,7 +61972,9 @@
   },
   {
     "word": "neben",
-    "roots": ["ben"],
+    "roots": [
+      "ben"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -61204,7 +61990,9 @@
   },
   {
     "word": "nebenäl",
-    "roots": ["ben"],
+    "roots": [
+      "ben"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -62524,10 +63312,12 @@
       }
     ]
   },
-    {
+  {
     "word": "länem",
     "lang": "volapuk",
-    "roots": ["nem"],
+    "roots": [
+      "nem"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -65992,7 +66782,10 @@
   },
   {
     "word": "nosdum",
-    "roots": ["nos", "dum"],
+    "roots": [
+      "nos",
+      "dum"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -66675,7 +67468,9 @@
   {
     "word": "nulüd",
     "lang": "volapuk",
-    "roots": ["nulüd"],
+    "roots": [
+      "nulüd"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -66691,7 +67486,9 @@
   {
     "word": "nulüdik",
     "lang": "volapuk",
-    "roots": ["nulüd"],
+    "roots": [
+      "nulüd"
+    ],
     "category": "adj.",
     "translations": [
       {
@@ -67393,7 +68190,9 @@
   },
   {
     "word": "nüm",
-    "roots": ["nüm"],
+    "roots": [
+      "nüm"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67405,7 +68204,9 @@
   },
   {
     "word": "nümädön",
-    "roots": ["nüm"],
+    "roots": [
+      "nüm"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -67417,7 +68218,9 @@
   },
   {
     "word": "nümädik",
-    "roots": ["nüm"],
+    "roots": [
+      "nüm"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -67429,7 +68232,9 @@
   },
   {
     "word": "nümfead",
-    "roots": ["nümfaed"],
+    "roots": [
+      "nümfaed"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67441,7 +68246,9 @@
   },
   {
     "word": "nümigön",
-    "roots": ["nümig"],
+    "roots": [
+      "nümig"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -67882,7 +68689,9 @@
   },
   {
     "word": "ok",
-    "roots": ["ok"],
+    "roots": [
+      "ok"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -67894,7 +68703,9 @@
   },
   {
     "word": "okao",
-    "roots": ["ok"],
+    "roots": [
+      "ok"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -67917,7 +68728,10 @@
   },
   {
     "word": "okdugäl",
-    "roots": ["ok", "dug"],
+    "roots": [
+      "ok",
+      "dug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67929,7 +68743,9 @@
   },
   {
     "word": "okiäl",
-    "roots": ["ok"],
+    "roots": [
+      "ok"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67941,7 +68757,10 @@
   },
   {
     "word": "okjelodiäl",
-    "roots": ["ok", "jel"],
+    "roots": [
+      "ok",
+      "jel"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67953,7 +68772,9 @@
   },
   {
     "word": "okik",
-    "roots": ["ok"],
+    "roots": [
+      "ok"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -67965,7 +68786,10 @@
   },
   {
     "word": "okkonfid",
-    "roots": ["ok", "konfid"],
+    "roots": [
+      "ok",
+      "konfid"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67977,7 +68801,10 @@
   },
   {
     "word": "okkusad",
-    "roots": ["ok", "kusad"],
+    "roots": [
+      "ok",
+      "kusad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -67989,7 +68816,10 @@
   },
   {
     "word": "oklied",
-    "roots": ["ok", "lied"],
+    "roots": [
+      "ok",
+      "lied"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68001,7 +68831,10 @@
   },
   {
     "word": "oknämätik",
-    "roots": ["ok", "näm"],
+    "roots": [
+      "ok",
+      "näm"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68013,7 +68846,10 @@
   },
   {
     "word": "oknoäd",
-    "roots": ["ok", "noäd"],
+    "roots": [
+      "ok",
+      "noäd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68036,7 +68872,10 @@
   },
   {
     "word": "okplad",
-    "roots": ["ok", "plad"],
+    "roots": [
+      "ok",
+      "plad"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68048,7 +68887,10 @@
   },
   {
     "word": "okreig",
-    "roots": ["ok", "reig"],
+    "roots": [
+      "ok",
+      "reig"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68060,7 +68902,10 @@
   },
   {
     "word": "okriprod",
-    "roots": ["ok", "riprod"],
+    "roots": [
+      "ok",
+      "riprod"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68072,7 +68917,10 @@
   },
   {
     "word": "oksasen",
-    "roots": ["ok", "sasen"],
+    "roots": [
+      "ok",
+      "sasen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68084,7 +68932,10 @@
   },
   {
     "word": "oksev",
-    "roots": ["ok", "sev"],
+    "roots": [
+      "ok",
+      "sev"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68096,7 +68947,10 @@
   },
   {
     "word": "okseved",
-    "roots": ["ok", "sev"],
+    "roots": [
+      "ok",
+      "sev"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68109,7 +68963,10 @@
   {
     "word": "okskilükam",
     "lang": "volapuk",
-    "roots": ["ok", "skil"],
+    "roots": [
+      "ok",
+      "skil"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -68120,7 +68977,10 @@
   },
   {
     "word": "okstüm",
-    "roots": ["ok", "stüm"],
+    "roots": [
+      "ok",
+      "stüm"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68136,7 +68996,10 @@
   },
   {
     "word": "oktaöfiko",
-    "roots": ["ok", "taöf"],
+    "roots": [
+      "ok",
+      "taöf"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68148,7 +69011,10 @@
   },
   {
     "word": "oktidäb",
-    "roots": ["ok", "tid"],
+    "roots": [
+      "ok",
+      "tid"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68160,7 +69026,9 @@
   },
   {
     "word": "ol",
-    "roots": ["ol"],
+    "roots": [
+      "ol"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68176,7 +69044,9 @@
   },
   {
     "word": "olik",
-    "roots": ["ol"],
+    "roots": [
+      "ol"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68192,7 +69062,9 @@
   },
   {
     "word": "ols",
-    "roots": ["ol"],
+    "roots": [
+      "ol"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68208,7 +69080,9 @@
   },
   {
     "word": "olsik",
-    "roots": ["ol"],
+    "roots": [
+      "ol"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68224,7 +69098,9 @@
   },
   {
     "word": "om",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68240,7 +69116,9 @@
   },
   {
     "word": "omik",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68252,7 +69130,9 @@
   },
   {
     "word": "omo",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "phr.",
     "translations": [
@@ -68264,7 +69144,9 @@
   },
   {
     "word": "oms",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68280,7 +69162,9 @@
   },
   {
     "word": "omsik",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68296,7 +69180,9 @@
   },
   {
     "word": "omso",
-    "roots": ["om"],
+    "roots": [
+      "om"
+    ],
     "lang": "volapuk",
     "category": "phr.",
     "translations": [
@@ -68308,7 +69194,9 @@
   },
   {
     "word": "omulo",
-    "roots": ["mul"],
+    "roots": [
+      "mul"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68324,7 +69212,9 @@
   },
   {
     "word": "on",
-    "roots": ["on"],
+    "roots": [
+      "on"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68340,7 +69230,9 @@
   },
   {
     "word": "oneito",
-    "roots": ["neit"],
+    "roots": [
+      "neit"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68352,7 +69244,9 @@
   },
   {
     "word": "onik",
-    "roots": ["on"],
+    "roots": [
+      "on"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68364,7 +69258,9 @@
   },
   {
     "word": "ons",
-    "roots": ["on"],
+    "roots": [
+      "on"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68376,7 +69272,9 @@
   },
   {
     "word": "onsik",
-    "roots": ["on"],
+    "roots": [
+      "on"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68388,7 +69286,9 @@
   },
   {
     "word": "onu",
-    "roots": ["nu"],
+    "roots": [
+      "nu"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68400,7 +69300,9 @@
   },
   {
     "word": "or",
-    "roots": ["or"],
+    "roots": [
+      "or"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68412,7 +69314,9 @@
   },
   {
     "word": "ors",
-    "roots": ["or"],
+    "roots": [
+      "or"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68424,7 +69328,9 @@
   },
   {
     "word": "os",
-    "roots": ["os"],
+    "roots": [
+      "os"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68436,7 +69342,9 @@
   },
   {
     "word": "osoaro",
-    "roots": ["soar"],
+    "roots": [
+      "soar"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68448,7 +69356,9 @@
   },
   {
     "word": "ot",
-    "roots": ["ot"],
+    "roots": [
+      "ot"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68460,7 +69370,10 @@
   },
   {
     "word": "otcedik",
-    "roots": ["ot", "ced"],
+    "roots": [
+      "ot",
+      "ced"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68472,7 +69385,10 @@
   },
   {
     "word": "otdüpo",
-    "roots": ["ot", "düp"],
+    "roots": [
+      "ot",
+      "düp"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68484,7 +69400,10 @@
   },
   {
     "word": "otgeniälan",
-    "roots": ["ot", "gen"],
+    "roots": [
+      "ot",
+      "gen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -68496,7 +69415,10 @@
   },
   {
     "word": "otmafädo",
-    "roots": ["ot", "maf"],
+    "roots": [
+      "ot",
+      "maf"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68519,7 +69441,9 @@
   },
   {
     "word": "oy",
-    "roots": ["oy"],
+    "roots": [
+      "oy"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68542,7 +69466,9 @@
   },
   {
     "word": "öm",
-    "roots": ["öm"],
+    "roots": [
+      "öm"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68554,7 +69480,9 @@
   },
   {
     "word": "öman",
-    "roots": ["öm"],
+    "roots": [
+      "öm"
+    ],
     "lang": "volapuk",
     "category": "pron.",
     "translations": [
@@ -68566,7 +69494,9 @@
   },
   {
     "word": "ömik",
-    "roots": ["öm"],
+    "roots": [
+      "öm"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68578,7 +69508,9 @@
   },
   {
     "word": "ömna",
-    "roots": ["öm"],
+    "roots": [
+      "öm"
+    ],
     "lang": "volapuk",
     "category": "adv.",
     "translations": [
@@ -68590,7 +69522,9 @@
   },
   {
     "word": "ömnaik",
-    "roots": ["öm"],
+    "roots": [
+      "öm"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68602,7 +69536,10 @@
   },
   {
     "word": "ömsotik",
-    "roots": ["öm", "sot"],
+    "roots": [
+      "öm",
+      "sot"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -68614,7 +69551,9 @@
   },
   {
     "word": "ön",
-    "roots": ["ön"],
+    "roots": [
+      "ön"
+    ],
     "lang": "volapuk",
     "category": "prep.",
     "translations": [
@@ -70396,7 +71335,9 @@
   },
   {
     "word": "penetön",
-    "roots": ["pen"],
+    "roots": [
+      "pen"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -70408,7 +71349,10 @@
   },
   {
     "word": "penikipian",
-    "roots": ["pen", "kip"],
+    "roots": [
+      "pen",
+      "kip"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70442,7 +71386,10 @@
   },
   {
     "word": "penömaselidöp",
-    "roots": ["pen", "sel"],
+    "roots": [
+      "pen",
+      "sel"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70454,7 +71401,9 @@
   },
   {
     "word": "penön",
-    "roots": ["pen"],
+    "roots": [
+      "pen"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -70466,7 +71415,9 @@
   },
   {
     "word": "pensit",
-    "roots": ["pen"],
+    "roots": [
+      "pen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70478,7 +71429,9 @@
   },
   {
     "word": "penul",
-    "roots": ["pen"],
+    "roots": [
+      "pen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70512,7 +71465,9 @@
   },
   {
     "word": "pep",
-    "roots": ["pep"],
+    "roots": [
+      "pep"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70535,7 +71490,9 @@
   },
   {
     "word": "pepiär",
-    "roots": ["pep"],
+    "roots": [
+      "pep"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -70547,7 +71504,9 @@
   },
   {
     "word": "pepun",
-    "roots": ["pepun"],
+    "roots": [
+      "pepun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71241,7 +72200,9 @@
   },
   {
     "word": "plakminep",
-    "roots": ["plakmin"],
+    "roots": [
+      "plakmin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71253,7 +72214,9 @@
   },
   {
     "word": "plakminepafluk",
-    "roots": ["plakmin"],
+    "roots": [
+      "plakmin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71265,7 +72228,9 @@
   },
   {
     "word": "plakön",
-    "roots": ["plak"],
+    "roots": [
+      "plak"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -71277,7 +72242,9 @@
   },
   {
     "word": "plan",
-    "roots": ["plan"],
+    "roots": [
+      "plan"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71289,7 +72256,11 @@
   },
   {
     "word": "planaglätadomil",
-    "roots": ["plan", "glät", "dom"],
+    "roots": [
+      "plan",
+      "glät",
+      "dom"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71301,7 +72272,9 @@
   },
   {
     "word": "planav",
-    "roots": ["plan"],
+    "roots": [
+      "plan"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71313,7 +72286,9 @@
   },
   {
     "word": "planet",
-    "roots": ["planet"],
+    "roots": [
+      "planet"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -71325,7 +72300,9 @@
   },
   {
     "word": "planön",
-    "roots": ["plan"],
+    "roots": [
+      "plan"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -74768,7 +75745,9 @@
   },
   {
     "word": "pub",
-    "roots": ["pub"],
+    "roots": [
+      "pub"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74784,7 +75763,9 @@
   },
   {
     "word": "pubet",
-    "roots": ["pub"],
+    "roots": [
+      "pub"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74800,7 +75781,9 @@
   },
   {
     "word": "pubod",
-    "roots": ["pub"],
+    "roots": [
+      "pub"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74826,7 +75809,9 @@
   },
   {
     "word": "pubön",
-    "roots": ["pub"],
+    "roots": [
+      "pub"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -74872,7 +75857,9 @@
   },
   {
     "word": "pug",
-    "roots": ["pug"],
+    "roots": [
+      "pug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74888,7 +75875,9 @@
   },
   {
     "word": "pugön",
-    "roots": ["pug"],
+    "roots": [
+      "pug"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -74904,7 +75893,9 @@
   },
   {
     "word": "pugöp",
-    "roots": ["pug"],
+    "roots": [
+      "pug"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74935,7 +75926,9 @@
   },
   {
     "word": "puin",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -74951,7 +75944,9 @@
   },
   {
     "word": "puinädik",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -74967,7 +75962,9 @@
   },
   {
     "word": "puinädön",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -74983,7 +75980,9 @@
   },
   {
     "word": "puinik",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -74999,7 +75998,10 @@
   },
   {
     "word": "puinojueg",
-    "roots": ["puin", "jueg"],
+    "roots": [
+      "puin",
+      "jueg"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75015,7 +76017,9 @@
   },
   {
     "word": "puinot",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75031,7 +76035,10 @@
   },
   {
     "word": "puinabok",
-    "roots": ["puin", "bok"],
+    "roots": [
+      "puin",
+      "bok"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75047,7 +76054,9 @@
   },
   {
     "word": "puinön",
-    "roots": ["puin"],
+    "roots": [
+      "puin"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -75063,7 +76072,9 @@
   },
   {
     "word": "pulp",
-    "roots": ["pulp"],
+    "roots": [
+      "pulp"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75079,7 +76090,9 @@
   },
   {
     "word": "pul",
-    "roots": ["pul"],
+    "roots": [
+      "pul"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75095,7 +76108,9 @@
   },
   {
     "word": "pulit",
-    "roots": ["pulit"],
+    "roots": [
+      "pulit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75111,7 +76126,9 @@
   },
   {
     "word": "pun",
-    "roots": ["pun"],
+    "roots": [
+      "pun"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75127,7 +76144,10 @@
   },
   {
     "word": "punaflap",
-    "roots": ["pun", "flap"],
+    "roots": [
+      "pun",
+      "flap"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75180,7 +76200,9 @@
   },
   {
     "word": "purid",
-    "roots": ["purid"],
+    "roots": [
+      "purid"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -75196,7 +76218,9 @@
   },
   {
     "word": "puridikön",
-    "roots": ["purid"],
+    "roots": [
+      "purid"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -75212,7 +76236,9 @@
   },
   {
     "word": "puridükön",
-    "roots": ["purid"],
+    "roots": [
+      "purid"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -75228,7 +76254,9 @@
   },
   {
     "word": "purul",
-    "roots": ["purul"],
+    "roots": [
+      "purul"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75244,7 +76272,9 @@
   },
   {
     "word": "purulön",
-    "roots": ["purul"],
+    "roots": [
+      "purul"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -75275,7 +76305,10 @@
   },
   {
     "word": "putajul",
-    "roots": ["put", "jul"],
+    "roots": [
+      "put",
+      "jul"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75291,7 +76324,9 @@
   },
   {
     "word": "putül",
-    "roots": ["put"],
+    "roots": [
+      "put"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75329,7 +76364,9 @@
   },
   {
     "word": "püd",
-    "roots": ["püd"],
+    "roots": [
+      "püd"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75345,7 +76382,9 @@
   },
   {
     "word": "püduk",
-    "roots": ["püd"],
+    "roots": [
+      "püd"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -75357,7 +76396,9 @@
   },
   {
     "word": "püf",
-    "roots": ["püf"],
+    "roots": [
+      "püf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75373,7 +76414,9 @@
   },
   {
     "word": "püfik",
-    "roots": ["püf"],
+    "roots": [
+      "püf"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -75389,7 +76432,9 @@
   },
   {
     "word": "püfisugian",
-    "roots": ["püf"],
+    "roots": [
+      "püf"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75401,7 +76446,9 @@
   },
   {
     "word": "püfön",
-    "roots": ["püf"],
+    "roots": [
+      "püf"
+    ],
     "lang": "volapuk",
     "category": "int.",
     "translations": [
@@ -75413,7 +76460,9 @@
   },
   {
     "word": "pügmen",
-    "roots": ["pügmen"],
+    "roots": [
+      "pügmen"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75425,7 +76474,9 @@
   },
   {
     "word": "pük",
-    "roots": ["pük"],
+    "roots": [
+      "pük"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75441,7 +76492,10 @@
   },
   {
     "word": "pükalönik",
-    "roots": ["pük", "lön"],
+    "roots": [
+      "pük",
+      "lön"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -75453,7 +76507,10 @@
   },
   {
     "word": "pükasotül",
-    "roots": ["pük", "sot"],
+    "roots": [
+      "pük",
+      "sot"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75469,7 +76526,9 @@
   },
   {
     "word": "pül",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75485,7 +76544,9 @@
   },
   {
     "word": "pülatimil",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75497,7 +76558,9 @@
   },
   {
     "word": "pülik",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -75509,7 +76572,9 @@
   },
   {
     "word": "pülikün",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
@@ -75521,7 +76586,9 @@
   },
   {
     "word": "pülot",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75533,7 +76600,9 @@
   },
   {
     "word": "pülsif",
-    "roots": ["pül"],
+    "roots": [
+      "pül"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75545,7 +76614,9 @@
   },
   {
     "word": "pün",
-    "roots": ["pün"],
+    "roots": [
+      "pün"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75561,7 +76632,9 @@
   },
   {
     "word": "pünön",
-    "roots": ["pün"],
+    "roots": [
+      "pün"
+    ],
     "lang": "volapuk",
     "category": "v.",
     "translations": [
@@ -75573,7 +76646,9 @@
   },
   {
     "word": "püpil",
-    "roots": ["püpil"],
+    "roots": [
+      "püpil"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -75585,7 +76660,9 @@
   },
   {
     "word": "püpit",
-    "roots": ["püpit"],
+    "roots": [
+      "püpit"
+    ],
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -76808,7 +77885,9 @@
   },
   {
     "word": "loreidön",
-    "roots": ["reid"],
+    "roots": [
+      "reid"
+    ],
     "lang": "volapuk",
     "category": "tr.",
     "translations": [
@@ -78425,7 +79504,9 @@
   {
     "word": "ronät",
     "lang": "volapuk",
-    "roots": ["ronät"],
+    "roots": [
+      "ronät"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -78451,7 +79532,9 @@
   {
     "word": "ronätosumön",
     "lang": "volapuk",
-    "roots": ["ronät"],
+    "roots": [
+      "ronät"
+    ],
     "category": "tr.",
     "translations": [
       {
@@ -78482,7 +79565,9 @@
   {
     "word": "rop",
     "lang": "volapuk",
-    "roots": ["rop"],
+    "roots": [
+      "rop"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -78668,11 +79753,11 @@
     "examples": [
       {
         "lang": "english",
-        "text": "Plekön rosadakronüli = To pray the rosary."  
+        "text": "Plekön rosadakronüli = To pray the rosary."
       },
       {
         "lang": "esperanto",
-        "text": "Plekön rosadakronüli = Preĝi rozarion."  
+        "text": "Plekön rosadakronüli = Preĝi rozarion."
       }
     ]
   },
@@ -97600,7 +98685,7 @@
       }
     ]
   },
-    {
+  {
     "word": "tikädabik",
     "lang": "volapuk",
     "category": "adj.",
@@ -98919,7 +100004,9 @@
   {
     "word": "tonär",
     "lang": "volapuk",
-    "roots": ["tonär"],
+    "roots": [
+      "tonär"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -98935,7 +100022,9 @@
   {
     "word": "tonärön",
     "lang": "volapuk",
-    "roots": ["tonär"],
+    "roots": [
+      "tonär"
+    ],
     "category": "int.",
     "translations": [
       {
@@ -98951,7 +100040,9 @@
   {
     "word": "tonäratonat",
     "lang": "volapuk",
-    "roots": ["tonär"],
+    "roots": [
+      "tonär"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -98967,7 +100058,9 @@
   {
     "word": "tonen",
     "lang": "volapuk",
-    "roots": ["tonen"],
+    "roots": [
+      "tonen"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -102833,7 +103926,7 @@
       }
     ]
   },
-    {
+  {
     "word": "välön",
     "lang": "volapuk",
     "category": "tr.",
