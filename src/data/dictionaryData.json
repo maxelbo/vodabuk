@@ -19749,6 +19749,21 @@
     ]
   },
   {
+    "word": "fanäbam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "imprisonment"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malliberado"
+      }
+    ]
+  },
+  {
     "word": "fanäbikön",
     "lang": "volapuk",
     "category": "int.",
@@ -19775,17 +19790,6 @@
       {
         "lang": "esperanto",
         "text": "malliberigi"
-      }
-    ]
-  },
-  {
-    "word": "fanäbam",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "imprisonment"
       }
     ]
   },
@@ -19868,6 +19872,51 @@
     ]
   },
   {
+    "word": "defan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "catching, intercepting, to snatch away"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forkapto"
+      }
+    ]
+  },
+  {
+    "word": "defanan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "catcher, interceptor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forkaptanto"
+      }
+    ]
+  },
+  {
+    "word": "defanön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to catch, to snatch away"
+      },
+      {
+        "lang": "esperanto",
+        "text": "forkapti"
+      }
+    ]
+  },
+  {
     "word": "far",
     "lang": "volapuk",
     "category": "n.",
@@ -19879,6 +19928,21 @@
       {
         "lang": "esperanto",
         "text": "lumturo"
+      }
+    ]
+  },
+  {
+    "word": "farül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a signal fire, a flare, a luminous signal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fajrosignalo"
       }
     ]
   },
