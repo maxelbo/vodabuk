@@ -14614,17 +14614,6 @@
     ]
   },
   {
-    "word": "defädön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be in need, to be in want"
-      }
-    ]
-  },
-  {
     "word": "defälotiär",
     "lang": "volapuk",
     "category": "n.",
@@ -20184,6 +20173,57 @@
       {
         "lang": "english",
         "text": "casually, by chance, unexpectedly"
+      }
+    ]
+  },
+  {
+    "word": "defäd",
+    "roots": [
+      "fäd"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "need, poverty"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malprospero, senhaveco, malriĉeco"
+      }
+    ]
+  },
+  {
+    "word": "defädan",
+    "roots": [
+      "fäd"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a poor person, a person in need"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malriĉulo, senhavulo"
+      }
+    ]
+  },
+  {
+    "word": "defädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be in need, to be needy, to be in want, to be poverty-stricken"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malprosperi"
       }
     ]
   },
