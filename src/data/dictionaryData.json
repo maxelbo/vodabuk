@@ -20274,6 +20274,10 @@
       {
         "lang": "english",
         "text": "ably, capably"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kapable"
       }
     ]
   },
@@ -20283,11 +20287,33 @@
       "fäg"
     ],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be capable, to be in a position to"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kapabli"
+      }
+    ]
+  },
+  {
+    "word": "nefägöfan",
+    "roots": [
+      "fäg"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "invalid person, disabled person"
+      },
+      {
+        "lang": "esperanto",
+        "text": "invalido, kriplulo, handikapito"
       }
     ]
   },
@@ -20302,6 +20328,10 @@
       {
         "lang": "english",
         "text": "emotion, fervour"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekscitiĝo"
       }
     ]
   },
