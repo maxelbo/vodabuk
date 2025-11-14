@@ -20318,6 +20318,24 @@
     ]
   },
   {
+    "word": "fäkik",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "moved (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emociita"
+      }
+    ]
+  },
+  {
     "word": "fäkam",
     "roots": [
       "fäk"
@@ -20346,6 +20364,10 @@
       {
         "lang": "english",
         "text": "excitement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekscititeco"
       }
     ]
   },
