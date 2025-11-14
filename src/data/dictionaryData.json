@@ -20318,6 +20318,24 @@
     ]
   },
   {
+    "word": "fäk",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "emotion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emocio"
+      }
+    ]
+  },
+  {
     "word": "fäkik",
     "roots": [
       "fäk"
@@ -20327,11 +20345,79 @@
     "translations": [
       {
         "lang": "english",
-        "text": "moved (emotionally)"
+        "text": "excited, moved (emotionally)"
       },
       {
         "lang": "esperanto",
         "text": "emociita"
+      }
+    ]
+  },
+  {
+    "word": "fäkön",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be touched (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emociiĝi, esti kortuŝita"
+      }
+    ]
+  },
+  {
+    "word": "fäküköl",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "act. part.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ardent, highly emotional"
+      }
+    ]
+  },
+  {
+    "word": "fäkikön",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be moved (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emociiĝi"
+      }
+    ]
+  },
+  {
+    "word": "fäkükön",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to move (emotionally)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "emocii"
       }
     ]
   },
@@ -20382,6 +20468,34 @@
       {
         "lang": "english",
         "text": "excitable"
+      }
+    ]
+  },
+  {
+    "word": "fäkädiko",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "emotionally"
+      }
+    ]
+  },
+  {
+    "word": "fäkädükön",
+    "roots": [
+      "fäk"
+    ],
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to excite (emotionally)"
       }
     ]
   },
@@ -20472,138 +20586,6 @@
       {
         "lang": "english",
         "text": "to bind up"
-      }
-    ]
-  },
-  {
-    "word": "fäkädiko",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "emotionally"
-      }
-    ]
-  },
-  {
-    "word": "fäkädükön",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to excite (emotionally)"
-      }
-    ]
-  },
-  {
-    "word": "fäk",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "emotion"
-      },
-      {
-        "lang": "esperanto",
-        "text": "emocio"
-      }
-    ]
-  },
-  {
-    "word": "fäkik",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "excited, moved (emotionally)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "emocia, kortuŝanta"
-      }
-    ]
-  },
-  {
-    "word": "fäkikön",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be moved (emotionally)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "emociiĝi"
-      }
-    ]
-  },
-  {
-    "word": "fäkön",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be touched (emotionally)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "emociiĝi, esti kortuŝita"
-      }
-    ]
-  },
-  {
-    "word": "fäküköl",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "act. part.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "ardent, highly emotional"
-      }
-    ]
-  },
-  {
-    "word": "fäkükön",
-    "roots": [
-      "fäk"
-    ],
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to move (emotionally)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "emocii"
       }
     ]
   },
@@ -62521,17 +62503,6 @@
       {
         "lang": "english",
         "text": "on purpose"
-      }
-    ]
-  },
-  {
-    "word": "nefägöfan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an invalid"
       }
     ]
   },
