@@ -20657,6 +20657,36 @@
     ]
   },
   {
+    "word": "färmön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be closed, to be shut"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti fermita"
+      }
+    ]
+  },
+  {
+    "word": "färmikön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to become close, to become shut"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fermiĝi"
+      }
+    ]
+  },
+  {
     "word": "färmükön",
     "lang": "volapuk",
     "category": "tr.",
