@@ -20699,20 +20699,15 @@
         "lang": "esperanto",
         "text": "fermi"
       }
-    ]
-  },
-  {
-    "word": "färmükön me lök",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
+    ],
+    "examples": [
       {
         "lang": "english",
-        "text": "to lock"
+        "text": "Färmükön me lök = To lock."
       },
       {
         "lang": "esperanto",
-        "text": "ŝlosi"
+        "text": "Färmükön me lök = Fermi."
       }
     ]
   },
@@ -20738,13 +20733,21 @@
     "translations": [
       {
         "lang": "english",
-        "text": "luck"
+        "text": "fate, luck, destiny"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sorto, destino"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "Fäti läbik! = Good luck!"
+      },
+      {
+        "lang": "english",
+        "text": "Labom fäti badik = He's down on his luck."
       }
     ]
   },
