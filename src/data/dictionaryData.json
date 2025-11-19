@@ -21068,6 +21068,10 @@
       {
         "lang": "english",
         "text": "a federation, league"
+      },
+      {
+        "lang": "esperanto",
+        "text": "federacio"
       }
     ]
   },
@@ -21082,6 +21086,10 @@
       {
         "lang": "english",
         "text": "federal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "federacia"
       }
     ]
   },
@@ -21091,11 +21099,15 @@
       "fed"
     ],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to be in league (with / against)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti federaciita (kun / kontraǔ)"
       }
     ]
   },
