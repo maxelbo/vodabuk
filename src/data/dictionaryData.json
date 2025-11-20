@@ -9124,7 +9124,7 @@
     ]
   },
   {
-    "word": "bümäl",
+    "word": "bümal",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
@@ -9134,7 +9134,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "aǔguro"
+        "text": "aǔguro, antaǔsigno"
       }
     ]
   },
@@ -20758,11 +20758,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an bad omen"
+        "text": "a bad omen, a catastrophe"
       },
       {
         "lang": "esperanto",
-        "text": "malbonaǔguro, omeno"
+        "text": "katastrofo"
       }
     ]
   },
@@ -20773,11 +20773,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "ominous"
+        "text": "catastrophic"
       },
       {
         "lang": "esperanto",
-        "text": "malbonaǔgura, omena"
+        "text": "katastrofa"
       }
     ]
   },
@@ -21004,6 +21004,24 @@
     ]
   },
   {
+    "word": "feb",
+    "roots": [
+      "feb"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an operation, a business"
+      },
+      {
+        "lang": "esperanto",
+        "text": "entrepreno"
+      }
+    ]
+  },
+  {
     "word": "febäd",
     "roots": [
       "feb"
@@ -21067,7 +21085,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a federation, league"
+        "text": "a federation, a league, a confederation"
       },
       {
         "lang": "esperanto",
@@ -58348,17 +58366,6 @@
     ]
   },
   {
-    "word": "mifät",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "catastrophe"
-      }
-    ]
-  },
-  {
     "word": "mifätan",
     "lang": "volapuk",
     "category": "n.",
@@ -58366,17 +58373,6 @@
       {
         "lang": "english",
         "text": "malefactor"
-      }
-    ]
-  },
-  {
-    "word": "mifätik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "catastrophic"
       }
     ]
   },
