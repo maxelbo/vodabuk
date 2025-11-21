@@ -51108,11 +51108,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "foreseeing, providence"
+        "text": "foreseeing"
       },
       {
         "lang": "esperanto",
         "text": "antaǔvidante"
+      }
+    ]
+  },
+  {
+    "word": "büologal",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "providence"
+      },
+      {
+        "lang": "esperanto",
+        "text": "providenco"
       }
     ]
   },
