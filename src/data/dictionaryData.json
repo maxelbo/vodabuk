@@ -28330,7 +28330,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "buttocks"
+        "text": "a buttocks, an anus, a backside"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pugo, postaĵo"
       }
     ]
   },
@@ -28365,6 +28369,21 @@
     ]
   },
   {
+    "word": "glügäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "churchiness, churchliness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eklezieco"
+      }
+    ]
+  },
+  {
     "word": "glügalespad",
     "lang": "volapuk",
     "category": "n.",
@@ -28376,6 +28395,36 @@
       {
         "lang": "esperanto",
         "text": "navo"
+      }
+    ]
+  },
+  {
+    "word": "glügalezäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a church ceremony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eklezia ceremonio"
+      }
+    ]
+  },
+  {
+    "word": "glügavestibül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a church vestibule"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kirka vestiblo"
       }
     ]
   },
