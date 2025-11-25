@@ -28369,6 +28369,21 @@
     ]
   },
   {
+    "word": "glügik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ecclesiastical, church-related"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eklezia"
+      }
+    ]
+  },
+  {
     "word": "glügäl",
     "lang": "volapuk",
     "category": "n.",
@@ -28410,6 +28425,21 @@
       {
         "lang": "esperanto",
         "text": "eklezia ceremonio"
+      }
+    ]
+  },
+  {
+    "word": "glügastöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a liturgical object, a church utensil"
+      },
+      {
+        "lang": "esperanto",
+        "text": "eklezia objekto, kirka ilo"
       }
     ]
   },
