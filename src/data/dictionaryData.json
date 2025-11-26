@@ -28485,6 +28485,36 @@
     ]
   },
   {
+    "word": "gnosid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gnosis"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gnozo, gnostiko"
+      }
+    ]
+  },
+  {
+    "word": "gnosidan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a gnostic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gnostikulo"
+      }
+    ]
+  },
+  {
     "word": "go",
     "lang": "volapuk",
     "category": "adv.",
