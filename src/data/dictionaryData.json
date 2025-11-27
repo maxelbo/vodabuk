@@ -28521,7 +28521,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "quite, very"
+        "text": "quite, very much"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tre, ege (antaǔ adverboj)"
       }
     ]
   },
