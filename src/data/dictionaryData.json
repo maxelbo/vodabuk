@@ -28530,13 +28530,47 @@
     ]
   },
   {
-    "word": "gobadön",
+    "word": "gobad",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "to arch (cat's back)"
+        "text": "a hump, a protuberance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝibo"
+      }
+    ]
+  },
+  {
+    "word": "gobadan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a hunchback"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĝibulo"
+      }
+    ]
+  },
+  {
+    "word": "gobadön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to protrude, to arch (cat's back)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti ĝiba"
       }
     ]
   },
