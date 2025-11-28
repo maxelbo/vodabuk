@@ -9,7 +9,9 @@
     "lint": "next lint",
     "format": "prettier --write .",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "db:seed": "ts-node scripts/seed-database.ts",
+    "db:setup": "psql -U postgres -d vodabuk -f database/schema.sql"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
