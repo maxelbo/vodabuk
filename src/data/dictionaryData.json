@@ -28632,13 +28632,47 @@
     "translations": [
       {
         "lang": "english",
-        "text": "God"
+        "text": "god"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dio"
       }
     ],
     "examples": [
       {
         "lang": "english",
         "text": "God galedomös obis! = God forbid!"
+      }
+    ]
+  },
+  {
+    "word": "godalöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the love of God"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amo de Dio"
+      }
+    ]
+  },
+  {
+    "word": "godason",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the son of God"
+      },
+      {
+        "lang": "esperanto",
+        "text": "filo de Dio"
       }
     ]
   },
