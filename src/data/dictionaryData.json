@@ -28647,6 +28647,51 @@
     ]
   },
   {
+    "word": "godav",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "theology"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teologio"
+      }
+    ]
+  },
+  {
+    "word": "godavan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "theologian"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teologo"
+      }
+    ]
+  },
+  {
+    "word": "godacötadam",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "divine judgement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ordalio"
+      }
+    ]
+  },
+  {
     "word": "godalöf",
     "lang": "volapuk",
     "category": "n.",
