@@ -28647,6 +28647,21 @@
     ]
   },
   {
+    "word": "godik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "godlike, divine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dia"
+      }
+    ]
+  },
+  {
     "word": "godav",
     "lang": "volapuk",
     "category": "n.",
@@ -28673,6 +28688,36 @@
       {
         "lang": "esperanto",
         "text": "teologo"
+      }
+    ]
+  },
+  {
+    "word": "godäl",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "divinity (nature of God)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dieco"
+      }
+    ]
+  },
+  {
+    "word": "godälik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "divine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dieca"
       }
     ]
   },
