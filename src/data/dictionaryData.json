@@ -28662,6 +28662,36 @@
     ]
   },
   {
+    "word": "godo",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "for God's sake"
+      },
+      {
+        "lang": "esperanto",
+        "text": "je Dio"
+      }
+    ]
+  },
+  {
+    "word": "godö",
+    "lang": "volapuk",
+    "category": "interj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "oh God!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "je Dio!"
+      }
+    ]
+  },
+  {
     "word": "godav",
     "lang": "volapuk",
     "category": "n.",
@@ -28748,6 +28778,21 @@
       {
         "lang": "esperanto",
         "text": "amo de Dio"
+      }
+    ]
+  },
+  {
+    "word": "godilöf",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "love of God (for God)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "amo al Dio"
       }
     ]
   },
