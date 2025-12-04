@@ -28782,6 +28782,21 @@
     ]
   },
   {
+    "word": "godason",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the son of God"
+      },
+      {
+        "lang": "esperanto",
+        "text": "filo de Dio"
+      }
+    ]
+  },
+  {
     "word": "godilöf",
     "lang": "volapuk",
     "category": "n.",
@@ -28797,17 +28812,32 @@
     ]
   },
   {
-    "word": "godason",
+    "word": "godinoam",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "the son of God"
+        "text": "atheism"
       },
       {
         "lang": "esperanto",
-        "text": "filo de Dio"
+        "text": "ateismo"
+      }
+    ]
+  },
+  {
+    "word": "godinoan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "atheist"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ateisto"
       }
     ]
   },
