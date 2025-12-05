@@ -28604,28 +28604,6 @@
     ]
   },
   {
-    "word": "godik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "divine"
-      }
-    ]
-  },
-  {
-    "word": "gokül",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a chicken"
-      }
-    ]
-  },
-  {
     "word": "god",
     "lang": "volapuk",
     "category": "n.",
@@ -28838,6 +28816,51 @@
       {
         "lang": "esperanto",
         "text": "ateisto"
+      }
+    ]
+  },
+  {
+    "word": "lugod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an idol"
+      },
+      {
+        "lang": "esperanto",
+        "text": "idolo"
+      }
+    ]
+  },
+  {
+    "word": "gok",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chicken"
+      },
+      {
+        "lang": "esperanto",
+        "text": "koko"
+      }
+    ]
+  },
+  {
+    "word": "gokül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chick (a young chicken)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kokido"
       }
     ]
   },
