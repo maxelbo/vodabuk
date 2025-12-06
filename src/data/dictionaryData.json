@@ -28871,7 +28871,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a goshawk"
+        "text": "a goshawk (Astur gentilis)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akcipitro (Astur gentilis)"
       }
     ]
   },
@@ -28882,7 +28886,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "bearing, deportment, walk"
+        "text": "walk, walking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "iro"
       }
     ]
   },
