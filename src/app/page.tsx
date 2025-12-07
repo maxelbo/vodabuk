@@ -2,7 +2,11 @@ import Search from '@/components/Search';
 import SearchError from '@/components/SearchError';
 
 async function getDictionaryData() {
-  const endpoint = `${process.env.DOMAIN!}/api/v0/volapuk/words`;
+  const isServer = typeof window === 'undefined';
+  const baseUrl = isServer 
+    ? (process.env.LOCALHOST)
+    : (process.env.DOMAIN);
+  const endpoint = `${baseUrl}/api/v0/volapuk/words`;
 
   try {
     const res = await fetch(endpoint, { cache: 'no-store' });
