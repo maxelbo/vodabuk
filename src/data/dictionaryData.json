@@ -28895,6 +28895,21 @@
     ]
   },
   {
+    "word": "goläd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a parade, a procession"
+      },
+      {
+        "lang": "esperanto",
+        "text": "almarŝo"
+      }
+    ]
+  },
+  {
     "word": "golaboed",
     "lang": "volapuk",
     "category": "n.",
@@ -28906,13 +28921,17 @@
     ]
   },
   {
-    "word": "goläd",
+    "word": "gold",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a parade, a procession"
+        "text": "gold"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oro"
       }
     ]
   },
@@ -28923,7 +28942,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "gold (precious metal)"
+        "text": "aurum, gold (element)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oro (elemento)"
       }
     ]
   },
@@ -28935,6 +28958,10 @@
       {
         "lang": "english",
         "text": "(of) gold, golden"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ora"
       }
     ]
   },
