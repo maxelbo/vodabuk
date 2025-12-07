@@ -14,9 +14,11 @@ export interface DictionaryEntryType {
   }[];
 }
 export interface LangContextProps {
-  lang: string;
-  setLang: (lang: string) => void;
+  lang: Lang;
+  setLang: (lang: Lang) => void;
 }
+
+export type Lang = 'english' | 'esperanto' | 'volapük';
 
 export interface Children {
   readonly children: React.ReactNode;

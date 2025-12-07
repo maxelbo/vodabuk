@@ -6,6 +6,13 @@ export async function GET(): Promise<NextResponse> {
     const words = await getDictionaryData();
     const { withEsperanto, withEnglish } = getWordsWithTranslations(words);
 
+    // Find Volapük words with no English translations (same logic as getWordsWithTranslations)
+    const volapukWords = words.filter(word => word.lang === 'volapuk');
+    const wordsWithoutEnglish = volapukWords.filter(word => !word.translations.some(translation => translation.lang === 'english'));
+    
+    // Find words that are NOT Volapük
+    const nonVolapukWords = words.filter(word => word.lang !== 'volapuk');
+
     // Find duplicates
     const duplicates = [...words]
       .sort()
@@ -22,9 +29,12 @@ export async function GET(): Promise<NextResponse> {
 
     return NextResponse.json(
       {
-        volapukWordCount: words.length,
+        totalWordCount: words.length,
+        volapukWordCount: volapukWords.length,
         voEoWordCount: withEsperanto.length,
         voEnWordCount: withEnglish.length,
+        wordsWithoutEnglish,
+        nonVolapukWords,
         duplicates,
       },
       { status: 200 },
@@ -35,8 +45,9 @@ export async function GET(): Promise<NextResponse> {
       {
         volapukWordCount: 0,
         voEoWordCount: 0,
-        englishTranslations: 0,
-        wordsWithBothTranslations: 0,
+        voEnWordCount: 0,
+        wordsWithoutEnglish: [],
+        wordsWithoutLang: [],
         duplicates: [],
         error: 'Internal server error',
       },

@@ -8,6 +8,7 @@ import Spinner from '@/components/Spinner';
 import { Search as SearchIcon } from 'lucide-react';
 import type { DictionaryEntryType, LangContextProps } from '@/lib/types';
 import { useLangContext } from '@/context/LanguageContext';
+import { useTranslation } from '@/lib/utils';
 
 interface SearchProps {
   dictionaryData: DictionaryEntryType[];
@@ -17,7 +18,8 @@ export default function Search({ dictionaryData }: SearchProps) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<DictionaryEntryType[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const { lang: translationLang } = useLangContext() as LangContextProps;
+  const { lang } = useLangContext() as LangContextProps;
+  const { translate } = useTranslation();
 
   function searchDictionary(searchQuery: string): DictionaryEntryType[] {
     const excludeWordList = ['a', 'an', 'to', 'the'];
@@ -86,7 +88,7 @@ export default function Search({ dictionaryData }: SearchProps) {
 
       // Match translations in selected language (exact word match)
       const translationMatch = entry.translations
-        .filter((translation) => translation.lang === translationLang)
+        .filter((translation) => translation.lang === lang || translation.lang === 'volapük')
         .some((translation) => {
           const cleanedText = cleanTranslationText(translation.text);
           const translationParts = cleanedText.split(',').map((part) => part.trim());
@@ -98,7 +100,7 @@ export default function Search({ dictionaryData }: SearchProps) {
 
     // Filter results to only include entries with translations in the selected language
     return searchResults.filter((result) =>
-      result.translations.some((translation) => translation.lang === translationLang),
+      result.translations.some((translation) => translation.lang === lang),
     );
   }
 
@@ -110,6 +112,22 @@ export default function Search({ dictionaryData }: SearchProps) {
     setIsLoading(false);
   }
 
+  const searchBarPlaceholder = {
+    english: 'Search / ',
+    esperanto: 'Serĉu / ',
+    volapük: '',
+  };
+  const searchBarAria = {
+    english: 'Serĉu vorton en la Volapuka vortaro.',
+    esperanto: 'Search a word in the Volapük dictionary.',
+    volapük: 'Sukolös vödi in volapükavödabuk.',
+  };
+  const noResultsMessage = {
+    english: 'No results found.',
+    esperanto: 'Neniu rezulto trovita.',
+    volapük: ''
+  };
+
   return (
     <div className="mx-auto w-full max-w-3xl py-4">
       <h1 className="sr-only">Search Page.</h1>
@@ -119,12 +137,8 @@ export default function Search({ dictionaryData }: SearchProps) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder={translationLang === 'english' ? 'Search / Sukolös' : 'Serĉu / Sukolös'}
-          aria-label={
-            translationLang === 'english'
-              ? 'Serĉu vorton en la Volapuka vortaro.'
-              : 'Search a word in the Volapük dictionary.'
-          }
+          placeholder={`${translate(searchBarPlaceholder)}Sukolös`}
+          aria-label={translate(searchBarAria)}
         />
         <Button
           type="submit"
@@ -139,15 +153,13 @@ export default function Search({ dictionaryData }: SearchProps) {
         {isLoading ? (
           <div role="status" className="flex h-full items-center justify-center text-center">
             <Spinner />
-            <span className="sr-only">
-              {translationLang === 'english' ? 'Loading...' : 'Serĉanta...'}
-            </span>
+            <span className="sr-only">{lang === 'english' ? 'Loading...' : 'Serĉanta...'}</span>
           </div>
         ) : results.length > 0 ? (
           results.map((result, index) => <Result result={result} key={index} />)
         ) : (
           <p className="flex h-full items-center justify-center text-center">
-            {translationLang === 'english' ? 'No results found.' : 'Neniu rezulto estis trovita.'}
+            {translate(noResultsMessage)}
             <br />
             Seks nonik pätuvons.
           </p>
