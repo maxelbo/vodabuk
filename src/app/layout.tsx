@@ -55,7 +55,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Children) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark" style={{ colorScheme: 'dark' }}>
       <body className={`${layoutFont} flex h-dvh flex-col justify-between bg-slate-900 text-white`}>
         <LanguageProvider>
           <ThemeProvider
