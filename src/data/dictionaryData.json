@@ -4413,21 +4413,6 @@
     ]
   },
   {
-    "word": "beigolön",
-    "roots": [
-      "bei",
-      "gol"
-    ],
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to go past"
-      }
-    ]
-  },
-  {
     "word": "beitil",
     "roots": [
       "beit"
@@ -24008,28 +23993,6 @@
     ]
   },
   {
-    "word": "fogolan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a predecessor"
-      }
-    ]
-  },
-  {
-    "word": "fogolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to go before, to precede"
-      }
-    ]
-  },
-  {
     "word": "fogülön",
     "lang": "volapuk",
     "category": "v.",
@@ -28895,6 +28858,21 @@
     ]
   },
   {
+    "word": "golön (lü)",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go (to), to walk"
+      },
+      {
+        "lang": "esperanto",
+        "text": "iri (al)"
+      }
+    ]
+  },
+  {
     "word": "goläd",
     "lang": "volapuk",
     "category": "n.",
@@ -28921,6 +28899,161 @@
     ]
   },
   {
+    "word": "beigolön",
+    "roots": [
+      "bei",
+      "gol"
+    ],
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go past"
+      }
+    ]
+  },
+  {
+    "word": "kosgolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to approach, to go to meet"
+      }
+    ]
+  },
+  {
+    "word": "lovegolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cross (over)"
+      }
+    ]
+  },
+  {
+    "word": "mogolön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go away"
+      },
+      {
+        "lang": "esperanto",
+        "text": "foriri"
+      }
+    ]
+  },
+  {
+    "word": "pogolön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to run after, to follow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sekvi, postiri"
+      }
+    ]
+  },
+  {
+    "word": "segolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go out"
+      }
+    ]
+  },
+  {
+    "word": "segolöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an exit"
+      }
+    ]
+  },
+  {
+    "word": "vifagolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to run"
+      }
+    ]
+  },
+  {
+    "word": "zigolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to walk around"
+      }
+    ]
+  },
+  {
+    "word": "fogolan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a predecessor"
+      }
+    ]
+  },
+  {
+    "word": "fogolön",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go before, to precede"
+      }
+    ]
+  },
+  {
+    "word": "nügolön (ini)",
+    "lang": "volapuk",
+    "category": "v.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to enter, to go in"
+      }
+    ]
+  },
+  {
+    "word": "nügolöp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an entrance"
+      }
+    ]
+  },
+  {
     "word": "gold",
     "lang": "volapuk",
     "category": "n.",
@@ -28936,21 +29069,6 @@
     ]
   },
   {
-    "word": "goldin",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "aurum, gold (element)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "oro (elemento)"
-      }
-    ]
-  },
-  {
     "word": "goldik",
     "lang": "volapuk",
     "category": "adj.",
@@ -28962,6 +29080,21 @@
       {
         "lang": "esperanto",
         "text": "ora"
+      }
+    ]
+  },
+  {
+    "word": "goldin",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "aurum, gold (element)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "oro (elemento)"
       }
     ]
   },
@@ -28984,17 +29117,6 @@
       {
         "lang": "english",
         "text": "golf (game)"
-      }
-    ]
-  },
-  {
-    "word": "golön (lü)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to go (to), to walk (to)"
       }
     ]
   },
@@ -41163,17 +41285,6 @@
     ]
   },
   {
-    "word": "kosgolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to approach, to go to meet"
-      }
-    ]
-  },
-  {
     "word": "kosid",
     "lang": "volapuk",
     "category": "n.",
@@ -52972,17 +53083,6 @@
     ]
   },
   {
-    "word": "lovegolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to cross (over)"
-      }
-    ]
-  },
-  {
     "word": "loveikam",
     "lang": "volapuk",
     "category": "n.",
@@ -59651,17 +59751,6 @@
       {
         "lang": "english",
         "text": "to escape, to run away (from)"
-      }
-    ]
-  },
-  {
-    "word": "mogolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to go away"
       }
     ]
   },
@@ -68809,28 +68898,6 @@
     ]
   },
   {
-    "word": "nügolön (ini)",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to enter, to go in"
-      }
-    ]
-  },
-  {
-    "word": "nügolöp",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an entrance"
-      }
-    ]
-  },
-  {
     "word": "nük",
     "lang": "volapuk",
     "category": "n.",
@@ -74341,21 +74408,6 @@
       {
         "lang": "esperanto",
         "text": "haveno"
-      }
-    ]
-  },
-  {
-    "word": "pogolön",
-    "lang": "volapuk",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to run after, to follow"
-      },
-      {
-        "lang": "esperanto",
-        "text": "sekvi, postiri"
       }
     ]
   },
@@ -83352,28 +83404,6 @@
       {
         "lang": "english",
         "text": "to spend (money)"
-      }
-    ]
-  },
-  {
-    "word": "segolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to go out"
-      }
-    ]
-  },
-  {
-    "word": "segolöp",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "an exit"
       }
     ]
   },
@@ -106470,17 +106500,6 @@
     ]
   },
   {
-    "word": "vifagolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to run"
-      }
-    ]
-  },
-  {
     "word": "vifik",
     "lang": "volapuk",
     "category": "adj.",
@@ -111914,17 +111933,6 @@
       {
         "lang": "english",
         "text": "to wander around"
-      }
-    ]
-  },
-  {
-    "word": "zigolön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to walk around"
       }
     ]
   },
