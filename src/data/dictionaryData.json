@@ -28888,6 +28888,51 @@
     ]
   },
   {
+    "word": "golädön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to parade, to march"
+      },
+      {
+        "lang": "esperanto",
+        "text": "almarŝi"
+      }
+    ]
+  },
+  {
+    "word": "golül",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "tripping up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paŝetado"
+      }
+    ]
+  },
+  {
+    "word": "golülön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to trip up"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paŝeti"
+      }
+    ]
+  },
+  {
     "word": "golaboed",
     "lang": "volapuk",
     "category": "n.",
@@ -28905,11 +28950,15 @@
       "gol"
     ],
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to go past"
+      },
+      {
+        "lang": "esperanto",
+        "text": "preteriri"
       }
     ]
   },
