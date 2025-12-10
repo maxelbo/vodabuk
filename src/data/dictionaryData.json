@@ -28963,6 +28963,44 @@
     ]
   },
   {
+    "word": "bügolön",
+    "roots": [
+      "bü",
+      "gol"
+    ],
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to go in advance, to rush ahead, to be fast (watches, clock)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔiri"
+      }
+    ]
+  },
+  {
+    "word": "bügolan",
+    "roots": [
+      "bü",
+      "gol"
+    ],
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a precursor, a predecessor"
+      },
+      {
+        "lang": "esperanto",
+        "text": "antaǔanto, antaǔulo"
+      }
+    ]
+  },
+  {
     "word": "kosgolön",
     "lang": "volapuk",
     "category": "v.",
