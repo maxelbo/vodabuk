@@ -8949,32 +8949,6 @@
     ]
   },
   {
-    "word": "bügolan",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a precursor, a predecessor, a harbinger, a herald"
-      },
-      {
-        "lang": "esperanto",
-        "text": "aǔspicio"
-      }
-    ]
-  },
-  {
-    "word": "bügölön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to gain (time, clocktime)"
-      }
-    ]
-  },
-  {
     "word": "bügut",
     "lang": "volapuk",
     "category": "n.",
@@ -28973,7 +28947,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to go in advance, to rush ahead, to be fast (watches, clock)"
+        "text": "to go in advance, to rush ahead, to be fast / to gain (watches, clock)"
       },
       {
         "lang": "esperanto",
@@ -28992,11 +28966,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a precursor, a predecessor"
+        "text": "a precursor, a predecessor, a harbinger, a herald"
       },
       {
         "lang": "esperanto",
-        "text": "antaǔanto, antaǔulo"
+        "text": "antaǔanto, antaǔulo, aǔspicio"
+      }
+    ]
+  },
+  {
+    "word": "degolön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to depart, to go away"
+      },
+      {
+        "lang": "esperanto",
+        "text": "deiri"
       }
     ]
   },
