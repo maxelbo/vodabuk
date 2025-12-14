@@ -28891,6 +28891,21 @@
     ]
   },
   {
+    "word": "goled",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "course (of events)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sinsekvo (de okazaĵoj)"
+      }
+    ]
+  },
+  {
     "word": "golül",
     "lang": "volapuk",
     "category": "n.",
@@ -29219,17 +29234,6 @@
       {
         "lang": "esperanto",
         "text": "oro (elemento)"
-      }
-    ]
-  },
-  {
-    "word": "goled",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "course (of events)"
       }
     ]
   },
