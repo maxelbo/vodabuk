@@ -60,7 +60,7 @@ export default function RootLayout({ children }: Children) {
         <LanguageProvider>
           <ThemeProvider
             attribute="class"
-            defaultTheme="dark"
+            // defaultTheme="dark"
             enableSystem
             disableTransitionOnChange
           >
