@@ -29332,6 +29332,51 @@
     ]
   },
   {
+    "word": "got",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gothic language"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gota lingvo"
+      }
+    ]
+  },
+  {
+    "word": "gotan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a Goth"
+      },
+      {
+        "lang": "esperanto",
+        "text": "goto"
+      }
+    ]
+  },
+  {
+    "word": "gotik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "gothic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gota"
+      }
+    ]
+  },
+  {
     "word": "gö!",
     "lang": "volapuk",
     "category": "excl.",
