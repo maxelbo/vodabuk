@@ -29377,6 +29377,36 @@
     ]
   },
   {
+    "word": "goul",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "ambling, saunter, stroll"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasumado"
+      }
+    ]
+  },
+  {
+    "word": "goulön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to amble, to saunter, to stroll"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pasumi"
+      }
+    ]
+  },
+  {
     "word": "gö!",
     "lang": "volapuk",
     "category": "excl.",
