@@ -29327,7 +29327,22 @@
       },
       {
         "lang": "esperanto",
-        "text": "evangeliisto"
+        "text": "evangeliisto (aǔtoro de evangelio)"
+      }
+    ]
+  },
+  {
+    "word": "gospulan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "an evangelist (a preacher)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "evangeliisto (predikanto)"
       }
     ]
   },
@@ -29343,6 +29358,36 @@
       {
         "lang": "esperanto",
         "text": "evangelia"
+      }
+    ]
+  },
+  {
+    "word": "gosüp",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cotton tree (Gossypium)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kotonujo, kotonarbo (Gossypium)"
+      }
+    ]
+  },
+  {
+    "word": "gosüpasid",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a cotton seed"
+      },
+      {
+        "lang": "esperanto",
+        "text": "semo de kotonujo"
       }
     ]
   },
