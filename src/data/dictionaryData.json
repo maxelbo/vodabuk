@@ -29534,6 +29534,10 @@
       {
         "lang": "english",
         "text": "a grand piano"
+      },
+      {
+        "lang": "esperanto",
+        "text": "flugilpiano"
       }
     ]
   },
@@ -29545,6 +29549,25 @@
       {
         "lang": "english",
         "text": "morning"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mateno"
+      }
+    ]
+  },
+  {
+    "word": "gölik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "early"
+      },
+      {
+        "lang": "esperanto",
+        "text": "frua"
       }
     ]
   },
@@ -29578,17 +29601,6 @@
       {
         "lang": "english",
         "text": "an acre (of land)"
-      }
-    ]
-  },
-  {
-    "word": "gölik",
-    "lang": "volapuk",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "early"
       }
     ]
   },
