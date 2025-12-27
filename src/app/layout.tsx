@@ -3,7 +3,6 @@ import { Libre_Baskerville } from 'next/font/google';
 import './globals.css';
 import type { Children } from '@/lib/types';
 import { LanguageProvider } from '@/context/LanguageContext';
-import { ThemeProvider } from '@/components/ThemeProvider';
 import Header from '@/components/Header';
 
 const libreBaskerville = Libre_Baskerville({ subsets: ['latin'], weight: ['400', '700'] });
@@ -58,18 +57,11 @@ export default function RootLayout({ children }: Children) {
     <html lang="en" className="dark" style={{ colorScheme: 'dark' }}>
       <body className={`${layoutFont} flex h-dvh flex-col justify-between bg-slate-900 text-white`}>
         <LanguageProvider>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="dark"
-            enableSystem
-            disableTransitionOnChange
-          >
-            <Header headTitle={headTitle} />
-            <main className="mb-auto p-4">{children}</main>
-            <footer className="h-20 p-4 text-center sm:h-14">
-              <small>{footerText}.</small>
-            </footer>
-          </ThemeProvider>
+          <Header headTitle={headTitle} />
+          <main className="mb-auto p-4">{children}</main>
+          <footer className="h-20 p-4 text-center sm:h-14">
+            <small>{footerText}.</small>
+          </footer>
         </LanguageProvider>
       </body>
     </html>
