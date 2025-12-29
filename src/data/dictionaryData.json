@@ -50295,6 +50295,36 @@
     ]
   },
   {
+    "word": "linglän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "England, Britain"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Anglio, Anglujo, Britio, Britujo"
+      }
+    ]
+  },
+  {
+    "word": "linglänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "English, British"
+      },
+      {
+        "lang": "esperanto",
+        "text": "angla, brita"
+      }
+    ]
+  },
+  {
     "word": "lindfiko",
     "lang": "volapuk",
     "category": "adv.",
@@ -50346,17 +50376,6 @@
       {
         "lang": "english",
         "text": "a tongue"
-      }
-    ]
-  },
-  {
-    "word": "Linglän",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "England"
       }
     ]
   },
