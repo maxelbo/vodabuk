@@ -50291,6 +50291,54 @@
       {
         "lang": "english",
         "text": "India"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Hindio, Barato"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Lindän föfik = Indian subcontinent"
+      },
+      {
+        "lang": "english",
+        "text": "Lindän pödik = Indochina Peninsula"
+      },
+      {
+        "lang": "english",
+        "text": "Lindän Linglänik = British India"
+      },
+      {
+        "lang": "english",
+        "text": "Lindän Nedänik = Dutch East India"
+      }
+    ]
+  },
+  {
+    "word": "Lindänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indian, Hindoo"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hindo"
+      }
+    ]
+  },
+  {
+    "word": "Lindäna=Germänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indo-Germanic, Indo-European"
       }
     ]
   },
@@ -50336,6 +50384,36 @@
       {
         "lang": "esperanto",
         "text": "Princlando de Lipo"
+      }
+    ]
+  },
+  {
+    "word": "lirakän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Iraq"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Irako"
+      }
+    ]
+  },
+  {
+    "word": "lirän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Iran"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Irano"
       }
     ]
   },
