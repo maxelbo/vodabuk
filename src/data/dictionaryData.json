@@ -50332,6 +50332,51 @@
     ]
   },
   {
+    "word": "lindänik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indic, of India"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hinda"
+      }
+    ]
+  },
+  {
+    "word": "Lindäna=Seanuäns",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indonesia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Indonezio"
+      }
+    ]
+  },
+  {
+    "word": "Lindäna=Tsynän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indochina"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Hindoĉinujo, Hindoĉinio"
+      }
+    ]
+  },
+  {
     "word": "Lindäna=Germänik",
     "lang": "volapuk",
     "category": "adj.",
@@ -50339,6 +50384,21 @@
       {
         "lang": "english",
         "text": "Indo-Germanic, Indo-European"
+      }
+    ]
+  },
+  {
+    "word": "lindean",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Indean Ocean"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Hinda Oceano"
       }
     ]
   },
