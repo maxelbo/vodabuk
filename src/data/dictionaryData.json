@@ -50478,6 +50478,66 @@
     ]
   },
   {
+    "word": "litaliyän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Italy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Italio, Italujo"
+      }
+    ]
+  },
+  {
+    "word": "litaliyänan",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Italian (person)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "italo"
+      }
+    ]
+  },
+  {
+    "word": "liviyän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Livonia"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Livonio"
+      }
+    ]
+  },
+  {
+    "word": "lofüdamel",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Baltic Sea"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Balta Maro, Baltiko"
+      }
+    ]
+  },
+  {
     "word": "lindfiko",
     "lang": "volapuk",
     "category": "adv.",
