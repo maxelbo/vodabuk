@@ -50433,6 +50433,21 @@
     ]
   },
   {
+    "word": "lisladeän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Iceland"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Islando"
+      }
+    ]
+  },
+  {
     "word": "lipän",
     "lang": "volapuk",
     "category": "n.",
@@ -50534,6 +50549,51 @@
       {
         "lang": "esperanto",
         "text": "Balta Maro, Baltiko"
+      }
+    ]
+  },
+  {
+    "word": "lomanän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Oman"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Omano"
+      }
+    ]
+  },
+  {
+    "word": "lorän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Lorraine"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Loreno"
+      }
+    ]
+  },
+  {
+    "word": "lösterän",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "Austria"
+      },
+      {
+        "lang": "esperanto",
+        "text": "Aǔstrujo, Aǔstrio"
       }
     ]
   },
