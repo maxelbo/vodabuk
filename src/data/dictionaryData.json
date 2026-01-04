@@ -50583,21 +50583,6 @@
     ]
   },
   {
-    "word": "lösterän",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "Austria"
-      },
-      {
-        "lang": "esperanto",
-        "text": "Aǔstrujo, Aǔstrio"
-      }
-    ]
-  },
-  {
     "word": "lindfiko",
     "lang": "volapuk",
     "category": "adv.",
@@ -55192,11 +55177,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "austria"
+        "text": "Austria"
       },
       {
         "lang": "esperanto",
-        "text": "aǔstrio, aǔstrujo"
+        "text": "Aǔstrujo, Aǔstrio"
       }
     ]
   },
@@ -55207,7 +55192,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "austrian (person)"
+        "text": "an austrian (person)"
       },
       {
         "lang": "esperanto",
@@ -55223,6 +55208,10 @@
       {
         "lang": "english",
         "text": "oestrogen (drug)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estrogeno"
       }
     ]
   },
