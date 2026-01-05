@@ -55231,17 +55231,6 @@
     ]
   },
   {
-    "word": "lovestürön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to pass on"
-      }
-    ]
-  },
-  {
     "word": "löv",
     "lang": "volapuk",
     "category": "n.",
@@ -93285,11 +93274,45 @@
   {
     "word": "sturön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
-        "text": "to capsize, to hurl"
+        "text": "to be overturned, to be capsized, to plunge, to fall (from a height or badly), to plummet"
+      },
+      {
+        "lang": "esperanto",
+        "text": "renversiĝi"
+      }
+    ]
+  },
+  {
+    "word": "stürön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to pour, to capsize, to shed (tears), to throw (onto a pile)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "renversi, ŝuti"
+      }
+    ]
+  },
+  {
+    "word": "lovestürön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to overwhelm, to pour over"
+      },
+      {
+        "lang": "esperanto",
+        "text": "transŝuti"
       }
     ]
   },
@@ -93367,17 +93390,6 @@
       {
         "lang": "english",
         "text": "to esteem, to respect"
-      }
-    ]
-  },
-  {
-    "word": "stürön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to capsize, to throw (onto a pile); to shed (tears)"
       }
     ]
   },
