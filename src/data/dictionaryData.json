@@ -93368,6 +93368,40 @@
       {
         "lang": "english",
         "text": "a (literary) style"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stilo"
+      }
+    ]
+  },
+  {
+    "word": "stülam",
+    "lang": "volapuk",
+    "category": "g.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stylization"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stiligado"
+      }
+    ]
+  },
+  {
+    "word": "stülön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to stylize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stiligi"
       }
     ]
   },
