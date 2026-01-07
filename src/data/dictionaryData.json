@@ -93367,11 +93367,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a (literary) style"
+        "text": "a (literary) style, fashion"
       },
       {
         "lang": "esperanto",
         "text": "stilo"
+      }
+    ]
+  },
+  {
+    "word": "stülik",
+    "lang": "volapuk",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "according to a style"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stila"
       }
     ]
   },
