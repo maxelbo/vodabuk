@@ -93428,13 +93428,47 @@
       {
         "lang": "english",
         "text": "esteem, respect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estimo"
+      }
+    ]
+  },
+  {
+    "word": "stümik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "esteemed, respected"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estimata"
+      }
+    ]
+  },
+  {
+    "word": "stümabik",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "worthy of esteem, worthy of respect"
+      },
+      {
+        "lang": "esperanto",
+        "text": "estiminda"
       }
     ]
   },
   {
     "word": "stümön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
