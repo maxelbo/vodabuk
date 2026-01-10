@@ -93502,18 +93502,37 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a support"
+        "text": "a support, (act of) supporting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogo"
       }
     ]
   },
   {
-    "word": "stütods",
+    "word": "stütäd",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "crutches"
+        "text": "a support, a footing"
+      }
+    ]
+  },
+  {
+    "word": "stütod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "crutch"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lambastono"
       }
     ]
   },
