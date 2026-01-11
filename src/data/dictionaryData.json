@@ -93350,6 +93350,62 @@
     ]
   },
   {
+    "word": "stüt",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a support, (act of) supporting"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogo"
+      }
+    ]
+  },
+  {
+    "word": "stütäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a support, a footing"
+      }
+    ]
+  },
+  {
+    "word": "stütod",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "crutch"
+      },
+      {
+        "lang": "esperanto",
+        "text": "lambastono"
+      }
+    ]
+  },
+  {
+    "word": "stütön",
+    "lang": "volapuk",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to support, to second, to side with"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogi, subteni"
+      }
+    ]
+  },
+  {
     "word": "stübik",
     "lang": "volapuk",
     "category": "adj.",
@@ -93492,58 +93548,6 @@
       {
         "lang": "esperanto",
         "text": "plenrespekte"
-      }
-    ]
-  },
-  {
-    "word": "stüt",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a support, (act of) supporting"
-      },
-      {
-        "lang": "esperanto",
-        "text": "apogo"
-      }
-    ]
-  },
-  {
-    "word": "stütäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a support, a footing"
-      }
-    ]
-  },
-  {
-    "word": "stütod",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "crutch"
-      },
-      {
-        "lang": "esperanto",
-        "text": "lambastono"
-      }
-    ]
-  },
-  {
-    "word": "stütön",
-    "lang": "volapuk",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to second, to side with, to support"
       }
     ]
   },
