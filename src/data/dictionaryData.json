@@ -93339,13 +93339,47 @@
     ]
   },
   {
-    "word": "stutön",
+    "word": "stutön (len)",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to lean (against/on)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogiĝi (ĉe)"
+      }
+    ]
+  },
+  {
+    "word": "stutü",
+    "lang": "volapuk",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "leaning on"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apoge ĉe"
+      }
+    ]
+  },
+  {
+    "word": "stutöm",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a support (instrument, tool)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogilo"
       }
     ]
   },
@@ -93360,7 +93394,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "apogo"
+        "text": "apogo, subteno"
       }
     ]
   },
