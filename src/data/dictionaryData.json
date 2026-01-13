@@ -93413,7 +93413,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a support, a footing"
+        "text": "a footing, a base"
+      },
+      {
+        "lang": "esperanto",
+        "text": "soklo"
       }
     ]
   },
@@ -93448,13 +93452,32 @@
     ]
   },
   {
+    "word": "stüb",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "brusqueness, curtness, abruptness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kruta, abrupta"
+      }
+    ]
+  },
+  {
     "word": "stübik",
     "lang": "volapuk",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "abrupt"
+        "text": "brusque, curt (unfriendly), abrupt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kruta, abrupta"
       }
     ]
   },
