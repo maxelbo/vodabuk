@@ -93323,7 +93323,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a clue"
+        "text": "a point of support, a clue"
+      },
+      {
+        "lang": "esperanto",
+        "text": "apogopunkto"
       }
     ]
   },
@@ -93335,6 +93339,10 @@
       {
         "lang": "english",
         "text": "an armchair"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fotelo"
       }
     ]
   },
