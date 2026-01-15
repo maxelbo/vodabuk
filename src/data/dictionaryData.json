@@ -93249,11 +93249,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "downpour (rain)"
+        "text": "heavy rain, downpour (rain)"
       },
       {
         "lang": "esperanto",
         "text": "pluvego"
+      }
+    ]
+  },
+  {
+    "word": "sturareinön",
+    "lang": "volapuk",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to rain cats and dogs, to pour (with rain)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "pluvegi"
       }
     ]
   },
@@ -93264,7 +93279,26 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a starling"
+        "text": "a starling (Sturnidae)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sturno (Sturnidae)"
+      }
+    ]
+  },
+  {
+    "word": "sturnodadom",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a starling's nest"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nesto de sturno"
       }
     ]
   },
