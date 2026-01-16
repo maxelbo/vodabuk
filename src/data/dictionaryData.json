@@ -93206,13 +93206,32 @@
     ]
   },
   {
+    "word": "stup",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "stupidity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stulteco"
+      }
+    ]
+  },
+  {
     "word": "stupan",
     "lang": "volapuk",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "an idiot"
+        "text": "an idiot, a stupid person, a fathead"
+      },
+      {
+        "lang": "esperanto",
+        "text": "stultulo"
       }
     ]
   },
@@ -93223,7 +93242,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a folly, stupidity"
+        "text": "a folly, stupidity, a stupid streak"
       }
     ]
   },
