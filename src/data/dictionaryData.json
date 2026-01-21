@@ -93002,6 +93002,20 @@
         "lang": "esperanto",
         "text": "instrumento, ilo"
       }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Stum kiemavik pro voböps = Chemical instruments for laboratories."
+      },
+      {
+        "lang": "english",
+        "text": "Stum kötetavik = Surgical instruments."
+      },
+      {
+        "lang": "english",
+        "text": "Stums stelavik = Astronomic instruments."
+      }
     ]
   },
   {
@@ -93011,11 +93025,17 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(set) of instrument"
+        "text": "(set) of instrument, equipment"
       },
       {
         "lang": "esperanto",
         "text": "instrumentaro"
+      }
+    ],
+    "examples": [
+      {
+        "lang": "english",
+        "text": "Stumem bukitanädik = Book-binding equipment."
       }
     ]
   },
