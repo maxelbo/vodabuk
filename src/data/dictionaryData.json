@@ -92601,11 +92601,15 @@
   {
     "word": "straikön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to (go on) strike"
+      },
+      {
+        "lang": "esperanto",
+        "text": "striki"
       }
     ]
   },
