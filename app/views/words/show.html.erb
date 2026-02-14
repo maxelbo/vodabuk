@@ -1,0 +1,51 @@
+<div class="word-detail">
+  <div class="word-header">
+    <h1><%= @word.display_word %></h1>
+    <span class="category"><%= @word.display_category %></span>
+  </div>
+
+  <% if @word.roots.present? %>
+    <div class="word-roots">
+      <% @word.roots.each do |root| %>
+        <span class="root-tag"><%= root %></span>
+      <% end %>
+    </div>
+  <% end %>
+
+  <% translations = @word.translations_for(t("lang_key")) %>
+  <% if translations %>
+    <div class="word-section">
+      <h2><%= t("words.translations") %></h2>
+      <div class="word-cards">
+        <p class="translations">
+          <%= translations %>
+        </p>
+      </div>
+    </div>
+  <% end %>
+
+  <% examples = @word.examples.select { |e| e.lang == t("lang_key") } %>
+  <% if examples.any? %>
+    <div class="word-section">
+      <h2><%= t("words.examples") %></h2>
+      <div class="word-examples-wrap">
+      <div class="word-examples">
+        <% examples.each do |ex| %>
+          <p class="word-example"><%= ex.text %></p>
+        <% end %>
+      </div>
+      <% if examples.size > 3 %>
+        <div class="word-examples-fade"></div>
+      <% end %>
+    </div>
+    </div>
+  <% end %>
+
+  <div class="word-actions">
+    <%= link_to t("words.back"), words_path %>
+    <% if Current.user %>
+      <%= link_to t("words.edit"), edit_word_path(@word), class: "btn btn-small" %>
+      <%= button_to t("words.delete"), word_path(@word), method: :delete, class: "btn btn-small btn-danger", data: { turbo_confirm: t("words.delete_confirm") } %>
+    <% end %>
+  </div>
+</div>

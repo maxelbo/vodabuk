@@ -1,0 +1,24 @@
+<div class="auth-container">
+  <h1><%= t("auth.log_in_title") %></h1>
+  <p class="subtitle"><%= t("auth.welcome") %></p>
+
+  <%= form_with url: session_path, class: "auth-form" do |form| %>
+    <div class="field">
+      <%= form.label :email_address, t("auth.email") %>
+      <%= form.email_field :email_address, required: true, autofocus: true, autocomplete: "username", placeholder: "you@example.com", value: params[:email_address] %>
+    </div>
+
+    <div class="field">
+      <%= form.label :password, t("auth.password") %>
+      <%= form.password_field :password, required: true, autocomplete: "current-password", maxlength: 72 %>
+    </div>
+
+    <div class="form-actions">
+      <%= form.submit t("auth.sign_in"), class: "btn btn-full" %>
+    </div>
+  <% end %>
+
+  <div class="auth-links">
+    <%= link_to t("auth.forgot_password"), new_password_path %>
+  </div>
+</div>

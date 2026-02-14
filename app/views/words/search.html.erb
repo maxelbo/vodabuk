@@ -1,0 +1,22 @@
+<%= turbo_frame_tag "results" do %>
+  <% if @words.any? %>
+    <p class="word-count"><%= @pagy.from %>–<%= @pagy.to %> / <%= @pagy.count %></p>
+    <div class="word-list">
+      <% @words.each do |word| %>
+        <div class="word-entry">
+          <div class="word-entry-head">
+            <h3><%= link_to word.word, word_path(word), data: { turbo_frame: "_top" } %></h3>
+            <span class="category"><%= word.category %></span>
+          </div>
+          <p class="translations"><%= word.translations.select { |tr| tr.lang == t("lang_key") }.map(&:text).join(", ") %></p>
+          <% word.examples.select { |ex| ex.lang == t("lang_key") }.each do |ex| %>
+            <p class="word-example"><%= ex.text %></p>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+    <%== pagy_nav(@pagy) if @pagy.pages > 1 %>
+  <% else %>
+    <p><%= t("words.no_results", query: @query) %></p>
+  <% end %>
+<% end %>

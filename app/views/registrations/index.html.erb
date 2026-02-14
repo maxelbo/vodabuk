@@ -1,0 +1,21 @@
+<h1><%= t("auth.manage_users") %></h1>
+
+<%= link_to t("auth.add_user"), new_registration_path, class: "btn btn-small" %>
+
+<div class="users-list">
+  <% @users.each do |user| %>
+    <div class="user-entry">
+      <div class="user-info">
+        <span class="user-email"><%= user.email_address %></span>
+        <% if user.admin? %>
+          <span class="badge badge-admin">admin</span>
+        <% end %>
+      </div>
+      <div class="user-actions">
+        <% unless user == Current.user %>
+          <%= button_to t("words.delete"), registration_path(user), method: :delete, class: "btn btn-small btn-danger", data: { turbo_confirm: t("words.delete_confirm") } %>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</div>

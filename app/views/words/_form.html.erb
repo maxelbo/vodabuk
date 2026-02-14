@@ -1,0 +1,81 @@
+<%= form_with model: @word, class: "word-form" do |f| %>
+  <% if @word.errors.any? %>
+    <div class="error-explanation">
+      <ul>
+        <% @word.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :word, t("form.word_label") %>
+    <%= f.text_field :word, required: true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :category, t("form.category_label") %>
+    <%= f.select :category, ["n.", "v.", "adj.", "adv.", "prep.", "conj.", "interj.", "int.", "pron.", "dem. pron.", "act. part.", "tr.", "num.", "g."], include_blank: t("form.select_category") %>
+  </div>
+
+  <fieldset data-controller="nested-form">
+    <legend><%= t("form.translations_legend") %></legend>
+
+    <template data-nested-form-target="template">
+      <div class="nested-entry" data-nested-form-target="entry">
+        <select name="word[translations_attributes][NEW_RECORD][lang]">
+          <option value="english">English</option>
+          <option value="esperanto">Esperanto</option>
+          <option value="volapuk">Volapük</option>
+        </select>
+        <input type="text" name="word[translations_attributes][NEW_RECORD][text]" placeholder="<%= t("form.translation_placeholder") %>">
+        <button type="button" data-action="nested-form#remove" class="btn btn-small btn-danger"><%= t("form.remove") %></button>
+      </div>
+    </template>
+
+    <%= f.fields_for :translations do |tf| %>
+      <div class="nested-entry" data-nested-form-target="entry">
+        <%= tf.hidden_field :id %>
+        <%= tf.select :lang, [["English", "english"], ["Esperanto", "esperanto"], ["Volapük", "volapuk"]] %>
+        <%= tf.text_field :text, placeholder: t("form.translation_placeholder") %>
+        <%= tf.hidden_field :_destroy, value: "0", class: "destroy-field" %>
+        <button type="button" data-action="nested-form#remove" class="btn btn-small btn-danger"><%= t("form.remove") %></button>
+      </div>
+    <% end %>
+
+    <button type="button" data-action="nested-form#add" class="btn btn-small"><%= t("form.add_translation") %></button>
+  </fieldset>
+
+  <fieldset data-controller="nested-form">
+    <legend><%= t("form.examples_legend") %></legend>
+
+    <template data-nested-form-target="template">
+      <div class="nested-entry" data-nested-form-target="entry">
+        <select name="word[examples_attributes][NEW_RECORD][lang]">
+          <option value="english">English</option>
+          <option value="esperanto">Esperanto</option>
+          <option value="volapuk">Volapük</option>
+        </select>
+        <input type="text" name="word[examples_attributes][NEW_RECORD][text]" placeholder="<%= t("form.example_placeholder") %>">
+        <button type="button" data-action="nested-form#remove" class="btn btn-small btn-danger"><%= t("form.remove") %></button>
+      </div>
+    </template>
+
+    <%= f.fields_for :examples do |ef| %>
+      <div class="nested-entry" data-nested-form-target="entry">
+        <%= ef.hidden_field :id %>
+        <%= ef.select :lang, [["English", "english"], ["Esperanto", "esperanto"], ["Volapük", "volapuk"]] %>
+        <%= ef.text_field :text, placeholder: t("form.example_placeholder") %>
+        <%= ef.hidden_field :_destroy, value: "0", class: "destroy-field" %>
+        <button type="button" data-action="nested-form#remove" class="btn btn-small btn-danger"><%= t("form.remove") %></button>
+      </div>
+    <% end %>
+
+    <button type="button" data-action="nested-form#add" class="btn btn-small"><%= t("form.add_example") %></button>
+  </fieldset>
+
+  <div class="form-actions">
+    <%= f.submit class: "btn" %>
+  </div>
+<% end %>

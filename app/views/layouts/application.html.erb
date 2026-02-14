@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="<%= I18n.locale %>">
+<head>
+  <title>Vödabuk</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <%= favicon_link_tag "icon.png" %>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= stylesheet_link_tag "application" %>
+  <%= javascript_importmap_tags %>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="nav-left">
+        <%= link_to root_path, class: "logo" do %>
+          <%= image_tag "icon.png", alt: "Vödabuk", class: "logo-icon" %>
+          Vödabuk
+        <% end %>
+      </div>
+      <div class="nav-right">
+        <select class="lang-select" onchange="window.location.href = this.value">
+            <% I18n.available_locales.each do |loc| %>
+              <option value="<%= url_for(request.query_parameters.merge(locale: loc)) %>" <%= 'selected' if I18n.locale == loc %>><%= t("language_name", locale: loc) %></option>
+            <% end %>
+          </select>
+          <%= link_to t("nav.about"), about_path, class: "nav-link" %>  
+        <% if Current.user %>
+          <div class="user-menu" data-controller="dropdown">
+            <button class="user-icon" data-action="click->dropdown#toggle" type="button" aria-label="User menu">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                <circle cx="12" cy="7" r="4"/>
+              </svg>
+              <% if unseen_activity? %>
+                <span class="notification-badge"></span>
+              <% end %>
+            </button>
+            <div class="dropdown-menu" data-dropdown-target="menu" hidden>
+              <div class="dropdown-header"><%= Current.user.email_address %></div>
+              <div class="dropdown-divider"></div>
+              <%= link_to t("nav.new_word"), new_word_path, class: "dropdown-item" %>
+              <% if Current.user.admin? %>
+                <%= link_to t("nav.users"), registrations_path, class: "dropdown-item" %>
+                <%= link_to t("nav.activity"), activity_path, class: "dropdown-item" %>
+              <% end %>
+              <div class="dropdown-divider"></div>
+              <%= button_to t("nav.log_out"), session_path, method: :delete, class: "dropdown-item dropdown-item-danger" %>
+            </div>
+          </div>
+        <% else %>
+          <%= link_to t("nav.log_in"), new_session_path, class: "btn btn-small" %>
+        <% end %>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <% if notice %>
+      <p class="flash flash-notice"><%= notice %></p>
+    <% end %>
+    <% if alert %>
+      <p class="flash flash-alert"><%= alert %></p>
+    <% end %>
+    <%= yield %>
+  </main>
+
+  <footer>
+    <p><%= t("site.title") %> <%= Time.current.year %> — <%= t("site.footer") %></p>
+  </footer>
+</body>
+</html>

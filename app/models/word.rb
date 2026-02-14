@@ -1,9 +1,11 @@
 class Word < ApplicationRecord
+  ALPHABET = %w(a ä b c d e f g h i j k l m n o ö p r s t u ü v x y z).freeze
+  
   has_many :translations, dependent: :destroy
   has_many :examples, dependent: :destroy
 
-  accepts_nested_attributes_for :translations, allow_destroy: true
-  accepts_nested_attributes_for :examples, allow_destroy: true
+  accepts_nested_attributes_for :translations, allow_destroy: true, reject_if: :all_blank
+  accepts_nested_attributes_for :examples, allow_destroy: true, reject_if: :all_blank
 
   validates :lang, presence: true
   validates :word, presence: true, uniqueness: { scope: :lang }
@@ -11,7 +13,28 @@ class Word < ApplicationRecord
 
   before_save :set_letter
 
-  serialize :roots, JSON
+  def to_param
+    word
+  end
+
+  serialize :roots, coder: JSON
+
+  def display_word
+    word.to_s.strip.upcase_first
+  end
+
+  def display_category
+    category.to_s.strip.upcase_first
+  end
+
+  def translations_for(lang_key)
+    text = translations.select { |t| t.lang == lang_key.to_s }.map(&:text).join(", ")
+    text.upcase_first
+  end
+
+  def examples_for(lang_key)
+    examples.select { |e| e.lang == lang_key.to_s }
+  end
 
   def as_json(options = {})
     json = super(options.merge(only: [:word, :roots, :lang, :letter, :category], include: {
@@ -24,6 +47,10 @@ class Word < ApplicationRecord
     json['examples'] ||= []
 
     json
+  end
+
+  def self.alphabet
+    ALPHABET
   end
 
   private

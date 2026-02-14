@@ -1,0 +1,19 @@
+<h1><%= t("activity.title") %></h1>
+
+<div class="activity-log">
+  <% @activities.each do |activity| %>
+    <div class="activity-entry">
+      <span class="activity-action activity-<%= activity.action %>"><%= t("activity.#{activity.action}") %></span>
+      <% if activity.word %>
+        <%= link_to activity.word_snapshot, word_path(activity.word) %>
+      <% else %>
+        <span class="activity-word-deleted"><%= activity.word_snapshot %></span>
+      <% end %>
+      <span class="activity-meta">
+        <%= activity.user.email_address %> &middot; <%= l(activity.created_at, format: :short) %>
+      </span>
+    </div>
+  <% end %>
+</div>
+
+<%== pagy_nav(@pagy) %>

@@ -1,0 +1,13 @@
+<h1><%= t("words.by_letter_title", letter: @letter.upcase) %></h1>
+
+<%= render "search_nav", active_letter: @letter %>
+
+<% if @words.any? %>
+  <p class="word-count"><%= @pagy.from %>–<%= @pagy.to %> / <%= @pagy.count %></p>
+  <div class="word-list">
+    <%= render @words %>
+  </div>
+  <%== pagy_nav(@pagy) if @pagy.pages > 1 %>
+<% else %>
+  <p><%= t("words.no_letter_results", letter: @letter.upcase) %></p>
+<% end %>

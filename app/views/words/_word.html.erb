@@ -1,0 +1,25 @@
+<%# app/views/words/_word.html.erb %>
+<%= link_to word_path(word), class: "word-entry", data: { turbo_frame: "_top" } do %>
+  <div class="word-entry-head">
+    <h3><%= word.display_word %></h3>
+    <span class="category"><%= word.display_category %></span>
+  </div>
+
+  <p class="translations">
+    <%= word.translations_for(t("lang_key")) %>
+  </p>
+
+  <% examples = word.examples_for(t("lang_key")) %>
+  <% if examples.any? %>
+    <div class="word-examples-wrap">
+      <div class="word-examples">
+        <% examples.each do |ex| %>
+          <p class="word-example"><%= ex.text %></p>
+        <% end %>
+      </div>
+      <% if examples.size > 3 %>
+        <div class="word-examples-fade"></div>
+      <% end %>
+    </div>
+  <% end %>
+<% end %>

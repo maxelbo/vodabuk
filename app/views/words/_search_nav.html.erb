@@ -1,0 +1,35 @@
+<%= form_with url: search_words_path, method: :get, class: "search-form", data: { turbo_frame: "results" } do |f| %>
+  <div class="search-input-wrap">
+    <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+    </svg>
+    <%= f.search_field :q, placeholder: t("words.search_placeholder"), value: params[:q], autofocus: true %>
+    <button type="submit" class="search-btn" aria-label="<%= t('words.search_button') %>">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m5 12h14"/><path d="m12 5 7 7-7 7"/>
+      </svg>
+    </button>
+  </div>
+<% end %>
+
+<nav class="alphabet">
+  <button type="button" class="alphabet-arrow" data-direction="left" aria-label="Scroll left">&lsaquo;</button>
+  <div class="alphabet-letters">
+    <% Word::ALPHABET.each do |letter| %>
+      <%= link_to letter.upcase,
+        by_letter_words_path(letter: letter),
+        class: (letter == local_assigns[:active_letter] ? "active" : "") %>
+    <% end %>
+  </div>
+  <button type="button" class="alphabet-arrow" data-direction="right" aria-label="Scroll right">&rsaquo;</button>
+</nav>
+
+<script>
+  document.querySelectorAll('.alphabet-arrow').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const letters = btn.closest('.alphabet').querySelector('.alphabet-letters');
+      const distance = letters.clientWidth * 0.6;
+      letters.scrollBy({ left: btn.dataset.direction === 'left' ? -distance : distance });
+    });
+  });
+</script>

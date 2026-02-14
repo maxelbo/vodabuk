@@ -1,31 +1,77 @@
-# Files in the config/locales directory are used for internationalization and
-# are automatically loaded by Rails. If you want to use locales other than
-# English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t "hello"
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t("hello") %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# To learn more about the API, please read the Rails Internationalization guide
-# at https://guides.rubyonrails.org/i18n.html.
-#
-# Be aware that YAML interprets the following case-insensitive strings as
-# booleans: `true`, `false`, `on`, `off`, `yes`, `no`. Therefore, these strings
-# must be quoted to be interpreted as strings. For example:
-#
-#     en:
-#       "yes": yup
-#       enabled: "ON"
-
 en:
-  hello: "Hello world"
+  language_name: "English"
+  lang_key: "english"
+  site:
+    title: "Vödabuk"
+    subtitle: "A Volapük Dictionary"
+    footer: "A Volapük Dictionary by the Conlang Brotherhood."
+  about:
+    title: "About Vödabuk"
+    intro: "Vödabuk is a Volapük dictionary application designed to make the Volapük language more accessible to everyone."
+    count_html: "It currently has <strong>%{total_count}</strong> Volapük words in its database, with translations in English and Esperanto (currently, it has %{eo_count} words in Esperanto)."
+    contact_html: "The dictionary is in continuous development. If you find any errors or have suggestions for improvements, please feel free to contact %{email_link} or open an issue on the %{repo_link}."
+    repository: "repository"
+    sources_title: "Sources"
+    sources_html: "The English translations are based on the combined works of the late Ralph Midgley (1929–2024), Guvan of the Volapük Community and Honorary Academician of the International Volapük Society. It draws from his <em>\"Volapük-English Dictionary\"</em> and <em>\"English-Volapük Dictionary\"</em>, both revised in 2010, and his translation of <em>\"Vödabuk Volapüka pro Deutänapükans\"</em> by Arie de Jong (1931), which was revised and completed from 2012–2022 by Cifal Hermann Philipps. It also includes additional examples extracted from sample texts from Volapük Vifik, and readings from volapük.com.<br>The Esperanto translations are based on <em>\"Vortaro Volapük–Esperanto kaj Esperanto–Volapük\"</em> by André Cherpillod."
+    words: "words"
+    back: "Back to Search"
+  nav:
+    about: "About"
+    new_word: "New Word"
+    users: "Users"
+    activity: "Activity"
+    log_in: "Log in"
+    log_out: "Log out"
+  words:
+    search_placeholder: "Search words..."
+    search_button: "Search"
+    search_results: "Search results for \"%{query}\""
+    no_results: "No words found matching \"%{query}\"."
+    by_letter_title: "Words starting with \"%{letter}\""
+    no_letter_results: "No words found starting with \"%{letter}\"."
+    back: "Back"
+    back_to_dictionary: "Back to dictionary"
+    roots: "Roots"
+    translations: "Translations"
+    examples: "Examples"
+    edit: "Edit"
+    delete: "Delete"
+    delete_confirm: "Are you sure?"
+    add_word: "Add Word"
+    edit_word: "Edit: %{word}"
+    word_added: "Word added successfully."
+    word_updated: "Word updated successfully."
+    word_deleted: "Word deleted."
+  auth:
+    log_in_title: "Log in"
+    welcome: "Welcome back to Vödabuk"
+    email: "Email"
+    password: "Password"
+    password_confirm: "Confirm password"
+    sign_in: "Sign in"
+    forgot_password: "Forgot password?"
+    manage_users: "Manage Users"
+    add_user: "Add User"
+    create_user: "Create User"
+    user_created: "User created successfully."
+    user_deleted: "User deleted."
+    cannot_delete_self: "You cannot delete yourself."
+    not_authorized: "Not authorized."
+    back_to_users: "Back to users"
+  form:
+    word_label: "Word"
+    category_label: "Category"
+    select_category: "Select category"
+    translations_legend: "Translations"
+    examples_legend: "Examples"
+    add_translation: "Add Translation"
+    add_example: "Add Example"
+    remove: "Remove"
+    language: "Language"
+    translation_placeholder: "Translation"
+    example_placeholder: "Example"
+  activity:
+    title: "Activity Log"
+    created: "Created"
+    updated: "Updated"
+    deleted: "Deleted"
