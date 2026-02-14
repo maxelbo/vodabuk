@@ -1,5 +1,14 @@
 require 'json'
 
+# Create admin user
+if ENV["ADMIN_EMAIL"].present? && ENV["ADMIN_PASSWORD"].present?
+  User.find_or_create_by!(email_address: ENV["ADMIN_EMAIL"]) do |u|
+    u.password = ENV["ADMIN_PASSWORD"]
+    u.admin = true
+    puts "Admin user created: #{ENV["ADMIN_EMAIL"]}"
+  end
+end
+
 ActiveRecord::Base.transaction do
   file_path = Rails.root.join('db', 'data', 'dictionaryData.json')
 
