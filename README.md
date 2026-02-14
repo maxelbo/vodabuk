@@ -1,59 +1,29 @@
 # Vödabuk
 
-[Vödabuk](https://vodabuk.com) is a Volapük dictionary application created for the International Volapük Society. It provides an easy-to-use interface to explore and manage over 8,000 words in the Volapük language.
+[Vödabuk](https://vodabuk.com) is a Volapük dictionary application for the International Volapük Society. It provides tools to search and manage a database of more than 9,000 Volapük words.
+
+### Historical Context
+Volapük was published in 1879 by **Fr. Johann Martin Schleyer**, a German Catholic priest. Fr. Schleyer designed the language to facilitate international communication. At its height in the late 1880s, the movement included over 200,000 speakers and dozens of publications. This project digitizes that lexicon for modern use.
 
 ## Features
 
-- Browse and search the Volapük dictionary
-- Filter words by letter
-- View translations and usage examples
-- Interface available in English, Esperanto, and Volapük
-- Admin panel for managing words and tracking edit activity
-- JSON API for programmatic access
+* **Search & Filter:** Browse the dictionary by letter or search terms.
+* **Trilingual UI:** Interface available in English, Esperanto, and Volapük.
+* **Linguistic Data:** View translations, usage examples, and word roots.
+* **Admin Panel:** Tools for word management and activity tracking.
+* **JSON API:** Programmatic access to the dictionary database.
 
 ## Sources
 
-The English translations are based on the combined works of the late Ralph Midgley (1929–2024), Guvan of the Volapük Community and Honorary Academician of the International Volapük Society. It draws from his "Volapük-English Dictionary" and "English-Volapük Dictionary", both revised in 2010, and his translation of "Vödabuk Volapüka pro Deutänapükans" by Arie de Jong (1931), which was revised and completed from 2012–2022 by Cifal Hermann Philipps. It also includes additional examples extracted from sample texts from Volapük Vifik, and readings from volapük.com.
-The Esperanto translations are based on "Vortaro Volapük–Esperanto kaj Esperanto–Volapük" by André Cherpillod.
+The English translations are based on the combined works of the late **Ralph Midgley** (1929–2024), Guvan of the Volapük Community and Honorary Academician of the International Volapük Society. It draws from his "Volapük-English Dictionary" and "English-Volapük Dictionary", both revised in 2010, and his translation of "Vödabuk Volapüka pro Deutänapükans" by **Arie de Jong** (1931), which was revised and completed from 2012–2022 by Cifal **Hermann Philipps**. It also includes additional examples extracted from sample texts from Volapük Vifik, and readings from volapük.com.
+The Esperanto translations are based on "Vortaro Volapük–Esperanto kaj Esperanto–Volapük" by **André Cherpillod**.
 
 ## Tech Stack
 
-- Ruby 3.4.1
-- Rails 8.0
-- PostgreSQL
-- Hotwire (Turbo + Stimulus)
-- Pagy for pagination
-
-## Getting Started
-
-### Prerequisites
-
-- Ruby 3.4.1
-- PostgreSQL
-
-### Installation
-
-```sh
-git clone https://github.com/maxelbo/vodabuk-api.git
-cd vodabuk-api
-bundle install
-```
-
-### Database Setup
-
-```sh
-rails db:create
-rails db:migrate
-rails db:seed
-```
-
-### Running the Server
-
-```sh
-bin/dev
-```
-
-The app will be available at http://localhost:3000.
+- **Language**: Ruby 3.4.1
+- **Framework:** Rails 8.0 (Hotwire: Turbo + Stimulus)
+- **Database**: PostgreSQL
+- **Pagination**: Pagy
 
 ## API
 
