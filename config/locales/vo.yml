@@ -49,7 +49,7 @@ vo:
     password: "Letavöd"
     password_confirm: "Fümedön letavödi"
     sign_in: "Nunädön"
-    forgot_password: "Letavöd pefogivon?"
+    forgot_password: "Letavöd pefogivon? Penolös ad glidis@vodabuk.com"
     manage_users: "Dälön gebanis"
     add_user: "Läükön gebani"
     create_user: "Jafön gebani"

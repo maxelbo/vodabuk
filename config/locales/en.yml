@@ -49,7 +49,7 @@ en:
     password: "Password"
     password_confirm: "Confirm password"
     sign_in: "Sign in"
-    forgot_password: "Forgot password?"
+    forgot_password: "Forgot password? Contact glidis@vodabuk.com"
     manage_users: "Manage Users"
     add_user: "Add User"
     create_user: "Create User"

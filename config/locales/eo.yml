@@ -49,7 +49,7 @@ eo:
     password: "Pasvorto"
     password_confirm: "Konfirmi pasvorton"
     sign_in: "Ensaluti"
-    forgot_password: "Forgesita pasvorto?"
+    forgot_password: "Forgesita pasvorto? Skribu al glidis@vodabuk.com"
     manage_users: "Administri uzantojn"
     add_user: "Aldoni uzanton"
     create_user: "Krei uzanton"
