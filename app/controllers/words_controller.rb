@@ -10,10 +10,39 @@ class WordsController < ApplicationController
 
   def search
     @query = params[:q].to_s.strip
-    @pagy, @words = pagy(Word.where(lang: 'volapuk')
-                             .where("word ILIKE ?", "%#{@query}%")
-                             .includes(:translations, :examples)
-                             .order(:word))
+    return @pagy, @words = pagy(Word.none) if @query.blank?
+
+    lang_key = I18n.t("lang_key")
+    normalized = @query.downcase.gsub(/[.,\/#!$%^&*;:{}=_`~()]/, "").squish
+
+    scope = Word.where(lang: 'volapuk')
+               .left_joins(:translations)
+               .distinct
+               .includes(:translations, :examples)
+               .order(:word)
+
+    # Volapük words: starts-with match
+    volapuk_condition = "LOWER(words.word) LIKE :starts"
+
+    # Translations: word starts-with match
+    # Skip translation search for very short queries (1-2 chars) to avoid noise
+    if normalized.length <= 2
+      scope = scope.where(volapuk_condition, starts: "#{normalized}%")
+    else
+      escaped = Regexp.escape(normalized)
+      translation_condition = "translations.text ~* :word_boundary"
+      if lang_key == "volapuk"
+        scope = scope.where("#{volapuk_condition} OR #{translation_condition}",
+          starts: "#{normalized}%",
+          word_boundary: "\\m#{escaped}")
+      else
+        scope = scope.where("#{volapuk_condition} OR (#{translation_condition} AND translations.lang = :lang)",
+          starts: "#{normalized}%",
+          word_boundary: "\\m#{escaped}", lang: lang_key)
+      end
+    end
+
+    @pagy, @words = pagy(scope)
   end
 
   def by_letter
