@@ -76,6 +76,7 @@
   </fieldset>
 
   <div class="form-actions">
-    <%= f.submit class: "btn" %>
+    <%= link_to "‹ #{t("words.back")}", @word.persisted? ? word_path(@word) : words_path, class: "back-link" %>
+    <%= f.submit @word.persisted? ? t("words.update_word") : t("words.create_word"), class: "btn btn-small" %>
   </div>
 <% end %>

@@ -13,13 +13,17 @@
   <% end %>
 
   <% translations = @word.translations_for(t("lang_key")) %>
-  <% if translations %>
+  <% if translations.present? %>
     <div class="word-section">
       <h2><%= t("words.translations") %></h2>
       <div class="word-cards">
-        <p class="translations">
-          <%= translations %>
-        </p>
+        <% if translations.is_a?(Array) %>
+          <% translations.each do |tr| %>
+            <p class="translations"><span class="translation-label"><%= tr[:label] %>:</span> <%= tr[:text] %></p>
+          <% end %>
+        <% else %>
+          <p class="translations"><%= translations %></p>
+        <% end %>
       </div>
     </div>
   <% end %>
@@ -42,10 +46,12 @@
   <% end %>
 
   <div class="word-actions">
-    <%= link_to t("words.back"), words_path %>
+    <%= link_to "‹ #{t("words.back")}", words_path, class: "back-link" %>
     <% if Current.user %>
-      <%= link_to t("words.edit"), edit_word_path(@word), class: "btn btn-small" %>
-      <%= button_to t("words.delete"), word_path(@word), method: :delete, class: "btn btn-small btn-danger", data: { turbo_confirm: t("words.delete_confirm") } %>
+      <div class="word-actions-right">
+        <%= link_to t("words.edit"), edit_word_path(@word), class: "btn btn-small" %>
+        <%= button_to t("words.delete"), word_path(@word), method: :delete, class: "btn btn-small btn-danger", data: { turbo_confirm: t("words.delete_confirm") } %>
+      </div>
     <% end %>
   </div>
 </div>
