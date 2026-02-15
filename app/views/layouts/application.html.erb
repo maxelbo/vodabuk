@@ -19,11 +19,24 @@
         <% end %>
       </div>
       <div class="nav-right">
-        <select class="lang-select" onchange="window.location.href = this.value">
+        <div class="lang-select" data-controller="dropdown">
+          <button class="lang-select-btn" data-action="click->dropdown#toggle" type="button">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M2 12h20"/>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+            </svg>
+            <%= t("language_name") %>
+            <svg class="lang-select-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </button>
+          <div class="lang-select-menu" data-dropdown-target="menu" hidden>
             <% I18n.available_locales.each do |loc| %>
-              <option value="<%= url_for(request.query_parameters.merge(locale: loc)) %>" <%= 'selected' if I18n.locale == loc %>><%= t("language_name", locale: loc) %></option>
+              <%= link_to t("language_name", locale: loc), url_for(request.query_parameters.merge(locale: loc)), class: "lang-select-option #{'lang-select-active' if I18n.locale == loc}" %>
             <% end %>
-          </select>
+          </div>
+        </div>
           <%= link_to t("nav.about"), about_path, class: "nav-link" %>  
         <% if Current.user %>
           <div class="user-menu" data-controller="dropdown">
