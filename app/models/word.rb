@@ -28,8 +28,21 @@ class Word < ApplicationRecord
   end
 
   def translations_for(lang_key)
-    text = translations.select { |t| t.lang == lang_key.to_s }.map(&:text).join(", ")
-    text.upcase_first
+    if lang_key.to_s == "volapuk"
+      grouped = translations.select { |t| %w[english esperanto].include?(t.lang) }
+                            .group_by(&:lang)
+      parts = []
+      %w[english esperanto].each do |lang|
+        next unless grouped[lang]&.any?
+        label = lang == "english" ? "Linglänik" : "Sperantik"
+        text = grouped[lang].map(&:text).join(", ").upcase_first
+        parts << { label: label, text: text }
+      end
+      parts
+    else
+      text = translations.select { |t| t.lang == lang_key.to_s }.map(&:text).join(", ")
+      text.upcase_first
+    end
   end
 
   def examples_for(lang_key)
