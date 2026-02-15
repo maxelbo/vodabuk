@@ -1,13 +1,17 @@
 eo:
+  time:
+    formats:
+      short: "%d/%m/%Y %H:%M"
   language_name: "Esperanto"
   lang_key: "esperanto"
   site:
     title: "Vödabuk"
     subtitle: "Volapuka Vortaro"
-    footer: "Volapuka Vortaro de la Kunfrataro de la Artefaritaj Lingvoj."
+    footer: "Volapuka Vortaro pro la Internacia Volapuka Societo."
   about:
     title: "Pri Vödabuk"
     intro: "Vödabuk estas reta Volapuka vortaro, kiu celas fari Volapukon pli alirebla al ĉiuj."
+    esperanto: "Esperanto"
     count_html: "Ĝi nuntempe havas <strong>%{total_count}</strong> Volapukajn vortojn en sia datumbazo, kun tradukoj en la angla kaj Esperanto (nuntempe, ĝi havas %{eo_count} vortojn en Esperanto)."
     contact_html: "La vortaro estas en daŭra evoluo. Se vi trovas iun ajn eraron aŭ havas sugestojn por plibonigoj, bonvolu kontakti %{email_link} aŭ malfermi problemon en la %{repo_link}."
     repository: "deponejo"
@@ -38,6 +42,8 @@ eo:
     delete: "Forigi"
     delete_confirm: "Ĉu vi certas?"
     add_word: "Aldoni vorton"
+    create_word: "Krei vorton"
+    update_word: "Ĝisdatigi vorton"
     edit_word: "Redakti: %{word}"
     word_added: "Vorto sukcese aldonita."
     word_updated: "Vorto sukcese ĝisdatigita."

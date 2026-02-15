@@ -4,10 +4,11 @@ en:
   site:
     title: "Vödabuk"
     subtitle: "A Volapük Dictionary"
-    footer: "A Volapük Dictionary by the Conlang Brotherhood."
+    footer: "A Volapük Dictionary for the International Volapük Society."
   about:
     title: "About Vödabuk"
     intro: "Vödabuk is a Volapük dictionary application designed to make the Volapük language more accessible to everyone."
+    esperanto: "Esperanto"
     count_html: "It currently has <strong>%{total_count}</strong> Volapük words in its database, with translations in English and Esperanto (currently, it has %{eo_count} words in Esperanto)."
     contact_html: "The dictionary is in continuous development. If you find any errors or have suggestions for improvements, please feel free to contact %{email_link} or open an issue on the %{repo_link}."
     repository: "repository"
@@ -38,6 +39,8 @@ en:
     delete: "Delete"
     delete_confirm: "Are you sure?"
     add_word: "Add Word"
+    create_word: "Create Word"
+    update_word: "Update Word"
     edit_word: "Edit: %{word}"
     word_added: "Word added successfully."
     word_updated: "Word updated successfully."

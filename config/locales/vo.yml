@@ -1,13 +1,17 @@
 vo:
+  time:
+    formats:
+      short: "%d/%m/%Y %H:%M"
   language_name: "Volapük"
   lang_key: "volapuk"
   site:
     title: "Vödabuk"
     subtitle: "Vödabuk Volapüka"
-    footer: "Vödabuk Volapüka fa Svistef Pükas Mekavik."
+    footer: "Vödabuk Volapüka pro Sog Bevünetik Volapüka."
   about:
     title: "Dö Vödabuk"
     intro: "Vödabuk binon volapükavödabuk, kel diseinon ad brafükön Volapüki."
+    esperanto: "Sperant"
     count_html: "Anu labob <strong>%{total_count}</strong> vödis volapükas in nünodem onik, sa tradutods in Linglänapük et el Esperanto."
     contact_html: "Vödabuk pebemadon jülo. If tuvol pölis u labol tisäkamis ad gudükam, penolös obe al %{email_link} od maifükols bosi in %{repo_link}."
     repository: "gität"
@@ -29,8 +33,8 @@ vo:
     no_results: "Vöds nonik petuvons pro \"%{query}\"."
     by_letter_title: "Vöds primöls me \"%{letter}\""
     no_letter_results: "Vöds nonik petuvons primöls me \"%{letter}\"."
-    back: "Seifü"
-    back_to_dictionary: "Seifü ad vödabuk"
+    back: "Geö"
+    back_to_dictionary: "Geö ad vödabuk"
     roots: "Stäms"
     translations: "Tradutods"
     examples: "Samps"
@@ -38,6 +42,8 @@ vo:
     delete: "Moükön"
     delete_confirm: "Vilol-li suno?"
     add_word: "Läükön vödi"
+    create_word: "Jafön vödi"
+    update_word: "Votükön vödi"
     edit_word: "Redakön: %{word}"
     word_added: "Vöd peläükon benosekiko."
     word_updated: "Vöd pevotükon benosekiko."
@@ -57,7 +63,7 @@ vo:
     user_deleted: "Geban pemoükon."
     cannot_delete_self: "No kanol moükön oli."
     not_authorized: "No dalol."
-    back_to_users: "Seifü ad gebans"
+    back_to_users: "Geö ad gebans"
   form:
     word_label: "Vöd"
     category_label: "Klad"
