@@ -11762,21 +11762,6 @@
     ]
   },
   {
-    "word": "cögapiäd",
-    "lang": "volapuk",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a chess piece"
-      },
-      {
-        "lang": "esperanto",
-        "text": "ŝakpeco"
-      }
-    ]
-  },
-  {
     "word": "cögik",
     "lang": "volapuk",
     "category": "adj.",
@@ -11803,6 +11788,36 @@
       {
         "lang": "esperanto",
         "text": "ludi ŝakojn"
+      }
+    ]
+  },
+  {
+    "word": "cögapiäd",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chess piece"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝakpeco"
+      }
+    ]
+  },
+  {
+    "word": "cögaboed",
+    "lang": "volapuk",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a chess board"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ŝaktabulo"
       }
     ]
   },
