@@ -34082,7 +34082,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a horse"
+        "text": "a horse, a knight (chess)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉevalo, ĉevalo (ŝako)"
       }
     ]
   },
@@ -69167,7 +69171,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a messenger, a summoner"
+        "text": "a messenger, a summoner, a bishop (chess)"
       }
     ]
   },
