@@ -85924,11 +85924,15 @@
   {
     "word": "sirkülükön",
     "lang": "volapuk",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to (cause to) circulate"
+      },
+      {
+        "lang": "esperanto",
+        "text": "cirkuligi"
       }
     ]
   },
@@ -85940,6 +85944,10 @@
       {
         "lang": "english",
         "text": "a syrup"
+      },
+      {
+        "lang": "esperanto",
+        "text": "siropo"
       }
     ]
   },
@@ -85951,6 +85959,10 @@
       {
         "lang": "english",
         "text": "for, since"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ekde, de post"
       }
     ]
   },
