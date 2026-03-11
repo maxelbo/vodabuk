@@ -10,16 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.0].define(version: 2026_02_14_175329) do
+ActiveRecord::Schema[8.0].define(version: 2026_03_07_000002) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
 
   create_table "examples", force: :cascade do |t|
     t.integer "word_id", null: false
-    t.string "lang", null: false
-    t.string "text"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "volapuk"
+    t.string "english"
+    t.string "esperanto"
+    t.string "note"
     t.index ["word_id"], name: "index_examples_on_word_id"
   end
 

@@ -19,7 +19,7 @@
     <div class="word-examples-wrap">
       <div class="word-examples">
         <% examples.each do |ex| %>
-          <p class="word-example"><%= ex.text %></p>
+          <p class="word-example"><%= ex.display_for(t("lang_key")) %></p>
         <% end %>
       </div>
       <% if examples.size > 3 %>

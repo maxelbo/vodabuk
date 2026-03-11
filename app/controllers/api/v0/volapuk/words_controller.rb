@@ -54,7 +54,7 @@ class Api::V0::Volapuk::WordsController < Api::BaseController
       :lang, :word, :letter, :category, # Simple symbols first
       roots: [],                         # Array-type parameters next
       translations_attributes: [:id, :lang, :text, :_destroy], # Nested attributes last
-      examples_attributes: [:id, :lang, :text, :_destroy]
+      examples_attributes: [:id, :volapuk, :english, :esperanto, :note, :_destroy]
     )
   end
 end

@@ -28,20 +28,20 @@
     </div>
   <% end %>
 
-  <% examples = @word.examples.select { |e| e.lang == t("lang_key") } %>
+  <% examples = @word.examples_for(t("lang_key")) %>
   <% if examples.any? %>
     <div class="word-section">
       <h2><%= t("words.examples") %></h2>
       <div class="word-examples-wrap">
-      <div class="word-examples">
-        <% examples.each do |ex| %>
-          <p class="word-example"><%= ex.text %></p>
+        <div class="word-examples">
+          <% examples.each do |ex| %>
+            <p class="word-example"><%= ex.display_for(t("lang_key")) %></p>
+          <% end %>
+        </div>
+        <% if examples.size > 3 %>
+          <div class="word-examples-fade"></div>
         <% end %>
       </div>
-      <% if examples.size > 3 %>
-        <div class="word-examples-fade"></div>
-      <% end %>
-    </div>
     </div>
   <% end %>
 

@@ -46,13 +46,20 @@ class Word < ApplicationRecord
   end
 
   def examples_for(lang_key)
-    examples.select { |e| e.lang == lang_key.to_s }
+    case lang_key.to_s
+    when "english"
+      examples.select { |e| e.english.present? || e.note? }
+    when "esperanto"
+      examples.select { |e| e.esperanto.present? || e.note? }
+    else # volapuk
+      examples.to_a
+    end
   end
 
   def as_json(options = {})
     json = super(options.merge(only: [:word, :roots, :lang, :letter, :category], include: {
       translations: { only: [:lang, :text] },
-      examples: { only: [:lang, :text] },
+      examples: { only: [:volapuk, :english, :esperanto, :note] },
     }))
     
     # As empty arrays, instead of Null
