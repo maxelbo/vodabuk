@@ -15142,6 +15142,10 @@
       {
         "lang": "english",
         "text": "a finger"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fingro"
       }
     ]
   },
@@ -15162,30 +15166,66 @@
       {
         "lang": "english",
         "text": "a thimble"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fingringo"
       }
     ]
   },
   {
-    "word": "doatanuel",
+    "word": "doatalin",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a fingernail"
+        "text": "a finger ring"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fingroringo"
       }
     ]
   },
   {
     "word": "doatön",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to touch"
+        "text": "to touch, to feel, to palpate"
       },
       {
         "lang": "esperanto",
         "text": "palpi"
+      }
+    ]
+  },
+  {
+    "word": "dob",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "falseness, incorrectness, wrongness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malĝusteco"
+      }
+    ]
+  },
+  {
+    "word": "dobäl",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "disingenuity, insincerity, uncandidness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "falseco"
       }
     ]
   },
@@ -15195,7 +15235,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "false"
+        "text": "dubious, diningenious, false, insincere, uncandid"
+      },
+      {
+        "lang": "esperanto",
+        "text": "falsa"
       }
     ]
   },
