@@ -15216,6 +15216,27 @@
     ]
   },
   {
+    "word": "dobik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "false, incorrect, wrong"
+      },
+      {
+        "lang": "esperanto",
+        "text": "falsa"
+      }
+    ],
+    "examples": [
+      {
+        "volapuk": "Lefilalaram dobik",
+        "english": "False fire alarm",
+        "esperanto": "Falsa fajroalarmo"
+      }
+    ]
+  },
+  {
     "word": "dobäl",
     "category": "n.",
     "translations": [
@@ -15240,16 +15261,6 @@
       {
         "lang": "esperanto",
         "text": "falsa"
-      }
-    ]
-  },
-  {
-    "word": "dobik",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "false, wrong"
       }
     ]
   },
