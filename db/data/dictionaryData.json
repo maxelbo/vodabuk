@@ -15416,11 +15416,15 @@
   },
   {
     "word": "dolön",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to hurt"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dolori"
       }
     ]
   },
