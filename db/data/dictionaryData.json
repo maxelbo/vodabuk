@@ -15310,7 +15310,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "dull"
+        "text": "dark (of color), dull"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malhela"
       }
     ]
   },
@@ -15321,6 +15325,24 @@
       {
         "lang": "english",
         "text": "a dog"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hundo"
+      }
+    ]
+  },
+  {
+    "word": "doeg",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a mastiff, a Great Dane, an English bulldog"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dogo"
       }
     ]
   },
