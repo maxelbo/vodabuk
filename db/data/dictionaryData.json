@@ -15305,6 +15305,34 @@
     ]
   },
   {
+    "word": "dof",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "darkness (of color), dullness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malheleco"
+      }
+    ]
+  },
+  {
+    "word": "dofön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be dark (of color), to be dull"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti malhela, malheli"
+      }
+    ]
+  },
+  {
     "word": "dofik",
     "category": "adj.",
     "translations": [
