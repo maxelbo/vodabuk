@@ -15951,6 +15951,24 @@
       {
         "lang": "english",
         "text": "a dragon"
+      },
+      {
+        "lang": "esperanto",
+        "text": "drako"
+      }
+    ]
+  },
+  {
+    "word": "dramat",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a drama, a play, a theatrica performance"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dramo"
       }
     ]
   },
@@ -15960,7 +15978,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an actor"
+        "text": "an actor (theatre, film)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "teatra aktoro"
       }
     ]
   },
@@ -15970,7 +15992,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "drama"
+        "text": "dramaturgy (the theory and practice of dramatic compositions)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dramaturgio"
       }
     ]
   },
