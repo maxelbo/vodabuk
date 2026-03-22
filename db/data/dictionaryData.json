@@ -15973,6 +15973,34 @@
     ]
   },
   {
+    "word": "dramatik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dramic"
+      },
+      {
+        "lang": "esperanto",
+        "text": "drama"
+      }
+    ]
+  },
+  {
+    "word": "dramatön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to dramatise"
+      },
+      {
+        "lang": "esperanto",
+        "text": "dramigi"
+      }
+    ]
+  },
+  {
     "word": "dramatan",
     "category": "n.",
     "translations": [
@@ -15997,16 +16025,6 @@
       {
         "lang": "esperanto",
         "text": "dramaturgio"
-      }
-    ]
-  },
-  {
-    "word": "dramatön",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to dramatise"
       }
     ]
   },
