@@ -16057,6 +16057,34 @@
     ]
   },
   {
+    "word": "dranik",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "exigent, pressing, urgent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "urĝa"
+      }
+    ]
+  },
+  {
+    "word": "dranön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be pressing / urgent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "urĝi (int.), esti urĝa"
+      }
+    ]
+  },
+  {
     "word": "dranäd",
     "category": "n.",
     "translations": [
@@ -16067,6 +16095,20 @@
       {
         "lang": "esperanto",
         "text": "altrudo"
+      }
+    ]
+  },
+  {
+    "word": "dranädön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be obtrusive / importunate / pushy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti trudema"
       }
     ]
   },
@@ -16101,96 +16143,6 @@
       {
         "lang": "english",
         "text": "urgent"
-      }
-    ]
-  },
-  {
-    "word": "drat",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "wire"
-      }
-    ]
-  },
-  {
-    "word": "drägün",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a dragoon (military)"
-      }
-    ]
-  },
-  {
-    "word": "dran",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "pressure, stress, urge"
-      },
-      {
-        "lang": "esperanto",
-        "text": "urĝeco"
-      }
-    ]
-  },
-  {
-    "word": "dranäd",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "importunity, intrusiveness, meretriciousness, obtrusiveness, pushiness"
-      },
-      {
-        "lang": "esperanto",
-        "text": "altrudo"
-      }
-    ]
-  },
-  {
-    "word": "dranädön",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be obtrusive / importunate / pushy"
-      },
-      {
-        "lang": "esperanto",
-        "text": "esti trudema"
-      }
-    ]
-  },
-  {
-    "word": "dranik",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "exigent, pressing, urgent"
-      },
-      {
-        "lang": "esperanto",
-        "text": "urĝa"
-      }
-    ]
-  },
-  {
-    "word": "dranön",
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to be pressing / urgent"
-      },
-      {
-        "lang": "esperanto",
-        "text": "urĝi (int.), esti urĝa"
       }
     ]
   },
@@ -16233,6 +16185,34 @@
       {
         "lang": "esperanto",
         "text": "urĝi (tr.), urĝigi"
+      }
+    ]
+  },
+  {
+    "word": "drat",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a wire, a metallic thread"
+      },
+      {
+        "lang": "esperanto",
+        "text": "drato"
+      }
+    ]
+  },
+  {
+    "word": "drägun",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a dragoon (military, member of a cavalry unit)"
+      },
+      {
+        "lang": "english",
+        "text": "dragono"
       }
     ]
   },
