@@ -85226,25 +85226,59 @@
     "translations": [
       {
         "lang": "english",
-        "text": "(act of) rummaging"
+        "text": "(act of) digging / raking, (act of) rummaging"
       },
       {
         "lang": "esperanto",
-        "text": "fosserĉado"
+        "text": "enfosado, fosserĉado"
       }
     ]
   },
   {
     "word": "störön",
-    "category": "n.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
-        "text": "to rummage"
+        "text": "to dig, to rake,  to rummage in/around something"
       },
       {
         "lang": "esperanto",
         "text": "enfosi"
+      }
+    ]
+  },
+  {
+    "word": "störan",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "someone who digs or rummages in something"
+      },
+      {
+        "lang": "esperanto",
+        "text": "enfosanto"
+      }
+    ]
+  },
+  {
+    "word": "störöm",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "poker (for fire)"
+      }
+    ]
+  },
+  {
+    "word": "störülön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to shake, vibrate, to jiggle, to joggle, to stir"
       }
     ]
   },
@@ -85539,68 +85573,6 @@
       {
         "lang": "esperanto",
         "text": "sturgo (Acipenseridae)"
-      }
-    ]
-  },
-  {
-    "word": "stör",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "(act of) digging / raking"
-      },
-      {
-        "lang": "esperanto",
-        "text": "enfosado"
-      }
-    ]
-  },
-  {
-    "word": "störön",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to dig, to rake,  to rummage in/around something"
-      },
-      {
-        "lang": "esperanto",
-        "text": "enfosi"
-      }
-    ]
-  },
-  {
-    "word": "störan",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "someone who digs or rummages in something"
-      },
-      {
-        "lang": "esperanto",
-        "text": "enfosanto"
-      }
-    ]
-  },
-  {
-    "word": "störöm",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "poker (for fire)"
-      }
-    ]
-  },
-  {
-    "word": "störülön",
-    "category": "tr.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to shake, vibrate, to jiggle, to joggle, to stir"
       }
     ]
   },
