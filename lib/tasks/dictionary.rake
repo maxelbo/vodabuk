@@ -4,7 +4,7 @@ namespace :dictionary do
     data = JSON.parse(File.read(Rails.root.join("db/data/dictionaryData.json")))
     dupes = data.group_by { |e| e["word"] }.select { |_, v| v.size > 1 }
     if dupes.empty?
-      puts "Vöds telik nonik petuvon."
+      puts "Vöds telik nonik petuvons."
     else
       dupes.each { |word, entries| puts "#{word} (#{entries.size}x)" }
     end
