@@ -103949,12 +103949,26 @@
     ]
   },
   {
+    "word": "zänäd",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "esperanto",
+        "text": "centrigo"
+      }
+    ]
+  },
+  {
     "word": "zäned",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "the average, the standard"
+      },
+      {
+        "lang": "esperanto",
+        "text": "averaĝo, meznombro"
       }
     ]
   },
