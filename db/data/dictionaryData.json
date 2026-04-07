@@ -103963,6 +103963,20 @@
     ]
   },
   {
+    "word": "zänädön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to centralize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "centralizi"
+      }
+    ]
+  },
+  {
     "word": "zäned",
     "category": "n.",
     "translations": [
@@ -103973,6 +103987,20 @@
       {
         "lang": "esperanto",
         "text": "averaĝo, meznombro"
+      }
+    ]
+  },
+  {
+    "word": "zänedasuäm",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "average price"
+      },
+      {
+        "lang": "esperanto",
+        "text": "averaĝa prezo"
       }
     ]
   },
