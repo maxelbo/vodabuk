@@ -104010,7 +104010,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "middle age"
+        "text": "average age"
+      },
+      {
+        "lang": "esperanto",
+        "text": "averaĝa aĝo"
       }
     ]
   },
