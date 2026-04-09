@@ -103991,6 +103991,20 @@
     ]
   },
   {
+    "word": "zänedik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "average, medium"
+      },
+      {
+        "lang": "esperanto",
+        "text": "averaĝa"
+      }
+    ]
+  },
+  {
     "word": "zänedasuäm",
     "category": "n.",
     "translations": [
@@ -104015,16 +104029,6 @@
       {
         "lang": "esperanto",
         "text": "averaĝa aĝo"
-      }
-    ]
-  },
-  {
-    "word": "zänedik",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "average, medium"
       }
     ]
   },
