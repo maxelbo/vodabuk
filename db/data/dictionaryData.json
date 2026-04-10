@@ -103891,6 +103891,20 @@
     ]
   },
   {
+    "word": "zänik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "central"
+      },
+      {
+        "lang": "esperanto",
+        "text": "centra"
+      }
+    ]
+  },
+  {
     "word": "zänabür",
     "category": "n.",
     "translations": [
@@ -103939,16 +103953,6 @@
     ]
   },
   {
-    "word": "zänädön",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to centralize, to concentrate"
-      }
-    ]
-  },
-  {
     "word": "zänäd",
     "category": "n.",
     "translations": [
@@ -103968,7 +103972,7 @@
     "translations": [
       {
         "lang": "english",
-        "text": "to centralize"
+        "text": "to centralize, to concentrate"
       },
       {
         "lang": "esperanto",
@@ -104001,6 +104005,34 @@
       {
         "lang": "esperanto",
         "text": "averaĝa"
+      }
+    ]
+  },
+  {
+    "word": "zänedo",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on average"
+      },
+      {
+        "lang": "esperanto",
+        "text": "averaĝe"
+      }
+    ]
+  },
+  {
+    "word": "zänedöf",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mediocrity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mediokreco, mezaĉeco, malbrileco, senvaloreco"
       }
     ]
   },
