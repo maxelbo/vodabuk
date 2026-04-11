@@ -104037,6 +104037,20 @@
     ]
   },
   {
+    "word": "zänedöfik",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mediocre"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mediokra, mezaĉa, malbrila, senvalora"
+      }
+    ]
+  },
+  {
     "word": "zänedasuäm",
     "category": "n.",
     "translations": [
@@ -104085,6 +104099,20 @@
       {
         "lang": "english",
         "text": "medium (size)"
+      }
+    ]
+  },
+  {
+    "word": "zänodajul",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "secondary school"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mezlernejo, gimnazio, liceo, mezgranda lernejo"
       }
     ]
   },
