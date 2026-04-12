@@ -104093,6 +104093,20 @@
     ]
   },
   {
+    "word": "zänodü",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "in the center of, in the centre of, in the middle of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "meze de, centre de"
+      }
+    ]
+  },
+  {
     "word": "zänodagretik",
     "category": "adj.",
     "translations": [
@@ -104127,6 +104141,20 @@
       {
         "lang": "esperanto",
         "text": "Mediteraneo"
+      }
+    ]
+  },
+  {
+    "word": "zänodatimäd",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "middle ages"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mezepoko"
       }
     ]
   },
