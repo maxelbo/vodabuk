@@ -103782,7 +103782,7 @@
   },
   {
     "word": "zädön",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
@@ -103797,6 +103797,10 @@
       {
         "lang": "english",
         "text": "a feast, a fête, a festivity, a holiday"
+      },
+      {
+        "lang": "esperanto",
+        "text": "festo"
       }
     ]
   },
