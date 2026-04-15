@@ -62,6 +62,23 @@
     ]
   },
   {
+    "word": "abgüä",
+    "category": "conj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "but rather"
+      }
+    ],
+    "examples": [
+      {
+        "volapuk": "noe abgüä",
+        "english": "not only, but also",
+        "esperanto": "ne nur, sed ankaǔ"
+      }
+    ]
+  },
+  {
     "word": "abi",
     "category": "conj.",
     "translations": [
