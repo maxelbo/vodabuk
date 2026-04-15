@@ -68,13 +68,17 @@
       {
         "lang": "english",
         "text": "but rather"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sed plivere"
       }
     ],
     "examples": [
       {
-        "volapuk": "noe abgüä",
-        "english": "not only, but also",
-        "esperanto": "ne nur, sed ankaǔ"
+        "volapuk": "noe ..., abgüä ...",
+        "english": "not so much ..., but rather ...",
+        "esperanto": "ne ĝuste..., sed plivere ..."
       }
     ]
   },
