@@ -177,6 +177,21 @@
     ]
   },
   {
+    "word": "adelik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "today's, of today"
+      },
+      {
+        "lang": "esperanto",
+        "text": "hodiaǔa"
+      }
+    ],
+    "examples": []
+  },
+  {
     "word": "adelo",
     "roots": [
       "del"
