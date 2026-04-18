@@ -256,7 +256,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "aĥ"
+        "text": "aĥ, ve"
       }
     ],
     "examples": [
@@ -298,6 +298,25 @@
       {
         "lang": "english",
         "text": "plaintive cry: alas!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vekrio"
+      }
+    ],
+    "examples": []
+  },
+  {
+    "word": "agvokädön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to cry: alas!"
+      },
+      {
+        "lang": "esperanto",
+        "text": "vekrii"
       }
     ],
     "examples": []
