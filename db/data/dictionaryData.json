@@ -488,6 +488,21 @@
     ]
   },
   {
+    "word": "aldüpik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "hourly"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiuhora"
+      }
+    ],
+    "examples": []
+  },
+  {
     "word": "alik",
     "roots": [
       "al"
