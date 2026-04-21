@@ -581,6 +581,21 @@
     ]
   },
   {
+    "word": "alnaedo",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at each time"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉiufoje"
+      }
+    ],
+    "examples": []
+  },
+  {
     "word": "alo",
     "roots": [
       "al"
