@@ -730,6 +730,20 @@
     ]
   },
   {
+    "word": "an",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a single one"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kelka"
+      }
+    ]
+  },
+  {
     "word": "aneito",
     "roots": [
       "neit"
