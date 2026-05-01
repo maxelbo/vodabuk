@@ -780,11 +780,25 @@
     "translations": [
       {
         "lang": "english",
-        "text": "several, some"
+        "text": "some"
       },
       {
         "lang": "esperanto",
-        "text": "kelkaj"
+        "text": "kelkaj, iuj"
+      }
+    ]
+  },
+  {
+    "word": "anikna",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "sometimes"
+      },
+      {
+        "lang": "esperanto",
+        "text": "kelkfoje"
       }
     ]
   },
