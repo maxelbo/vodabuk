@@ -942,6 +942,20 @@
     ]
   },
   {
+    "word": "atflanio",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "towards this side"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-flanken, al ĉi tiu flanko"
+      }
+    ]
+  },
+  {
     "word": "atna",
     "roots": [
       "at"
