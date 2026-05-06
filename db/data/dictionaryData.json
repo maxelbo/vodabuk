@@ -956,6 +956,20 @@
     ]
   },
   {
+    "word": "atflano",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on this side"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-flanke"
+      }
+    ]
+  },
+  {
     "word": "atna",
     "roots": [
       "at"
