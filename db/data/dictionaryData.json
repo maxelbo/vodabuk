@@ -970,6 +970,20 @@
     ]
   },
   {
+    "word": "atflanü",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "on this side of"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-flanke de"
+      }
+    ]
+  },
+  {
     "word": "atna",
     "roots": [
       "at"
