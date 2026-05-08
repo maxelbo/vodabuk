@@ -984,6 +984,20 @@
     ]
   },
   {
+    "word": "atim",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "the present time"
+      },
+      {
+        "lang": "esperanto",
+        "text": "la nuna tempo"
+      }
+    ]
+  },
+  {
     "word": "atna",
     "roots": [
       "at"
