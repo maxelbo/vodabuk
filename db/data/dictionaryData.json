@@ -998,6 +998,20 @@
     ]
   },
   {
+    "word": "atimo",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at present"
+      },
+      {
+        "lang": "esperanto",
+        "text": "nuntempe"
+      }
+    ]
+  },
+  {
     "word": "atna",
     "roots": [
       "at"
