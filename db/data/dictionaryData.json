@@ -1043,6 +1043,20 @@
     ]
   },
   {
+    "word": "attimo",
+    "category": "adv.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "at this time"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ĉi-momente"
+      }
+    ]
+  },
+  {
     "word": "atimo",
     "roots": [
       "tim"
