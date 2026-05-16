@@ -1693,7 +1693,21 @@
       },
       {
         "lang": "esperanto",
-        "text": "melfida"
+        "text": "malfida"
+      }
+    ]
+  },
+  {
+    "word": "badiniludön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be mistrustful, to be skeptical"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malfidi"
       }
     ]
   },
