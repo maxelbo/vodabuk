@@ -1793,6 +1793,20 @@
   },
   {
     "word": "badocedön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to take amiss"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ofendiĝi pri"
+      }
+    ]
+  },
+  {
+    "word": "badocedön",
     "roots": [
       "bad",
       "ced"
