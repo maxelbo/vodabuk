@@ -1834,6 +1834,20 @@
     ]
   },
   {
+    "word": "badöfik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "malicious, vicious"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malica"
+      }
+    ]
+  },
+  {
     "word": "badocedön",
     "roots": [
       "bad",
