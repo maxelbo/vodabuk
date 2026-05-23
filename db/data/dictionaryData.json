@@ -1848,6 +1848,20 @@
     ]
   },
   {
+    "word": "badön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be bad, to be evil, to be wicked"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti malbona"
+      }
+    ]
+  },
+  {
     "word": "badocedön",
     "roots": [
       "bad",
