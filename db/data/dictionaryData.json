@@ -1966,7 +1966,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "dragisto, kavisto"
+        "text": "dragisto"
       }
     ]
   },
@@ -1980,7 +1980,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "dragmaŝino, kavmaŝino"
+        "text": "dragmaŝino"
       }
     ]
   },
@@ -1994,7 +1994,21 @@
       },
       {
         "lang": "esperanto",
-        "text": "dragi, kavi"
+        "text": "dragi"
+      }
+    ]
+  },
+  {
+    "word": "bagaf",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "paragraph"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paragrafo"
       }
     ]
   },
