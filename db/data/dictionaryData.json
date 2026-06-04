@@ -2171,6 +2171,20 @@
     ]
   },
   {
+    "word": "baibinön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to agree, to work out, to be right"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsenti, esti ĝusta"
+      }
+    ]
+  },
+  {
     "word": "baiädiko",
     "roots": [
       "bai"
