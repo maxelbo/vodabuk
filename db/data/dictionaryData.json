@@ -999,6 +999,9 @@
   },
   {
     "word": "atimo",
+    "roots": [
+      "tim"
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -1053,23 +1056,6 @@
       {
         "lang": "esperanto",
         "text": "ĉi-momente"
-      }
-    ]
-  },
-  {
-    "word": "atimo",
-    "roots": [
-      "tim"
-    ],
-    "category": "adv.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "at present"
-      },
-      {
-        "lang": "esperanto",
-        "text": "nuntempe"
       }
     ]
   },
@@ -1773,7 +1759,11 @@
   },
   {
     "word": "badocedön",
-    "category": "tr.",
+    "roots": [
+      "bad",
+      "ced"
+    ],
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
@@ -1781,21 +1771,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "ofendiĝi pri"
-      }
-    ]
-  },
-  {
-    "word": "badöf",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "malice, viciousness"
-      },
-      {
-        "lang": "esperanto",
-        "text": "malico"
+        "text": "ofendiĝi"
       }
     ]
   },
@@ -1842,24 +1818,6 @@
     ]
   },
   {
-    "word": "badocedön",
-    "roots": [
-      "bad",
-      "ced"
-    ],
-    "category": "int.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to take amiss"
-      },
-      {
-        "lang": "esperanto",
-        "text": "ofendiĝi"
-      }
-    ]
-  },
-  {
     "word": "badöf",
     "roots": [
       "bad"
@@ -1868,11 +1826,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "malice, spite"
+        "text": "malice, spite, viciousness"
       },
       {
         "lang": "esperanto",
-        "text": "malboneco"
+        "text": "malico"
       }
     ]
   },
@@ -2103,23 +2061,6 @@
     ]
   },
   {
-    "word": "bagaf",
-    "roots": [
-      "bagaf"
-    ],
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "a paragraph"
-      },
-      {
-        "lang": "esperanto",
-        "text": "paragrafo"
-      }
-    ]
-  },
-  {
     "word": "bai",
     "roots": [
       "bai"
@@ -2175,6 +2116,20 @@
       {
         "lang": "esperanto",
         "text": "konsentigi"
+      }
+    ]
+  },
+  {
+    "word": "baiblufik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "being in accordance with the test/trial"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laŭprova"
       }
     ]
   },
