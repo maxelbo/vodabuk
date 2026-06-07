@@ -189,7 +189,9 @@
         "text": "hodiaǔa"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "adelo",
@@ -304,7 +306,9 @@
         "text": "vekrio"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "agvokädön",
@@ -319,7 +323,9 @@
         "text": "vekrii"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "ai",
@@ -500,7 +506,9 @@
         "text": "ĉiuhora"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "alik",
@@ -532,7 +540,9 @@
         "text": "ĉiufoje"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "alminutik",
@@ -547,7 +557,9 @@
         "text": "ĉiuminuta"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "almulik",
@@ -593,7 +605,9 @@
         "text": "ĉiufoje"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "alo",
@@ -643,7 +657,9 @@
         "text": "ĉiudimanĉa"
       }
     ],
-    "examples": []
+    "examples": [
+
+    ]
   },
   {
     "word": "altefo",
@@ -1293,7 +1309,9 @@
   },
   {
     "word": "äsva",
-    "roots": [],
+    "roots": [
+
+    ],
     "category": "conj.",
     "translations": [
       {
@@ -1308,7 +1326,9 @@
   },
   {
     "word": "äsvo",
-    "roots": [],
+    "roots": [
+
+    ],
     "category": "adv.",
     "translations": [
       {
@@ -2130,6 +2150,20 @@
       {
         "lang": "esperanto",
         "text": "laŭprova"
+      }
+    ]
+  },
+  {
+    "word": "baiced",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agreeing, agreement"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsento"
       }
     ]
   },
