@@ -189,9 +189,7 @@
         "text": "hodiaǔa"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "adelo",
@@ -306,9 +304,7 @@
         "text": "vekrio"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "agvokädön",
@@ -323,9 +319,7 @@
         "text": "vekrii"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "ai",
@@ -506,9 +500,7 @@
         "text": "ĉiuhora"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "alik",
@@ -540,9 +532,7 @@
         "text": "ĉiufoje"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "alminutik",
@@ -557,9 +547,7 @@
         "text": "ĉiuminuta"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "almulik",
@@ -605,9 +593,7 @@
         "text": "ĉiufoje"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "alo",
@@ -657,9 +643,7 @@
         "text": "ĉiudimanĉa"
       }
     ],
-    "examples": [
-
-    ]
+    "examples": []
   },
   {
     "word": "altefo",
@@ -1309,9 +1293,7 @@
   },
   {
     "word": "äsva",
-    "roots": [
-
-    ],
+    "roots": [],
     "category": "conj.",
     "translations": [
       {
@@ -1326,9 +1308,7 @@
   },
   {
     "word": "äsvo",
-    "roots": [
-
-    ],
+    "roots": [],
     "category": "adv.",
     "translations": [
       {
@@ -2210,6 +2190,23 @@
     ]
   },
   {
+    "word": "bailön",
+    "roots": [
+      "bail"
+    ],
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "rent out, lease, to let (house, etc)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "luigi, ludoni"
+      }
+    ]
+  },
+  {
     "word": "bailid",
     "category": "n.",
     "translations": [
@@ -2334,23 +2331,6 @@
     ]
   },
   {
-    "word": "bailön",
-    "roots": [
-      "bail"
-    ],
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "rent out, lease, to let (house, etc)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "luigi, ludoni"
-      }
-    ]
-  },
-  {
     "word": "bain",
     "category": "n.",
     "translations": [
@@ -2375,6 +2355,20 @@
       {
         "lang": "esperanto",
         "text": "balzama"
+      }
+    ]
+  },
+  {
+    "word": "bainunik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "alleged, purported, according to reports"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laŭdira"
       }
     ]
   },
