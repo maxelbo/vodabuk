@@ -2382,7 +2382,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "laŭdira"
+        "text": "laŭinforma"
       }
     ]
   },
@@ -2411,6 +2411,20 @@
       {
         "lang": "esperanto",
         "text": "laǔdira"
+      }
+    ]
+  },
+  {
+    "word": "baisamädik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "according to / being in accordance with a sample"
+      },
+      {
+        "lang": "esperanto",
+        "text": "laǔekzemplera"
       }
     ]
   },
