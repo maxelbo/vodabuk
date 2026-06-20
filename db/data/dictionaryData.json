@@ -2455,11 +2455,36 @@
     "translations": [
       {
         "lang": "english",
+        "text": "to empathize about, to sympathize with"
+      },
+      {
+        "lang": "esperanto",
+        "text": "simpatii"
+      }
+    ]
+  },
+  {
+    "word": "baisenälön",
+    "roots": [
+      "bai",
+      "sen"
+    ],
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
         "text": "sympathy"
       },
       {
         "lang": "esperanto",
         "text": "simpatio"
+      }
+    ],
+    "examples": [
+      {
+        "volapuk": "baisenälön diali at",
+        "english": "to sympathize with this ideal",
+        "esperanto": "simpatii kun tiu ĉi ideo"
       }
     ]
   },
@@ -2674,16 +2699,19 @@
     ],
     "examples": [
       {
-        "volapuk": "Bakun balid",
-        "english": "dress circle"
+        "volapuk": "bakun balid",
+        "english": "dress circle",
+        "esperanto": "unua balkono"
       },
       {
-        "volapuk": "Bakun telid",
-        "english": "Upper circle"
+        "volapuk": "bakun telid",
+        "english": "upper circle",
+        "esperanto": "dua balkono"
       },
       {
-        "volapuk": "Bakun kilid",
-        "english": "(the) gallery"
+        "volapuk": "bakun kilid",
+        "english": "(the) gallery",
+        "esperanto": "tria balkono (galerio)"
       }
     ]
   },
