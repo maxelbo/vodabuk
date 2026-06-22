@@ -2498,7 +2498,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "laǔdeca"
+        "text": "bonkonduta"
       }
     ]
   },
@@ -2517,6 +2517,20 @@
       {
         "lang": "esperanto",
         "text": "ĝisdata, aktuala"
+      }
+    ]
+  },
+  {
+    "word": "baitimädim",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "contemporariness, modernness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "samtempeco, moderneco"
       }
     ]
   },
