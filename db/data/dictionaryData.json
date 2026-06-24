@@ -2540,11 +2540,25 @@
     "translations": [
       {
         "lang": "english",
-        "text": "contemporary, in keeping with the period, modern (if referring to the present)"
+        "text": "contemporary, modern, in keeping with the period"
       },
       {
         "lang": "esperanto",
-        "text": "samtempeca, moderneca"
+        "text": "samtempeca, moderna"
+      }
+    ]
+  },
+  {
+    "word": "baiton",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harmony (music)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "harmonio (muziko)"
       }
     ]
   },
