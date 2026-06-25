@@ -2564,6 +2564,20 @@
   },
   {
     "word": "baitonav",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harmonics, theory of harmony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "harmoniko (scienco pri la harmonio)"
+      }
+    ]
+  },
+  {
+    "word": "baitonav",
     "roots": [
       "bai",
       "ton"
