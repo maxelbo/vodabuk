@@ -2550,6 +2550,10 @@
   },
   {
     "word": "baiton",
+    "roots": [
+      "bai",
+      "ton"
+    ],
     "category": "n.",
     "translations": [
       {
@@ -2559,52 +2563,6 @@
       {
         "lang": "esperanto",
         "text": "harmonio (muziko)"
-      }
-    ]
-  },
-  {
-    "word": "baitonav",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "harmonics, theory of harmony"
-      },
-      {
-        "lang": "esperanto",
-        "text": "harmoniko (scienco pri la harmonio)"
-      }
-    ]
-  },
-  {
-    "word": "baitonik",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "harmonious (music)"
-      },
-      {
-        "lang": "esperanto",
-        "text": "harmonia"
-      }
-    ]
-  },
-  {
-    "word": "baitonav",
-    "roots": [
-      "bai",
-      "ton"
-    ],
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "harmony"
-      },
-      {
-        "lang": "esperanto",
-        "text": "harmonio"
       }
     ]
   },
@@ -2623,6 +2581,42 @@
       {
         "lang": "esperanto",
         "text": "harmonia"
+      }
+    ]
+  },
+  {
+    "word": "baitonav",
+    "roots": [
+      "bai",
+      "ton"
+    ],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harmonics, theory of harmony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "harmoniko (scienco pri la harmonio)"
+      }
+    ]
+  },
+  {
+    "word": "baitonön",
+    "roots": [
+      "bai",
+      "ton"
+    ],
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to harmonize (music), to be in harmony"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti harmonia"
       }
     ]
   },
