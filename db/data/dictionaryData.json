@@ -2666,7 +2666,21 @@
       },
       {
         "lang": "esperanto",
-        "text": "akordi, konformi, kongrui"
+        "text": "konsenti (pri)"
+      }
+    ]
+  },
+  {
+    "word": "baivögü",
+    "category": "prep.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "joining in (with voice, opinion)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "konsentante pri"
       }
     ]
   },
