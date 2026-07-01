@@ -2621,6 +2621,24 @@
     ]
   },
   {
+    "word": "baitonikön",
+    "roots": [
+      "bai",
+      "ton"
+    ],
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to be in tune"
+      },
+      {
+        "lang": "esperanto",
+        "text": "esti agordita, esti en harmonio"
+      }
+    ]
+  },
+  {
     "word": "baitonükam",
     "category": "g.",
     "translations": [
@@ -2658,7 +2676,7 @@
       "bai",
       "vög"
     ],
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
