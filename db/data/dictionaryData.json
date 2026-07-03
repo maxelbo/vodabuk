@@ -2717,6 +2717,20 @@
     ]
   },
   {
+    "word": "bak",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "baking"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakado"
+      }
+    ]
+  },
+  {
     "word": "bakan",
     "roots": [
       "bak"
