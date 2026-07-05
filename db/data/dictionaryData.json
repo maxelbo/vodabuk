@@ -2740,7 +2740,21 @@
       },
       {
         "lang": "esperanto",
-        "text": "bakujo, knedotrogon"
+        "text": "bakpleto"
+      }
+    ]
+  },
+  {
+    "word": "bakacan",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "bakery product, baker's ware"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakproduktoj"
       }
     ]
   },
