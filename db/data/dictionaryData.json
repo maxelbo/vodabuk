@@ -2836,6 +2836,20 @@
     ]
   },
   {
+    "word": "bakot",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "something baked, cookie, biscuit"
+      },
+      {
+        "lang": "esperanto",
+        "text": "bakaĵo, biskvito"
+      }
+    ]
+  },
+  {
     "word": "baköp",
     "roots": [
       "bak"
