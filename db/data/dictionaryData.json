@@ -2078,6 +2078,20 @@
     ]
   },
   {
+    "word": "baiäd",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "agreement, conformity, matching"
+      },
+      {
+        "lang": "esperanto",
+        "text": "akordo, konformeco"
+      }
+    ]
+  },
+  {
     "word": "baibinik",
     "category": "adj.",
     "translations": [
@@ -3080,7 +3094,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "kontrakto"
+        "text": "traktato, konvencio"
       }
     ],
     "examples": [
