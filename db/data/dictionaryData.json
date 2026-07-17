@@ -2120,6 +2120,20 @@
     ]
   },
   {
+    "word": "baiädükön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to make agree, to synchronize"
+      },
+      {
+        "lang": "esperanto",
+        "text": "sinkronigi, harmonigi"
+      }
+    ]
+  },
+  {
     "word": "baibinik",
     "category": "adj.",
     "translations": [
@@ -2856,6 +2870,20 @@
       {
         "lang": "esperanto",
         "text": "bakisto"
+      }
+    ]
+  },
+  {
+    "word": "bakön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bake"
+      },
+      {
+        "lang": "esperanto",
+        "text": "baki"
       }
     ]
   },
