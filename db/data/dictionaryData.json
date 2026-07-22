@@ -3150,6 +3150,20 @@
   },
   {
     "word": "balatik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "unitary, individual"
+      },
+      {
+        "lang": "esperanto",
+        "text": "unuopa"
+      }
+    ]
+  },
+  {
+    "word": "balatik",
     "roots": [
       "bal"
     ],
