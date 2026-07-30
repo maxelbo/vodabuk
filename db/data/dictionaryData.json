@@ -3149,20 +3149,6 @@
     ]
   },
   {
-    "word": "balatik",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "unitary, individual"
-      },
-      {
-        "lang": "esperanto",
-        "text": "unuopa"
-      }
-    ]
-  },
-  {
     "word": "balato",
     "category": "adv.",
     "translations": [
@@ -3436,6 +3422,20 @@
       {
         "lang": "esperanto",
         "text": "barto, balenlameno, balenosto, balenaĵo"
+      }
+    ]
+  },
+  {
+    "word": "balfimäd",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "harness for one draught animal"
+      },
+      {
+        "lang": "esperanto",
+        "text": "jungilaro por unu tirobestо"
       }
     ]
   },
