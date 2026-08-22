@@ -3720,16 +3720,16 @@
     ]
   },
   {
-    "word": "balionat",
-    "category": "n.",
+    "word": "balkapik",
+    "category": "adj.",
     "translations": [
       {
         "lang": "english",
-        "text": "a million's quantity"
+        "text": "one-headed, monocephalous"
       },
       {
         "lang": "esperanto",
-        "text": "miliono da io"
+        "text": "unukapa"
       }
     ]
   },
@@ -3922,6 +3922,20 @@
       {
         "lang": "english",
         "text": "a millionaire"
+      }
+    ]
+  },
+  {
+    "word": "balionat",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a million's quantity"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miliono da io"
       }
     ]
   },
