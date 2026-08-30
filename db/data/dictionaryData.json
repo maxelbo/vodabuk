@@ -67275,11 +67275,15 @@
   },
   {
     "word": "padön",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to browse (through)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "foliumi (en)"
       }
     ]
   },
