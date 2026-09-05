@@ -67371,7 +67371,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "a pike (fish)"
+        "text": "a pike / pickerel (Esox)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "ezoko (Esox)"
       }
     ]
   },
