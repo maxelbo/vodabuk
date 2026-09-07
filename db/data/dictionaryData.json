@@ -67410,6 +67410,24 @@
       {
         "lang": "english",
         "text": "a parent"
+      },
+      {
+        "lang": "esperanto",
+        "text": "patro aǔ patrino"
+      }
+    ]
+  },
+  {
+    "word": "pals",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "parents"
+      },
+      {
+        "lang": "esperanto",
+        "text": "gepatroj"
       }
     ]
   },
