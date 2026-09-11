@@ -8,6 +8,16 @@
   <%= csp_meta_tag %>
   <%= stylesheet_link_tag "application" %>
   <%= javascript_importmap_tags %>
+  <% if Rails.env.production? %>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-08GM21NNS4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-08GM21NNS4');
+    </script>
+  <% end %>
 </head>
 <body>
   <header>
