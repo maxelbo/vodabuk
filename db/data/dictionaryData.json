@@ -67530,6 +67530,20 @@
     ]
   },
   {
+    "word": "palät",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "a palette"
+      },
+      {
+        "lang": "esperanto",
+        "text": "paletro"
+      }
+    ]
+  },
+  {
     "word": "palet",
     "category": "n.",
     "translations": [
@@ -67544,16 +67558,16 @@
     ]
   },
   {
-    "word": "palät",
+    "word": "paletan",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
-        "text": "a palette"
+        "text": "a party comrade, a party member"
       },
       {
         "lang": "esperanto",
-        "text": "paletro"
+        "text": "partiano"
       }
     ]
   },
