@@ -57068,7 +57068,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "suspekta"
+        "text": "suspekta, suspektiga"
       }
     ]
   },
@@ -57097,6 +57097,27 @@
       {
         "lang": "esperanto",
         "text": "suspektiĝi"
+      }
+    ]
+  },
+  {
+    "word": "miniludükön",
+    "category": "int.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to bring under suspicion"
+      },
+      {
+        "lang": "esperanto",
+        "text": "suspektigi"
+      }
+    ],
+    "examples": [
+      {
+        "volapuk": "Miniludükön eki demü ek",
+        "english": "To bring somebody under suspicion with somebody else",
+        "esperanto": "Suspektigi iun al iu"
       }
     ]
   },
