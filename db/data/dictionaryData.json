@@ -57179,7 +57179,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "mint (herb)"
+        "text": "mint (Mentha)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "mento (Mentha)"
       }
     ]
   },
