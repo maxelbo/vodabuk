@@ -57230,12 +57230,30 @@
     ]
   },
   {
+    "word": "miop",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "short-sightedness"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miopeco"
+      }
+    ]
+  },
+  {
     "word": "miopik",
     "category": "adj.",
     "translations": [
       {
         "lang": "english",
         "text": "short-sighted"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miopa"
       }
     ]
   },
