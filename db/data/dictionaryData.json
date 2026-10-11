@@ -57272,6 +57272,20 @@
     ]
   },
   {
+    "word": "miotik",
+    "category": "adj.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "dirty, foul, polluted"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malpura"
+      }
+    ]
+  },
+  {
     "word": "miotam",
     "category": "g.",
     "translations": [
@@ -57292,16 +57306,6 @@
       {
         "lang": "english",
         "text": "mudguard"
-      }
-    ]
-  },
-  {
-    "word": "miotik",
-    "category": "adj.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "dirty, foul, polluted"
       }
     ]
   },
