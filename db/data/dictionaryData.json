@@ -57277,11 +57277,25 @@
     "translations": [
       {
         "lang": "english",
-        "text": "dirty, foul, polluted"
+        "text": "dirty, foul, polluted, filthy"
       },
       {
         "lang": "esperanto",
         "text": "malpura"
+      }
+    ]
+  },
+  {
+    "word": "miotön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to defile, to dirty, to soil, to pollute"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malpurigi"
       }
     ]
   },
@@ -57300,32 +57314,22 @@
     ]
   },
   {
-    "word": "miotajelöm",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "mudguard"
-      }
-    ]
-  },
-  {
-    "word": "miotön",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to soil"
-      }
-    ]
-  },
-  {
     "word": "miotükam",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "pollution (general)"
+      }
+    ]
+  },
+  {
+    "word": "miotajelöm",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "mudguard"
       }
     ]
   },
