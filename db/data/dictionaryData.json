@@ -57345,11 +57345,15 @@
   },
   {
     "word": "miovön",
-    "category": "v.",
+    "category": "int.",
     "translations": [
       {
         "lang": "english",
         "text": "to meow"
+      },
+      {
+        "lang": "esperanto",
+        "text": "miaǔi"
       }
     ]
   },
