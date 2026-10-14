@@ -57358,16 +57358,6 @@
     ]
   },
   {
-    "word": "misek",
-    "category": "n.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "fiasco"
-      }
-    ]
-  },
-  {
     "word": "miser",
     "category": "adj.",
     "translations": [
@@ -79836,6 +79826,23 @@
       {
         "lang": "esperanto",
         "text": "rezulto"
+      }
+    ]
+  },
+  {
+    "word": "misek",
+    "roots": [
+      "sek"
+    ],
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "fiasco"
+      },
+      {
+        "lang": "esperanto",
+        "text": "fiasko"
       }
     ]
   },
