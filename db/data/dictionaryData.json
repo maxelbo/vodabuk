@@ -57363,11 +57363,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "mercy, compassion, kind-heartedness"
+        "text": "misery, mercy, compassion, kind-heartedness"
       },
       {
         "lang": "esperanto",
-        "text": "mizero, kompato"
+        "text": "mizero"
       }
     ]
   },
@@ -57377,11 +57377,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "wretched, poor, merciful"
+        "text": "miserly, wretched, poor, merciful"
       },
       {
         "lang": "esperanto",
-        "text": "mizera, kompata"
+        "text": "mizera"
       }
     ]
   },
@@ -57416,6 +57416,10 @@
       {
         "lang": "english",
         "text": "measles"
+      },
+      {
+        "lang": "esperanto",
+        "text": "morbilo"
       }
     ]
   },
