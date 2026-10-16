@@ -57429,7 +57429,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "beat, measure"
+        "text": "time (music), beat (music)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "takto"
       }
     ]
   },
