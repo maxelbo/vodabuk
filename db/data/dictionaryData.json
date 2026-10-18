@@ -57457,7 +57457,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "meat"
+        "text": "meat (food)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "viando"
       }
     ]
   },
