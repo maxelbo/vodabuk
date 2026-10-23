@@ -8846,6 +8846,48 @@
     ]
   },
   {
+    "word": "bönön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to not begrudge, to allow to have"
+      },
+      {
+        "lang": "esperanto",
+        "text": "malenvii"
+      }
+    ]
+  },
+  {
+    "word": "nebönön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to covet, to envy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "envii"
+      }
+    ]
+  },
+  {
+    "word": "mibönön",
+    "category": "tr.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "to envy"
+      },
+      {
+        "lang": "esperanto",
+        "text": "envii"
+      }
+    ]
+  },
+  {
     "word": "böniälik",
     "category": "adj.",
     "translations": [
@@ -56615,16 +56657,6 @@
     ]
   },
   {
-    "word": "mibönön",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to envy"
-      }
-    ]
-  },
-  {
     "word": "mid",
     "category": "n.",
     "translations": [
@@ -60543,16 +60575,6 @@
       {
         "lang": "english",
         "text": "to dismantle"
-      }
-    ]
-  },
-  {
-    "word": "nebönön",
-    "category": "v.",
-    "translations": [
-      {
-        "lang": "english",
-        "text": "to covet, to envy"
       }
     ]
   },
