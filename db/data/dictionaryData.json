@@ -8960,12 +8960,30 @@
     ]
   },
   {
-    "word": "böräjuegot",
+    "word": "börapest",
+    "category": "n.",
+    "translations": [
+      {
+        "lang": "english",
+        "text": "shortcrust pastry"
+      },
+      {
+        "lang": "esperanto",
+        "text": "murbo"
+      }
+    ]
+  },
+  {
+    "word": "börajuegot",
     "category": "n.",
     "translations": [
       {
         "lang": "english",
         "text": "toffee"
+      },
+      {
+        "lang": "esperanto",
+        "text": "tofeo"
       }
     ]
   },
