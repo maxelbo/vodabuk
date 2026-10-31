@@ -9073,7 +9073,11 @@
     "translations": [
       {
         "lang": "english",
-        "text": "an arm (=limb)"
+        "text": "an arm (limb)"
+      },
+      {
+        "lang": "esperanto",
+        "text": "brako"
       }
     ]
   },
