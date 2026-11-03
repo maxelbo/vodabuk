@@ -9091,7 +9091,7 @@
       },
       {
         "lang": "esperanto",
-        "text": "brakseĝo, fotelo"
+        "text": "brakseĝo, apogseĝo, fotelo"
       }
     ]
   },
@@ -9111,11 +9111,15 @@
   },
   {
     "word": "bradön",
-    "category": "v.",
+    "category": "tr.",
     "translations": [
       {
         "lang": "english",
         "text": "to embrace"
+      },
+      {
+        "lang": "esperanto",
+        "text": "brakumi, ĉirkaǔbraki"
       }
     ]
   },
